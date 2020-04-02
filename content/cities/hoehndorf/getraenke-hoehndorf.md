@@ -1,0 +1,4 @@
+---
+title: "Getränke Höhndorf"
+url: /hoehndorf/getraenke-hoehndorf/
+---

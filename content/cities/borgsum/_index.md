@@ -1,0 +1,4 @@
+---
+title: Borgsum
+url: /borgsum/
+---

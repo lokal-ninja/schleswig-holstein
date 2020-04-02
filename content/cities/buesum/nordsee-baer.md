@@ -1,0 +1,4 @@
+---
+title: "Nordsee Bär"
+url: /buesum/nordsee-baer/
+---

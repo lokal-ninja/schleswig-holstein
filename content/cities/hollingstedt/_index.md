@@ -1,0 +1,4 @@
+---
+title: Hollingstedt
+url: /hollingstedt/
+---

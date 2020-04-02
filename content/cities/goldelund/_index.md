@@ -1,0 +1,4 @@
+---
+title: Goldelund
+url: /goldelund/
+---

@@ -1,0 +1,4 @@
+---
+title: Eckernförde
+url: /eckernfoerde/
+---

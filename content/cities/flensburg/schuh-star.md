@@ -1,0 +1,4 @@
+---
+title: "Schuh-Star"
+url: /flensburg/schuh-star/
+---

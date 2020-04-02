@@ -1,0 +1,4 @@
+---
+title: Langstedt
+url: /langstedt/
+---

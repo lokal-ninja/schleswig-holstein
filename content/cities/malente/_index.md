@@ -1,0 +1,4 @@
+---
+title: Malente
+url: /malente/
+---

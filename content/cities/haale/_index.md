@@ -1,0 +1,4 @@
+---
+title: Haale
+url: /haale/
+---

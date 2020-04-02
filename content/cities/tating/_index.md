@@ -1,0 +1,4 @@
+---
+title: Tating
+url: /tating/
+---

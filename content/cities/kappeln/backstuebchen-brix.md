@@ -1,0 +1,4 @@
+---
+title: "Backstübchen Brix"
+url: /kappeln/backstuebchen-brix/
+---

@@ -1,0 +1,4 @@
+---
+title: Bimöhlen
+url: /bimoehlen/
+---

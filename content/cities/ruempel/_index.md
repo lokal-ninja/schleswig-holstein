@@ -1,0 +1,4 @@
+---
+title: Rümpel
+url: /ruempel/
+---

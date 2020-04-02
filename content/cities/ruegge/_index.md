@@ -1,0 +1,4 @@
+---
+title: Rügge
+url: /ruegge/
+---

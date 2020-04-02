@@ -1,0 +1,4 @@
+---
+title: "Freier Wille"
+url: /gluecksburg/freier-wille/
+---

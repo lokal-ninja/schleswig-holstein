@@ -1,0 +1,4 @@
+---
+title: Lübeck
+url: /luebeck/
+---

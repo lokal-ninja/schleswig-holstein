@@ -1,0 +1,4 @@
+---
+title: Galmsbüll
+url: /galmsbuell/
+---

@@ -1,0 +1,4 @@
+---
+title: Panten
+url: /panten/
+---

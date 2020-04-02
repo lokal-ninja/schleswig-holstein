@@ -1,0 +1,4 @@
+---
+title: Struxdorf
+url: /struxdorf/
+---

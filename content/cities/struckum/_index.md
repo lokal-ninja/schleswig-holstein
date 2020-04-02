@@ -1,0 +1,4 @@
+---
+title: Struckum
+url: /struckum/
+---

@@ -1,0 +1,4 @@
+---
+title: Eggebek
+url: /eggebek/
+---

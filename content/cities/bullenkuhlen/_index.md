@@ -1,0 +1,4 @@
+---
+title: Bullenkuhlen
+url: /bullenkuhlen/
+---

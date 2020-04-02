@@ -1,0 +1,4 @@
+---
+title: Boren
+url: /boren/
+---

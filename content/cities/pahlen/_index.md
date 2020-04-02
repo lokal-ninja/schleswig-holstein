@@ -1,0 +1,4 @@
+---
+title: Pahlen
+url: /pahlen/
+---

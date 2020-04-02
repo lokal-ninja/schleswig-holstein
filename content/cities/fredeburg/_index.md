@@ -1,0 +1,4 @@
+---
+title: Fredeburg
+url: /fredeburg/
+---

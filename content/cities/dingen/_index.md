@@ -1,0 +1,4 @@
+---
+title: Dingen
+url: /dingen/
+---

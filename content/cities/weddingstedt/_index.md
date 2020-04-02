@@ -1,0 +1,4 @@
+---
+title: Weddingstedt
+url: /weddingstedt/
+---

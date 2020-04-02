@@ -1,0 +1,4 @@
+---
+title: Wahlstedt
+url: /wahlstedt/
+---

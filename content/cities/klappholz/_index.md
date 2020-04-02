@@ -1,0 +1,4 @@
+---
+title: Klappholz
+url: /klappholz/
+---

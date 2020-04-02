@@ -1,0 +1,4 @@
+---
+title: Bohmstedt
+url: /bohmstedt/
+---

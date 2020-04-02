@@ -1,0 +1,4 @@
+---
+title: Ladelund
+url: /ladelund/
+---

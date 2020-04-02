@@ -1,0 +1,4 @@
+---
+title: Silberstedt
+url: /silberstedt/
+---

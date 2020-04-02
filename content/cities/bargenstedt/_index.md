@@ -1,0 +1,4 @@
+---
+title: Bargenstedt
+url: /bargenstedt/
+---

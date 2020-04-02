@@ -1,0 +1,4 @@
+---
+title: Lunden
+url: /lunden/
+---

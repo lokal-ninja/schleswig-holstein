@@ -1,0 +1,4 @@
+---
+title: Seth
+url: /seth/
+---

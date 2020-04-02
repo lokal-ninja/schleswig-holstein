@@ -1,0 +1,4 @@
+---
+title: Wankendorf
+url: /wankendorf/
+---

@@ -1,0 +1,4 @@
+---
+title: Thumby
+url: /thumby/
+---

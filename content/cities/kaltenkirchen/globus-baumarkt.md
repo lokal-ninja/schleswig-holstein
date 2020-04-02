@@ -1,0 +1,4 @@
+---
+title: "Globus Baumarkt"
+url: /kaltenkirchen/globus-baumarkt/
+---

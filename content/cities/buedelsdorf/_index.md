@@ -1,0 +1,4 @@
+---
+title: Büdelsdorf
+url: /buedelsdorf/
+---

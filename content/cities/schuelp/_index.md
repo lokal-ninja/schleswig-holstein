@@ -1,0 +1,4 @@
+---
+title: Schülp
+url: /schuelp/
+---

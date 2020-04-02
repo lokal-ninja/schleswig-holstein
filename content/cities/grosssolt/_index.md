@@ -1,0 +1,4 @@
+---
+title: Großsolt
+url: /grosssolt/
+---

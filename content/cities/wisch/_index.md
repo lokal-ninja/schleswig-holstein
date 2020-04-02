@@ -1,0 +1,4 @@
+---
+title: Wisch
+url: /wisch/
+---

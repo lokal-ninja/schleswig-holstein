@@ -1,0 +1,4 @@
+---
+title: Bokel
+url: /bokel/
+---

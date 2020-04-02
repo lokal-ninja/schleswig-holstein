@@ -1,0 +1,4 @@
+---
+title: Neuberend
+url: /neuberend/
+---

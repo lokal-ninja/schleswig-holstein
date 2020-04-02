@@ -1,0 +1,4 @@
+---
+title: "Automeister W. Spahr"
+url: /kiel/automeister-w-spahr/
+---

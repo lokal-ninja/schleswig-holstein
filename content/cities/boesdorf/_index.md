@@ -1,0 +1,4 @@
+---
+title: Bösdorf
+url: /boesdorf/
+---

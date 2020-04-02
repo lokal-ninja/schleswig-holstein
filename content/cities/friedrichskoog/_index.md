@@ -1,0 +1,4 @@
+---
+title: Friedrichskoog
+url: /friedrichskoog/
+---
