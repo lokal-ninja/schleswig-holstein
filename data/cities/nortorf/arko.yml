@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.168601900000006
 longitude: 9.8554172
-postcode: 24589
+postcode: "24589"
 city: Nortorf
 street: "Am Markt"
 housenumber: 3

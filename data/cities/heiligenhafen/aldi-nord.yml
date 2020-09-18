@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.364152000000004
 longitude: 10.9673552
-postcode: 23774
+postcode: "23774"
 city: Heiligenhafen
 street: "Höhenweg"
 housenumber: 2

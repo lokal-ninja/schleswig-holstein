@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.2406038
 longitude: 10.8310393
-postcode: 23738
+postcode: "23738"
 city: Harmsdorf
 street: "Hauptstraße"
 housenumber: 25

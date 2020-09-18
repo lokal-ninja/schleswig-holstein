@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.313090100000004
 longitude: 9.7241912
-postcode: 24790
+postcode: "24790"
 city: Schacht-Audorf
 street: "Hohenbusch"
 housenumber: 

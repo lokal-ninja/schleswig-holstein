@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.3080353
 longitude: 9.648064600000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Fockbeker Chaussee"
 housenumber: 4

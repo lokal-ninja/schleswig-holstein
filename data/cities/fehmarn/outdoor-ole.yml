@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.436233800000004
 longitude: 11.1944285
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Ohrtstraße"
 housenumber: 40

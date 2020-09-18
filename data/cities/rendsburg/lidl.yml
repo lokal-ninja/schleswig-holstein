@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.29318610000001
 longitude: 9.671264
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Kreishafenstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.6857655
 longitude: 9.9904835
-postcode: 24404
+postcode: "24404"
 city: Maasholm
 street: "Norderstraße"
 housenumber: 134

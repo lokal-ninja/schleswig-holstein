@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7459125
 longitude: 9.891820500000001
-postcode: 24395
+postcode: "24395"
 city: Gelting
 street: "Nordstraße"
 housenumber: 2

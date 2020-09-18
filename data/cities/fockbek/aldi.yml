@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.305565300000005
 longitude: 9.587857600000001
-postcode: 24787
+postcode: "24787"
 city: Fockbek
 street: "Disshorn"
 housenumber: 4

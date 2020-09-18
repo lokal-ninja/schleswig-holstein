@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.338171200000005
 longitude: 10.1243694
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Westring"
 housenumber: 397

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3261765
 longitude: 10.184305700000001
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Schönberger Straße"
 housenumber: 24a

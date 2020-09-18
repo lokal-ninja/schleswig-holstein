@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.21966930000001
 longitude: 10.8844144
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Eutiner Straße"
 housenumber: 13

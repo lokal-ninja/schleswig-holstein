@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3732732
 longitude: 10.980934600000001
-postcode: 23774
+postcode: "23774"
 city: Heiligenhafen
 street: "Hafenstraße"
 housenumber: 1

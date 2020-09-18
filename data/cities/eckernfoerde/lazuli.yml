@@ -3,7 +3,7 @@ type: node
 shop: Esoterik
 latitude: 54.4718231
 longitude: 9.835670400000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Sankt-Nikolai-Straße"
 housenumber: 8

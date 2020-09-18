@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.1481347
 longitude: 10.342865900000001
-postcode: 24326
+postcode: "24326"
 city: Ascheberg
 street: "Plöner Chaussee"
 housenumber: 86

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.7933383
 longitude: 9.4206085
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Waldstraße"
 housenumber: 24

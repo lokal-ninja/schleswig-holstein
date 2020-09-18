@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.755961000000006
 longitude: 9.65684
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Catharinenstraße"
 housenumber: 2

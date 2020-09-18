@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.4672015
 longitude: 9.837407800000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.3036332
 longitude: 9.6665056
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Jungfernstieg"
 housenumber: 8

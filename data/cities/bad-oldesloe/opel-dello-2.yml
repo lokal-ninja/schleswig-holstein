@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.8022714
 longitude: 10.359041900000001
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Hamburger Straße"
 housenumber: 119-121

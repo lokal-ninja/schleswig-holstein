@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.629072400000005
 longitude: 10.6898587
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 77

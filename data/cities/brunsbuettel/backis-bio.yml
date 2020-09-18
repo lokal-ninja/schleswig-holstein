@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.8969115
 longitude: 9.140366100000001
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Posadowskystraße"
 housenumber: 2

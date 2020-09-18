@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.8436133
 longitude: 10.549468200000002
-postcode: 23858
+postcode: "23858"
 city: Wesenberg
 street: "Hof Ratzbek"
 housenumber: 1

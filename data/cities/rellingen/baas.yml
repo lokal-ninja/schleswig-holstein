@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.650041800000004
 longitude: 9.8294773
-postcode: 25462
+postcode: "25462"
 city: Rellingen
 street: "Hauptstraße"
 housenumber: 35-37

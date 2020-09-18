@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.319504800000004
 longitude: 9.6692215
-postcode: 24782
+postcode: "24782"
 city: Büdelsdorf
 street: "Neue Dorfstraße"
 housenumber: 81

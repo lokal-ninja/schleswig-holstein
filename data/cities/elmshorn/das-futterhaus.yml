@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.7498871
 longitude: 9.681844
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Hamburger Straße"
 housenumber: 145

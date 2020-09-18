@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.168329500000006
 longitude: 9.8555223
-postcode: 24589
+postcode: "24589"
 city: Nortorf
 street: "Poststraße"
 housenumber: 5

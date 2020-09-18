@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.287314200000004
 longitude: 10.2217433
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Liebigstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.239753300000004
 longitude: 10.0544717
-postcode: 24220
+postcode: "24220"
 city: Flintbek
 street: "Max-Planck-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 54.293139100000005
 longitude: 10.176364300000001
-postcode: 24146
+postcode: "24146"
 city: Kiel
 street: "Dorfstraße"
 housenumber: 39

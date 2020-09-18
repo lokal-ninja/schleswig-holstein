@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 54.437507000000004
 longitude: 11.1996105
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Osterstraße"
 housenumber: 49

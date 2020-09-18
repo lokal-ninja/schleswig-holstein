@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4708325
 longitude: 9.836604600000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Rathausmarkt"
 housenumber: 2

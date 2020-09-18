@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.34069
 longitude: 10.1339643
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 172

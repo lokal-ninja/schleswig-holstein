@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.32447620000001
 longitude: 10.123420600000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Jungfernstieg"
 housenumber: 27

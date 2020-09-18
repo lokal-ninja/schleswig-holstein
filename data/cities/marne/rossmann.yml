@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.951963500000005
 longitude: 9.0133776
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Süderstraße"
 housenumber: 10-12

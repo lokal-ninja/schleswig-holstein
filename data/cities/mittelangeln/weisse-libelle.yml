@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.6948615
 longitude: 9.604775700000001
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Glücksburger Straße"
 housenumber: 11

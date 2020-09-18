@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.6924592
 longitude: 8.4897001
-postcode: 25938
+postcode: "25938"
 city: Nieblum
 street: "De Gröne Eck"
 housenumber: 2

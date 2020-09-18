@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.7905494
 longitude: 9.4328005
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neue Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.747578000000004
 longitude: 9.6609502
-postcode: 24966
+postcode: "24966"
 city: Sörup
 street: "Kappelner Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.782218900000004
 longitude: 9.4355914
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Rote Straße"
 housenumber: 8

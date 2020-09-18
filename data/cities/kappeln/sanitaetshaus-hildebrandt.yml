@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 54.662241
 longitude: 9.9306769
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Querstraße"
 housenumber: 2b

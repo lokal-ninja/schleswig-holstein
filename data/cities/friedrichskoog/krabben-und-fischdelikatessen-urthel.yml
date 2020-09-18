@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.0092122
 longitude: 8.8855986
-postcode: 25718
+postcode: "25718"
 city: Friedrichskoog
 street: "Hafenstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 54.2621151
 longitude: 10.063708100000001
-postcode: 24113
+postcode: "24113"
 city: Molfsee
 street: "Hamburger Chaussee"
 housenumber: 13

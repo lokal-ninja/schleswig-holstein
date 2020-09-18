@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.787955100000005
 longitude: 9.4327343
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5225328
 longitude: 10.2434376
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Hermann-Körner-Straße"
 housenumber: 49

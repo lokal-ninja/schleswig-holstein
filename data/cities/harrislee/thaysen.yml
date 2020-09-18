@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.800709000000005
 longitude: 9.396198400000001
-postcode: 24955
+postcode: "24955"
 city: Harrislee
 street: "Musbeker Weg"
 housenumber: 1

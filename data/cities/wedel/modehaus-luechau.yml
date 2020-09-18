@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.574406
 longitude: 9.705476200000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bei der Doppeleiche"
 housenumber: 5

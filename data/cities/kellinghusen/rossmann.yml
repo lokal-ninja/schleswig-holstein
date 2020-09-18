@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.94749040000001
 longitude: 9.713866600000001
-postcode: 25548
+postcode: "25548"
 city: Kellinghusen
 street: "An der Stör"
 housenumber: 2b

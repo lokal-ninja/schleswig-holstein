@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.5227687
 longitude: 10.2434618
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Hermann-Körner-Straße"
 housenumber: 51-53

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.475714800000006
 longitude: 9.0484734
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Wasserreihe"
 housenumber: 52

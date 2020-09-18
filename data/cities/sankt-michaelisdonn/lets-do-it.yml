@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.992923600000005
 longitude: 9.1144643
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Burger Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.1863055
 longitude: 9.089816500000001
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Meldorfer Straße"
 housenumber: 80

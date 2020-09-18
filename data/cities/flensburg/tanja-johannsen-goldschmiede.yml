@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.7919588
 longitude: 9.4323229
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Oluf-Samson-Gang"
 housenumber: 14

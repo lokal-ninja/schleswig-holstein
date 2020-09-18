@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8564171
 longitude: 10.6659162
-postcode: 23558
+postcode: "23558"
 city: Lübeck
 street: "Hansering"
 housenumber: 9-19

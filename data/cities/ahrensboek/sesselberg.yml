@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0096507
 longitude: 10.5736968
-postcode: 23623
+postcode: "23623"
 city: Ahrensbök
 street: "Lübecker Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.651721800000004
 longitude: 10.362945900000001
-postcode: 22952
+postcode: "22952"
 city: Lütjensee
 street: "Alte Schulstraße"
 housenumber: 13

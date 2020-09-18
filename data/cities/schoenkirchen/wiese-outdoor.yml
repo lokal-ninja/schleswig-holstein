@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.34032620000001
 longitude: 10.2242271
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
 street: "Schönberger Landstraße"
 housenumber: 153

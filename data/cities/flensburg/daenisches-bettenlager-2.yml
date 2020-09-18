@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 54.770574100000005
 longitude: 9.433063800000001
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Zur Bleiche"
 housenumber: 1

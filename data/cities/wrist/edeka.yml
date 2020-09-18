@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.9286608
 longitude: 9.7512615
-postcode: 25563
+postcode: "25563"
 city: Wrist
 street: "Eken"
 housenumber: 2

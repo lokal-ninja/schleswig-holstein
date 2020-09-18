@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.8834353
 longitude: 8.910256
-postcode: 25923
+postcode: "25923"
 city: Süderlügum
 street: "Hauptstraße"
 housenumber: 64

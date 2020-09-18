@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.882876
 longitude: 10.679325400000002
-postcode: 23554
+postcode: "23554"
 city: Lübeck
 street: "Schwartauer Allee"
 housenumber: 165

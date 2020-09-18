@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.6075487
 longitude: 10.189224900000001
-postcode: 22143
+postcode: "22143"
 city: Hamburg
 street: "Merkurring"
 housenumber: 120

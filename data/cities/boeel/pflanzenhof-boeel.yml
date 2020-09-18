@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.6466872
 longitude: 9.7236326
-postcode: 24401
+postcode: "24401"
 city: Böel
 street: "Am Hütthof"
 housenumber: 1

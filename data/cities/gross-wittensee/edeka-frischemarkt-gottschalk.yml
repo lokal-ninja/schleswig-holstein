@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 54.405323700000004
 longitude: 9.769266
-postcode: 24361
+postcode: "24361"
 city: Groß Wittensee
 street: "Dorfstraße"
 housenumber: 34

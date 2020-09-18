@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8635712
 longitude: 10.6549916
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Ziegelstraße"
 housenumber: 105-107

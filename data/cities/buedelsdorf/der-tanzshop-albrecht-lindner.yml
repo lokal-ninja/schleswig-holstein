@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3147692
 longitude: 9.6724026
-postcode: 24782
+postcode: "24782"
 city: Büdelsdorf
 street: "Parkallee"
 housenumber: 10

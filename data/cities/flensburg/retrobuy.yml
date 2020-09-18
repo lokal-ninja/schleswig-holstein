@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.7908053
 longitude: 9.432777
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neue Straße"
 housenumber: 19

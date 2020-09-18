@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.487996
 longitude: 10.270069900000001
-postcode: 21465
+postcode: "21465"
 city: Wentorf bei Hamburg
 street: "Südring"
 housenumber: 62

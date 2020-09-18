@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.796676000000005
 longitude: 10.1429259
-postcode: 23866
+postcode: "23866"
 city: Nahe
 street: "Segeberger Straße"
 housenumber: 30

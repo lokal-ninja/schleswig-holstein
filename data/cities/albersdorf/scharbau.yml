@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.146839500000006
 longitude: 9.285342
-postcode: 25767
+postcode: "25767"
 city: Albersdorf
 street: "Österstraße"
 housenumber: 2

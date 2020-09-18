@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.61858350000001
 longitude: 9.7020338
-postcode: 24888
+postcode: "24888"
 city: Loit
 street: "Muschau"
 housenumber: 5

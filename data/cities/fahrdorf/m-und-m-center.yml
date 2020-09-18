@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 54.5006404
 longitude: 9.5986078
-postcode: 24857
+postcode: "24857"
 city: Fahrdorf
 street: "Mühlenberg"
 housenumber: 18

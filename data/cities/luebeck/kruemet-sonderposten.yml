@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.86850260000001
 longitude: 10.7439353
-postcode: 23566
+postcode: "23566"
 city: Lübeck
 street: "Im Gleisdreieck"
 housenumber: 19a

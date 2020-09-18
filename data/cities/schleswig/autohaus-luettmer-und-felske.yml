@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.537862100000005
 longitude: 9.5812918
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Werner-von-Siemens-Straße"
 housenumber: 5

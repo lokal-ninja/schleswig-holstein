@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.721161900000006
 longitude: 10.278315300000001
-postcode: 22941
+postcode: "22941"
 city: Bargteheide
 street: "Am Redder"
 housenumber: 2

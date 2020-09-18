@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.7950646
 longitude: 9.3800538
-postcode: 24955
+postcode: "24955"
 city: Harrislee
 street: "Industrieweg"
 housenumber: 27

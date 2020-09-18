@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.6573721
 longitude: 9.792413
-postcode: 24521
+postcode: "24521"
 city: Pinneberg
 street: "An der Mühlenau"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 54.4935211
 longitude: 9.558464800000001
-postcode: 24866
+postcode: "24866"
 city: Busdorf
 street: "Zum Nordtor"
 housenumber: 1

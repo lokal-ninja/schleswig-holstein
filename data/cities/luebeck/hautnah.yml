@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.8693991
 longitude: 10.695366100000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Kanalstraße"
 housenumber: 70

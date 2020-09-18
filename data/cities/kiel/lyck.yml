@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3476329
 longitude: 10.1314192
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Projensdorfer Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.8027554
 longitude: 9.978382900000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Kirchweg"
 housenumber: 88

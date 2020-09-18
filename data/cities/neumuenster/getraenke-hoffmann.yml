@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.102626300000004
 longitude: 9.989534
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Kieler Straße"
 housenumber: 385

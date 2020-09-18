@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.9038696
 longitude: 9.4885868
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Ottensstraße"
 housenumber: 7

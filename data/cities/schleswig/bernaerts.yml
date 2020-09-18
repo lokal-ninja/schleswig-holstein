@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.515072
 longitude: 9.556000500000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lollfuß"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7555361
 longitude: 9.664084500000001
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Mühlendamm"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 54.1011754
 longitude: 10.817886000000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Rackersberg"
 housenumber: 22

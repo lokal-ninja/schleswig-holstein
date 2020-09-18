@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 54.302793900000005
 longitude: 10.1111971
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Hamburger Chaussee"
 housenumber: 127

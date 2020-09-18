@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.51476460000001
 longitude: 9.5538711
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lollfuß"
 housenumber: 31

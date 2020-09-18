@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.873479100000004
 longitude: 8.3946802
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Dorfstraße"
 housenumber: 6

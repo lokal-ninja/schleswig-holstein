@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5238061
 longitude: 10.243143400000001
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Hermann-Körner-Straße"
 housenumber: 56

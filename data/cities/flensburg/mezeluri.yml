@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.7992416
 longitude: 9.4236269
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neustadt"
 housenumber: 59

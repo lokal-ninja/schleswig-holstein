@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 53.929151700000006
 longitude: 9.495283200000001
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Störfischerstraße"
 housenumber: 1

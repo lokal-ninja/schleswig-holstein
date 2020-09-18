@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.909341100000006
 longitude: 8.3011101
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Strandstraße"
 housenumber: 28

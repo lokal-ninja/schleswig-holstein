@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.3509418
 longitude: 9.5031388
-postcode: 24817
+postcode: "24817"
 city: Tetenhusen
 street: "Mittelstraße"
 housenumber: 14

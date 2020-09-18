@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.324935700000005
 longitude: 10.1276191
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Knooper Weg"
 housenumber: 34

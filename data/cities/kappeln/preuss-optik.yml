@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.6623832
 longitude: 9.930883600000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Schmiedestraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 54.489680400000005
 longitude: 9.8144424
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Rosseer Weg"
 housenumber: 41d

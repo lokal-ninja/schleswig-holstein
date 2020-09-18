@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.0780894
 longitude: 9.9790272
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Rendsburger Straße"
 housenumber: 15

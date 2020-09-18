@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.47531540000001
 longitude: 9.8364315
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Vogelsang"
 housenumber: 20

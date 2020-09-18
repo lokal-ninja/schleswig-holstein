@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.4769578
 longitude: 9.0542785
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Süderstraße"
 housenumber: 4

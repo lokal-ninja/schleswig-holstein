@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7555563
 longitude: 9.757518000000001
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "An der Schafslück"
 housenumber: 1

@@ -3,10 +3,10 @@ type: node
 shop: Garten-Center
 latitude: 54.3362071
 longitude: 10.074500200000001
-postcode: 24119
+postcode: "24119"
 city: Kronshagen
 street: "Suchsdorfer Weg"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mar-Oct: Mo-Fr 09:00-18:00; Mar-Oct: Sa 09:00-13:00;Nov: Mo-Fr 09:00-17:00; Nov: Sa 09:00-13:00;Feb: Mo-Fr 09:00-17:00; Feb: Sa 09:00-13:00"
 website: ""

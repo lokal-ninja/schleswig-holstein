@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.7846574
 longitude: 8.8259822
-postcode: 25899
+postcode: "25899"
 city: Niebüll
 street: "Hauptstraße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 54.3367665
 longitude: 10.132045300000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Beselerallee"
 housenumber: 30

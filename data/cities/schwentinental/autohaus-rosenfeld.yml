@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.2842895
 longitude: 10.2239716
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Gutenbergstraße"
 housenumber: 18

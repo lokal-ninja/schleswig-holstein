@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.7728612
 longitude: 8.9735489
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Kirchhofstraße"
 housenumber: 1

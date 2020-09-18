@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 53.6277441
 longitude: 10.687778400000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 60

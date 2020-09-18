@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.6936498
 longitude: 10.3215245
-postcode: 22965
+postcode: "22965"
 city: Todendorf
 street: ""
 housenumber: 

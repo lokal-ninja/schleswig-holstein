@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.907215300000004
 longitude: 8.3121141
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Kirchenweg"
 housenumber: 10

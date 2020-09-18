@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 54.9089406
 longitude: 8.3027561
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Strandstraße"
 housenumber: 17

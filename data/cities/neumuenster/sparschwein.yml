@@ -3,10 +3,10 @@ type: way
 shop: Kramladen
 latitude: 54.0612032
 longitude: 9.9708015
-postcode: 24539
+postcode: "24539"
 city: Neumünster
 street: "Fehmarnstraße"
 housenumber: 11
-phone: "043219650583"
+phone: "+49 43219650583"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
 website: ""

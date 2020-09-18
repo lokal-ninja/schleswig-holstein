@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.7955898
 longitude: 9.9833531
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Hamburger Straße"
 housenumber: 55

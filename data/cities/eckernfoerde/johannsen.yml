@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.4807901
 longitude: 9.850663
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Prinzenstraße"
 housenumber: 61

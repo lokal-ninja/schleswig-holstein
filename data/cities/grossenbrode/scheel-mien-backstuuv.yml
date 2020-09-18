@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3626592
 longitude: 11.0853424
-postcode: 23775
+postcode: "23775"
 city: Großenbrode
 street: "Strandstraße"
 housenumber: 32a

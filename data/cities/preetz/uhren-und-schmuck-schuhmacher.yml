@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.2352022
 longitude: 10.2832199
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Lange Brückstraße"
 housenumber: 18

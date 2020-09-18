@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.2931967
 longitude: 10.5898745
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Markt"
 housenumber: 7

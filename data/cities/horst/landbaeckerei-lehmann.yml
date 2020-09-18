@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.812580000000004
 longitude: 9.6221736
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Bahnhofstraße"
 housenumber: 19

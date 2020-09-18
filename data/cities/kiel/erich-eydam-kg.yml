@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 54.3004861
 longitude: 10.134174100000001
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Tonberg"
 housenumber: 11a

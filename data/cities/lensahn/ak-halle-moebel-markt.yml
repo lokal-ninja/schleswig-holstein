@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.207549300000004
 longitude: 10.879401300000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Lübecker Straße"
 housenumber: 105

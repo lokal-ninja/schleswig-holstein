@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.501905300000004
 longitude: 9.8424004
-postcode: 24360
+postcode: "24360"
 city: Barkelsby
 street: "Dorfstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.349444000000005
 longitude: 10.1307092
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Hanssenstraße"
 housenumber: 13

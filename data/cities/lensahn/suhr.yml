@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.207262300000004
 longitude: 10.8572919
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Hofweg"
 housenumber: 25

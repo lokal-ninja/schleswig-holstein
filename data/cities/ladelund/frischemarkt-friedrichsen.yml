@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.8400012
 longitude: 9.0273091
-postcode: 25926
+postcode: "25926"
 city: Ladelund
 street: "Poststraße"
 housenumber: 2

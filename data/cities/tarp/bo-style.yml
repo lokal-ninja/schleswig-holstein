@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.6630777
 longitude: 9.3993334
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Stapelholmer Weg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.598479000000005
 longitude: 9.8539397
-postcode: 22869
+postcode: "22869"
 city: Schenefeld
 street: "Altonaer Chaussee"
 housenumber: 4

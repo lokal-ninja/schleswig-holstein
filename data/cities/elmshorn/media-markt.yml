@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.741035600000004
 longitude: 9.708890100000001
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Ramskamp"
 housenumber: 98

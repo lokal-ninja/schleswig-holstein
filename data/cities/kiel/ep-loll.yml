@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.3576204
 longitude: 10.130536900000001
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 

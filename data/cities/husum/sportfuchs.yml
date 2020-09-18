@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 54.4814626
 longitude: 9.046597400000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Neustadt"
 housenumber: 113

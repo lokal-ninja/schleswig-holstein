@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.3172197
 longitude: 10.1211003
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Deliusstraße"
 housenumber: 11

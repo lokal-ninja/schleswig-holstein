@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.8426454
 longitude: 9.400980200000001
-postcode: 25599
+postcode: "25599"
 city: Wewelsfleth
 street: "Am Hafen"
 housenumber: 1

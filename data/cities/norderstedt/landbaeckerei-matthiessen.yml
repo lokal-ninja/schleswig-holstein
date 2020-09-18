@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6855813
 longitude: 10.024502
-postcode: 22851
+postcode: "22851"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 154

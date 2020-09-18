@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.832265500000005
 longitude: 10.4913947
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Raiffeisenpassage"
 housenumber: 11-13

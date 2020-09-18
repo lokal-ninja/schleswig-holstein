@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.523353
 longitude: 8.6828084
-postcode: 25849
+postcode: "25849"
 city: Pellworm
 street: "Tammensiel"
 housenumber: 24

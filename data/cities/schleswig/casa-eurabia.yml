@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.517760100000004
 longitude: 9.5678239
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Kornmarkt"
 housenumber: 4a

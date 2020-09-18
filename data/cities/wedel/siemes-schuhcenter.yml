@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.584473900000006
 longitude: 9.7261545
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Rissener Straße"
 housenumber: 125

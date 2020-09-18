@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.3737354
 longitude: 10.371654900000001
-postcode: 24217
+postcode: "24217"
 city: Höhndorf
 street: "Lindenplatz"
 housenumber: 1

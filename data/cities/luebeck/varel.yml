@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.8605728
 longitude: 10.6305964
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Schwertfegerstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.473281400000005
 longitude: 9.8354789
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Langebrückstraße"
 housenumber: 20

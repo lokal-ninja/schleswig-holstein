@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.315212700000004
 longitude: 10.117913000000001
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Kirchhofallee"
 housenumber: 80

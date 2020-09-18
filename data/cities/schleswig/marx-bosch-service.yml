@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 54.534144600000005
 longitude: 9.5830148
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Heinrich-Hertz-Straße"
 housenumber: 11
-phone: ""
+phone: "+49 4621 5041"
 opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: ""
+website: "https://www.marx-technik.de/"

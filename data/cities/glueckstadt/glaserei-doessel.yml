@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 53.786730500000004
 longitude: 9.4247341
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Am Fleth"
 housenumber: 5

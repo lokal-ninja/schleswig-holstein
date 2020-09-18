@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 54.125531300000006
 longitude: 8.864135600000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Helgolandkai"
 housenumber: 20

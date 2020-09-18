@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.584786
 longitude: 9.725999
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Rissener Straße"
 housenumber: 125

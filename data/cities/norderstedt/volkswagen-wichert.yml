@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.6878262
 longitude: 10.0325568
-postcode: 22851
+postcode: "22851"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 181

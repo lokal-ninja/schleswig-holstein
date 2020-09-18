@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 53.84573760000001
 longitude: 9.6077224
-postcode: 25358
+postcode: "25358"
 city: Hohenfelde
 street: "Niederreihe"
 housenumber: 23

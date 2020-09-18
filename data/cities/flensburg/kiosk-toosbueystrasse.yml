@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.7905383
 longitude: 9.429284
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Toosbüystraße"
 housenumber: 15

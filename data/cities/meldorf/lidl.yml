@@ -1,12 +1,12 @@
-id: 129095296
+id: 772457311
 type: way
 shop: Supermarkt
-latitude: 54.0945158
-longitude: 9.063133
-postcode: 25704
+latitude: 54.0963435
+longitude: 9.065460700000001
+postcode: "25704"
 city: Meldorf
-street: "Ernst-Günter-Albers-Straße"
-housenumber: 11-15
+street: "Altentreptower Straße"
+housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: ""
+opening_hours: "Mo-Fr 07:00-21:00;Sa 07:00-20:00;PH off"
+website: "https://www.lidl.de/filialen/meldorf/altentreptower-strasse-2.html"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.5146516
 longitude: 9.5535949
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lollfuß"
 housenumber: 35

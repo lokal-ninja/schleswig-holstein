@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.08948530000001
 longitude: 9.0751532
-postcode: 25704
+postcode: "25704"
 city: Meldorf
 street: "Zingelstraße"
 housenumber: 12

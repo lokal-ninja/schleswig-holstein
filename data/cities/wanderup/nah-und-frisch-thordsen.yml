@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.690969200000005
 longitude: 9.329882300000001
-postcode: 24997
+postcode: "24997"
 city: Wanderup
 street: "Flensburger Straße"
 housenumber: 15b

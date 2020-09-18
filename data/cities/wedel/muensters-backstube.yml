@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.577915700000005
 longitude: 9.7047716
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bahnhofstraße"
 housenumber: 34

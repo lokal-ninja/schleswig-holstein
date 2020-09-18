@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.274729
 longitude: 10.074310800000001
-postcode: 24113
+postcode: "24113"
 city: Molfsee
 street: "Am Museum"
 housenumber: 1a

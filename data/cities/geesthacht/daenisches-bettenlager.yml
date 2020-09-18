@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.432760200000004
 longitude: 10.3522507
-postcode: 21502
+postcode: "21502"
 city: Geesthacht
 street: "Wärderstraße"
 housenumber: 4

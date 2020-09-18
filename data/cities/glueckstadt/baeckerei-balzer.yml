@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7877286
 longitude: 9.424213400000001
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Am Markt"
 housenumber: 13

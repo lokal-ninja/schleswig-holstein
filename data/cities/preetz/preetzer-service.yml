@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 54.2363336
 longitude: 10.2816992
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Mühlenstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.129286900000004
 longitude: 10.6201463
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Bürgermeister-Steenbock-Straße"
 housenumber: 14

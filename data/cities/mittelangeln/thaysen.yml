@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.69232040000001
 longitude: 9.596076100000001
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Hans-Redlefsen-Straße"
 housenumber: 4

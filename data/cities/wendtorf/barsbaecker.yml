@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.417655
 longitude: 10.289111700000001
-postcode: 24235
+postcode: "24235"
 city: Wendtorf
 street: "Törn"
 housenumber: 9

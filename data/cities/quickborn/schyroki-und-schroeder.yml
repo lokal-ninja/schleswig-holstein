@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.7457452
 longitude: 9.9398058
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Max-Weber-Straße"
 housenumber: 34

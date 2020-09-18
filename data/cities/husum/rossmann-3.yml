@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 54.4696683
 longitude: 9.090117300000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Ostenfelder Straße"
 housenumber: 70

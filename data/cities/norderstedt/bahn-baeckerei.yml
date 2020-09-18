@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.706693900000005
 longitude: 9.992414
-postcode: 22846
+postcode: "22846"
 city: Norderstedt
 street: "Rathausallee"
 housenumber: 31-33

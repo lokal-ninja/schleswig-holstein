@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.4508373
 longitude: 9.834012600000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Hörst"
 housenumber: 2

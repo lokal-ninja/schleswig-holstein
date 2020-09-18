@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.736170300000005
 longitude: 9.676408
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Adenauerdamm"
 housenumber: 77

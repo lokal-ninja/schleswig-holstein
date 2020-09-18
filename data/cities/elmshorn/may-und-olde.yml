@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.7488893
 longitude: 9.6871886
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Hamburger Straße"
 housenumber: 134

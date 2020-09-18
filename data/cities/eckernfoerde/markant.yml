@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.487031300000005
 longitude: 9.8213491
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Ostlandstraße"
 housenumber: 101

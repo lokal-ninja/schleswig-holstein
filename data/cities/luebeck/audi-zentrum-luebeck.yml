@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.856677100000006
 longitude: 10.6353644
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Padelügger Weg"
 housenumber: 41

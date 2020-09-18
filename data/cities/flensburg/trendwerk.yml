@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.7912352
 longitude: 9.4228745
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Dorotheenstraße"
 housenumber: 9

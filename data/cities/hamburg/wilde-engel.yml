@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 53.6806199
 longitude: 10.000049800000001
-postcode: 22419
+postcode: "22419"
 city: Hamburg
 street: "Schmuggelstieg"
 housenumber: 37

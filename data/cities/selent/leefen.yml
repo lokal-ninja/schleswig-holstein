@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2900022
 longitude: 10.4304255
-postcode: 24238
+postcode: "24238"
 city: Selent
 street: "Kieler Straße"
 housenumber: 2

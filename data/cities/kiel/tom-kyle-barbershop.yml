@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.338461200000005
 longitude: 10.133161300000001
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Knooper Weg"
 housenumber: 191

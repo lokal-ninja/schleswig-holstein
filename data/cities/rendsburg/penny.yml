@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.294066
 longitude: 9.667537600000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Alte Kieler Landstraße"
 housenumber: 22

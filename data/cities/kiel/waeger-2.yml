@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3343561
 longitude: 10.189165800000001
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Langer Rehm"
 housenumber: 11

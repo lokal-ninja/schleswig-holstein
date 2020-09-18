@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 54.332647800000004
 longitude: 10.132941200000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 70-72

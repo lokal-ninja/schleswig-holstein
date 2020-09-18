@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.8436801
 longitude: 9.4019615
-postcode: 25599
+postcode: "25599"
 city: Wewelsfleth
 street: "Deichreihe"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.6442338
 longitude: 9.517931200000001
-postcode: 24873
+postcode: "24873"
 city: Havetoft
 street: "Pastor-Witt-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.79149700000001
 longitude: 9.433354600000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Schiffbrücke"
 housenumber: 22

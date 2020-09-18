@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 53.682323700000005
 longitude: 10.0035903
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 28a

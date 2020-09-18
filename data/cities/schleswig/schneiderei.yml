@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.518297100000005
 longitude: 9.566799300000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Michaelisstraße"
 housenumber: 14

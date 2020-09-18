@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.4762782
 longitude: 9.0509695
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Krämerstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.21873110000001
 longitude: 10.8976477
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Dieselstraße"
 housenumber: 6

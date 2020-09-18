@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 54.31821600000001
 longitude: 10.1237232
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Ringstraße"
 housenumber: 72

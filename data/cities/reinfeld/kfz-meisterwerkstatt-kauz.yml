@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.829575500000004
 longitude: 10.494746300000001
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Holländerkoppel"
 housenumber: 7

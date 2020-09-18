@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.167660600000005
 longitude: 9.856084500000001
-postcode: 24589
+postcode: "24589"
 city: Nortorf
 street: "Poststraße"
 housenumber: 13

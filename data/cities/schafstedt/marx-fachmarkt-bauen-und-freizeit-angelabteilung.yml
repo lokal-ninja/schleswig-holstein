@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.077980200000006
 longitude: 9.303532200000001
-postcode: 25725
+postcode: "25725"
 city: Schafstedt
 street: "Judenstraße"
 housenumber: 41

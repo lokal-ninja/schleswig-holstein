@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.1281863
 longitude: 10.6237741
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Bürgermeister-Steenbock-Straße"
 housenumber: 34

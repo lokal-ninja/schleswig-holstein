@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.2931296
 longitude: 10.912910700000001
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Am Voßberg"
 housenumber: 5

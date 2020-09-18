@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 54.3025158
 longitude: 8.639003
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Dorfstraße"
 housenumber: 25
-phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Mar 15 - Oct 31 Su 11:00-17:00"
+phone: "+49 4863 3914"
+opening_hours: "Mo-Sa 07:00-20:00; Mar 15-Oct 31 Su 11:00-17:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4803385
 longitude: 9.7115723
-postcode: 24357
+postcode: "24357"
 city: Fleckeby
 street: "Dorfstraße"
 housenumber: 28

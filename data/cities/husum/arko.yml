@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.4767172
 longitude: 9.0499322
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Großstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 54.328184300000004
 longitude: 9.6236367
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Schleswiger Chaussee"
 housenumber: 249-257

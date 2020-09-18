@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.682796
 longitude: 10.01061
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.4761979
 longitude: 9.050622800000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Krämerstraße"
 housenumber: 4

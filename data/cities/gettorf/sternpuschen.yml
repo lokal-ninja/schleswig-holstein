@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.415595
 longitude: 9.980250700000001
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Ravensberg"
 housenumber: 24

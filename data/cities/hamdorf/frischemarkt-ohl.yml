@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.2239895
 longitude: 9.5192073
-postcode: 24805
+postcode: "24805"
 city: Hamdorf
 street: "Dorfstraße"
 housenumber: 9

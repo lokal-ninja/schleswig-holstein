@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.78920050000001
 longitude: 9.4325837
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Schiffbrückstraße"
 housenumber: 2

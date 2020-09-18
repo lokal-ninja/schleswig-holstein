@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.6368658
 longitude: 9.8403378
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Hauptstraße"
 housenumber: 55

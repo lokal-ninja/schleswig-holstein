@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 54.334976700000006
 longitude: 10.2111839
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
 street: "Schönberger Landstraße"
 housenumber: 59

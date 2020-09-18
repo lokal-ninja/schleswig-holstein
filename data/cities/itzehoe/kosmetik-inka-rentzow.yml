@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 53.9273329
 longitude: 9.513663600000001
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Timm-Kröger-Straße"
 housenumber: 5

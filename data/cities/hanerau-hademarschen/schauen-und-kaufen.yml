@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.1183199
 longitude: 9.4128684
-postcode: 25557
+postcode: "25557"
 city: Hanerau-Hademarschen
 street: "Westerstraße"
 housenumber: 35

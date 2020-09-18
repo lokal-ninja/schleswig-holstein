@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.2352786
 longitude: 10.2812389
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Markt"
 housenumber: 8

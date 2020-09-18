@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.800946
 longitude: 9.396398600000001
-postcode: 24955
+postcode: "24955"
 city: Harrislee
 street: "Musbeker Weg"
 housenumber: 1

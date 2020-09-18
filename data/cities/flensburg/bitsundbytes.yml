@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.793618200000004
 longitude: 9.431214200000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 117

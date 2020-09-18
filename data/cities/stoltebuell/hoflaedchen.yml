@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 54.68827640000001
 longitude: 9.838243700000001
-postcode: 24409
+postcode: "24409"
 city: Stoltebüll
 street: "Spannbrück"
 housenumber: 2

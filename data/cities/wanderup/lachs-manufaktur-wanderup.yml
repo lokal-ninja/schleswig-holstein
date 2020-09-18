@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.6877129
 longitude: 9.330938600000001
-postcode: 24997
+postcode: "24997"
 city: Wanderup
 street: "Flensburger Straße"
 housenumber: 1

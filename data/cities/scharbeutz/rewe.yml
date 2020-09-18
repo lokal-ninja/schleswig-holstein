@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.0245157
 longitude: 10.7479261
-postcode: 23683
+postcode: "23683"
 city: Scharbeutz
 street: "Hamburger Ring"
 housenumber: 5

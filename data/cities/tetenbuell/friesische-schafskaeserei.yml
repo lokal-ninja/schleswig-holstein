@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.3609111
 longitude: 8.825348100000001
-postcode: 25882
+postcode: "25882"
 city: Tetenbüll
 street: "Kirchdeich"
 housenumber: 8

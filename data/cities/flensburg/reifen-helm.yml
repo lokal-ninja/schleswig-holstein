@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.7639409
 longitude: 9.4175547
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Am Sophienhof"
 housenumber: 1

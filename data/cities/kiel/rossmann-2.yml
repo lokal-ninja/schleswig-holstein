@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.3261459
 longitude: 10.183183000000001
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Schönberger Straße"
 housenumber: 32-34

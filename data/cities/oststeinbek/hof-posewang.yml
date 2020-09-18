@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 53.5439735
 longitude: 10.187390200000001
-postcode: 22113
+postcode: "22113"
 city: Oststeinbek
 street: "Heidstücken"
 housenumber: 1

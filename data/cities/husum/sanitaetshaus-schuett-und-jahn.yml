@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 54.476902900000006
 longitude: 9.048248800000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Neustadt"
 housenumber: 1

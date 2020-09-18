@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 54.3222236
 longitude: 10.1216241
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Hermann-Weigmann-Straße"
 housenumber: 2-4

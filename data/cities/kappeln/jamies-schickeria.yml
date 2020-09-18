@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.66072440000001
 longitude: 9.931121300000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Mühlenstraße"
 housenumber: 23

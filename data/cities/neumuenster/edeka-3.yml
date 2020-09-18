@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0599569
 longitude: 9.977027600000001
-postcode: 24539
+postcode: "24539"
 city: Neumünster
 street: "Grüner Weg"
 housenumber: 11

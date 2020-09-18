@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.9079022
 longitude: 9.884312000000001
-postcode: 24576
+postcode: "24576"
 city: Bad Bramstedt
 street: "Hamburger Straße"
 housenumber: 53

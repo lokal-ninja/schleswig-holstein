@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.30605370000001
 longitude: 8.633059300000001
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Badallee"
 housenumber: 18a

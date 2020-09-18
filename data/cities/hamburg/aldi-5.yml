@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6201347
 longitude: 9.8877678
-postcode: 22523
+postcode: "22523"
 city: Hamburg
 street: "Pinneberger Chaussee"
 housenumber: 132

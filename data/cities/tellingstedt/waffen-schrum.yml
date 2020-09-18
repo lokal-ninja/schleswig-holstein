@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 54.219645400000005
 longitude: 9.2832793
-postcode: 25782
+postcode: "25782"
 city: Tellingstedt
 street: "Hamburger Straße"
 housenumber: 3

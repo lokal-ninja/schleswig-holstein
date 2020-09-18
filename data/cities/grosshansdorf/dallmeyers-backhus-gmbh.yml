@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6628016
 longitude: 10.281914700000002
-postcode: 22927
+postcode: "22927"
 city: Großhansdorf
 street: "Hansdorfer Landstraße"
 housenumber: 140

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.7546387
 longitude: 10.0037923
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Hermann-Löns-Straße"
 housenumber: 41

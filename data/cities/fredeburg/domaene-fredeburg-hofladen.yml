@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.673923800000004
 longitude: 10.724709200000001
-postcode: 23909
+postcode: "23909"
 city: Fredeburg
 street: "Domänenweg"
 housenumber: 1

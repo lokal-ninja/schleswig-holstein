@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.9370781
 longitude: 10.2820622
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Segeberger Straße"
 housenumber: 101

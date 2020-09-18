@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.9248771
 longitude: 9.5230154
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Sandberg"
 housenumber: 64

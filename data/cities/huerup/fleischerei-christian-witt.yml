@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.75434370000001
 longitude: 9.528569500000001
-postcode: 24975
+postcode: "24975"
 city: Hürup
 street: "Hauptstraße"
 housenumber: 2

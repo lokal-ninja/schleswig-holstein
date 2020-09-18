@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3224937
 longitude: 10.125516000000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Möllingstraße"
 housenumber: 9

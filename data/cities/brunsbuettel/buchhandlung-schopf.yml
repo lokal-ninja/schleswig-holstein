@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.89668940000001
 longitude: 9.137622700000001
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Koogstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.78132780000001
 longitude: 9.4768699
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Taruper Hauptstraße"
 housenumber: 55b

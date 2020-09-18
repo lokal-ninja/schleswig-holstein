@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 53.682558400000005
 longitude: 9.997734300000001
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Ohechaussee"
 housenumber: 6

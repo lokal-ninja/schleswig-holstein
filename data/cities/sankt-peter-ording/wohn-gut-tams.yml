@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 54.30598620000001
 longitude: 8.6339673
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Badallee"
 housenumber: 14

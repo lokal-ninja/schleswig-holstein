@@ -3,10 +3,10 @@ type: node
 shop: Tattoo
 latitude: 54.6614456
 longitude: 9.9307686
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Querstraße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 12:30-19:00; Sa 12:00-16:30; PH,Su off"
 website: ""

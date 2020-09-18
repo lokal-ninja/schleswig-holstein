@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.7290554
 longitude: 9.9969079
-postcode: 22844
+postcode: "22844"
 city: Norderstedt
 street: "Ulzburger Straße"
 housenumber: 561

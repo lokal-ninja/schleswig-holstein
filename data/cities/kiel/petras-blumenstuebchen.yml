@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.321539
 longitude: 10.1134675
-postcode: 24116
+postcode: "24116"
 city: Kiel
 street: "Hasseldieksdammer Weg"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.304980300000004
 longitude: 10.1253325
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Alte Lübecker Chaussee"
 housenumber: 33

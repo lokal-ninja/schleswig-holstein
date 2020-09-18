@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.790339
 longitude: 10.0607597
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Götzberger Straße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.9077752
 longitude: 8.3056759
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Friedrichstraße"
 housenumber: 6

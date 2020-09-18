@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.4812548
 longitude: 9.0608701
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Hebbelstraße"
 housenumber: 15

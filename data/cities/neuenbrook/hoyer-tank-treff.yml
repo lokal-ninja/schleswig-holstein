@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.858173900000004
 longitude: 9.5330922
-postcode: 25578
+postcode: "25578"
 city: Neuenbrook
 street: "Grüner Weg"
 housenumber: 2

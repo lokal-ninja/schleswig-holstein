@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 54.4674035
 longitude: 9.0593105
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Kuhgräsung"
 housenumber: 1

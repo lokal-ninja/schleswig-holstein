@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.935808800000004
 longitude: 8.3293148
-postcode: 25996
+postcode: "25996"
 city: Wenningstedt-Braderup (Sylt)
 street: "Osterweg"
 housenumber: 2

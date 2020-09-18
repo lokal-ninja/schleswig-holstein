@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 54.234582100000004
 longitude: 10.280381
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Bahnhofstraße"
 housenumber: 6

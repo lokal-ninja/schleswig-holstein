@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.887540800000004
 longitude: 10.7044841
-postcode: 23568
+postcode: "23568"
 city: Lübeck
 street: "Hafenstraße"
 housenumber: 25

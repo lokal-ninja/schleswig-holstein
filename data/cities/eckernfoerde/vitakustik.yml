@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 54.4688619
 longitude: 9.8370102
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Gerichtstraße"
 housenumber: 2

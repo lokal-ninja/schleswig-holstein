@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.6567182
 longitude: 9.901057400000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Fegetasch"
 housenumber: 1

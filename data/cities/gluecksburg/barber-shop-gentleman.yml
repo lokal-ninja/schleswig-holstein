@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.835999
 longitude: 9.5499839
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Rathausstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.7986547
 longitude: 9.4250991
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neustadt"
 housenumber: 40

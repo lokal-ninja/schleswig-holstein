@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.7522304
 longitude: 9.4720677
-postcode: 24943
+postcode: "24943"
 city: Tastrup
 street: "Tastrupfeld"
 housenumber: 20

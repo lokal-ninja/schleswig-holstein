@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8037293
 longitude: 9.978327
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Gutenbergstraße"
 housenumber: 9

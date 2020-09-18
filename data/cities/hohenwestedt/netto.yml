@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0877494
 longitude: 9.6502145
-postcode: 24594
+postcode: "24594"
 city: Hohenwestedt
 street: "Am Bahnhof"
 housenumber: 4

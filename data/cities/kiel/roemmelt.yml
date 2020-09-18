@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.2970649
 longitude: 10.092386900000001
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Speckenbeker Weg"
 housenumber: 148

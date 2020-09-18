@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.3221038
 longitude: 9.632641300000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Schleswiger Chaussee"
 housenumber: 

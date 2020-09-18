@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.9914124
 longitude: 10.667829600000001
-postcode: 23629
+postcode: "23629"
 city: Scharbeutz
 street: "Am Teich"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.673020300000005
 longitude: 10.236892800000001
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Rathausplatz"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 54.519474800000005
 longitude: 9.5655102
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Michaelisstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 53.9226807
 longitude: 9.5185923
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Breite Straße"
 housenumber: 9-11

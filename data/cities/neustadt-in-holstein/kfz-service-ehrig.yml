@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.110462000000005
 longitude: 10.8215727
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Oldenburger Straße"
 housenumber: 16

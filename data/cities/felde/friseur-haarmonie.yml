@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.302177
 longitude: 9.936196800000001
-postcode: 24242
+postcode: "24242"
 city: Felde
 street: "Dorfstraße"
 housenumber: 67

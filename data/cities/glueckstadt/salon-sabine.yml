@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.790430300000004
 longitude: 9.4317569
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Steinburgstraße"
 housenumber: 10

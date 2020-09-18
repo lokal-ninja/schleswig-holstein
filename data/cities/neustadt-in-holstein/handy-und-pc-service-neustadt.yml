@@ -3,10 +3,10 @@ type: way
 shop: Computer
 latitude: 54.1054643
 longitude: 10.811664
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Schiffbrücke"
 housenumber: 13
-phone: "04561 - 5361003"
+phone: "+49 4561 5361003"
 opening_hours: ""
 website: ""

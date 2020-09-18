@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0709394
 longitude: 9.9816476
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Kleinflecken"
 housenumber: 26

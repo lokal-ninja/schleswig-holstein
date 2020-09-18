@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.600703
 longitude: 9.5889045
-postcode: 24860
+postcode: "24860"
 city: Böklund
 street: "Pöttacker"
 housenumber: 2

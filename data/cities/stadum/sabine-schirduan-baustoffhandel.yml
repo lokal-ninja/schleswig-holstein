@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 54.734378400000004
 longitude: 9.049393100000001
-postcode: 25917
+postcode: "25917"
 city: Stadum
 street: "Mühlenberg"
 housenumber: 2

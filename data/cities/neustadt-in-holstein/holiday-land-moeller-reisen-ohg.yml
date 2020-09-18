@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 54.10768650000001
 longitude: 10.815136200000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Am Markt"
 housenumber: 4

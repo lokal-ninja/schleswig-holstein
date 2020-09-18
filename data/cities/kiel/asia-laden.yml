@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 54.3233052
 longitude: 10.131703700000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Fleethörn"
 housenumber: 23
-phone: "+49 431 67 70 92"
+phone: "+49 431 677092"
 opening_hours: "Mo-Sa 09:00-19:00"
 website: "http://www.asia-laden-kiel.de"

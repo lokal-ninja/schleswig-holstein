@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.703759000000005
 longitude: 9.2481258
-postcode: 24969
+postcode: "24969"
 city: Großenwiehe
 street: "Hauptstraße"
 housenumber: 13

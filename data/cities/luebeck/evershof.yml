@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.9746199
 longitude: 10.870982600000001
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Kowitzberg"
 housenumber: 3

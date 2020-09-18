@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.7764566
 longitude: 9.4074699
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Am Friedenshügel"
 housenumber: 22

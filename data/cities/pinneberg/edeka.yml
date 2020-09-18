@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.662783600000004
 longitude: 9.796014900000001
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Friedrich-Ebert-Straße"
 housenumber: 38-40

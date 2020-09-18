@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.332041000000004
 longitude: 10.934828000000001
-postcode: 23758
+postcode: "23758"
 city: Gremersdorf
 street: "Alter Sundweg"
 housenumber: 5-7

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.6545095
 longitude: 9.371674500000001
-postcode: 24963
+postcode: "24963"
 city: Jerrishoe
 street: "Eggebeker Straße"
 housenumber: 8

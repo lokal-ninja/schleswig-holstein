@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.7816173
 longitude: 9.4324309
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Friesische Straße"
 housenumber: 29

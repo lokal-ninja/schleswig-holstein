@@ -3,9 +3,9 @@ type: way
 shop: Getränke
 latitude: 54.903126
 longitude: 8.313586
-postcode: 25980
+postcode: "25980"
 city: Sylt
-street: ""
+street: "Industrieweg"
 housenumber: 
 phone: ""
 opening_hours: ""

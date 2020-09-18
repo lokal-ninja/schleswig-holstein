@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7413469
 longitude: 9.6707034
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Hainholzer Damm"
 housenumber: 21

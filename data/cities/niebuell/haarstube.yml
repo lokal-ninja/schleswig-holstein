@@ -3,9 +3,9 @@ type: way
 shop: Friseur
 latitude: 54.775080300000006
 longitude: 8.832150500000001
-postcode: 25899
+postcode: "25899"
 city: Niebüll
-street: ""
+street: "Zum Ackerkoog"
 housenumber: 27
 phone: ""
 opening_hours: ""

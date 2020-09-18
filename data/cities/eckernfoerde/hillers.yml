@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.4674071
 longitude: 9.837377700000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 84

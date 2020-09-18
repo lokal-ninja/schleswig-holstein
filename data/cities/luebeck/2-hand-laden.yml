@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.8678363
 longitude: 10.683932700000002
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Schüsselbuden"
 housenumber: 10-12

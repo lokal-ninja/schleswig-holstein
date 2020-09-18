@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.326917300000005
 longitude: 10.2055247
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
 street: "Anschützstraße"
 housenumber: 11

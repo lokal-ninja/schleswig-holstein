@@ -3,10 +3,10 @@ type: node
 shop: Kiosk
 latitude: 54.3136287
 longitude: 10.150804800000001
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Augustenstraße"
 housenumber: 66
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 08:00-09:00; Tu 12:30-13:30; Th 16:30-17:30"
 website: ""

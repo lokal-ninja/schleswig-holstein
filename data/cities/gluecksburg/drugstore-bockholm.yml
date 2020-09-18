@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.843702
 longitude: 9.5823275
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Jägerberg"
 housenumber: 13

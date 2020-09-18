@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.862670900000005
 longitude: 9.321777200000001
-postcode: 25576
+postcode: "25576"
 city: Brokdorf
 street: "Dorfstraße"
 housenumber: 28d

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.806529000000005
 longitude: 9.515175900000001
-postcode: 24999
+postcode: "24999"
 city: Wees
 street: "Birkland"
 housenumber: 2

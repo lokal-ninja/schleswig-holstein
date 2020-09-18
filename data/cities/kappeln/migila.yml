@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.66237640000001
 longitude: 9.9312854
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Schmiedestraße"
 housenumber: 10

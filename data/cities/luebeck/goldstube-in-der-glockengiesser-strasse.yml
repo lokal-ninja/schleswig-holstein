@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.8689728
 longitude: 10.69194
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Glockengießerstraße"
 housenumber: 28

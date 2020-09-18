@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 54.538845
 longitude: 9.1630912
-postcode: 25885
+postcode: "25885"
 city: Immenstedt
 street: "Dorfstraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 54.659475
 longitude: 9.5409085
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Havetofter Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 53.872260000000004
 longitude: 10.690246700000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Große Burgstraße"
 housenumber: 34

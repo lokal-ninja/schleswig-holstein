@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.8358074
 longitude: 9.5496599
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Rathausstraße"
 housenumber: 20

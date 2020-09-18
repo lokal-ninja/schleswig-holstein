@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.438131600000006
 longitude: 11.1975519
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Breite Straße"
 housenumber: 11

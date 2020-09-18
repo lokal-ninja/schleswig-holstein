@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 54.108718700000004
 longitude: 10.8158195
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Kremper Straße"
 housenumber: 18

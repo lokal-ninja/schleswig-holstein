@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.8879814
 longitude: 10.7051484
-postcode: 23568
+postcode: "23568"
 city: Lübeck
 street: "Hafenstraße"
 housenumber: 27-29

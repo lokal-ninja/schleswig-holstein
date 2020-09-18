@@ -3,7 +3,7 @@ type: node
 shop: Pferde
 latitude: 54.75495230000001
 longitude: 9.7859583
-postcode: 24972
+postcode: "24972"
 city: Steinberg
 street: "Dorfstraße"
 housenumber: 2

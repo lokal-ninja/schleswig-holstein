@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.071144000000004
 longitude: 9.9830348
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Kleinflecken"
 housenumber: 29

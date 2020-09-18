@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.0760749
 longitude: 9.9815585
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Kuhberg"
 housenumber: 9

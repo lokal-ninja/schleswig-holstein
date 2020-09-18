@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.9089572
 longitude: 8.308217500000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Andreas-Nielsen-Straße"
 housenumber: 4

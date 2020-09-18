@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.598913
 longitude: 9.850725
-postcode: 22869
+postcode: "22869"
 city: Schenefeld
 street: ""
 housenumber: 

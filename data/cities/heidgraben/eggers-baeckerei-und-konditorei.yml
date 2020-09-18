@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7068553
 longitude: 9.6842396
-postcode: 25436
+postcode: "25436"
 city: Heidgraben
 street: "Bürgermeister-Tesch-Straße"
 housenumber: 1-3

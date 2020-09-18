@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.203371100000005
 longitude: 9.099519
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Rungholtstraße"
 housenumber: 5

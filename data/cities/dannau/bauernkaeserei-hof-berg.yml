@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.2418848
 longitude: 10.541945
-postcode: 24329
+postcode: "24329"
 city: Dannau
 street: "Dorfplatz"
 housenumber: 3

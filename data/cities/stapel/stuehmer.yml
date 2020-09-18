@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.361124600000004
 longitude: 9.245935600000001
-postcode: 25879
+postcode: "25879"
 city: Stapel
 street: "Hauptstraße"
 housenumber: 25

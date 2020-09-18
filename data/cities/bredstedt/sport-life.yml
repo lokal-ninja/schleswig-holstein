@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.6180961
 longitude: 8.9663464
-postcode: 25821
+postcode: "25821"
 city: Bredstedt
 street: "Markt"
 housenumber: 1

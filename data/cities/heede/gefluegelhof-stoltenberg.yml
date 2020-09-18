@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.786574200000004
 longitude: 9.8378805
-postcode: 25355
+postcode: "25355"
 city: Heede
 street: "Hoffnunger Chaussee"
 housenumber: 50

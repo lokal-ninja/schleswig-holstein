@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 54.7777954
 longitude: 9.3347592
-postcode: 24983
+postcode: "24983"
 city: Handewitt
 street: "Scandinavian-Park"
 housenumber: 5

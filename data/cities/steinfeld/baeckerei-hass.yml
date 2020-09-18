@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6012823
 longitude: 9.747588200000001
-postcode: 24888
+postcode: "24888"
 city: Steinfeld
 street: "Brebelholzer Straße"
 housenumber: 3

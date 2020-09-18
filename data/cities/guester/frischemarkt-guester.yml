@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5378411
 longitude: 10.680789500000001
-postcode: 21514
+postcode: "21514"
 city: Güster
 street: "Hauptstraße"
 housenumber: 30

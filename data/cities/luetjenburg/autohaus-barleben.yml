@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.296427400000006
 longitude: 10.5973284
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Am Hopfenhof"
 housenumber: 2

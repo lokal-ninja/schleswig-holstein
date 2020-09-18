@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.771936200000006
 longitude: 9.4259777
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Zur Bleiche"
 housenumber: 50

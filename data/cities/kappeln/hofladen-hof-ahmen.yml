@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.6365636
 longitude: 9.955053900000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Wacholderweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.3416915
 longitude: 10.1385693
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Blücherplatz"
 housenumber: 20

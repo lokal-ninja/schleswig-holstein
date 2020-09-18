@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.793713700000005
 longitude: 9.4312749
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 119

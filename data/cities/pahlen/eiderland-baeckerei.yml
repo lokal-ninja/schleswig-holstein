@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2666095
 longitude: 9.2957923
-postcode: 25794
+postcode: "25794"
 city: Pahlen
 street: "Mühlenberg"
 housenumber: 14

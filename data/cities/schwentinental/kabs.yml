@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.2880848
 longitude: 10.2182733
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Mergenthalerstraße"
 housenumber: 13-21

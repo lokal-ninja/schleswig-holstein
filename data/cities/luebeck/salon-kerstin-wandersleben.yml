@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.8645524
 longitude: 10.6869102
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Aegidienstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 54.77002220000001
 longitude: 9.726912
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "Nübelfeld"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.2192859
 longitude: 10.8987406
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Daimlerstraße"
 housenumber: 1

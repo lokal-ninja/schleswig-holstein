@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3723248
 longitude: 10.9795821
-postcode: 23774
+postcode: "23774"
 city: Heiligenhafen
 street: "Thulboden"
 housenumber: 4

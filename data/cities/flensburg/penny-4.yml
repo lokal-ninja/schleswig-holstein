@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.7828208
 longitude: 9.4485788
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Kappelner Straße"
 housenumber: 71

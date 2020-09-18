@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.793510700000006
 longitude: 9.4314731
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 82

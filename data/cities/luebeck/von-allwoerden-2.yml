@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8696689
 longitude: 10.6674871
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Ziegelstraße"
 housenumber: 11

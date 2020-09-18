@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.0717281
 longitude: 9.941079700000001
-postcode: 24537
+postcode: "24537"
 city: Neumünster
 street: "Wasbeker Straße"
 housenumber: 330

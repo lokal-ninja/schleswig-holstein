@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7173463
 longitude: 9.670137800000001
-postcode: 24966
+postcode: "24966"
 city: Sörup
 street: "Bahnhofstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.51680880000001
 longitude: 9.5647626
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 22

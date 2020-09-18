@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 54.2772121
 longitude: 10.1661643
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Clara-Immerwahr-Straße"
 housenumber: 1

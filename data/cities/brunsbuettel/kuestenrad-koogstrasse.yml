@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.8979221
 longitude: 9.128920200000001
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Koogstraße"
 housenumber: 1

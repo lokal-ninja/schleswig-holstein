@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3432887
 longitude: 10.122641900000001
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Neufeldtstraße"
 housenumber: 7

@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 54.305539100000004
 longitude: 8.6490127
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Nordergeest"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00;PH closed;Mar 15-Oct 31:Su,PH 11:00-17:00"
+opening_hours: "Mo-Sa 08:00-21:00; PH off; Mar 15-Oct 31 Su, PH 11:00-17:00"
 website: ""

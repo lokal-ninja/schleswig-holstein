@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.921872300000004
 longitude: 9.376066
-postcode: 25554
+postcode: "25554"
 city: Wilster
 street: "Schmiedestraße"
 housenumber: 34

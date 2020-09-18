@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.132772
 longitude: 8.8655646
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Bismarckstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3087979
 longitude: 9.718834000000001
-postcode: 24790
+postcode: "24790"
 city: Schacht-Audorf
 street: "Dorfstraße"
 housenumber: 40

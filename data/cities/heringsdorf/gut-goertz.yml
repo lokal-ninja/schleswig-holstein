@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.289654000000006
 longitude: 11.016182500000001
-postcode: 23777
+postcode: "23777"
 city: Heringsdorf
 street: "Görtz"
 housenumber: 1

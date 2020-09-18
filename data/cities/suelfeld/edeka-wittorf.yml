@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8029444
 longitude: 10.2259016
-postcode: 23867
+postcode: "23867"
 city: Sülfeld
 street: "Neuer Weg"
 housenumber: 14

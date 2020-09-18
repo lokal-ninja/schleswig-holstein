@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.6789568
 longitude: 9.9859311
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Tannenhofstraße"
 housenumber: 47

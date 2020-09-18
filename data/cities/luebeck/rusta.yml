@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.878492
 longitude: 10.6676219
-postcode: 23554
+postcode: "23554"
 city: Lübeck
 street: "Bei der Lohmühle"
 housenumber: 7

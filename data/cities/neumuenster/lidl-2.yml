@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.098874
 longitude: 9.988316600000001
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Stoverweg"
 housenumber: 2

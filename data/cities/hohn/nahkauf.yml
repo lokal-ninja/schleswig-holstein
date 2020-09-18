@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 54.3018337
 longitude: 9.505350100000001
-postcode: 24806
+postcode: "24806"
 city: Hohn
 street: "Bahnhofstraße"
 housenumber: 10
-phone: ""
+phone: "+49 4335 93400"
 opening_hours: "Mo-Sa 06:00-19:00;PH closed"
 website: "https://www.nahkauf.de/maerkte/hohn-41611129-rewe-nahkauf-stiefel-bahnhofstr-10"

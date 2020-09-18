@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.303336200000004
 longitude: 9.6662578
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Am Gymnasium"
 housenumber: 3

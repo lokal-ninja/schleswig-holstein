@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.552031400000004
 longitude: 10.2491874
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Möllner Landstraße"
 housenumber: 18

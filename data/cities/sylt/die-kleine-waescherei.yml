@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.8996628
 longitude: 8.3396053
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Mittelweg"
 housenumber: 12

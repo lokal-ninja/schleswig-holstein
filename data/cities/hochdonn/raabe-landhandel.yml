@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 54.018594300000004
 longitude: 9.287464
-postcode: 25712
+postcode: "25712"
 city: Hochdonn
 street: "Burger Straße"
 housenumber: 12

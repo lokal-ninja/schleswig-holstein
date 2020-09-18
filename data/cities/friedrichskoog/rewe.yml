@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0149204
 longitude: 8.8974163
-postcode: 25718
+postcode: "25718"
 city: Friedrichskoog
 street: "Koogstraße"
 housenumber: 67

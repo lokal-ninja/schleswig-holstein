@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.5484445
 longitude: 10.246462000000001
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Königsberger Straße"
 housenumber: 43

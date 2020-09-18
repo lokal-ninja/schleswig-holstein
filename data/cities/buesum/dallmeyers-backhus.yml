@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.138204200000004
 longitude: 8.8738009
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Heider Straße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 54.777910000000006
 longitude: 8.9635311
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Klixbüller Chaussee"
 housenumber: 16

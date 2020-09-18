@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.137453
 longitude: 10.612551600000002
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Albert-Mahlstedt-Straße"
 housenumber: 2a

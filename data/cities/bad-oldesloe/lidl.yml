@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8025195
 longitude: 10.3878275
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Industriestraße"
 housenumber: 7

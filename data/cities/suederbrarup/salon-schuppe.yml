@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.633385200000006
 longitude: 9.777218300000001
-postcode: 24392
+postcode: "24392"
 city: Süderbrarup
 street: "Südertoft"
 housenumber: 3

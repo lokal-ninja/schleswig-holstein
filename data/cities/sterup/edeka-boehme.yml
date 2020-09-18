@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.728848400000004
 longitude: 9.736799900000001
-postcode: 24996
+postcode: "24996"
 city: Sterup
 street: "Alte Dorfstraße"
 housenumber: 1

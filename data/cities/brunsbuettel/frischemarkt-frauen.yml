@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8968677
 longitude: 9.141446100000001
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Koogstraße"
 housenumber: 75 - 81

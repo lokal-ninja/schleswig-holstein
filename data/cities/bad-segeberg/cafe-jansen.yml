@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.934738200000005
 longitude: 10.290880900000001
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Hamburger Straße"
 housenumber: 120

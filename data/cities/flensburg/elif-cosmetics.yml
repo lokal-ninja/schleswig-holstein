@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.7990038
 longitude: 9.415647400000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Harrisleer Straße"
 housenumber: 76

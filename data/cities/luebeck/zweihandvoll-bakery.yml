@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8645318
 longitude: 10.6906575
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Wahmstraße"
 housenumber: 90

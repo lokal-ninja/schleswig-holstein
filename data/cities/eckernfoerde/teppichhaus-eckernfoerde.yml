@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 54.473978
 longitude: 9.832493300000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Gaehtjestraße"
 housenumber: 17

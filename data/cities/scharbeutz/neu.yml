@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.0324004
 longitude: 10.663335
-postcode: 23684
+postcode: "23684"
 city: Scharbeutz
 street: "Aublick"
 housenumber: 2

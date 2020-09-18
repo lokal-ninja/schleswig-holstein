@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.566409400000005
 longitude: 10.17831
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Industriestraße"
 housenumber: 10

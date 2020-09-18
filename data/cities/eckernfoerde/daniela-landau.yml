@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.47299460000001
 longitude: 9.8352112
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Ochsenkopf"
 housenumber: 3

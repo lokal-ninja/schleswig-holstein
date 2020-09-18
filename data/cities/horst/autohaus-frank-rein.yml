@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.7852091
 longitude: 9.6363015
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "An der Bundesstraße"
 housenumber: 29

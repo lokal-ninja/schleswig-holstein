@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.6544315
 longitude: 9.8221824
-postcode: 25462
+postcode: "25462"
 city: Rellingen
 street: "Hauptstraße"
 housenumber: 105

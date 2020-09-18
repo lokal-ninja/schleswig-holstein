@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.486778
 longitude: 10.288555800000001
-postcode: 21039
+postcode: "21039"
 city: Börnsen
 street: "Zwischen den Kreiseln"
 housenumber: 10

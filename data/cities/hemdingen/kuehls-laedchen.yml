@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 53.762191900000005
 longitude: 9.8237702
-postcode: 25485
+postcode: "25485"
 city: Hemdingen
 street: "Heeder Straße"
 housenumber: 5

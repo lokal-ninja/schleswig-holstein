@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.3107909
 longitude: 9.6331349
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Tönninger Straße"
 housenumber: 12

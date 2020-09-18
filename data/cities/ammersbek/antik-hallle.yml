@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.693873700000005
 longitude: 10.2073544
-postcode: 22949
+postcode: "22949"
 city: Ammersbek
 street: "Dorfstraße"
 housenumber: 99a

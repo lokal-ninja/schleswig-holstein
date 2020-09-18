@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.870043300000006
 longitude: 8.9058542
-postcode: 25923
+postcode: "25923"
 city: Süderlügum
 street: "Hauptstraße"
 housenumber: 3

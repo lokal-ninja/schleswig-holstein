@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.8205462
 longitude: 9.4004513
-postcode: 25348
+postcode: "25348"
 city: Blomesche Wildnis
 street: "Am Neuendeich"
 housenumber: 187

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.443339300000005
 longitude: 11.198406700000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Niendorfer Weg"
 housenumber: 24

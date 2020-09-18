@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.572777
 longitude: 9.4952731
-postcode: 24879
+postcode: "24879"
 city: Idstedt
 street: "Alte Landstraße"
 housenumber: 3

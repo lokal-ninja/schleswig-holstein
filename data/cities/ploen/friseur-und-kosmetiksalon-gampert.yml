@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.157772
 longitude: 10.414532900000001
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Lange Straße"
 housenumber: 40

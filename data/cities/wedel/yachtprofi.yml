@@ -3,7 +3,7 @@ type: way
 shop: Schiffe
 latitude: 53.5724421
 longitude: 9.6915324
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Deichstraße"
 housenumber: 1

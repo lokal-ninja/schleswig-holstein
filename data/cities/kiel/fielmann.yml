@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.325820900000004
 longitude: 10.1757428
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Schönberger Straße"
 housenumber: 84

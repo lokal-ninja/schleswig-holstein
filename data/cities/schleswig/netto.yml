@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.5146711
 longitude: 9.5637139
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Königstraße"
 housenumber: 23

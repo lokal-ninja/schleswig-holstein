@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.4538263
 longitude: 9.842739
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Domstag"
 housenumber: 39a

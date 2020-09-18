@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.334743
 longitude: 10.224772
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
 street: "Dorfstraße"
 housenumber: 5

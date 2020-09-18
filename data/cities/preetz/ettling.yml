@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.2331998
 longitude: 10.2817331
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kirchenstraße"
 housenumber: 19

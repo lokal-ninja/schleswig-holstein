@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.339894
 longitude: 10.099054500000001
-postcode: 24119
+postcode: "24119"
 city: Kronshagen
 street: "Schreberweg"
 housenumber: 12

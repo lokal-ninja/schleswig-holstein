@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.3481931
 longitude: 10.129862300000001
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Projensdorfer Straße"
 housenumber: 23-27

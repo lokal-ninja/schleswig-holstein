@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.7671563
 longitude: 9.7353611
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "Hattlund"
 housenumber: 13

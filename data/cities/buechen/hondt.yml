@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.4794646
 longitude: 10.617355
-postcode: 21514
+postcode: "21514"
 city: Büchen
 street: "Zwischen den Brücken"
 housenumber: 1

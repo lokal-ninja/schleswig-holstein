@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.191251400000006
 longitude: 9.0930344
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Hafenstraße"
 housenumber: 20

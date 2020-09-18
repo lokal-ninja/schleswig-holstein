@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.761626400000004
 longitude: 9.3964607
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Ochsenweg"
 housenumber: 77

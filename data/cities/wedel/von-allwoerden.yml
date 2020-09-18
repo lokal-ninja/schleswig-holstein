@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5816687
 longitude: 9.704528900000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Rathausplatz"
 housenumber: 1a

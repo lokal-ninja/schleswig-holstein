@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.667117000000005
 longitude: 10.2295367
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Hamburger Straße"
 housenumber: 65

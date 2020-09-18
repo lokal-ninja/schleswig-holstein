@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.527103700000005
 longitude: 10.1502271
-postcode: 22115
+postcode: "22115"
 city: Hamburg
 street: "Kandinskyallee"
 housenumber: 14

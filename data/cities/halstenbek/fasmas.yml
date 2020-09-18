@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.625596200000004
 longitude: 9.8749351
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Altonaer Straße"
 housenumber: 350

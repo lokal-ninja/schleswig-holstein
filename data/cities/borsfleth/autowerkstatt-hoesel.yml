@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.8272704
 longitude: 9.4273307
-postcode: 25376
+postcode: "25376"
 city: Borsfleth
 street: "Büttel"
 housenumber: 24a

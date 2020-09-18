@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.224688400000005
 longitude: 11.035589700000001
-postcode: 23749
+postcode: "23749"
 city: Grube
 street: "Bürgermeister-Höppner-Straße"
 housenumber: 1 a

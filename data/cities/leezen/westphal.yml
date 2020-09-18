@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8657893
 longitude: 10.2513774
-postcode: 23816
+postcode: "23816"
 city: Leezen
 street: "Hamburger Straße"
 housenumber: 36

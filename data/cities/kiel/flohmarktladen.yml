@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.318416400000004
 longitude: 10.1235853
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Ringstraße"
 housenumber: 74

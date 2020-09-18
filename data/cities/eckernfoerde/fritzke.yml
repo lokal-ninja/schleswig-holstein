@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.467291700000004
 longitude: 9.837399600000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 86

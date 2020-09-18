@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.577796400000004
 longitude: 9.7065708
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Feldstraße"
 housenumber: 5

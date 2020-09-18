@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.569053000000004
 longitude: 10.164313400000001
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Hauptstraße"
 housenumber: 38i

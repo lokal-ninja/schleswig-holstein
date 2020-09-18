@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.3466869
 longitude: 10.096166
-postcode: 24119
+postcode: "24119"
 city: Kronshagen
 street: "Eckernförder Straße"
 housenumber: 298

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.3136694
 longitude: 10.102296800000001
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Mühlendamm"
 housenumber: 3

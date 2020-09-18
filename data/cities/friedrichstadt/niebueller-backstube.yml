@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.37658510000001
 longitude: 9.0881059
-postcode: 25840
+postcode: "25840"
 city: Friedrichstadt
 street: "Am Markt"
 housenumber: 24a

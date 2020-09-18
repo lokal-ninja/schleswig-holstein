@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.654155
 longitude: 9.1382151
-postcode: 25862
+postcode: "25862"
 city: Joldelund
 street: "Norderweg"
 housenumber: 7

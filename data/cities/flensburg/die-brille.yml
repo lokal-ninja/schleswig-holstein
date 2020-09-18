@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.7999918
 longitude: 9.423181000000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Apenrader Straße"
 housenumber: 2

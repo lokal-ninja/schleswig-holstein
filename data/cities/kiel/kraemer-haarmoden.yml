@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.336714300000004
 longitude: 10.1887456
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Nachtigalstraße"
 housenumber: 6

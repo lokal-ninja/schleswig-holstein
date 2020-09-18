@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6809352
 longitude: 9.6722091
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Gerberstraße"
 housenumber: 3

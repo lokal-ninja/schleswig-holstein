@@ -1,12 +1,12 @@
 id: 3791449005
 type: node
 shop: Möbel
-latitude: 54.767214300000006
-longitude: 9.432262300000001
-postcode: 24941
+latitude: 54.767105400000005
+longitude: 9.431993700000001
+postcode: "24941"
 city: Flensburg
 street: "Behmstraße"
 housenumber: 2-4
 phone: "+49 461 99058"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00; Su off"
-website: "https://www.m-t-moebel.de/"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00; PH,Su off"
+website: "https://m-t-moebel.de/"

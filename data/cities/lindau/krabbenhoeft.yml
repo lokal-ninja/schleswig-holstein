@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3974368
 longitude: 9.937797400000001
-postcode: 24214
+postcode: "24214"
 city: Lindau
 street: "Raiffeisenstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.4394934
 longitude: 11.1979717
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Am Markt"
 housenumber: 26

@@ -1,4 +1,4 @@
 ---
-title: "oui"
+title: "ouí"
 url: /sylt/oui/
 ---

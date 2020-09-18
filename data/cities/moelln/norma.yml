@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.615771300000006
 longitude: 10.690493
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Wasserkrüger Weg"
 housenumber: 127

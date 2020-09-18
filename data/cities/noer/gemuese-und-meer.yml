@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.4615559
 longitude: 9.964772400000001
-postcode: 24214
+postcode: "24214"
 city: Noer
 street: "Bäderstraße"
 housenumber: 31

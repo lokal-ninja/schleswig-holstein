@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.6624751
 longitude: 9.929512500000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Schmiedestraße"
 housenumber: 35-37

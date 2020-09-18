@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.315274200000005
 longitude: 10.1183128
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Kirchhofallee"
 housenumber: 76-78

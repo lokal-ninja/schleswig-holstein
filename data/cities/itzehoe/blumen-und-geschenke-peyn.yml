@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.9279908
 longitude: 9.5429215
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Lerchenfeld"
 housenumber: 1

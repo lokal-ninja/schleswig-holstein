@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.291090200000006
 longitude: 10.8916415
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Göhler Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.406810300000004
 longitude: 9.978031300000001
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Kirchhofsallee"
 housenumber: 10

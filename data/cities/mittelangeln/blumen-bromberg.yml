@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.6901151
 longitude: 9.6036836
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Schleswiger Straße"
 housenumber: 14

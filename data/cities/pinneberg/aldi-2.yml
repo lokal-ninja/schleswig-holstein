@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6470642
 longitude: 9.8158534
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Rellinger Straße"
 housenumber: 25-27

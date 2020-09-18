@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.8943358
 longitude: 8.3720523
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Christian-Peter-Hansen-Allee"
 housenumber: 1

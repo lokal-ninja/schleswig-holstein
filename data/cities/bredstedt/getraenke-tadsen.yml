@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.6153417
 longitude: 8.9732872
-postcode: 25821
+postcode: "25821"
 city: Bredstedt
 street: "Husumer Straße"
 housenumber: 18

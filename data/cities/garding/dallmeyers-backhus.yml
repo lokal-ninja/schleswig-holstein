@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.327124600000005
 longitude: 8.7785136
-postcode: 25836
+postcode: "25836"
 city: Garding
 street: "Süderstraße"
 housenumber: 65

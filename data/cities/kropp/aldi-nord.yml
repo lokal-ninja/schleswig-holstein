@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.412301400000004
 longitude: 9.5211649
-postcode: 24848
+postcode: "24848"
 city: Kropp
 street: "Industriestraße"
 housenumber: 1

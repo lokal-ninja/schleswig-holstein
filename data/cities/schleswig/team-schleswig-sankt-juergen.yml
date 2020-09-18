@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.5426634
 longitude: 9.580456400000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Marie-Curie-Straße"
 housenumber: 1

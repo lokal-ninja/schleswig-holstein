@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.447653
 longitude: 9.407899200000001
-postcode: 24872
+postcode: "24872"
 city: Groß Rheide
 street: "Hauptstraße"
 housenumber: 64

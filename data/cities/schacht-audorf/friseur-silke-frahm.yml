@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.313135800000005
 longitude: 9.7177664
-postcode: 24790
+postcode: "24790"
 city: Schacht-Audorf
 street: "Kieler Straße"
 housenumber: 20

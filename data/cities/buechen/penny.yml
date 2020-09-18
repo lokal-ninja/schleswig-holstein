@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.477120600000006
 longitude: 10.6172771
-postcode: 21514
+postcode: "21514"
 city: Büchen
 street: "Lauenburger Straße"
 housenumber: 14

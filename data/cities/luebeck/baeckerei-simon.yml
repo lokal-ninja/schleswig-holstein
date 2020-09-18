@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9571413
 longitude: 10.8643286
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Kirchenstraße"
 housenumber: 10

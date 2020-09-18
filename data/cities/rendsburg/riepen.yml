@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.32333010000001
 longitude: 9.6264403
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 75-77

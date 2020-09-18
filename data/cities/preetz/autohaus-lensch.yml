@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.2443181
 longitude: 10.2770177
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kieler Straße"
 housenumber: 33

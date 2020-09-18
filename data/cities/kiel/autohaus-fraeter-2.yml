@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.283725600000004
 longitude: 10.1488861
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Wellseedamm"
 housenumber: 23

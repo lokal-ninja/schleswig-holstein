@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.8684761
 longitude: 8.733165300000001
-postcode: 25927
+postcode: "25927"
 city: Neukirchen
 street: "Osterdeich"
 housenumber: 33

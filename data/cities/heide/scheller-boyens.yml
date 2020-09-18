@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.194475100000005
 longitude: 9.0951675
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Friedrichstraße"
 housenumber: 4

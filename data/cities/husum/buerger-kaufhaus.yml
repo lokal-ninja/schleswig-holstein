@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.476089
 longitude: 9.0531396
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Rote Pforte"
 housenumber: 

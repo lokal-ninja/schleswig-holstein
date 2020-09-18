@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.357401
 longitude: 10.1305666
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 352

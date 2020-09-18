@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.106509800000005
 longitude: 10.8152877
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Waschgrabenstraße"
 housenumber: 11

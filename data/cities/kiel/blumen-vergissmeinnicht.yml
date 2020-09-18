@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.33562980000001
 longitude: 10.130038200000001
-postcode: 
+postcode: ""
 city: Kiel
 street: "Knooper Weg"
 housenumber: 153

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.643408
 longitude: 9.864706700000001
-postcode: 24407
+postcode: "24407"
 city: Rabenkirchen-Faulück
 street: "Bundesstraße"
 housenumber: 3

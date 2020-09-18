@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.3327485
 longitude: 10.1322658
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.3112878
 longitude: 9.5852433
-postcode: 24787
+postcode: "24787"
 city: Fockbek
 street: "Assenkoppeln"
 housenumber: 1

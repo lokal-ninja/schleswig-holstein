@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 53.999794800000004
 longitude: 9.2556774
-postcode: 25712
+postcode: "25712"
 city: Burg (Dithmarschen)
 street: "Michaelisweg"
 housenumber: 21

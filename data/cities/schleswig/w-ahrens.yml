@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 54.5171785
 longitude: 9.569063400000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Mönchenbrückstraße"
 housenumber: 2

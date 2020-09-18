@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 54.66142910000001
 longitude: 9.929347400000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Marktstraße"
 housenumber: 8

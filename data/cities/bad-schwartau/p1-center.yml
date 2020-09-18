@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 53.9186714
 longitude: 10.6932749
-postcode: 23611
+postcode: "23611"
 city: Bad Schwartau
 street: "Eutiner Ring"
 housenumber: 14

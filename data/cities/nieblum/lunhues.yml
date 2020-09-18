@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.6922058
 longitude: 8.491701200000001
-postcode: 25938
+postcode: "25938"
 city: Nieblum
 street: "Jens-Jacob-Eschel-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.2953874
 longitude: 10.5969212
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Königsberger Straße"
 housenumber: 1

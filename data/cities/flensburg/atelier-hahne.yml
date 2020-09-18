@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.7897424
 longitude: 9.4400262
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Hafendamm"
 housenumber: 51

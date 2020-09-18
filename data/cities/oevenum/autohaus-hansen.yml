@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.7087329
 longitude: 8.533035
-postcode: 25938
+postcode: "25938"
 city: Oevenum
 street: "Wohlackerum"
 housenumber: 1

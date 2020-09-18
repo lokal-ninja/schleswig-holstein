@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.223405500000005
 longitude: 11.088393400000001
-postcode: 23747
+postcode: "23747"
 city: Dahme
 street: "An der Strandpromenade"
 housenumber: 21

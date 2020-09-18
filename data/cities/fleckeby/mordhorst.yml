@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.4821724
 longitude: 9.6964687
-postcode: 24357
+postcode: "24357"
 city: Fleckeby
 street: "Hauptstraße"
 housenumber: 17

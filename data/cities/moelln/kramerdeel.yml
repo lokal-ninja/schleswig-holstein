@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.629416400000004
 longitude: 10.691105
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 106

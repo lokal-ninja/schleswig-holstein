@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.841247100000004
 longitude: 10.657721800000001
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Revalstraße"
 housenumber: 2

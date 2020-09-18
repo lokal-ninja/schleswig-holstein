@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.2780295
 longitude: 10.141295300000001
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Barkauer Straße"
 housenumber: 118

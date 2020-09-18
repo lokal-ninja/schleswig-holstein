@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.369100100000004
 longitude: 10.1320779
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "Kanalstraße"
 housenumber: 10

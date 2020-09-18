@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7828187
 longitude: 9.436762
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Südermarkt"
 housenumber: 2

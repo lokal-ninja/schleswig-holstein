@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7912608
 longitude: 9.4183292
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Molenkiekergang"
 housenumber: 1

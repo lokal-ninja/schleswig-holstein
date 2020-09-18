@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.220237600000004
 longitude: 10.887038500000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Bäderstraße"
 housenumber: 4

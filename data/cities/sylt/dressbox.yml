@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 54.9089213
 longitude: 8.301307300000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Elisabethstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
 website: ""

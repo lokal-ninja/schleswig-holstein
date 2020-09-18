@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.2186667
 longitude: 10.887368100000002
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Friedrich-August-Straße"
 housenumber: 10

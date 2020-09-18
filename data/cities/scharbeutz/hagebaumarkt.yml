@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.022820800000005
 longitude: 10.7469906
-postcode: 23683
+postcode: "23683"
 city: Scharbeutz
 street: "Hamburger Ring"
 housenumber: 14-18

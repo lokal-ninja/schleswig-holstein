@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 54.343390500000005
 longitude: 10.1390759
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Yorckstraße"
 housenumber: 1a

@@ -3,10 +3,10 @@ type: node
 shop: Autowerkstatt
 latitude: 54.234893500000005
 longitude: 10.778328700000001
-postcode: 23758
+postcode: "23758"
 city: Wangels
 street: ""
-housenumber: 
+housenumber: 5
 phone: ""
 opening_hours: ""
 website: "https://bvz.de/"

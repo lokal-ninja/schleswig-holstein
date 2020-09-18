@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.637759300000006
 longitude: 10.693318300000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Ratzeburger Straße"
 housenumber: 38

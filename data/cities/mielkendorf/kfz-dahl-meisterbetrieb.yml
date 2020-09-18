@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.2856363
 longitude: 10.0387465
-postcode: 24247
+postcode: "24247"
 city: Mielkendorf
 street: "Blockshagener Weg"
 housenumber: 10

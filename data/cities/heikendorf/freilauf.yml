@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.370526000000005
 longitude: 10.2041651
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Dorfstraße"
 housenumber: 17

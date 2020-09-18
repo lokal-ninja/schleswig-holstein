@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.864403700000004
 longitude: 10.251485
-postcode: 23816
+postcode: "23816"
 city: Leezen
 street: "Hamburger Straße"
 housenumber: 41

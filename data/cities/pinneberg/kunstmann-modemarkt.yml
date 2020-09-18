@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.6617528
 longitude: 9.793825700000001
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Dingstätte"
 housenumber: 36-40

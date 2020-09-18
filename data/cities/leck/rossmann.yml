@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 54.7730576
 longitude: 8.9699232
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Hauptstraße"
 housenumber: 34

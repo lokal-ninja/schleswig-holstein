@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.9203575
 longitude: 10.6961288
-postcode: 23611
+postcode: "23611"
 city: Bad Schwartau
 street: "Eutiner Ring"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.7809693
 longitude: 10.079431300000001
-postcode: 24558
+postcode: "24558"
 city: Wakendorf II
 street: "Hungertwiete"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.625179700000004
 longitude: 9.826356
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Dockenhudener Chaussee"
 housenumber: 96

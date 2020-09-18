@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.5247984
 longitude: 9.5408691
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Flensburger Straße"
 housenumber: 43

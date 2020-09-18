@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.306221400000005
 longitude: 9.6617318
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Torstraße"
 housenumber: 1

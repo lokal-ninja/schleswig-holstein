@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.9086377
 longitude: 8.3015594
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Elisabethstraße"
 housenumber: 1

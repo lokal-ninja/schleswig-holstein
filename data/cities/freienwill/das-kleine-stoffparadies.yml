@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.729343400000005
 longitude: 9.488762900000001
-postcode: 24991
+postcode: "24991"
 city: Freienwill
 street: "Eckernförder Landstraße"
 housenumber: 32c

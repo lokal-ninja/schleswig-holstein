@@ -1,4 +1,4 @@
 ---
-title: "E.Lieblingsplatz"
+title: "E. Lieblingsplatz"
 url: /reinbek/e-lieblingsplatz/
 ---

@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 54.4770946
 longitude: 9.053001100000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Süderstraße"
 housenumber: 1a

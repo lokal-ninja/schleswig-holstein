@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.413388700000006
 longitude: 10.4155203
-postcode: 24217
+postcode: "24217"
 city: Schönberg (Holstein)
 street: "Promenade"
 housenumber: 20

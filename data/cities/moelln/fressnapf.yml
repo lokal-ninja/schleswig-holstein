@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.6161268
 longitude: 10.678831
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Grambeker Weg"
 housenumber: 77

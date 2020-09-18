@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.0192367
 longitude: 10.7417507
-postcode: 23683
+postcode: "23683"
 city: Scharbeutz
 street: "Luschendorfer Straße"
 housenumber: 13

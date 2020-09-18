@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 54.8055596
 longitude: 9.4254452
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Steinstraße"
 housenumber: 15

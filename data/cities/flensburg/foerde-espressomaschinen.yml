@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 54.7814302
 longitude: 9.4359756
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Rote Straße"
 housenumber: 17b

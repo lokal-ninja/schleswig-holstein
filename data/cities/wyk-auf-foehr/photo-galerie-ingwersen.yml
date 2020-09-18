@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.68835000000001
 longitude: 8.570031100000001
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Sandwall"
 housenumber: 32

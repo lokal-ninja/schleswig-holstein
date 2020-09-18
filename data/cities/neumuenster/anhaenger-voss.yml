@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.057581600000006
 longitude: 9.9790188
-postcode: 24539
+postcode: "24539"
 city: Neumünster
 street: "Altonaer Straße"
 housenumber: 174

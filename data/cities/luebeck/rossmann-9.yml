@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8581902
 longitude: 10.6289852
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Herrenholz"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3294082
 longitude: 10.1338522
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Preußerstraße"
 housenumber: 1-9

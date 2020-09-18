@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 53.9299486
 longitude: 9.5020605
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Liethberg"
 housenumber: 16

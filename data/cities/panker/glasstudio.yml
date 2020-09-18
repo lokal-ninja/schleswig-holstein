@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.329750000000004
 longitude: 10.574344
-postcode: 24321
+postcode: "24321"
 city: Panker
 street: ""
 housenumber: 17

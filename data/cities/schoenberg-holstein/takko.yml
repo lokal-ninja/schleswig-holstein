@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3886576
 longitude: 10.3716784
-postcode: 24217
+postcode: "24217"
 city: Schönberg (Holstein)
 street: "Kuhlenkamp"
 housenumber: 1c

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 54.402724500000005
 longitude: 10.2188184
-postcode: 24235
+postcode: "24235"
 city: Laboe
 street: "Hafenstraße"
 housenumber: 8

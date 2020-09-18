@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.999137000000005
 longitude: 9.114409100000001
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Zuckerstraße"
 housenumber: 24

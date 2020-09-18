@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.3103564
 longitude: 9.717586800000001
-postcode: 24790
+postcode: "24790"
 city: Schacht-Audorf
 street: "Dorfstraße"
 housenumber: 25

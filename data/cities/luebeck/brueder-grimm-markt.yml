@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.8445012
 longitude: 10.627493000000001
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Brüder-Grimm-Ring"
 housenumber: 49

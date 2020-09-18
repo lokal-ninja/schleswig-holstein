@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 54.531651100000005
 longitude: 9.5293256
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lattenkamp"
 housenumber: 7

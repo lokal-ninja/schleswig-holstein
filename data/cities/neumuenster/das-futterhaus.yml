@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.102561800000004
 longitude: 9.989357
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Kieler Straße"
 housenumber: 385

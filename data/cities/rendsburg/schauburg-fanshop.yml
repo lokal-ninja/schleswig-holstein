@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.303980200000005
 longitude: 9.6643896
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Schleifmühlenstraße"
 housenumber: 8

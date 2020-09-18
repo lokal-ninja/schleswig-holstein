@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.9503963
 longitude: 9.014318600000001
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Süderstraße"
 housenumber: 23

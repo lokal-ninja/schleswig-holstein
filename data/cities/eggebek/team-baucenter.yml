@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.620117400000005
 longitude: 9.3757032
-postcode: 24852
+postcode: "24852"
 city: Eggebek
 street: "Hauptstraße"
 housenumber: 21

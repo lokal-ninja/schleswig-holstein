@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.323709900000004
 longitude: 10.054233400000001
-postcode: 24109
+postcode: "24109"
 city: Kiel
 street: "Kurt-Schumacher-Platz"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.5051257
 longitude: 9.541194
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Friedrichstraße"
 housenumber: 16

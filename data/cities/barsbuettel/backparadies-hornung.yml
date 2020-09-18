@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5691069
 longitude: 10.164702
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Barsbütteler Hof"
 housenumber: 2a

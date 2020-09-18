@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.768804200000005
 longitude: 10.734719700000001
-postcode: 23627
+postcode: "23627"
 city: Groß Sarau
 street: "Hauptstraße"
 housenumber: 5

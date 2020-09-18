@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 54.781796
 longitude: 9.4357173
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Rote Straße"
 housenumber: 16

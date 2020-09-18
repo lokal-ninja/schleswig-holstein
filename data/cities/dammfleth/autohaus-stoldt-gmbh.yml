@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.915451600000004
 longitude: 9.3785111
-postcode: 25554
+postcode: "25554"
 city: Dammfleth
 street: "Dammfleth"
 housenumber: 5

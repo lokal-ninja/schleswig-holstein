@@ -3,10 +3,10 @@ type: way
 shop: Wettbüro
 latitude: 54.0754351
 longitude: 9.982882100000001
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Kieler Straße"
-housenumber: 6
+housenumber: 4
 phone: ""
 opening_hours: "Mo-Su 10:00-22:00"
 website: ""

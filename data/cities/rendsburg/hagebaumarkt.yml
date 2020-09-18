@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.311822500000005
 longitude: 9.6268326
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 1-7

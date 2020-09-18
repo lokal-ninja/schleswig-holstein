@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.048236800000005
 longitude: 10.746328
-postcode: 23683
+postcode: "23683"
 city: Scharbeutz
 street: "Waldweg"
 housenumber: 2b

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3131788
 longitude: 10.1266523
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Hopfenstraße"
 housenumber: 1d

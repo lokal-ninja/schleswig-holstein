@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.66442850000001
 longitude: 9.9059188
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Am Markt"
 housenumber: 10

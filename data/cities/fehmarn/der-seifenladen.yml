@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.436551
 longitude: 11.196852300000002
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Breite Straße"
 housenumber: 43

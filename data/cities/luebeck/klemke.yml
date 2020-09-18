@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.832022800000004
 longitude: 10.573310000000001
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Billerbäckweg"
 housenumber: 5

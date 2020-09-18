@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.6622191
 longitude: 9.9318519
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Schmiedestraße"
 housenumber: 7

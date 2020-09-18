@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8112367
 longitude: 9.617198700000001
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Am Markt"
 housenumber: 3

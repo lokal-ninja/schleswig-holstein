@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.337429
 longitude: 10.1857944
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Hertzstraße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.0592033
 longitude: 10.0091651
-postcode: 24539
+postcode: "24539"
 city: Neumünster
 street: "Haart"
 housenumber: 224

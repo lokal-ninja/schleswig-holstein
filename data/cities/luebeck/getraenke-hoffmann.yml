@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.961293100000006
 longitude: 10.861157700000001
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Gneversdorfer Weg"
 housenumber: 26

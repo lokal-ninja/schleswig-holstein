@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.768017500000006
 longitude: 9.4356877
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Schleswiger Straße"
 housenumber: 99

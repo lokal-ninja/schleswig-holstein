@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5223013
 longitude: 10.2328468
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Liebigstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.954424200000005
 longitude: 10.2037996
-postcode: 23812
+postcode: "23812"
 city: Wahlstedt
 street: "Neumünsterstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.632465
 longitude: 9.592435700000001
-postcode: 24860
+postcode: "24860"
 city: Uelsby
 street: "Dorfstraße"
 housenumber: 1

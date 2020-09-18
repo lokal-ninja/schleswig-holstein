@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.692787100000004
 longitude: 9.67669
-postcode: 24966
+postcode: "24966"
 city: Sörup
 street: "Mühlenholzer Weg"
 housenumber: 11

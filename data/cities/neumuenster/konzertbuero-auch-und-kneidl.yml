@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 54.0712951
 longitude: 9.986247
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 34a

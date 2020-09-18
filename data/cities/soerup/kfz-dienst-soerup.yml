@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.7182406
 longitude: 9.667417700000001
-postcode: 24966
+postcode: "24966"
 city: Sörup
 street: "Flensburger Straße"
 housenumber: 9

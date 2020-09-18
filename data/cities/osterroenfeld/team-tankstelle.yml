@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 54.295856300000004
 longitude: 9.7073626
-postcode: 24783
+postcode: "24783"
 city: Osterrönfeld
 street: "Kieler Straße"
 housenumber: 21B

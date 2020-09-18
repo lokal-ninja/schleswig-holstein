@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.616655
 longitude: 9.8669112
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Seestraße"
 housenumber: 250

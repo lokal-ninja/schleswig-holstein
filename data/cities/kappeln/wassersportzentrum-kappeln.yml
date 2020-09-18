@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.660107
 longitude: 9.933773
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Am Hafen"
 housenumber: 4

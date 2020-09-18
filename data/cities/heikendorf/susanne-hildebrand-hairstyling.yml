@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.369388900000004
 longitude: 10.203386700000001
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Am Schmiedeplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.680960400000004
 longitude: 10.0010885
-postcode: 22419
+postcode: "22419"
 city: Hamburg
 street: "Langenhorner Chaussee"
 housenumber: 692

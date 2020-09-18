@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.6301009
 longitude: 10.691079100000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Marktstraße"
 housenumber: 13

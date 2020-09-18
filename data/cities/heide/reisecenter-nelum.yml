@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.184342
 longitude: 9.093372
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Johann-Hinrich-Fehrs-Straße"
 housenumber: 49a

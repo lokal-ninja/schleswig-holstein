@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.7995151
 longitude: 9.6355959
-postcode: 24977
+postcode: "24977"
 city: Langballig
 street: "Schwarze Straße"
 housenumber: 19

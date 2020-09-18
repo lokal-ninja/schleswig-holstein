@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 54.6385068
 longitude: 9.7580921
-postcode: 24392
+postcode: "24392"
 city: Süderbrarup
 street: "Gewerbestraße"
 housenumber: 18

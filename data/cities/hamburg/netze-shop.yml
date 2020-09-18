@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.6054266
 longitude: 9.8671156
-postcode: 22547
+postcode: "22547"
 city: Hamburg
 street: "Netzestraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.51538
 longitude: 8.8572199
-postcode: 25845
+postcode: "25845"
 city: Elisabeth-Sophien-Koog
 street: ""
 housenumber: 17

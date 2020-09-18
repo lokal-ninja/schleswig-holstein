@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6772496
 longitude: 10.1504303
-postcode: 22949
+postcode: "22949"
 city: Ammersbek
 street: "Georg-Sasse-Straße"
 housenumber: 35

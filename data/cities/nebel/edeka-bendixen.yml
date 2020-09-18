@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.651720700000006
 longitude: 8.3555138
-postcode: 25946
+postcode: "25946"
 city: Nebel
 street: "Uasterstigh"
 housenumber: 16

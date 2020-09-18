@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.56864100000001
 longitude: 10.1705705
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Willinghusener Landstraße"
 housenumber: 16

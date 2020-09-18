@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.7789067
 longitude: 9.416696
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Friesische Straße"
 housenumber: 150

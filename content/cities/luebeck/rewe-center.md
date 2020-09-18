@@ -1,4 +1,4 @@
 ---
-title: "REWE Center"
+title: "Rewe Center"
 url: /luebeck/rewe-center/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 54.50042800000001
 longitude: 9.5990315
-postcode: 24857
+postcode: "24857"
 city: Fahrdorf
 street: "Mühlenberg"
 housenumber: 18

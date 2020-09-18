@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.911900200000005
 longitude: 9.141118500000001
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Eddelaker Straße"
 housenumber: 141

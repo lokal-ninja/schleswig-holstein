@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.5770707
 longitude: 9.641869400000001
-postcode: 24894
+postcode: "24894"
 city: Tolk
 street: "Eckernförder Straße"
 housenumber: 9

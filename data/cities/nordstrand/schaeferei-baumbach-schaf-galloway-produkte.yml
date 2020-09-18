@@ -3,10 +3,10 @@ type: node
 shop: Hofladen
 latitude: 54.510561700000004
 longitude: 8.945938400000001
-postcode: 25845
+postcode: "25845"
 city: Nordstrand
 street: "Pohnshalligkoogstraße"
 housenumber: 1
 phone: "+49 4842 495"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa,Su 10:30-18:00"
 website: "http://www.lammfleisch.de"

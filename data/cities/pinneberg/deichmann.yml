@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.6622823
 longitude: 9.798178400000001
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Friedrich-Ebert-Straße"
 housenumber: 31

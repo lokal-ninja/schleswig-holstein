@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.473409200000006
 longitude: 9.834996
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Langebrückstraße"
 housenumber: 20

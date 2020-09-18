@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4762903
 longitude: 9.052627900000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Rote Pforte"
 housenumber: 8-10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6716215
 longitude: 9.7701156
-postcode: 25497
+postcode: "25497"
 city: Prisdorf
 street: "Peiner Hag"
 housenumber: 11-13

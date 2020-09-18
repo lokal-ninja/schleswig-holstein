@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 54.937865900000006
 longitude: 8.322101100000001
-postcode: 25996
+postcode: "25996"
 city: Wenningstedt-Braderup (Sylt)
 street: "Berthin-Bleeg-Straße"
 housenumber: 12

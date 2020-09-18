@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.31204820000001
 longitude: 10.1465303
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Elisabethstraße"
 housenumber: 58-60

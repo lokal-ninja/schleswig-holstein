@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.8896001
 longitude: 10.799445400000002
-postcode: 23568
+postcode: "23568"
 city: Lübeck
 street: "Schlutuper Kirchstraße"
 housenumber: 13

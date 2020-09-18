@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.9874723
 longitude: 9.112229000000001
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Westerstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.8697682
 longitude: 10.6850214
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Beckergrube"
 housenumber: 

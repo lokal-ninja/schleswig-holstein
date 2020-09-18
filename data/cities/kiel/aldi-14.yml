@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.317204700000005
 longitude: 10.183341
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Philipp-Reis-Weg"
 housenumber: 4

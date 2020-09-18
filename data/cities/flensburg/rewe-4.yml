@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.79187
 longitude: 9.4796741
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Trögelsbyer Weg"
 housenumber: 79

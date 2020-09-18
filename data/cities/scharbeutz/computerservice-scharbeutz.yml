@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 54.021958000000005
 longitude: 10.7496509
-postcode: 23683
+postcode: "23683"
 city: Scharbeutz
 street: "Seestraße"
 housenumber: 62

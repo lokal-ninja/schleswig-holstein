@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.2312014
 longitude: 10.2905311
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Schellhorner Straße"
 housenumber: 76

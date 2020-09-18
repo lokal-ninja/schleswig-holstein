@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.692952600000005
 longitude: 9.5991481
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Flensburger Straße"
 housenumber: 21

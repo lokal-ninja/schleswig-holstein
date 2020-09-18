@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.5483914
 longitude: 10.246467200000001
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Königsberger Straße"
 housenumber: 41

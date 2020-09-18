@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.7931821
 longitude: 9.4195355
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Flurstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.7298885
 longitude: 10.2654855
-postcode: 22941
+postcode: "22941"
 city: Bargteheide
 street: "Rathausstraße"
 housenumber: 13-15

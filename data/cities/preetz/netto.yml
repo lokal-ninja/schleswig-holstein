@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2359063
 longitude: 10.2833369
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Garnkorb"
 housenumber: 8

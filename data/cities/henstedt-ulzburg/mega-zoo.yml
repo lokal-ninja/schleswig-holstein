@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.8034947
 longitude: 9.980676200000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Gutenbergstraße"
 housenumber: 5

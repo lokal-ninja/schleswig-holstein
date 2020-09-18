@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.5234308
 longitude: 9.5708953
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Sankt-Jürgener-Straße"
 housenumber: 32

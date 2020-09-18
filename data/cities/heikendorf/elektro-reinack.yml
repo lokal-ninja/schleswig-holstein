@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 54.369855900000005
 longitude: 10.2027515
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Dorfstraße"
 housenumber: 
 phone: "+49 431 241170"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00; Sa 09:00-12:00"
 website: "www.elektro-reinack.de"

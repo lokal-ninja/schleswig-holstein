@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 54.3229246
 longitude: 10.1224953
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Stephan-Heinzel-Straße"
 housenumber: 5

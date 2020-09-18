@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 54.5163911
 longitude: 9.5616322
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 54

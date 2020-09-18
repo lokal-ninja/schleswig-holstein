@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.652830200000004
 longitude: 9.9318332
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Am Südhafen"
 housenumber: 5

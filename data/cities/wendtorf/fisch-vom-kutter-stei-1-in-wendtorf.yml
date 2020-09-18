@@ -3,10 +3,10 @@ type: node
 shop: Fisch
 latitude: 54.4193335
 longitude: 10.282719
-postcode: 24235
+postcode: "24235"
 city: Wendtorf
 street: "An den Stegen"
 housenumber: 
-phone: ""
+phone: "+49 171 2722626"
 opening_hours: ""
-website: "www.fisch-vom-kutter.de/wendtorf.htm"
+website: "http://www.fisch-vom-kutter.de/wendtorf.html"

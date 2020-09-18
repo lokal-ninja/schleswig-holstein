@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5448734
 longitude: 10.2436561
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Oher Weg"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.822776100000006
 longitude: 10.6494196
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Kronsforder Landstraße"
 housenumber: 201

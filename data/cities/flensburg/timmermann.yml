@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.78304910000001
 longitude: 9.436650100000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.5994168
 longitude: 10.6922482
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Kolberger Straße"
 housenumber: 12

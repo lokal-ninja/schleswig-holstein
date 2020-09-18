@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.786733700000006
 longitude: 9.4334158
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 15

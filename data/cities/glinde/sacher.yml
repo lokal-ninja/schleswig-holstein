@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.544805600000004
 longitude: 10.2259753
-postcode: 21509
+postcode: "21509"
 city: Glinde
 street: "Möllner Landstraße"
 housenumber: 128

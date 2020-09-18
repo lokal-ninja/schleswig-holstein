@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.86862120000001
 longitude: 10.695457900000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Kanalstraße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.3322316
 longitude: 10.128064400000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Knooper Weg"
 housenumber: 118

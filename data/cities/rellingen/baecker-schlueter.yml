@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.6520681
 longitude: 9.829337200000001
-postcode: 25462
+postcode: "25462"
 city: Rellingen
 street: "Hauptstraße"
 housenumber: 53

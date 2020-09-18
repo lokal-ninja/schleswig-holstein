@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.6196295
 longitude: 8.9608944
-postcode: 25821
+postcode: "25821"
 city: Bredstedt
 street: "Hohle Gasse"
 housenumber: 31

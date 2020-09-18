@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5673229
 longitude: 10.164305800000001
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Am AKKU"
 housenumber: 7

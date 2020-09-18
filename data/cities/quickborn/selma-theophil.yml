@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 53.731534
 longitude: 9.8995917
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Am Freibad"
 housenumber: 4a
-phone: ""
+phone: "+49 4106 69923"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
 website: ""

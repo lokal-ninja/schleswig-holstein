@@ -1,6 +1,6 @@
 ---
 title: Tellingstedt
 url: /tellingstedt/
-latitude: 54.218868900000004
-longitude: 9.2832252
+latitude: 54.219922800000006
+longitude: 9.280779
 ---

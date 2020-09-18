@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 54.792616
 longitude: 9.4703891
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Mozartstraße"
 housenumber: 37
-phone: ""
+phone: "+49 461 64991"
 opening_hours: ""
 website: ""

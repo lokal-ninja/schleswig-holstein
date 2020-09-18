@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0450579
 longitude: 10.6751916
-postcode: 23684
+postcode: "23684"
 city: Scharbeutz
 street: "Lindenstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6356704
 longitude: 9.8396009
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Hauptstraße"
 housenumber: 37- 43

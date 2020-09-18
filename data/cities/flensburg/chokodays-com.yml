@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.7902332
 longitude: 9.431379600000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 11-13

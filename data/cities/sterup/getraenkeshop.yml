@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.72846680000001
 longitude: 9.7368591
-postcode: 24996
+postcode: "24996"
 city: Sterup
 street: "Flensburger Straße"
 housenumber: 2

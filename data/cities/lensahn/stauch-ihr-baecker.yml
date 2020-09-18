@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2198555
 longitude: 10.8848593
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Eutiner Straße"
 housenumber: 11

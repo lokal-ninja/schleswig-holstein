@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.769950900000005
 longitude: 8.9770333
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Flensburger Straße"
 housenumber: 2

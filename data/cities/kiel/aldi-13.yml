@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3006462
 longitude: 10.1425839
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Theodor-Heuss-Ring"
 housenumber: 136

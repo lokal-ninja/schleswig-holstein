@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.308133500000004
 longitude: 10.1375694
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Werftstraße"
 housenumber: 240-248

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.4801379
 longitude: 10.6187774
-postcode: 21514
+postcode: "21514"
 city: Büchen
 street: "Berliner Straße"
 housenumber: 1

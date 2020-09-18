@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.2867783
 longitude: 10.2305285
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Gutenbergstraße"
 housenumber: 1-9

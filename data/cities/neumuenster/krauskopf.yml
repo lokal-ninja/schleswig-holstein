@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 54.071075300000004
 longitude: 9.9856459
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 32

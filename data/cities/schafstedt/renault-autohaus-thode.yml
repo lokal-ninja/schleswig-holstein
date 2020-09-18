@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.0797217
 longitude: 9.291710700000001
-postcode: 25725
+postcode: "25725"
 city: Schafstedt
 street: "Klint"
 housenumber: 2

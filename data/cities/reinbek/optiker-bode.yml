@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.508470200000005
 longitude: 10.2503854
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Bahnhofstraße"
 housenumber: 7

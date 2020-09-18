@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8043774
 longitude: 9.6251815
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Horster Viereck"
 housenumber: 1

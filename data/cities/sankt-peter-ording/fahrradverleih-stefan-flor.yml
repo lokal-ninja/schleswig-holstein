@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3056148
 longitude: 8.6355619
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Badallee"
 housenumber: 5

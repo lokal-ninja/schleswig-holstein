@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.727414100000004
 longitude: 9.493323100000001
-postcode: 24991
+postcode: "24991"
 city: Freienwill
 street: "Kirchlücke"
 housenumber: 2a

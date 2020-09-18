@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.13125530000001
 longitude: 8.860654700000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Alleestraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.2341672
 longitude: 10.2814718
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kirchenstraße"
 housenumber: 4

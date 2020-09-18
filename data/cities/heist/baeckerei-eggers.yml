@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.65475300000001
 longitude: 9.6568964
-postcode: 25492
+postcode: "25492"
 city: Heist
 street: "Hauptstraße"
 housenumber: 51

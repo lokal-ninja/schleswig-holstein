@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.6920173
 longitude: 9.4260262
-postcode: 24988
+postcode: "24988"
 city: Oeversee
 street: "Stapelholmer Weg"
 housenumber: 74

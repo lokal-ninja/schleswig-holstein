@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.897063100000004
 longitude: 9.1259447
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Tiedemannstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.0103401
 longitude: 10.576147200000001
-postcode: 23623
+postcode: "23623"
 city: Ahrensbök
 street: "Bökenbarg"
 housenumber: 2a

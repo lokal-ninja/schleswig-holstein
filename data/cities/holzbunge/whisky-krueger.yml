@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.3759475
 longitude: 9.704485400000001
-postcode: 24361
+postcode: "24361"
 city: Holzbunge
 street: "Hauptstraße"
 housenumber: 2

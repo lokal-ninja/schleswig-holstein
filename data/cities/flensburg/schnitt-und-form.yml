@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.816133300000004
 longitude: 9.4744764
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Kleine Lücke"
 housenumber: 1

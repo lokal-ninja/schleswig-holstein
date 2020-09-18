@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.8348336
 longitude: 9.546431100000001
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Am Schloßpark"
 housenumber: 3

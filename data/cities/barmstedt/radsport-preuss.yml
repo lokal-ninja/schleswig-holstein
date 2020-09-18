@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.789773600000004
 longitude: 9.7741811
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Reichenstraße"
 housenumber: 18

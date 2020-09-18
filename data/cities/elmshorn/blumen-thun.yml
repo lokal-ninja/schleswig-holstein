@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.7704077
 longitude: 9.6849232
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Kaltenweide"
 housenumber: 221

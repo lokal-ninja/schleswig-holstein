@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.3051977
 longitude: 9.6609862
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Schiffbrückenplatz"
 housenumber: 17

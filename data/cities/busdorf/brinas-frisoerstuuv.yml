@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.490145500000004
 longitude: 9.5508152
-postcode: 24866
+postcode: "24866"
 city: Busdorf
 street: "Rendsburger Straße"
 housenumber: 56

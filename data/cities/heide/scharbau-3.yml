@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.190698600000005
 longitude: 9.0981807
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Feldstraße"
 housenumber: 23

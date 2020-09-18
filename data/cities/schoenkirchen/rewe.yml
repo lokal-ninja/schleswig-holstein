@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.338185100000004
 longitude: 10.2186439
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
 street: "Pahlblöken"
 housenumber: 2

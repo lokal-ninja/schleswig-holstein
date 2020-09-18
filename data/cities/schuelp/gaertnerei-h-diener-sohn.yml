@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.240242200000004
 longitude: 8.930628200000001
-postcode: 25764
+postcode: "25764"
 city: Schülp
 street: "Schülper Chaussee"
 housenumber: 10

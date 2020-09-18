@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.4039215
 longitude: 9.3780619
-postcode: 24863
+postcode: "24863"
 city: Börm
 street: "Dorfstraße"
 housenumber: 21

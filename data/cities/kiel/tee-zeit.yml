@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.298554800000005
 longitude: 10.1840522
-postcode: 24147
+postcode: "24147"
 city: Kiel
 street: "Wiener Allee"
 housenumber: 52

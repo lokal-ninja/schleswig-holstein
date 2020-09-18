@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.242885
 longitude: 10.908202300000001
-postcode: 23738
+postcode: "23738"
 city: Damlos
 street: "Hauptstraße"
 housenumber: 24

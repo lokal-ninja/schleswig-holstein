@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.83129640000001
 longitude: 10.4910388
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Bahnhofstraße"
 housenumber: 6 - 8

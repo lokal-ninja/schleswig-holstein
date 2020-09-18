@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.8163612
 longitude: 9.471659500000001
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Fördestraße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.862232000000006
 longitude: 10.628527700000001
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Lohgerberstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.781262700000006
 longitude: 9.3986271
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Westerallee"
 housenumber: 139

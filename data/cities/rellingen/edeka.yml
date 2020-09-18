@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6505559
 longitude: 9.8287846
-postcode: 25462
+postcode: "25462"
 city: Rellingen
 street: "Hauptstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.778583000000005
 longitude: 9.431791
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Stadtstraße"
 housenumber: 46

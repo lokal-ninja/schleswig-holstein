@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.170645300000004
 longitude: 9.850484600000001
-postcode: 24589
+postcode: "24589"
 city: Nortorf
 street: "Herbergstraße"
 housenumber: 10

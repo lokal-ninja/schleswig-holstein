@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 54.9075265
 longitude: 8.303991100000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Friedrichstraße"
 housenumber: 17

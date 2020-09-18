@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6259499
 longitude: 10.687730700000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Am Kurgarten"
 housenumber: 1

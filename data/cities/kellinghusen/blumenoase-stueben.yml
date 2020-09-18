@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.947397200000005
 longitude: 9.7139235
-postcode: 25548
+postcode: "25548"
 city: Kellinghusen
 street: "An der Stör"
 housenumber: 2c

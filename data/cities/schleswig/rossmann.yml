@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.5159497
 longitude: 9.5600796
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 53-55

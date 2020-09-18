@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.507439600000005
 longitude: 10.1833226
-postcode: 21031
+postcode: "21031"
 city: Hamburg
 street: "Weberade"
 housenumber: 3-5

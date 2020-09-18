@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.7461252
 longitude: 9.1039983
-postcode: 24980
+postcode: "24980"
 city: Hörup
 street: "Im Winkel"
 housenumber: 1

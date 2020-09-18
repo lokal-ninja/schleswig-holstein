@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 54.16561050000001
 longitude: 9.0890644
-postcode: 25770
+postcode: "25770"
 city: Hemmingstedt
 street: "Carl-Friedrich-Benz-Straße"
 housenumber: 1

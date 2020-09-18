@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.5070555
 longitude: 9.006603700000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Nordseestraße"
 housenumber: 31

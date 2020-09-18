@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.55182490000001
 longitude: 10.2434895
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Lindenallee"
 housenumber: 47

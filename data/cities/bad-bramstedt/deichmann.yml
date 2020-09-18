@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.9160155
 longitude: 9.8879877
-postcode: 24576
+postcode: "24576"
 city: Bad Bramstedt
 street: "Lohstücker Weg"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.7615934
 longitude: 9.1917179
-postcode: 24980
+postcode: "24980"
 city: Schafflund
 street: "Osterfeld"
 housenumber: 2

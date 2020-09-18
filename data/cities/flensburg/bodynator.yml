@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.7907596
 longitude: 9.4290866
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Toosbüystraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 54.219778600000005
 longitude: 10.878433000000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Lütjenburger Straße"
 housenumber: 10

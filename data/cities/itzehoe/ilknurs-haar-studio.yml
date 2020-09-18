@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.931704700000004
 longitude: 9.504115
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Lindenstraße"
 housenumber: 81

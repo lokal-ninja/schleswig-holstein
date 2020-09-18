@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.776982600000004
 longitude: 8.9809097
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Industriestraße"
 housenumber: 13

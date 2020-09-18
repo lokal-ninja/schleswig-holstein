@@ -3,10 +3,10 @@ type: way
 shop: Baustoffe
 latitude: 54.5310216
 longitude: 9.584758800000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Heinrich-Hertz-Straße"
 housenumber: 2
-phone: ""
+phone: "+49 4621 95810"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH off"
-website: ""
+website: "https://www.team.de/bau/standorte/schleswig-holstein/schleswig/standort.html"

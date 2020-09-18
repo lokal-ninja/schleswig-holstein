@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.800861000000005
 longitude: 9.979574900000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Heinrich-Sebelien-Straße"
 housenumber: 2

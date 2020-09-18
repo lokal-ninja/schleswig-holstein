@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.663413600000005
 longitude: 9.9805735
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Gutenbergring"
 housenumber: 15

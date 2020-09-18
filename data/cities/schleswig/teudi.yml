@@ -1,12 +1,12 @@
-id: 99743608
-type: way
+id: 6010808703
+type: node
 shop: Kramladen
-latitude: 54.504743000000005
-longitude: 9.5413639
-postcode: 24837
+latitude: 54.5148633
+longitude: 9.561668800000001
+postcode: "24837"
 city: Schleswig
-street: "Friedrichstraße"
-housenumber: 22
+street: "Schlei-Center-Passage"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH,Su off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7932616
 longitude: 9.521696700000001
-postcode: 24999
+postcode: "24999"
 city: Wees
 street: "Weesries"
 housenumber: 1

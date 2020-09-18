@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.6279806
 longitude: 10.6881543
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 66

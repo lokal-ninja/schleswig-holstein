@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.9572987
 longitude: 9.6115014
-postcode: 25551
+postcode: "25551"
 city: Hohenlockstedt
 street: "Kieler Straße"
 housenumber: 2

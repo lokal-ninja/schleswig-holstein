@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 54.369342800000005
 longitude: 10.2034564
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Am Schmiedeplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.5021203
 longitude: 9.5444461
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Friedrichstraße"
 housenumber: 87,89

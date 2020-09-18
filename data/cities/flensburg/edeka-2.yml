@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.79346030000001
 longitude: 9.470097
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Engelsbyer Straße"
 housenumber: 31

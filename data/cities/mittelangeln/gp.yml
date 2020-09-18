@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 54.69106
 longitude: 9.6081587
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Mühlenstraße"
 housenumber: 20

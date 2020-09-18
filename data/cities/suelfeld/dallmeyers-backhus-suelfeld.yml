@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8028952
 longitude: 10.225998200000001
-postcode: 23867
+postcode: "23867"
 city: Sülfeld
 street: "Neuer Weg"
 housenumber: 14

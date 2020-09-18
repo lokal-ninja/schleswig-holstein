@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6778929
 longitude: 10.146723600000001
-postcode: 22949
+postcode: "22949"
 city: Ammersbek
 street: "Hamburger Straße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3360818
 longitude: 10.1320952
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Beselerallee"
 housenumber: 69

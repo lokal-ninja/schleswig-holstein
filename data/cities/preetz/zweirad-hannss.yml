@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 54.2347918
 longitude: 10.2852829
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Schellhorner Straße"
 housenumber: 6

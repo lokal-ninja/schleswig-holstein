@@ -3,10 +3,10 @@ type: node
 shop: Raumausstattung
 latitude: 54.208338000000005
 longitude: 9.091900800000001
-postcode: 25746
+postcode: "25746"
 city: Wesseln
 street: "Waldstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://www.hammer-zuhause.de/maerkte/storeDetail?utm_campaign=googlemaps&utm_medium=organic&storeCode=0158&utm_source=uberall&utm_content=25746_Wesseln"
+website: "https://www.hammer-zuhause.de/maerkte/storeDetail?storeCode=0158"

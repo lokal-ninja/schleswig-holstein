@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.356503100000005
 longitude: 10.130806
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 342

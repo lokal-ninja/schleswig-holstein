@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.222660000000005
 longitude: 10.2743838
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kührener Straße"
 housenumber: 99

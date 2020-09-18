@@ -1,12 +1,12 @@
-id: 94053724
-type: way
+id: 7771768190
+type: node
 shop: Elektronik
-latitude: 54.289044800000006
-longitude: 10.2206577
-postcode: 24223
+latitude: 54.288914000000005
+longitude: 10.22081
+postcode: "24223"
 city: Schwentinental
 street: "Mergenthalerstraße"
 housenumber: 24
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 09:00-19:00; PH off"
+website: "https://www.medimax.de/store/schwentinental"

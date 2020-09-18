@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.660017100000005
 longitude: 9.9327667
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Mühlenstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.4767512
 longitude: 9.0500535
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Großstraße"
 housenumber: 22

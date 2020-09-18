@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 54.491325800000006
 longitude: 9.0796145
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Siemensstraße"
 housenumber: 51

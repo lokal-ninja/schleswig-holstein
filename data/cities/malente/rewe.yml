@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.1744417
 longitude: 10.559141100000002
-postcode: 23714
+postcode: "23714"
 city: Malente
 street: "Bahnhofstraße"
 housenumber: 61-63

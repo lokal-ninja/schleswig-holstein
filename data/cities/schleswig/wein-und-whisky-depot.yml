@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.5172996
 longitude: 9.5686101
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Mönchenbrückstraße"
 housenumber: 6

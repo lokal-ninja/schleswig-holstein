@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.9587604
 longitude: 10.860621100000001
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Gneversdorfer Weg"
 housenumber: 9

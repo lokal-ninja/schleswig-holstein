@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.731689700000004
 longitude: 8.4462969
-postcode: 25938
+postcode: "25938"
 city: Oldsum
 street: ""
 housenumber: 28

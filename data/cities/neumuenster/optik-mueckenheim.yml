@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.075673900000005
 longitude: 9.981621500000001
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Kuhberg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6959396
 longitude: 9.714593800000001
-postcode: 25436
+postcode: "25436"
 city: Tornesch
 street: "Esinger Straße"
 housenumber: 3

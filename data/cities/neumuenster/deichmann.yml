@@ -3,9 +3,9 @@ type: node
 shop: Schuhe
 latitude: 54.1003939
 longitude: 9.976262100000001
-postcode: 24536
+postcode: "24536"
 city: Neumünster
-street: ""
+street: "Stoverweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

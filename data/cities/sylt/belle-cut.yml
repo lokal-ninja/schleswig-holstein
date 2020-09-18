@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.906280100000004
 longitude: 8.304596700000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Boysenstraße"
 housenumber: 2

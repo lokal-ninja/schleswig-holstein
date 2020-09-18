@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.7556116
 longitude: 9.4645094
-postcode: 24943
+postcode: "24943"
 city: Tastrup
 street: "Hummelroi"
 housenumber: 62

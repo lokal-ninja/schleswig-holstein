@@ -1,6 +1,6 @@
 ---
 title: Medelby
 url: /medelby/
-latitude: 54.813620300000004
-longitude: 9.178850500000001
+latitude: 54.812711500000006
+longitude: 9.174038600000001
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 54.2006018
 longitude: 9.100430900000001
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Am Kleinbahnhof"
 housenumber: 38

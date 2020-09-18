@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.332227100000004
 longitude: 10.1253075
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Hansastraße"
 housenumber: 2

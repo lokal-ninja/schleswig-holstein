@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.5822056
 longitude: 9.7270885
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Kronskamp"
 housenumber: 98

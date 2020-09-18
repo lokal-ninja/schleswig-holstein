@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 54.495208700000006
 longitude: 9.066466400000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Siemensstraße"
 housenumber: 1

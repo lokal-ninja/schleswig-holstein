@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.683405500000006
 longitude: 10.008666
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 53

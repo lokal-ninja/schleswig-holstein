@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.7458955
 longitude: 9.898622600000001
-postcode: 24395
+postcode: "24395"
 city: Gelting
 street: "Nordstraße"
 housenumber: 20

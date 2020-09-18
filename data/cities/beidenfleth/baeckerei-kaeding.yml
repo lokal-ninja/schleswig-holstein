@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.879581200000004
 longitude: 9.4131433
-postcode: 25573
+postcode: "25573"
 city: Beidenfleth
 street: "Unteres Dorf"
 housenumber: 2

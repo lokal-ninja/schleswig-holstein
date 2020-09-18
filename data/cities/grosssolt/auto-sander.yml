@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.712178200000004
 longitude: 9.543447500000001
-postcode: 24991
+postcode: "24991"
 city: Großsolt
 street: "Alte Landstraße"
 housenumber: 2

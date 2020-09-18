@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.2217421
 longitude: 10.885276600000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Sundstraße"
 housenumber: 7

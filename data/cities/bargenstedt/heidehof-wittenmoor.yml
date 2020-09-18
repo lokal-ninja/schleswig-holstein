@@ -3,9 +3,9 @@ type: node
 shop: Hofladen
 latitude: 54.0927845
 longitude: 9.1908118
-postcode: 25704
+postcode: "25704"
 city: Bargenstedt
-street: "Bargenstedterfeld"
+street: ""
 housenumber: 8
 phone: ""
 opening_hours: "Tu-Su 8:00-20:00 Während der Haupterntezeit (August)"

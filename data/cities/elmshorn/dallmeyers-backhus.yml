@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7516047
 longitude: 9.6475817
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Wedenkamp"
 housenumber: 9

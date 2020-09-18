@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.951438800000005
 longitude: 9.0116362
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Süderstraße"
 housenumber: 10-12

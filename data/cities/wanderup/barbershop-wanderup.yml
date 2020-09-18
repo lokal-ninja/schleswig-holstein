@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.6884517
 longitude: 9.3308
-postcode: 24997
+postcode: "24997"
 city: Wanderup
 street: "Flensburger Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.9391175
 longitude: 9.730854
-postcode: 25548
+postcode: "25548"
 city: Kellinghusen
 street: "Neuer Kamp"
 housenumber: 28

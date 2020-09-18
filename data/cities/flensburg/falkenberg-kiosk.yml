@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.784286800000004
 longitude: 9.4094078
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Westerallee"
 housenumber: 88

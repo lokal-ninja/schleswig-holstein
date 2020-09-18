@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3051662
 longitude: 9.661118700000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Schiffbrückenplatz"
 housenumber: 17

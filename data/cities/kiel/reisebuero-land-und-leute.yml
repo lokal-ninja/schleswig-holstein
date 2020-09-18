@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.336708200000004
 longitude: 10.1888912
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Nachtigalstraße"
 housenumber: 4

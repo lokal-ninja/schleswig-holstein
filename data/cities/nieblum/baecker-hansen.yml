@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6920712
 longitude: 8.4901365
-postcode: 25938
+postcode: "25938"
 city: Nieblum
 street: "Jens-Jacob-Eschel-Straße"
 housenumber: 25

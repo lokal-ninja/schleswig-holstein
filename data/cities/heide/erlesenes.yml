@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 54.19365440000001
 longitude: 9.091240200000001
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Süderstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.682830200000005
 longitude: 9.6340752
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Hauptstraße"
 housenumber: 17

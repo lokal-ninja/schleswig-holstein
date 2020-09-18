@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.804161500000006
 longitude: 9.5004094
-postcode: 24999
+postcode: "24999"
 city: Wees
 street: "Himmershoi"
 housenumber: 15

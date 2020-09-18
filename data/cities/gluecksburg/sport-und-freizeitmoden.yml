@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.8348492
 longitude: 9.546892900000001
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Schinderdam"
 housenumber: 7

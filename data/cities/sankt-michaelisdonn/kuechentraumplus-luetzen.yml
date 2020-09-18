@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 53.9873752
 longitude: 9.1138428
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Westerstraße"
 housenumber: 2

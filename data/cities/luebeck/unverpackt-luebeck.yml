@@ -1,12 +1,12 @@
 id: 4806357849
 type: node
-shop: Supermarkt
-latitude: 53.8666343
-longitude: 10.6888024
-postcode: 23552
+shop: Lebensmittel
+latitude: 53.866581800000006
+longitude: 10.688975500000002
+postcode: "23552"
 city: Lübeck
 street: "Fleischhauerstraße"
-housenumber: 38
-phone: ""
+housenumber: 40
+phone: "+49 451 37045919"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://unverpackt-luebeck.de/"
+website: "https://unverpackt-luebeck.de/"

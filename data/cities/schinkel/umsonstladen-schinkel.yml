@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.35763540000001
 longitude: 9.948254400000001
-postcode: 24214
+postcode: "24214"
 city: Schinkel
 street: "Hauptstraße"
 housenumber: 49

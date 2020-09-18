@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 54.086610300000004
 longitude: 9.6525347
-postcode: 24594
+postcode: "24594"
 city: Hohenwestedt
 street: "Güterstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.5764513
 longitude: 9.705708000000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bahnhofstraße"
 housenumber: 52

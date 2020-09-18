@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.340890800000004
 longitude: 9.9022231
-postcode: 24796
+postcode: "24796"
 city: Krummwisch
 street: "Heischhof"
 housenumber: 1

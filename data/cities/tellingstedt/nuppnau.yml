@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 54.2194799
 longitude: 9.279960800000001
-postcode: 25782
+postcode: "25782"
 city: Tellingstedt
 street: "Schulweg"
 housenumber: 2

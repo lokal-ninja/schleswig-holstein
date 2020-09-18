@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 53.679402800000005
 longitude: 10.1439909
-postcode: 22949
+postcode: "22949"
 city: Ammersbek
 street: "Ferdinand-Harten-Straße"
 housenumber: 8

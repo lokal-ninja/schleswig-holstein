@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 54.7860014
 longitude: 9.434082
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 4-8

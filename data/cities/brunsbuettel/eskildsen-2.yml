@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.909391600000006
 longitude: 9.1419832
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Eddelaker Straße"
 housenumber: 131

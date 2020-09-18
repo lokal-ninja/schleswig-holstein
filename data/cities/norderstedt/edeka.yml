@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.707146800000004
 longitude: 9.9899792
-postcode: 22846
+postcode: "22846"
 city: Norderstedt
 street: "Rathausallee"
 housenumber: 35

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.805752000000005
 longitude: 10.0029888
-postcode: 24629
+postcode: "24629"
 city: Kisdorf
 street: "Henstedter Straße"
 housenumber: 2

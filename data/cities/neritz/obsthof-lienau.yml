@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.7876467
 longitude: 10.2989444
-postcode: 23843
+postcode: "23843"
 city: Neritz
 street: "Bergstraße"
 housenumber: 1

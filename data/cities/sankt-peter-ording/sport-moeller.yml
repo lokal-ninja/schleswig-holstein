@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.305520900000005
 longitude: 8.6486363
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Nordergeest"
 housenumber: 2

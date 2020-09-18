@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.683336600000004
 longitude: 9.9874753
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Europaallee"
 housenumber: 8

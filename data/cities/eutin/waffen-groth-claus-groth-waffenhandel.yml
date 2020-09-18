@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 54.12932060000001
 longitude: 10.621857700000001
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Bürgermeister-Steenbock-Straße"
 housenumber: 25

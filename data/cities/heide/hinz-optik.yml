@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.195061900000006
 longitude: 9.094837400000001
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Markt"
 housenumber: 9

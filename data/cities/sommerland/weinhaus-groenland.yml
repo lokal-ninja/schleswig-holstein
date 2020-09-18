@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 53.8222481
 longitude: 9.586323100000001
-postcode: 25358
+postcode: "25358"
 city: Sommerland
 street: "Grönland"
 housenumber: 13

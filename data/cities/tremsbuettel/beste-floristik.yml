@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.7642667
 longitude: 10.3257434
-postcode: 22967
+postcode: "22967"
 city: Tremsbüttel
 street: "In de Butz"
 housenumber: 4

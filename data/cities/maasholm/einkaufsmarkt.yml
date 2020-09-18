@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.6833758
 longitude: 9.9908965
-postcode: 24404
+postcode: "24404"
 city: Maasholm
 street: "Hauptstraße"
 housenumber: 48

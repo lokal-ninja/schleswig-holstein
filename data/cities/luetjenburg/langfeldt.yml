@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 54.2970333
 longitude: 10.5889342
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Neverstorfer Straße"
 housenumber: 9

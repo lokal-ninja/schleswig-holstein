@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.8101446
 longitude: 8.701694700000001
-postcode: 25924
+postcode: "25924"
 city: Emmelsbüll-Horsbüll
 street: "Dorfstraße"
 housenumber: 45-49

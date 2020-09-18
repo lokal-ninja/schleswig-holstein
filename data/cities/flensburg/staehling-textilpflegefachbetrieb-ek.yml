@@ -3,10 +3,10 @@ type: way
 shop: Wäscherei
 latitude: 54.792655700000005
 longitude: 9.4660615
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Engelsbyer Straße"
 housenumber: 5
-phone: ""
+phone: "+49 461 62555"
 opening_hours: ""
-website: ""
+website: "staehling-textilpflege.de"

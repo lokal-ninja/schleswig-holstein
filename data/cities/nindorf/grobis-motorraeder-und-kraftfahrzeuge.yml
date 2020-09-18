@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.0788195
 longitude: 9.1376927
-postcode: 25704
+postcode: "25704"
 city: Nindorf
 street: "Farnewinkler Straße"
 housenumber: 14

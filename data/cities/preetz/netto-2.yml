@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.24369660000001
 longitude: 10.2768399
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kieler Straße"
 housenumber: 31

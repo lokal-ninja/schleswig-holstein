@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.7435727
 longitude: 9.6565378
-postcode: 25336
+postcode: "25336"
 city: Elmshorn
 street: "Ollnsstraße"
 housenumber: 64

@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 53.689679600000005
 longitude: 9.982270300000001
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Kohfurth"
 housenumber: 15
 phone: ""
-opening_hours: "Mo-Th 07:00-20:00; Fr-Sa 07:00-21:00"
+opening_hours: "Mo-Th 07:00-20:00; Fr-Sa 07:00-21:00; PH off"
 website: ""

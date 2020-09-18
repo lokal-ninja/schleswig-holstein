@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.773061600000005
 longitude: 9.4347753
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Schleswiger Straße"
 housenumber: 48

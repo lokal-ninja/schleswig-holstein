@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.2916791
 longitude: 10.8874993
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Markt"
 housenumber: 27

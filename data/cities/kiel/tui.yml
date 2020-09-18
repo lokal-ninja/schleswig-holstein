@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.334068200000004
 longitude: 10.133455600000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.78444150000001
 longitude: 9.4355665
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Nikolaistraße"
 housenumber: 2-6

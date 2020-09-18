@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.7571445
 longitude: 9.4008851
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Ochsenweg"
 housenumber: 28

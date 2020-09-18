@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.868982200000005
 longitude: 10.6918365
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Glockengießerstraße"
 housenumber: 26

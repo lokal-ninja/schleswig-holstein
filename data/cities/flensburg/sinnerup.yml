@@ -3,10 +3,10 @@ type: node
 shop: Warenhaus
 latitude: 54.7834366
 longitude: 9.4386278
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 57-61
 phone: "+49 461 43052040"
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
+opening_hours: "Mo-Sa 09:30-19:00; Su, PH off"
 website: "https://www.sinnerup.de/flensburg"

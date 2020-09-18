@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.53185250000001
 longitude: 10.2537906
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Am Salteich"
 housenumber: 58

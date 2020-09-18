@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 54.324358700000005
 longitude: 10.1200034
-postcode: 24116
+postcode: "24116"
 city: Kiel
 street: "Wilhelmplatz"
 housenumber: 6
-phone: "+49 431 93639"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00; PH off; 2019 Jul 22-2019 Aug 04 closed Sommerferien"
-website: "http://www.zapata-buch.de/"
+phone: ""
+opening_hours: "Mo-Tu,Th-Fr 10:00-18:00, We,Sa 10:00-14:00; PH off"
+website: ""

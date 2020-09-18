@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 54.5417908
 longitude: 9.579913300000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Marie-Curie-Straße"
 housenumber: 2

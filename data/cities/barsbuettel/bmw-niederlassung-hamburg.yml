@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.577100800000004
 longitude: 10.193107000000001
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Rahlstedter Straße"
 housenumber: 4-10

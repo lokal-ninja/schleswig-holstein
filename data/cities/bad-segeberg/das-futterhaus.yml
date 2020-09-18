@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.949661500000005
 longitude: 10.3048801
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Ziegelstraße"
 housenumber: 119

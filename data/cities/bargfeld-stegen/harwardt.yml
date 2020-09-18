@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.766629
 longitude: 10.1866543
-postcode: 23863
+postcode: "23863"
 city: Bargfeld-Stegen
 street: "Kayhuder Straße"
 housenumber: 2

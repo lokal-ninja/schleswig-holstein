@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8090434
 longitude: 10.376998
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Besttorstraße"
 housenumber: 14-15

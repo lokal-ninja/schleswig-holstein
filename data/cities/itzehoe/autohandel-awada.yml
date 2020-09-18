@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.925829300000004
 longitude: 9.5008874
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Hafenstraße"
 housenumber: 12

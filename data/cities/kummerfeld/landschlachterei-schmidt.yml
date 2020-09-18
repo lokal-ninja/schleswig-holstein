@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.6871639
 longitude: 9.7921055
-postcode: 25495
+postcode: "25495"
 city: Kummerfeld
 street: "Bundesstraße"
 housenumber: 34

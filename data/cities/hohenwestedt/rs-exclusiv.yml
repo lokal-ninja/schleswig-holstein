@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.097478900000006
 longitude: 9.6677736
-postcode: 24594
+postcode: "24594"
 city: Hohenwestedt
 street: "Kieler Straße"
 housenumber: 70-74

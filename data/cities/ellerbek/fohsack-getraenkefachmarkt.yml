@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.6412102
 longitude: 9.889764300000001
-postcode: 25474
+postcode: "25474"
 city: Ellerbek
 street: "Waldhof"
 housenumber: 2

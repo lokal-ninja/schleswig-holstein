@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.053774700000005
 longitude: 9.2046083
-postcode: 25727
+postcode: "25727"
 city: Süderhastedt
 street: "Hauptstraße"
 housenumber: 4

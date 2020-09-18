@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 54.79255070000001
 longitude: 9.4704732
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Mozartstraße"
 housenumber: 37
-phone: ""
+phone: "+49 461 31801286"
 opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: ""
+website: "http://sunnyboychica.de"

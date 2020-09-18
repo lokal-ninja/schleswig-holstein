@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.330316800000006
 longitude: 10.132464200000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 26

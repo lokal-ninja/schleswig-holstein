@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 53.6296789
 longitude: 10.6920952
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 122

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7891953
 longitude: 9.4316949
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 81

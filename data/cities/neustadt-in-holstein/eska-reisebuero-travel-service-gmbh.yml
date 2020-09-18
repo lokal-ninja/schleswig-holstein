@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.107999400000004
 longitude: 10.815776000000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Kremper Straße"
 housenumber: 2-4

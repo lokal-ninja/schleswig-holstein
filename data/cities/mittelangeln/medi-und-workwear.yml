@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.682949300000004
 longitude: 9.604096400000001
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Raiffeisenstraße"
 housenumber: 1

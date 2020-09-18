@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 54.2332739
 longitude: 10.2816934
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kirchenstraße"
 housenumber: 17

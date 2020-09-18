@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.9399912
 longitude: 9.1836844
-postcode: 25715
+postcode: "25715"
 city: Averlak
 street: "Hauptstraße"
 housenumber: 68

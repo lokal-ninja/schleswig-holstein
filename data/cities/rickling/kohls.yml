@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.008074500000006
 longitude: 10.163466600000001
-postcode: 
+postcode: ""
 city: Rickling
 street: "Dorfstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.76640080000001
 longitude: 10.190036000000001
-postcode: 23863
+postcode: "23863"
 city: Bargfeld-Stegen
 street: "Elmenhorster Straße"
 housenumber: 4

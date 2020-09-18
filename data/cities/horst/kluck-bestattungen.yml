@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 53.812393
 longitude: 9.623868400000001
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Bahnhofstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.4079624
 longitude: 9.9741391
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Eichstraße"
 housenumber: 1

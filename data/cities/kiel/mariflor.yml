@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.312381200000004
 longitude: 10.1119008
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Saarbrückenstraße"
 housenumber: 55

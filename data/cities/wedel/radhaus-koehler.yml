@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.574903500000005
 longitude: 9.7062659
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bahnhofstraße"
 housenumber: 69

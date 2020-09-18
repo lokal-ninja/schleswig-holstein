@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.4761808
 longitude: 9.0505236
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Krämerstraße"
 housenumber: 2

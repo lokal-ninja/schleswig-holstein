@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.5047202
 longitude: 9.595362100000001
-postcode: 24857
+postcode: "24857"
 city: Fahrdorf
 street: "Dorfstraße"
 housenumber: 48

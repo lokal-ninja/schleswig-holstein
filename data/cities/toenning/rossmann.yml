@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 54.323102500000005
 longitude: 8.953838000000001
-postcode: 25832
+postcode: "25832"
 city: Tönning
 street: "Dithmarscher Straße"
 housenumber: 5

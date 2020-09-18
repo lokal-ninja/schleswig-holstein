@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.699104000000005
 longitude: 10.770472300000002
-postcode: 23909
+postcode: "23909"
 city: Ratzeburg
 street: "Demolierung"
 housenumber: 9

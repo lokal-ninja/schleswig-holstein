@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.499675800000006
 longitude: 9.2745239
-postcode: 25885
+postcode: "25885"
 city: Oster-Ohrstedt
 street: "Schwabstedter Damm"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3232044
 longitude: 10.1698967
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Schönberger Straße"
 housenumber: 151

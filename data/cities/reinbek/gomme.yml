@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.551524
 longitude: 10.2483523
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Möllner Landstraße"
 housenumber: 15

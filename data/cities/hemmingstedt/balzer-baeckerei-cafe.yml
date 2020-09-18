@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.14700070000001
 longitude: 9.0722068
-postcode: 25770
+postcode: "25770"
 city: Hemmingstedt
 street: "Meldorfer Straße"
 housenumber: 14

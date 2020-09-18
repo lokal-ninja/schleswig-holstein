@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.538016500000005
 longitude: 10.681159500000001
-postcode: 21514
+postcode: "21514"
 city: Güster
 street: "Hauptstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.809310100000005
 longitude: 10.3717666
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Hindenburgstraße"
 housenumber: 29

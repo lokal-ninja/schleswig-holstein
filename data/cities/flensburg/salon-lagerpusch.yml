@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.782401
 longitude: 9.4363851
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Südermarkt"
 housenumber: 8

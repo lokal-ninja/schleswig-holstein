@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.756112400000006
 longitude: 9.7575303
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "Meiereistraße"
 housenumber: 13

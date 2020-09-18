@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7169158
 longitude: 10.2894573
-postcode: 22941
+postcode: "22941"
 city: Bargteheide
 street: "Otto-Hahn-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.0486328
 longitude: 10.7504123
-postcode: 23683
+postcode: "23683"
 city: Scharbeutz
 street: "Strandallee"
 housenumber: 30

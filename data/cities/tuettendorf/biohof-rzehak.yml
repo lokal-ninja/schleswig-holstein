@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.378364000000005
 longitude: 9.9688915
-postcode: 24214
+postcode: "24214"
 city: Tüttendorf
 street: "Holander Allee"
 housenumber: 24

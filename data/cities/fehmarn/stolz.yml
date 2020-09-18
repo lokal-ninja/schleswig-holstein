@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 54.4386571
 longitude: 11.196625300000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Breite Straße"
 housenumber: 2-6

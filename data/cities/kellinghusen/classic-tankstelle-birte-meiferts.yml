@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.9437189
 longitude: 9.728273
-postcode: 25548
+postcode: "25548"
 city: Kellinghusen
 street: "Mühlenbeker Straße"
 housenumber: 2

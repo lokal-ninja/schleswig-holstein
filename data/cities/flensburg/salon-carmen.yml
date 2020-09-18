@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.789498900000005
 longitude: 9.4263782
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Marienhölzungsweg"
 housenumber: 2

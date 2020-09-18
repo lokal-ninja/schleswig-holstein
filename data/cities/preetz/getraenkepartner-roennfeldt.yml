@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.2362601
 longitude: 10.2730552
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Hufenweg"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.8364952
 longitude: 9.4899386
-postcode: 25361
+postcode: "25361"
 city: Krempe
 street: "Reichenstraße"
 housenumber: 2

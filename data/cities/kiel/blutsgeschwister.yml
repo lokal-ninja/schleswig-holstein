@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3231526
 longitude: 10.1380266
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Kehdenstraße"
 housenumber: 5

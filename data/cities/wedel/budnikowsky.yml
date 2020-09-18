@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.578132200000006
 longitude: 9.705834000000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bahnhofstraße"
 housenumber: 31

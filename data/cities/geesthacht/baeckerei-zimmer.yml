@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.43491100000001
 longitude: 10.3461189
-postcode: 21502
+postcode: "21502"
 city: Geesthacht
 street: "Spandauer Straße"
 housenumber: 10-12

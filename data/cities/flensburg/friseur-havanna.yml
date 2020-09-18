@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7959662
 longitude: 9.4292741
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neustadt"
 housenumber: 7

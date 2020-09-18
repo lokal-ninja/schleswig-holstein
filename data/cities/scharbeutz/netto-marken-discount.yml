@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0437535
 longitude: 10.6682176
-postcode: 23684
+postcode: "23684"
 city: Scharbeutz
 street: "Ahrensböker Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 54.408871600000005
 longitude: 9.974538800000001
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Eichstraße"
 housenumber: 7

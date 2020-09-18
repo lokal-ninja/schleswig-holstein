@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.8156243
 longitude: 9.472567
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Twedter Plack"
 housenumber: 1

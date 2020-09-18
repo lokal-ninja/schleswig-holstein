@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.571738800000006
 longitude: 8.946980700000001
-postcode: 25821
+postcode: "25821"
 city: Reußenköge
 street: "Desmerciereskoog"
 housenumber: 4

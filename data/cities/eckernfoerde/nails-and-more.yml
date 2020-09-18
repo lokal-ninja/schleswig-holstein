@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.471034
 longitude: 9.835668700000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Rathausmarkt"
 housenumber: 4-6

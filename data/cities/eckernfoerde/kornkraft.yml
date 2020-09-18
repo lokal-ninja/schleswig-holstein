@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.47288330000001
 longitude: 9.8340899
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Langebrückstraße"
 housenumber: 30

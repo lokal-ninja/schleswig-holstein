@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.664424000000004
 longitude: 10.224490000000001
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Bogenstraße"
 housenumber: 46

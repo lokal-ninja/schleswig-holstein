@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.290991500000004
 longitude: 10.885758000000001
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Johannisstraße"
 housenumber: 5

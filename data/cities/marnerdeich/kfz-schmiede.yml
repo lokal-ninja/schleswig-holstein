@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.948256400000005
 longitude: 8.9817351
-postcode: 25709
+postcode: "25709"
 city: Marnerdeich
 street: "Nordseestraße"
 housenumber: 2

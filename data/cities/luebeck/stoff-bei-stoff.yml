@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.871785100000004
 longitude: 10.689957600000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Große Burgstraße"
 housenumber: 48

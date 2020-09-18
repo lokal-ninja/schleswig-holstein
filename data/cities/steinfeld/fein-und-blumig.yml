@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.601555000000005
 longitude: 9.741080100000001
-postcode: 24888
+postcode: "24888"
 city: Steinfeld
 street: "Hof Lausen"
 housenumber: 1

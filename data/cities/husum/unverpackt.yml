@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4779884
 longitude: 9.054472500000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Norderstraße"
 housenumber: 25

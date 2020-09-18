@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.723906400000004
 longitude: 9.900505
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Kieler Straße"
 housenumber: 19

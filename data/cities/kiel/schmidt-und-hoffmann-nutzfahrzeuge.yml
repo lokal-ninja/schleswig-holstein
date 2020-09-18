@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.299638800000004
 longitude: 10.1075897
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Hamburger Chaussee"
 housenumber: 171

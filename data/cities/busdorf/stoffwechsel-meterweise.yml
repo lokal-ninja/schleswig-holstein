@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.4910196
 longitude: 9.551968500000001
-postcode: 24866
+postcode: "24866"
 city: Busdorf
 street: "Rendsburger Straße"
 housenumber: 29a

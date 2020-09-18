@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.495457300000005
 longitude: 9.0858971
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Robert-Koch-Straße"
 housenumber: 32

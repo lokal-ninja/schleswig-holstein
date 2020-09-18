@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.717944200000005
 longitude: 10.2887982
-postcode: 22941
+postcode: "22941"
 city: Bargteheide
 street: "Otto-Hahn-Straße"
 housenumber: 5

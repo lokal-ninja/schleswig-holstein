@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.156558600000004
 longitude: 10.444285800000001
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Schillener Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.936534300000005
 longitude: 8.3260915
-postcode: 25996
+postcode: "25996"
 city: Wenningstedt-Braderup (Sylt)
 street: "Hauptstraße"
 housenumber: 12

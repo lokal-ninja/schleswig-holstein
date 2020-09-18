@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.575833100000004
 longitude: 10.195177900000001
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Rahlstedter Straße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

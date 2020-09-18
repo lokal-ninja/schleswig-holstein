@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.787539100000004
 longitude: 9.433078
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.7893757
 longitude: 9.7728277
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Reichenstraße"
 housenumber: 4

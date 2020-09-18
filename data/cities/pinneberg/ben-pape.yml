@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.6752072
 longitude: 9.8054676
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Haderslebener Straße"
 housenumber: 4

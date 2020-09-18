@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.3082021
 longitude: 9.7193166
-postcode: 24790
+postcode: "24790"
 city: Schacht-Audorf
 street: "Dorfstraße"
 housenumber: 46

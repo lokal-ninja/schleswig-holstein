@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3026436
 longitude: 9.6696617
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Am Bahnhof"
 housenumber: 11-19

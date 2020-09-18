@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.0909198
 longitude: 10.8602044
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Wiesenstraße"
 housenumber: 2

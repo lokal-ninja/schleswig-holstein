@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.8021474
 longitude: 9.9790121
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Kirchweg"
 housenumber: 86

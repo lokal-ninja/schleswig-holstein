@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3601274
 longitude: 10.1341038
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Prinz-Heinrich-Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8832316
 longitude: 9.4766949
-postcode: 25569
+postcode: "25569"
 city: Kremperheide
 street: "Dorfstraße"
 housenumber: 27a

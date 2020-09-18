@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.804002600000004
 longitude: 10.383560500000002
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Turmstraße"
 housenumber: 41

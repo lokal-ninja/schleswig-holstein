@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 54.358763700000004
 longitude: 11.0877365
-postcode: 23775
+postcode: "23775"
 city: Großenbrode
 street: "Südstrand"
 housenumber: 32a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 07:00-12:30; Fr-Su 07:00-17:00"
 website: ""

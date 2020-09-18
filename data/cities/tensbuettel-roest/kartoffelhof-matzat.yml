@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.105826300000004
 longitude: 9.223622500000001
-postcode: 25767
+postcode: "25767"
 city: Tensbüttel-Röst
 street: "Dellbrückweg"
 housenumber: 7

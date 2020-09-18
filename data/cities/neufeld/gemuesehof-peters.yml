@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.912534300000004
 longitude: 9.0027228
-postcode: 25724
+postcode: "25724"
 city: Neufeld
 street: "Niendieker Strot"
 housenumber: 47

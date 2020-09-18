@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.7517949
 longitude: 9.6650088
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Steindamm"
 housenumber: 43

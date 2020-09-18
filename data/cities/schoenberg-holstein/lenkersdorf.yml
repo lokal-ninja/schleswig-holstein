@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.3901708
 longitude: 10.3734788
-postcode: 24217
+postcode: "24217"
 city: Schönberg (Holstein)
 street: "Bahnhofstraße"
 housenumber: 24

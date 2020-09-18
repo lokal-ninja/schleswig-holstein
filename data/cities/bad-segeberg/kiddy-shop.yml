@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.9342301
 longitude: 10.28894
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Hamburger Straße"
 housenumber: 107

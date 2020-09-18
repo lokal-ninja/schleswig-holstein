@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.903897400000005
 longitude: 9.0507092
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Nordhusener Straße"
 housenumber: 5

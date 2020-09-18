@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.3634349
 longitude: 10.136077400000001
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Am Kiel-Kanal"
 housenumber: 34

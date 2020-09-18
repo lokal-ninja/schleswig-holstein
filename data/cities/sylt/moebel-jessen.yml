@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 54.8995071
 longitude: 8.343864100000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Alte Dorfstraße"
 housenumber: 9a

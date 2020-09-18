@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.9654218
 longitude: 10.7603522
-postcode: 23669
+postcode: "23669"
 city: Timmendorfer Strand
 street: "Seestraße"
 housenumber: 32

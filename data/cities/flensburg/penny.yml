@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.758692700000005
 longitude: 9.396208900000001
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Holzkrugweg"
 housenumber: 4-6

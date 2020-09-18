@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.168320900000005
 longitude: 9.7022147
-postcode: 24816
+postcode: "24816"
 city: Luhnstedt
 street: "Dörpstraat"
 housenumber: 

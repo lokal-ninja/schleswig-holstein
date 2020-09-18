@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.434764900000005
 longitude: 10.3707629
-postcode: 21502
+postcode: "21502"
 city: Geesthacht
 street: "Bergedorfer Straße"
 housenumber: 44

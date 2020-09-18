@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.744573
 longitude: 9.7159239
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "Quern-Dingholz"
 housenumber: 1

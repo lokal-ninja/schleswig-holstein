@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.2918816
 longitude: 10.902532500000001
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Ostlandstraße"
 housenumber: 1

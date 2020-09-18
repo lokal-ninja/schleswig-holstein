@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.787316700000005
 longitude: 9.462195000000001
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Trögelsbyer Weg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.516409
 longitude: 9.562760800000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 35-37

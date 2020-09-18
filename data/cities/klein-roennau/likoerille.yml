@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.958945500000006
 longitude: 10.3200357
-postcode: 23795
+postcode: "23795"
 city: Klein Rönnau
 street: "Rahland"
 housenumber: 9

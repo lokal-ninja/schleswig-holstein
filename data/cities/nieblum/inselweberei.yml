@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.6923631
 longitude: 8.491104400000001
-postcode: 25938
+postcode: "25938"
 city: Nieblum
 street: "Jens-Jacob-Eschel-Straße"
 housenumber: 24

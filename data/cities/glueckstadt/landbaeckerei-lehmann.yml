@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.78856450000001
 longitude: 9.4248533
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Große Kremper Straße"
 housenumber: 15

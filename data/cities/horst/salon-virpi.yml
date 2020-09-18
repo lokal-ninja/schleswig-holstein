@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.8122618
 longitude: 9.620168300000001
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Heisterender Weg"
 housenumber: 1

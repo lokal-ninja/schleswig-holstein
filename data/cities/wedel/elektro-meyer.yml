@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.5793346
 longitude: 9.7333862
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Industriestraße"
 housenumber: 27b

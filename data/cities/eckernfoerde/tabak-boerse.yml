@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.471038
 longitude: 9.8369078
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.0442072
 longitude: 9.343746000000001
-postcode: 25584
+postcode: "25584"
 city: Holstenniendorf
 street: "Hohenhörner Straße"
 housenumber: 21

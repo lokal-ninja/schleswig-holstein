@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.777917200000005
 longitude: 9.3251024
-postcode: 24983
+postcode: "24983"
 city: Handewitt
 street: "Lecker Chaussee"
 housenumber: 32a

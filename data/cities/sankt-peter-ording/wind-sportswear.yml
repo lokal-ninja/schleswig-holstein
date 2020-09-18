@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.315504100000005
 longitude: 8.6068523
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Im Bad"
 housenumber: 18

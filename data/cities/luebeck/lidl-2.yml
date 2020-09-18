@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8814555
 longitude: 10.658670500000001
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Krempelsdorfer Allee"
 housenumber: 32-36

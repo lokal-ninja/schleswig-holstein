@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.6906024
 longitude: 9.9488845
-postcode: 24376
+postcode: "24376"
 city: Rabel
 street: "Dorfstraße"
 housenumber: 10

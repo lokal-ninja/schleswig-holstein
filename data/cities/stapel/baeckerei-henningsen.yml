@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3613646
 longitude: 9.241611500000001
-postcode: 25879
+postcode: "25879"
 city: Stapel
 street: "Treenestraße"
 housenumber: 1

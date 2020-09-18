@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 53.748851800000004
 longitude: 9.660016
-postcode: 25336
+postcode: "25336"
 city: Elmshorn
 street: "An der Bahn"
 housenumber: 1

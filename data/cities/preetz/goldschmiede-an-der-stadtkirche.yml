@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.231762700000004
 longitude: 10.280468800000001
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kirchenstraße"
 housenumber: 54

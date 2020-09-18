@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.5383816
 longitude: 9.5852454
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Heinrich-Hertz-Straße"
 housenumber: 24

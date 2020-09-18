@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.2357096
 longitude: 10.2798253
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Hufenweg"
 housenumber: 1

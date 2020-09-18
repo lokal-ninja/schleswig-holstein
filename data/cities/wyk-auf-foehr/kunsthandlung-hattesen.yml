@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.690018200000004
 longitude: 8.570845700000001
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Große Straße"
 housenumber: 3

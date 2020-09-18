@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6887132
 longitude: 10.7488185
-postcode: 23909
+postcode: "23909"
 city: Ratzeburg
 street: "Möllner Straße"
 housenumber: 80

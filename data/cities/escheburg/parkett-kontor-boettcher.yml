@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.463714200000005
 longitude: 10.309169800000001
-postcode: 21039
+postcode: "21039"
 city: Escheburg
 street: "Alte Landstraße"
 housenumber: 120

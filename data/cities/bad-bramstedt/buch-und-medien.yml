@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 53.9215007
 longitude: 9.8793808
-postcode: 24576
+postcode: "24576"
 city: Bad Bramstedt
 street: "Maienbeeck"
 housenumber: 15-17

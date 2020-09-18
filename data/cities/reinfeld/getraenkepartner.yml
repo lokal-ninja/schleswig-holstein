@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.8246132
 longitude: 10.4952812
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Hamburger Chaussee"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 54.790753900000006
 longitude: 9.4322458
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neue Straße"
 housenumber: 5

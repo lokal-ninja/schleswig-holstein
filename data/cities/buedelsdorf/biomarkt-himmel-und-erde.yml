@@ -1,9 +1,9 @@
 id: 835631830
 type: node
-shop: Lebensmittel
+shop: Supermarkt
 latitude: 54.3111418
 longitude: 9.6621355
-postcode: 24782
+postcode: "24782"
 city: Büdelsdorf
 street: "Am Ahlmannkai"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 54.4783922
 longitude: 11.0663947
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Alte Hauptstraße"
 housenumber: 2

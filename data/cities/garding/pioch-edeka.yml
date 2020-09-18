@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3270509
 longitude: 8.778864200000001
-postcode: 
+postcode: ""
 city: Garding
 street: "Süderstraße"
 housenumber: 

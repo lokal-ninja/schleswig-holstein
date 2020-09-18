@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.355617200000005
 longitude: 9.575172700000001
-postcode: 24811
+postcode: "24811"
 city: Owschlag
 street: "Sorgwohld"
 housenumber: 8-10

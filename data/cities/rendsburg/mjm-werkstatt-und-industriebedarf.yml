@@ -3,7 +3,7 @@ type: way
 shop: Werkzeuge
 latitude: 54.3141529
 longitude: 9.625497300000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 11b

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.176802300000006
 longitude: 9.0938496
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Fritz-Thiedemann-Ring"
 housenumber: 40

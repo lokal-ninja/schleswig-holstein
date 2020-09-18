@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.8088605
 longitude: 9.5097626
-postcode: 24999
+postcode: "24999"
 city: Wees
 street: "Birkland"
 housenumber: 5

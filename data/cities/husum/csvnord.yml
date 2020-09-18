@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 54.492994700000004
 longitude: 9.069539500000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Liebigstraße"
 housenumber: 15-17

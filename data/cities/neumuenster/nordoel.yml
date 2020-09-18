@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.0739529
 longitude: 9.996294200000001
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Brachenfelder Straße"
 housenumber: 72

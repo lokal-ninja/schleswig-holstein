@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.150382
 longitude: 10.956785700000001
-postcode: 23743
+postcode: "23743"
 city: Grömitz
 street: "Kirchenstraße"
 housenumber: 6

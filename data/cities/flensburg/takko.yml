@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 54.798239900000006
 longitude: 9.4743612
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Schottweg"
 housenumber: 94
 phone: "+49 461 97872811"
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: ""
+website: "http://takko-fashion.com"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.751715700000005
 longitude: 9.6484501
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Wedenkamp"
 housenumber: 9b

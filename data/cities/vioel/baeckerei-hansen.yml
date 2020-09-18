@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.5687511
 longitude: 9.178992800000001
-postcode: 25884
+postcode: "25884"
 city: Viöl
 street: "Westerende"
 housenumber: 20

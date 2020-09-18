@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5301862
 longitude: 10.7411866
-postcode: 23899
+postcode: "23899"
 city: Besenthal
 street: "Dorfstraße"
 housenumber: 5

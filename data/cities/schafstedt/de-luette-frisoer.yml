@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.0809367
 longitude: 9.294152
-postcode: 25725
+postcode: "25725"
 city: Schafstedt
 street: "Dorfstraße"
 housenumber: 3

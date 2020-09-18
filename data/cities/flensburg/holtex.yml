@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.762826000000004
 longitude: 9.4157027
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Am Sophienhof"
 housenumber: 2

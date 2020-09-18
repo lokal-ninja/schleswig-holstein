@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.75648
 longitude: 9.659549100000001
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Bauerweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.5156538
 longitude: 10.1652166
-postcode: 21031
+postcode: "21031"
 city: Hamburg
 street: "Heidhorst"
 housenumber: 3

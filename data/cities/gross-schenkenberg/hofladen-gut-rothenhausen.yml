@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.806375
 longitude: 10.600709400000001
-postcode: 23860
+postcode: "23860"
 city: Groß Schenkenberg
 street: "Gut Rothenhausen"
 housenumber: 4

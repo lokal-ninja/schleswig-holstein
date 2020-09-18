@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.907963200000005
 longitude: 8.3101151
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Kirchenweg"
 housenumber: 9

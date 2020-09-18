@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.326473400000005
 longitude: 10.181446000000001
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Schönberger Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.81542640000001
 longitude: 9.4736264
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Marrensdamm"
 housenumber: 12a

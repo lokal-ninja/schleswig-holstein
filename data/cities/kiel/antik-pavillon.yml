@@ -3,10 +3,10 @@ type: node
 shop: Antiquitäten
 latitude: 54.3444476
 longitude: 10.129635700000001
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Kleiststraße"
 housenumber: 62a
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 14:00-18:00"
 website: ""

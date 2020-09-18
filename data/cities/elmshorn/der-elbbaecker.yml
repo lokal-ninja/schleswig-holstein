@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.762599900000005
 longitude: 9.6636659
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Friedensallee"
 housenumber: 50a

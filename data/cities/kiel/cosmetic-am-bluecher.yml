@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.3421809
 longitude: 10.1384694
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Blücherplatz"
 housenumber: 17

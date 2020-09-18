@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.013896200000005
 longitude: 10.020840600000001
-postcode: 24598
+postcode: "24598"
 city: Boostedt
 street: "Bahnhofstraße"
 housenumber: 50

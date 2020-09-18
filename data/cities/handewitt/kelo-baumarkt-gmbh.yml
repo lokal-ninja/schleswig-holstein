@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.7732862
 longitude: 9.320351
-postcode: 24983
+postcode: "24983"
 city: Handewitt
 street: "Wiesharder Straße"
 housenumber: 2-4

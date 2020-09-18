@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.329558600000006
 longitude: 10.1328653
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 10-12

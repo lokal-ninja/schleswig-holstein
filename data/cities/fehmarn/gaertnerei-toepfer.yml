@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 54.4506809
 longitude: 11.1125971
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: ""
 housenumber: 1

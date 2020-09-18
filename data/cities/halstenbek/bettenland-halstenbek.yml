@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.630652600000005
 longitude: 9.8612037
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Industriestraße"
 housenumber: 2-4

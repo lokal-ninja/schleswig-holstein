@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.909103400000006
 longitude: 8.303278800000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Strandstraße"
 housenumber: 14

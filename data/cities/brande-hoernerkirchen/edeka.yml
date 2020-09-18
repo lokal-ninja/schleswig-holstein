@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.854962500000006
 longitude: 9.7053428
-postcode: 25364
+postcode: "25364"
 city: Brande-Hörnerkirchen
 street: "Steinstraße"
 housenumber: 2

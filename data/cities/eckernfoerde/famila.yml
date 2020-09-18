@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.45282400000001
 longitude: 9.8357077
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Rendsburger Straße"
 housenumber: 119

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.113860200000005
 longitude: 10.2074303
-postcode: 24601
+postcode: "24601"
 city: Wankendorf
 street: "Röterberg"
 housenumber: 15

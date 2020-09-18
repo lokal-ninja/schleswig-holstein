@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.801234900000004
 longitude: 9.4536259
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Fichtestraße"
 housenumber: 9

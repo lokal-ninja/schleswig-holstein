@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.905831400000004
 longitude: 9.5078945
-postcode: 25524
+postcode: "25524"
 city: Breitenburg
 street: "Elmshorner Straße"
 housenumber: 36

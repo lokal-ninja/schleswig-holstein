@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.9585329
 longitude: 10.8705171
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Kurgartenstraße"
 housenumber: 99

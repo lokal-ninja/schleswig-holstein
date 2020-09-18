@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.8947961
 longitude: 8.7513158
-postcode: 25927
+postcode: "25927"
 city: Aventoft
 street: "Rosenkranzer Straße"
 housenumber: 34

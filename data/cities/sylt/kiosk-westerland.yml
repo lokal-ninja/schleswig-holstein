@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.9079594
 longitude: 8.3099714
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Kirchenweg"
 housenumber: 7

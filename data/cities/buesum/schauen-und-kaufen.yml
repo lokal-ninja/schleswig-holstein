@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.138276000000005
 longitude: 8.875849500000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Am Bauhof"
 housenumber: 1a

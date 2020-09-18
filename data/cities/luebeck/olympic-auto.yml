@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.873657300000005
 longitude: 10.6652932
-postcode: 23554
+postcode: "23554"
 city: Lübeck
 street: "Fackenburger Allee"
 housenumber: 47

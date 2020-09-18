@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8078937
 longitude: 10.158002600000001
-postcode: 23845
+postcode: "23845"
 city: Itzstedt
 street: "Segeberger Straße"
 housenumber: 21

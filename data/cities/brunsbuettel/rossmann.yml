@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8983623
 longitude: 9.127712200000001
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Röntgenstraße"
 housenumber: 2

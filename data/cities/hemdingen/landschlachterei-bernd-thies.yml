@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.762591
 longitude: 9.842854800000001
-postcode: 25485
+postcode: "25485"
 city: Hemdingen
 street: "Am Sportplatz"
 housenumber: 8

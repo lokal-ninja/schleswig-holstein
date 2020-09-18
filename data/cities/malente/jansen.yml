@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.187005600000006
 longitude: 10.5632634
-postcode: 23714
+postcode: "23714"
 city: Malente
 street: "Lütjenburger Straße"
 housenumber: 101a

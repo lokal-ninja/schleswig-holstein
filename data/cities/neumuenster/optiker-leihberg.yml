@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.0692542
 longitude: 9.9879979
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 68

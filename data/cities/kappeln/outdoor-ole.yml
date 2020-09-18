@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.6597231
 longitude: 9.933766100000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Am Hafen"
 housenumber: 1

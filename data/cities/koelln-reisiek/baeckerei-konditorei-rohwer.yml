@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.7565724
 longitude: 9.6886062
-postcode: 25337
+postcode: "25337"
 city: Kölln-Reisiek
 street: "Köllner Chaussee"
 housenumber: 33

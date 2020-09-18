@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.2796893
 longitude: 10.883602600000001
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Sebenter Weg"
 housenumber: 25a

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.9343197
 longitude: 9.470527500000001
-postcode: 25524
+postcode: "25524"
 city: Heiligenstedten
 street: "Juliankadamm"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3721571
 longitude: 10.496008900000001
-postcode: 24257
+postcode: "24257"
 city: Hohenfelde
 street: "Strandstraße"
 housenumber: 13

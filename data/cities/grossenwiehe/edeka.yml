@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.7062097
 longitude: 9.248495100000001
-postcode: 24969
+postcode: "24969"
 city: Großenwiehe
 street: "Hauptstraße"
 housenumber: 2

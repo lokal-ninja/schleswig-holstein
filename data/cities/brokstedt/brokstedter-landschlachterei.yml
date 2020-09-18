@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.989139400000006
 longitude: 9.824183300000001
-postcode: 24616
+postcode: "24616"
 city: Brokstedt
 street: "Osterfeld"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.8102497
 longitude: 9.5956021
-postcode: 24977
+postcode: "24977"
 city: Ringsberg
 street: "Glücksburger Straße"
 housenumber: 27

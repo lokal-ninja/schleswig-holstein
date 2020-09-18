@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.327289
 longitude: 8.778544700000001
-postcode: 25836
+postcode: "25836"
 city: Garding
 street: "Süderstraße"
 housenumber: 

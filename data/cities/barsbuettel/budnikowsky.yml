@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.566690900000005
 longitude: 10.1641226
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Am AKKU"
 housenumber: 9

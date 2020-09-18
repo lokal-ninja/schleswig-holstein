@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.0895444
 longitude: 9.0758762
-postcode: 25704
+postcode: "25704"
 city: Meldorf
 street: "Zingelstraße"
 housenumber: 25

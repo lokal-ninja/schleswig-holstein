@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 54.741370700000004
 longitude: 9.8972622
-postcode: 24395
+postcode: "24395"
 city: Gelting
 street: "Süderholm"
 housenumber: 41

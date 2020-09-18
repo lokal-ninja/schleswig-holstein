@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6814563
 longitude: 9.9962119
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Ohechaussee"
 housenumber: 19

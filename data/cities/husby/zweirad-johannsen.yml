@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.7605191
 longitude: 9.5755494
-postcode: 24975
+postcode: "24975"
 city: Husby
 street: "Schleswiger Straße"
 housenumber: 30

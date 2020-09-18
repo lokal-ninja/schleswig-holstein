@@ -1,12 +1,12 @@
 id: 5119317170
 type: node
 shop: Sanitätshaus
-latitude: 54.409265700000006
-longitude: 9.975113200000001
-postcode: 24214
+latitude: 54.4092591
+longitude: 9.9751394
+postcode: "24214"
 city: Gettorf
 street: "Mühlenstraße"
 housenumber: 7
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 4346 9262989"
+opening_hours: "Mo,Tu,We,Fr 08:00-13:00,15:00-18:00; We 08:00-13:00; PH,Sa,Su off"
+website: "https://www.rieckhof-gettorf.de/"

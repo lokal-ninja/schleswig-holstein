@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.784330800000006
 longitude: 9.4361271
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 39

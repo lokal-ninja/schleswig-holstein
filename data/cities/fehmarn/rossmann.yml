@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.439080700000005
 longitude: 11.1965649
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Am Markt"
 housenumber: 10

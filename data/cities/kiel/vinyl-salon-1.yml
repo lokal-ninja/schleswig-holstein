@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 54.3246453
 longitude: 10.115958500000001
-postcode: 24116
+postcode: "24116"
 city: Kiel
 street: "Metzstraße"
 housenumber: 45

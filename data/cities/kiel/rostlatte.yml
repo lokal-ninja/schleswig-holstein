@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.3270841
 longitude: 10.141902700000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Lorentzendamm"
 housenumber: 6-8

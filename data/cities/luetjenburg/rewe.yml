@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.2920169
 longitude: 10.594502700000001
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Gildenplatz"
 housenumber: 4

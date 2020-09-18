@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 54.5369936
 longitude: 9.583142200000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Werner-von-Siemens-Straße"
 housenumber: 14

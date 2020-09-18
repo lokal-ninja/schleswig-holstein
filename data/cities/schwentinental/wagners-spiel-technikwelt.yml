@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 54.285339300000004
 longitude: 10.2244205
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Dieselstraße"
 housenumber: 5

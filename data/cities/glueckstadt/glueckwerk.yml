@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.7894287
 longitude: 9.4263592
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Große Kremper Straße"
 housenumber: 1

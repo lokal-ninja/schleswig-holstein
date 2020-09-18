@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 54.355010400000005
 longitude: 10.110554500000001
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Steenbeker Weg"
 housenumber: 34

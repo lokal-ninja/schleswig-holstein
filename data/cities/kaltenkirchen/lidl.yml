@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8342139
 longitude: 9.9638396
-postcode: 24568
+postcode: "24568"
 city: Kaltenkirchen
 street: "Flottkamp"
 housenumber: 8

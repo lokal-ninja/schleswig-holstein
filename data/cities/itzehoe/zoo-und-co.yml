@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 53.920976100000004
 longitude: 9.5070469
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Otto-Hahn-Straße"
 housenumber: 2

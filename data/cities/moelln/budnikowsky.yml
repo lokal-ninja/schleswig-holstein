@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.61484780000001
 longitude: 10.6785467
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Grambeker Weg"
 housenumber: 93

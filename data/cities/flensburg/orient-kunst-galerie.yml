@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 54.782488
 longitude: 9.435063900000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Friesische Straße"
 housenumber: 8

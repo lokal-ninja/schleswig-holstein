@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 54.5688885
 longitude: 9.176186000000001
-postcode: 25884
+postcode: "25884"
 city: Viöl
 street: "Westerende"
 housenumber: 38

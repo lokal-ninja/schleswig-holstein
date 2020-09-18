@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.07374840000001
 longitude: 9.985390200000001
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Kuhberg"
 housenumber: 55

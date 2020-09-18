@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.4105052
 longitude: 10.1293878
-postcode: 24161
+postcode: "24161"
 city: Altenholz
 street: "Erdbeerfeld"
 housenumber: 4

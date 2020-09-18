@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.662280200000005
 longitude: 9.798414300000001
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Friedrich-Ebert-Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.951748
 longitude: 9.014090000000001
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Süderstraße"
 housenumber: 3c

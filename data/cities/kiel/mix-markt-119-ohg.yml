@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.314251000000006
 longitude: 10.050601400000001
-postcode: 24109
+postcode: "24109"
 city: Kiel
 street: "Jütlandring"
 housenumber: 22

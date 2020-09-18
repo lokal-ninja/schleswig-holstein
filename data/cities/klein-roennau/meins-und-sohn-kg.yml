@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.963945100000004
 longitude: 10.320424200000001
-postcode: 23795
+postcode: "23795"
 city: Klein Rönnau
 street: "Plöner Straße"
 housenumber: 16

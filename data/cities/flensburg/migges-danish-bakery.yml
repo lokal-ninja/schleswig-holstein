@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.7900866
 longitude: 9.4314052
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 9

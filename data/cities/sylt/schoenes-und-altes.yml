@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 54.9065032
 longitude: 8.313464
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Keitumer Chaussee"
 housenumber: 8

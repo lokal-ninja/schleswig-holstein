@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.774247800000005
 longitude: 9.3970415
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Langberger Weg"
 housenumber: 4

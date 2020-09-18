@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.094431400000005
 longitude: 10.785867600000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Neukoppel"
 housenumber: 1

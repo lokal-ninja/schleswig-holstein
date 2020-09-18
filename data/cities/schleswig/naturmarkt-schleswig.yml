@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.5148644
 longitude: 9.5629605
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Königstraße"
 housenumber: 20

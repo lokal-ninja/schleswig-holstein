@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.408250200000005
 longitude: 9.9845375
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Kieler Chaussee"
 housenumber: 27

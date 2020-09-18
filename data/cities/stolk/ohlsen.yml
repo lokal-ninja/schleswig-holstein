@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.5983334
 longitude: 9.543614700000001
-postcode: 24890
+postcode: "24890"
 city: Stolk
 street: "Hauptstraße"
 housenumber: 16

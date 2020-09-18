@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6575531
 longitude: 9.9054857
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Kieler Straße"
 housenumber: 37-39

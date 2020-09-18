@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.134878400000005
 longitude: 8.865459900000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Heider Straße"
 housenumber: 15a

@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 53.860364600000004
 longitude: 10.6979883
-postcode: 23564
+postcode: "23564"
 city: Lübeck
 street: ""
-housenumber: 
+housenumber: 24
 phone: ""
 opening_hours: "Mo-Tu,Th-Fr 11:00-18:00; We,Sa 11:00-14:00; PH closed"
 website: ""

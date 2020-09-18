@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.7879233
 longitude: 10.0015509
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Norderstedter Straße"
 housenumber: 120

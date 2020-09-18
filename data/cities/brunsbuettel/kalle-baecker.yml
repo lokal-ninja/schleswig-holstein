@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8981493
 longitude: 9.1273973
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Röntgenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.787544700000005
 longitude: 9.43232
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Heiligengeistgang"
 housenumber: 9

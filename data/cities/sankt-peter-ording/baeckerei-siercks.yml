@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.28738430000001
 longitude: 8.6582182
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Böhler Landstraße"
 housenumber: 162

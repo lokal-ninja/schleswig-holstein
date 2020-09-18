@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.5931889
 longitude: 9.723690000000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Hasenkamp"
 housenumber: 12

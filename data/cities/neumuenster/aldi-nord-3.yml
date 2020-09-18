@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.081100600000006
 longitude: 9.9948198
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Goethestraße"
 housenumber: 11

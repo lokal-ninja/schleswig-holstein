@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.78057690000001
 longitude: 9.4791945
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Taruper Hauptstraße"
 housenumber: 70

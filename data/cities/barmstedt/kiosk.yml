@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.7931254
 longitude: 9.7743637
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Nappenhorn"
 housenumber: 3

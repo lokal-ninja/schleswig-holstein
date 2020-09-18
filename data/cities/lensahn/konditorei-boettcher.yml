@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 54.220061900000005
 longitude: 10.885248
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Eutiner Straße"
 housenumber: 7

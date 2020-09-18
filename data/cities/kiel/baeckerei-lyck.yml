@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.303617
 longitude: 10.176682000000001
-postcode: 24147
+postcode: "24147"
 city: Kiel
 street: "Ellerbeker Weg"
 housenumber: 109

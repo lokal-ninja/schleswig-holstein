@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 54.791485
 longitude: 9.4315747
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 34

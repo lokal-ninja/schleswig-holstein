@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2848696
 longitude: 10.0840893
-postcode: 24113
+postcode: "24113"
 city: Molfsee
 street: "Eschenbrook"
 housenumber: 2

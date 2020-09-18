@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.28684560000001
 longitude: 10.2263537
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Mergenthalerstraße"
 housenumber: 1

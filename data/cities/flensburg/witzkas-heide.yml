@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.790508800000005
 longitude: 9.4308701
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Toosbüystraße"
 housenumber: 3

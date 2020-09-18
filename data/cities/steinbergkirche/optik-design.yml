@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.754853700000005
 longitude: 9.7603396
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "Nordstraße"
 housenumber: 1

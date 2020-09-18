@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8603735
 longitude: 10.6671171
-postcode: 23558
+postcode: "23558"
 city: Lübeck
 street: "Töpferweg"
 housenumber: 57

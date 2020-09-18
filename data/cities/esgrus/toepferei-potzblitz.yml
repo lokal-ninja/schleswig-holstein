@@ -3,7 +3,7 @@ type: way
 shop: Töpferei
 latitude: 54.7003123
 longitude: 9.794150400000001
-postcode: 24402
+postcode: "24402"
 city: Esgrus
 street: "Brunsholm"
 housenumber: 16

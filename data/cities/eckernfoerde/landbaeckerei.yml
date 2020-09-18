@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.464114200000004
 longitude: 9.836271
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kakabellenweg"
 housenumber: 11

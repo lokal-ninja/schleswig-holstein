@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.804665500000006
 longitude: 9.626551000000001
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Elmshorner Straße"
 housenumber: 33

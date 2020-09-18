@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.772111
 longitude: 10.738032700000002
-postcode: 23627
+postcode: "23627"
 city: Groß Sarau
 street: "Hauptstraße"
 housenumber: 28

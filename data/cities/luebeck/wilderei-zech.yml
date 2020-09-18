@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.9115927
 longitude: 10.7385851
-postcode: 23569
+postcode: "23569"
 city: Lübeck
 street: "Schäferkamp"
 housenumber: 15

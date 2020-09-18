@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.3254755
 longitude: 10.117743200000001
-postcode: 24116
+postcode: "24116"
 city: Kiel
 street: "Weißenburgstraße"
 housenumber: 21-29

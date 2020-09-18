@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 53.9228425
 longitude: 9.52543
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Sieversstraße"
 housenumber: 32

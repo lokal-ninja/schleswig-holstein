@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.8356677
 longitude: 9.483468700000001
-postcode: 25361
+postcode: "25361"
 city: Krempe
 street: "Breite Straße"
 housenumber: 107

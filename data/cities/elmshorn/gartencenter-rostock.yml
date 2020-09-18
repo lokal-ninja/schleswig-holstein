@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.748549100000005
 longitude: 9.6916738
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Hamburger Straße"
 housenumber: 209

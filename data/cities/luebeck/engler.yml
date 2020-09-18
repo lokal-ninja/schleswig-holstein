@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.865496900000004
 longitude: 10.7441741
-postcode: 23566
+postcode: "23566"
 city: Lübeck
 street: "Im Gleisdreieck"
 housenumber: 37

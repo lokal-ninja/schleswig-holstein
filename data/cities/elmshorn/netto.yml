@@ -1,12 +1,12 @@
-id: 35584671
-type: way
+id: 441360352
+type: node
 shop: Supermarkt
-latitude: 53.7459488
-longitude: 9.6442449
-postcode: 25336
+latitude: 53.7540587
+longitude: 9.651708600000001
+postcode: "25336"
 city: Elmshorn
-street: "Westerstraße"
-housenumber: 98
+street: "Reichenstraße"
+housenumber: 16
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; PH closed"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

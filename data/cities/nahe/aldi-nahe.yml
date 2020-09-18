@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7999907
 longitude: 10.1446722
-postcode: 23866
+postcode: "23866"
 city: Nahe
 street: "Brünskamp"
 housenumber: 1

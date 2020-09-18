@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.9535573
 longitude: 10.2108597
-postcode: 23812
+postcode: "23812"
 city: Wahlstedt
 street: "Neumünsterstraße"
 housenumber: 6

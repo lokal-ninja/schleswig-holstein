@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.905260000000006
 longitude: 9.488474400000001
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "De-Vos-Straße"
 housenumber: 12A

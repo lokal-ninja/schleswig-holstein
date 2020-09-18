@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.790476600000005
 longitude: 9.4445224
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Bachstraße"
 housenumber: 7

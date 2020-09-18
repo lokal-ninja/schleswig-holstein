@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.6254021
 longitude: 8.9823465
-postcode: 25821
+postcode: "25821"
 city: Bredstedt
 street: "Rosenburger Weg"
 housenumber: 2

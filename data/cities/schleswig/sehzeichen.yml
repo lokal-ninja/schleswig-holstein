@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.516207800000004
 longitude: 9.5658207
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Capitolplatz"
 housenumber: 3

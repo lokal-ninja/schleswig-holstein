@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 54.756351200000005
 longitude: 9.756847
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "Meiereistraße"
 housenumber: 17

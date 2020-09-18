@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.331587400000004
 longitude: 10.132426800000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 60

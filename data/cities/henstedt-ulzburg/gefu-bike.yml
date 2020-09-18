@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 53.7983016
 longitude: 9.983758700000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Hamburger Straße"
 housenumber: 33

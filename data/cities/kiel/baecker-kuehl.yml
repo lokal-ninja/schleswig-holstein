@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2980333
 longitude: 10.1823949
-postcode: 24147
+postcode: "24147"
 city: Kiel
 street: "Andreas-Hofer-Platz"
 housenumber: 13

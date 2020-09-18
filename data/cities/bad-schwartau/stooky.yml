@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.918234700000006
 longitude: 10.696634600000001
-postcode: 23611
+postcode: "23611"
 city: Bad Schwartau
 street: "Markttwiete"
 housenumber: 12

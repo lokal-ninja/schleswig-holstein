@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.286875200000004
 longitude: 10.8807475
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Schuhstraße"
 housenumber: 99

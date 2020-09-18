@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.653772100000005
 longitude: 9.6656755
-postcode: 25492
+postcode: "25492"
 city: Heist
 street: "Hauptstraße"
 housenumber: 9

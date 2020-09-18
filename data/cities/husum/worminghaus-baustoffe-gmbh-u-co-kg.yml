@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.4898852
 longitude: 9.036259600000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Schobüller Straße"
 housenumber: 49

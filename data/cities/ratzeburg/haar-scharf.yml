@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.694781500000005
 longitude: 10.7904228
-postcode: 23909
+postcode: "23909"
 city: Ratzeburg
 street: "Mechower Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.7656197
 longitude: 9.744239
-postcode: 25355
+postcode: "25355"
 city: Bullenkuhlen
 street: "Hauptstraße"
 housenumber: 10

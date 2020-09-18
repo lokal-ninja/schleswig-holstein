@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.900042000000006
 longitude: 9.1217547
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Emil-von-Behring-Straße"
 housenumber: 3

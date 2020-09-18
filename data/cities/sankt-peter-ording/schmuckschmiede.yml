@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.3154338
 longitude: 8.606641900000001
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Im Bad"
 housenumber: 18

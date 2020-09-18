@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.018674000000004
 longitude: 8.8867195
-postcode: 25718
+postcode: "25718"
 city: Friedrichskoog
 street: "Andreßenweg"
 housenumber: 1

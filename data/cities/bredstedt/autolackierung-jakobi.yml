@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.6169256
 longitude: 8.9709258
-postcode: 25821
+postcode: "25821"
 city: Bredstedt
 street: "Osterstraße"
 housenumber: 13-15

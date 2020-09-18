@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.4122521
 longitude: 11.196956400000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Am Yachthafen"
 housenumber: 20

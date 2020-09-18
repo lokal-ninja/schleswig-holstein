@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6585741
 longitude: 10.573503
-postcode: 23896
+postcode: "23896"
 city: Nusse
 street: "Kirchstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.321933300000005
 longitude: 10.0527557
-postcode: 24109
+postcode: "24109"
 city: Kiel
 street: "Kurt-Schumacher-Platz"
 housenumber: 15

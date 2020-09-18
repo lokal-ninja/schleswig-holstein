@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.286453800000004
 longitude: 9.6649246
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Neuwerker Tor"
 housenumber: 31

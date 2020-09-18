@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.322391200000006
 longitude: 9.973765100000001
-postcode: 24107
+postcode: "24107"
 city: Quarnbek
 street: "Lindenkamp"
 housenumber: 3

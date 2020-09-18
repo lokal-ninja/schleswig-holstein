@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 54.0894818
 longitude: 9.0747056
-postcode: 25704
+postcode: "25704"
 city: Meldorf
 street: "Zingelstraße"
 housenumber: 8

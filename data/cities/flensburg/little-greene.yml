@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 54.781739300000005
 longitude: 9.433057100000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Friesische Straße"
 housenumber: 27

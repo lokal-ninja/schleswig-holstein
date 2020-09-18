@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.698444
 longitude: 10.0544027
-postcode: 22851
+postcode: "22851"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 310

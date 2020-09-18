@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.7175762
 longitude: 9.671118400000001
-postcode: 24966
+postcode: "24966"
 city: Sörup
 street: "Bismarckstraße"
 housenumber: 2

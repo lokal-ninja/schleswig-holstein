@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8096747
 longitude: 10.3748643
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Hindenburgstraße"
 housenumber: 7

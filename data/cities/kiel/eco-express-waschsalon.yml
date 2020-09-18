@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.311414500000005
 longitude: 10.1486
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Kaiserstraße"
 housenumber: 41

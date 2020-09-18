@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.30652430000001
 longitude: 8.6469725
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Nordergeest"
 housenumber: 9

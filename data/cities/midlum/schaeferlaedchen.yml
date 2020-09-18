@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.71684320000001
 longitude: 8.521540700000001
-postcode: 25938
+postcode: "25938"
 city: Midlum
 street: "An de Marsch"
 housenumber: 23

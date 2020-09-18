@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7831416
 longitude: 10.438758400000001
-postcode: 23847
+postcode: "23847"
 city: Rethwisch
 street: "Hauptstraße"
 housenumber: 15

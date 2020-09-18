@@ -1,12 +1,12 @@
 id: 2860698632
 type: node
-shop: Supermarkt
+shop: Getränke
 latitude: 53.5222817
 longitude: 10.2434188
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Hermann-Körner-Straße"
 housenumber: 53
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
 website: ""

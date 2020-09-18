@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 54.395018900000004
 longitude: 10.1736208
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "An der Schanze"
 housenumber: 45

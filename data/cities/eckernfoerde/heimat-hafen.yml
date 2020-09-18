@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.474414200000005
 longitude: 9.8368601
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Schiffbrücke"
 housenumber: 2

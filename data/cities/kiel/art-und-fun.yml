@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.3319015
 longitude: 10.131831400000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 45

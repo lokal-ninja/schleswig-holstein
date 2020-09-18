@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3031883
 longitude: 8.6384039
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Dorfstraße"
 housenumber: 

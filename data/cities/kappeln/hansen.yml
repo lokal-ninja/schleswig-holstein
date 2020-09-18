@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.66977240000001
 longitude: 9.932236000000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Wassermühlenstraße"
 housenumber: 55

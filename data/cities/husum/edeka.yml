@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.4783046
 longitude: 9.0488475
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Großstraße"
 housenumber: 15-17

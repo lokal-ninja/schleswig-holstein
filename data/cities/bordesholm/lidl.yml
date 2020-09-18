@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.17977320000001
 longitude: 10.0271095
-postcode: 24582
+postcode: "24582"
 city: Bordesholm
 street: "Kieler Straße"
 housenumber: 48

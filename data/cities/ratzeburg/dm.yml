@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 53.699406
 longitude: 10.742844400000001
-postcode: 23909
+postcode: "23909"
 city: Ratzeburg
 street: "Bahnhofsallee"
 housenumber: 36
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-19:00"
+website: "https://dm.de"

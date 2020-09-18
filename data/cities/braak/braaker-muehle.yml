@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.6181921
 longitude: 10.2396667
-postcode: 22145
+postcode: "22145"
 city: Braak
 street: "Braaker Bogen"
 housenumber: 33

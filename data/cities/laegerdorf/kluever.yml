@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.884229000000005
 longitude: 9.57787
-postcode: 25566
+postcode: "25566"
 city: Lägerdorf
 street: "Dorfstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.783677700000005
 longitude: 9.4369264
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 51

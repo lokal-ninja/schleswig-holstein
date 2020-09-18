@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.961673000000005
 longitude: 10.860807000000001
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Gneversdorfer Weg"
 housenumber: 28

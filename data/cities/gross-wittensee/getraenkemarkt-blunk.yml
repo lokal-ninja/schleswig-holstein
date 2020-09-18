@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 54.4104624
 longitude: 9.770427100000001
-postcode: 24361
+postcode: "24361"
 city: Groß Wittensee
 street: "Damendorfer Straße"
 housenumber: 14

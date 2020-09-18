@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.7211919
 longitude: 9.6809703
-postcode: 24966
+postcode: "24966"
 city: Sörup
 street: "Bahnhofstraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.513305100000004
 longitude: 9.3089533
-postcode: 24896
+postcode: "24896"
 city: Treia
 street: "Treenestraße"
 housenumber: 73

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3056898
 longitude: 8.6345098
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Badallee"
 housenumber: 11

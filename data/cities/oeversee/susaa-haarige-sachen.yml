@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7024319
 longitude: 9.433826
-postcode: 24988
+postcode: "24988"
 city: Oeversee
 street: "Treenetal"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.619413900000005
 longitude: 10.675750800000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Industriestraße"
 housenumber: 1

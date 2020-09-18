@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 54.5216123
 longitude: 9.557663600000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Schubystraße"
 housenumber: 56

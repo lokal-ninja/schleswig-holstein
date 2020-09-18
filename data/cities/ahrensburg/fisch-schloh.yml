@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 53.672017200000006
 longitude: 10.2406167
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Manhagener Allee"
 housenumber: 11a

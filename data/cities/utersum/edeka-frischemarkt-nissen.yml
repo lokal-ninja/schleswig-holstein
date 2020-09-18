@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.7129838
 longitude: 8.407177
-postcode: 25938
+postcode: "25938"
 city: Utersum
 street: "Jaardenhuug"
 housenumber: 9

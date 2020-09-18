@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.6164926
 longitude: 9.866824900000001
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Seestraße"
 housenumber: 250

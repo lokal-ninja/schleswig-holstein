@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.0678235
 longitude: 9.9390228
-postcode: 24537
+postcode: "24537"
 city: Neumünster
 street: "Schwarzer Weg"
 housenumber: 7

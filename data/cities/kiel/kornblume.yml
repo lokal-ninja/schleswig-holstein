@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.328363
 longitude: 10.187832100000001
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "An der Holsatiamühle"
 housenumber: 7

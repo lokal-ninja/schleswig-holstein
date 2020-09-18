@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.011570500000005
 longitude: 10.3128898
-postcode: 23813
+postcode: "23813"
 city: Blunk
 street: "Dorfstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.875667
 longitude: 9.5290742
-postcode: 25578
+postcode: "25578"
 city: Dägeling
 street: "Itzehoer Straße"
 housenumber: 3

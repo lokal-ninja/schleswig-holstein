@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.821166700000006
 longitude: 10.512677400000001
-postcode: 23858
+postcode: "23858"
 city: Wesenberg
 street: "Stubbendorfer Ring"
 housenumber: 14

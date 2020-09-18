@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.336117400000006
 longitude: 9.898682200000001
-postcode: 24796
+postcode: "24796"
 city: Krummwisch
 street: "Am Eiderberg"
 housenumber: 8

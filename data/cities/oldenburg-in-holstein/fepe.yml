@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.291020800000005
 longitude: 10.8843075
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Kleine Schmützstraße"
 housenumber: 20

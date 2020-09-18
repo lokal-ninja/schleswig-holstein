@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.7891277
 longitude: 9.4321534
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Nordermarkt"
 housenumber: 1

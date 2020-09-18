@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.64012760000001
 longitude: 9.68871
-postcode: 24401
+postcode: "24401"
 city: Böel
 street: "Dorfstraße"
 housenumber: 6

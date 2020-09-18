@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 54.427427300000005
 longitude: 9.6999046
-postcode: 24358
+postcode: "24358"
 city: Ascheffel
 street: "Straßberg"
 housenumber: 5

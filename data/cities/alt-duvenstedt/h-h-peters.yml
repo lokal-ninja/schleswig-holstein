@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.343958400000005
 longitude: 9.595029700000001
-postcode: 24791
+postcode: "24791"
 city: Alt Duvenstedt
 street: "Krummenort B 77"
 housenumber: 2

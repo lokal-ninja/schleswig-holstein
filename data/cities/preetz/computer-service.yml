@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 54.2353212
 longitude: 10.283921300000001
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Lange Brückstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.6929352
 longitude: 9.5965445
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Flensburger Straße"
 housenumber: 26a

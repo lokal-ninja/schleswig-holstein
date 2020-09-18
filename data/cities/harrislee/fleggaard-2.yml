@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.8283659
 longitude: 9.4181465
-postcode: 24955
+postcode: "24955"
 city: Harrislee
 street: "Wassersleben"
 housenumber: 14

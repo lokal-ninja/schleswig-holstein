@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.4127007
 longitude: 10.1303588
-postcode: 24229
+postcode: "24229"
 city: Dänischenhagen
 street: "Teichkoppel"
 housenumber: 22

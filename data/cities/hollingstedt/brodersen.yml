@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.4571978
 longitude: 9.3356139
-postcode: 24876
+postcode: "24876"
 city: Hollingstedt
 street: "Norderende"
 housenumber: 1

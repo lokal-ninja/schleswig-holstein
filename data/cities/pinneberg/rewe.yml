@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6455038
 longitude: 9.809118900000001
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Kleiner Reitweg"
 housenumber: 30

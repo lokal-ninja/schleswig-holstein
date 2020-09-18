@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.200425800000005
 longitude: 9.0978296
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Heistedter Straße"
 housenumber: 27

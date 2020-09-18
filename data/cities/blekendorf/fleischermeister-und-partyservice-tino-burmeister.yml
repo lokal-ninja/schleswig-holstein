@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.2825514
 longitude: 10.656266200000001
-postcode: 24327
+postcode: "24327"
 city: Blekendorf
 street: "Radeberg"
 housenumber: 18a

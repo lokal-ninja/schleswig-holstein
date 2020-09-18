@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.6321712
 longitude: 9.8564068
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Gärtnerstraße"
 housenumber: 88

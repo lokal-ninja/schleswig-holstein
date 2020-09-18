@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7820169
 longitude: 9.4371227
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Doktor-Todsen-Straße"
 housenumber: 3

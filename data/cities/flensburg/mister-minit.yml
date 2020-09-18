@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 54.7833952
 longitude: 9.4371446
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 57-61

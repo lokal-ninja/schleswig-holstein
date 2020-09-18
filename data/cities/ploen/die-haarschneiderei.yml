@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.159001
 longitude: 10.418306900000001
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Lübecker Straße"
 housenumber: 10

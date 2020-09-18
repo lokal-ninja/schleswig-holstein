@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.312377700000006
 longitude: 10.1476875
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Johannesstraße"
 housenumber: 47

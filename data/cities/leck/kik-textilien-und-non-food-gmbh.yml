@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.772953300000005
 longitude: 8.9712882
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Hauptstraße"
 housenumber: 49

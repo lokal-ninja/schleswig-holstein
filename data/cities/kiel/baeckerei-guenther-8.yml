@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.282102200000004
 longitude: 10.156469000000001
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Dorothea-Erxleben-Straße"
 housenumber: 5

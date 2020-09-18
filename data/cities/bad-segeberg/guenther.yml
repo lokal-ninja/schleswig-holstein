@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9340507
 longitude: 10.308528500000001
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Bahnhofstraße"
 housenumber: 9-11

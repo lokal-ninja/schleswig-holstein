@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.8020347
 longitude: 9.4870651
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Kauslundhof"
 housenumber: 5

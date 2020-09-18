@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 54.2380555
 longitude: 10.066107
-postcode: 24220
+postcode: "24220"
 city: Flintbek
 street: "Rosenberg"
 housenumber: 17

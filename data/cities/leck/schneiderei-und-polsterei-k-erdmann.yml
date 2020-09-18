@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.7723315
 longitude: 8.9738241
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Hauptstraße"
 housenumber: 25-27

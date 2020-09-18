@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 54.2068622
 longitude: 10.8793799
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Lübecker Straße"
 housenumber: 107

@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 54.30583540000001
 longitude: 9.584887100000001
-postcode: 24787
+postcode: "24787"
 city: Fockbek
 street: "Hohner Straße"
 housenumber: 42

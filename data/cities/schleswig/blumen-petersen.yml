@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.523018
 longitude: 9.5461761
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Schubystraße"
 housenumber: 128

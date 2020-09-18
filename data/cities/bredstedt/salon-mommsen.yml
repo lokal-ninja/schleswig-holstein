@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.6180424
 longitude: 8.9655904
-postcode: 25821
+postcode: "25821"
 city: Bredstedt
 street: "Markt"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.131476500000005
 longitude: 8.862151200000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Bahnhofstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 54.757411000000005
 longitude: 9.1935768
-postcode: 24980
+postcode: "24980"
 city: Schafflund
 street: "Meyner Straße"
 housenumber: 24

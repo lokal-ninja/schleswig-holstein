@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.6266444
 longitude: 8.3931375
-postcode: 25946
+postcode: "25946"
 city: Wittdün auf Amrum
 street: "Inselstraße"
 housenumber: 37

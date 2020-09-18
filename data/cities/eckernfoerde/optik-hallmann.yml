@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.4709791
 longitude: 9.835916800000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Schulweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3323984
 longitude: 10.119658600000001
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Gutenbergstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.413463
 longitude: 9.982286700000001
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Ravensberg"
 housenumber: 2

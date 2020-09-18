@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.4022955
 longitude: 10.1654329
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "Friedrichsorter Straße"
 housenumber: 74

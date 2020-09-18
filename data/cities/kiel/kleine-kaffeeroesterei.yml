@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 54.3231699
 longitude: 10.123468800000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Möllingstraße"
 housenumber: 25

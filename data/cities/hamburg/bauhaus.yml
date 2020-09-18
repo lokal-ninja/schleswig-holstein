@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.663916
 longitude: 9.9938751
-postcode: 22419
+postcode: "22419"
 city: Hamburg
 street: "Tarpen"
 housenumber: 19

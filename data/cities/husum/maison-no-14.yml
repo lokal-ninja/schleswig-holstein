@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.4764161
 longitude: 9.0513396
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Krämerstraße"
 housenumber: 14

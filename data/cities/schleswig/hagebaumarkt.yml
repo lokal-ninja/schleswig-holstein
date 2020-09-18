@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.5344756
 longitude: 9.5573577
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Ratsteich"
 housenumber: 30

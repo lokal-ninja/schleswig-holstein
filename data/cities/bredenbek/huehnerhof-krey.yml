@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.3247731
 longitude: 9.8675803
-postcode: 24796
+postcode: "24796"
 city: Bredenbek
 street: "Wakendorfer Weg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.9563774
 longitude: 9.0128927
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Wulf-Isebrand-Straße"
 housenumber: 17

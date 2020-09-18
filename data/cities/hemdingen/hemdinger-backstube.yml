@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.762907500000004
 longitude: 9.8376278
-postcode: 25485
+postcode: "25485"
 city: Hemdingen
 street: "Steindamm"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7496452
 longitude: 9.6508672
-postcode: 25336
+postcode: "25336"
 city: Elmshorn
 street: "Westerstraße"
 housenumber: 34

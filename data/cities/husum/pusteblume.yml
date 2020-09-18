@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 54.47792930000001
 longitude: 9.047435
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Neustadt"
 housenumber: 36

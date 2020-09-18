@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 54.313393600000005
 longitude: 10.1474726
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Elisabethstraße"
 housenumber: 42

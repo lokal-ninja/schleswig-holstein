@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.5229768
 longitude: 9.7237921
-postcode: 24354
+postcode: "24354"
 city: Kosel
 street: "An de Wees"
 housenumber: 16

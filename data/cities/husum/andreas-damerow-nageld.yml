@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 54.4779879
 longitude: 9.054990400000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Norderstraße"
 housenumber: 28

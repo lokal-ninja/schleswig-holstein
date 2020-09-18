@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.8343934
 longitude: 9.548187800000001
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Rathausstraße"
 housenumber: 1

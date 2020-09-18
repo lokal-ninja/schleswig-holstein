@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.396406000000006
 longitude: 10.1729977
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "Friedrichsorter Straße"
 housenumber: 6

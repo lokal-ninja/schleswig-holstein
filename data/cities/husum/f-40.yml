@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.4754585
 longitude: 9.048844
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Hafenstraße"
 housenumber: 25

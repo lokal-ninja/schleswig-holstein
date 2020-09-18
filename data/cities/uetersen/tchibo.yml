@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.6837335
 longitude: 9.6651723
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Am Markt"
 housenumber: 3

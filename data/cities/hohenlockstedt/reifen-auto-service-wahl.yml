@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.957412600000005
 longitude: 9.6100328
-postcode: 25551
+postcode: "25551"
 city: Hohenlockstedt
 street: "Kieler Straße"
 housenumber: 1-3

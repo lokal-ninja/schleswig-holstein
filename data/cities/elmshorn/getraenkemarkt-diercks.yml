@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.7569595
 longitude: 9.6466446
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Flamweg"
 housenumber: 80

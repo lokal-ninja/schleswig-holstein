@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.4731913
 longitude: 9.836227800000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Frau-Clara-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.039188
 longitude: 10.6581702
-postcode: 23684
+postcode: "23684"
 city: Scharbeutz
 street: "Otto-Kipp-Straße"
 housenumber: 4

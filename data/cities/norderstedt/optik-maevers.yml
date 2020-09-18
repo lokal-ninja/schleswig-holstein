@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.6877542
 longitude: 10.0387017
-postcode: 22851
+postcode: "22851"
 city: Norderstedt
 street: "Mittelstraße"
 housenumber: 56

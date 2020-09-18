@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3246322
 longitude: 9.8686778
-postcode: 24796
+postcode: "24796"
 city: Bredenbek
 street: "Kieler Straße"
 housenumber: 2

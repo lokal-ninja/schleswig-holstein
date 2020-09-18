@@ -1,4 +1,4 @@
 ---
-title: "Migilá"
+title: "Migila"
 url: /kappeln/migila/
 ---

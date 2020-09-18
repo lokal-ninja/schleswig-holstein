@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.473299600000004
 longitude: 9.836173800000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Frau-Clara-Straße"
 housenumber: 10

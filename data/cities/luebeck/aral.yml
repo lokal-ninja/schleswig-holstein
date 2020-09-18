@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.959526700000005
 longitude: 10.8618866
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Gneversdorfer Weg"
 housenumber: 12-14

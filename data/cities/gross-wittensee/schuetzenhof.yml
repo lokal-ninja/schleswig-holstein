@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 54.4016365
 longitude: 9.766006200000001
-postcode: 24361
+postcode: "24361"
 city: Groß Wittensee
 street: "Rendsburger Straße"
 housenumber: 2

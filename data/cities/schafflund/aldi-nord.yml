@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 54.7627394
 longitude: 9.1690623
-postcode: 24980
+postcode: "24980"
 city: Schafflund
 street: "Hauptstraße"
 housenumber: 96
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su closed"
 website: ""

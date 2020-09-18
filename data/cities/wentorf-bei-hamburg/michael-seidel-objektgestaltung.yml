@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.489445
 longitude: 10.268376700000001
-postcode: 21465
+postcode: "21465"
 city: Wentorf bei Hamburg
 street: "Südring"
 housenumber: 3N

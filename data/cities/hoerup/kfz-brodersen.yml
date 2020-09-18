@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.750160400000006
 longitude: 9.092074
-postcode: 24980
+postcode: "24980"
 city: Hörup
 street: "Lecker Straße"
 housenumber: 8

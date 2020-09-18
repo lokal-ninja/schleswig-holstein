@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.299677700000004
 longitude: 10.577713900000001
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Bunendorp"
 housenumber: 6

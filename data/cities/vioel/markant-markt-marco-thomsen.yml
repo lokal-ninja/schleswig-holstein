@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.5687256
 longitude: 9.1815362
-postcode: 25884
+postcode: "25884"
 city: Viöl
 street: "Westerende"
 housenumber: 4-6

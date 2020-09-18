@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.074119700000004
 longitude: 9.980336000000001
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Gänsemarkt"
 housenumber: 1

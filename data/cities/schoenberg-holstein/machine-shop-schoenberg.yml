@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.384146
 longitude: 10.3836726
-postcode: 24217
+postcode: "24217"
 city: Schönberg (Holstein)
 street: "Ratjendorfer Weg"
 housenumber: 1

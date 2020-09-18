@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 54.31540390000001
 longitude: 9.6713629
-postcode: 24782
+postcode: "24782"
 city: Büdelsdorf
 street: "Parkallee"
 housenumber: 17

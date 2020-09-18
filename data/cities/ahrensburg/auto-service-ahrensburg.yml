@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.69157310000001
 longitude: 10.2426311
-postcode: 22941
+postcode: "22941"
 city: Ahrensburg
 street: "Lübecker Straße"
 housenumber: 124

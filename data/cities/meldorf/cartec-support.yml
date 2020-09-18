@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 54.08913140000001
 longitude: 9.079041100000001
-postcode: 25704
+postcode: "25704"
 city: Meldorf
 street: "Zingelstraße"
 housenumber: 45

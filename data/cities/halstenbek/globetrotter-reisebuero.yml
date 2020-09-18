@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.6363768
 longitude: 9.840558900000001
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Poststraße"
 housenumber: 1

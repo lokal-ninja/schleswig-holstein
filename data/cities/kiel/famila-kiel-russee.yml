@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2985179
 longitude: 10.0871642
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Seekoppelweg"
 housenumber: 2

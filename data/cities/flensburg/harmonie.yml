@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7920973
 longitude: 9.424875
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Duburger Straße"
 housenumber: 61

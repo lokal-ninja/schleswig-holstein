@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.095172500000004
 longitude: 10.7851032
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Neukoppel"
 housenumber: 1

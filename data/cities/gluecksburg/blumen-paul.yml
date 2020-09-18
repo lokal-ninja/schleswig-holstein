@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.835159000000004
 longitude: 9.547631800000001
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Schinderdam"
 housenumber: 1

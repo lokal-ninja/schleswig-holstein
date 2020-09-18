@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 54.3220832
 longitude: 10.1407574
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Schuhmacherstraße"
 housenumber: 26

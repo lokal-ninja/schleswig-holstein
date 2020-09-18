@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.135317
 longitude: 8.8682462
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Heider Straße"
 housenumber: 16a

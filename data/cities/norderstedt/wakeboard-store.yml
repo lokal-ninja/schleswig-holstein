@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.712937200000006
 longitude: 10.0200306
-postcode: 22844
+postcode: "22844"
 city: Norderstedt
 street: "Schöne Aussicht"
 housenumber: 6

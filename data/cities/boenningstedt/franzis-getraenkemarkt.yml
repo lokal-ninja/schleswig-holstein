@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.663440900000005
 longitude: 9.9097615
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Bahnhofstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.2197235
 longitude: 10.886049700000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Katharinenstraße"
 housenumber: 6

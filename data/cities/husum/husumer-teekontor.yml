@@ -3,7 +3,7 @@ type: way
 shop: Tee
 latitude: 54.47778580000001
 longitude: 9.050633600000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Schloßgang"
 housenumber: 8

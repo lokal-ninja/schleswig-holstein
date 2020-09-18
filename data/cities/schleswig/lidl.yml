@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.530532900000004
 longitude: 9.5301221
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lattenkamp"
 housenumber: 2

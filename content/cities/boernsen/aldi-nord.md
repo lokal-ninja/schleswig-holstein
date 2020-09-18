@@ -1,4 +1,4 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /boernsen/aldi-nord/
 ---

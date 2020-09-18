@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.5421479
 longitude: 10.2114034
-postcode: 21509
+postcode: "21509"
 city: Glinde
 street: "Dorfstraße"
 housenumber: 4

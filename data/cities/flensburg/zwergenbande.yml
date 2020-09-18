@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7822807
 longitude: 9.4369768
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Doktor-Todsen-Straße"
 housenumber: 1

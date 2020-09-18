@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.5827048
 longitude: 9.714810700000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Rissener Straße"
 housenumber: 21

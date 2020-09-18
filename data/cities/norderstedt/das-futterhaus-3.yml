@@ -3,10 +3,10 @@ type: way
 shop: Tiere
 latitude: 53.7104383
 longitude: 10.0202402
-postcode: 22844
+postcode: "22844"
 city: Norderstedt
 street: "Stormarnstraße"
 housenumber: 44
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: "Mo-Sa 09:00-20:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 54.814195500000004
 longitude: 9.1653512
-postcode: 24994
+postcode: "24994"
 city: Medelby
 street: "Hauptstraße"
 housenumber: 3a

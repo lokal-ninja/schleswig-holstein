@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 54.7890072
 longitude: 9.4310775
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 77b

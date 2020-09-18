@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5846621
 longitude: 10.143598800000001
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Berliner Platz"
 housenumber: 21

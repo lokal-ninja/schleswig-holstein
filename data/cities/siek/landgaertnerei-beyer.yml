@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.6383966
 longitude: 10.3159794
-postcode: 22962
+postcode: "22962"
 city: Siek
 street: "Sieker Berg"
 housenumber: 13

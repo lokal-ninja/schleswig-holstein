@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.494286800000005
 longitude: 9.0803854
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Andreas-Clausen-Straße"
 housenumber: 1

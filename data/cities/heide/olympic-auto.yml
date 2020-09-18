@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.1972698
 longitude: 9.1177539
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Hamburger Straße"
 housenumber: 140

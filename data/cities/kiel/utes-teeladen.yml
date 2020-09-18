@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 54.3953822
 longitude: 10.1737433
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "An der Schanze"
 housenumber: 46

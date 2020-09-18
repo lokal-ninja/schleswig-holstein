@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 54.3528582
 longitude: 10.0902495
-postcode: 24107
+postcode: "24107"
 city: Kiel
 street: "Eckernförder Straße"
 housenumber: 362
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;PH closed"
+opening_hours: "Mo-Sa 07:00-22:00; PH closed"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6648263
 longitude: 9.3995529
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Bahnhofstraße"
 housenumber: 5

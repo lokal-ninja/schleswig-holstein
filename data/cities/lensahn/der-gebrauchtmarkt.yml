@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.209333300000004
 longitude: 10.8544049
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Hofweg"
 housenumber: 24

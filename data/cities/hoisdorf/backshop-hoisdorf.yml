@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 53.6631785
 longitude: 10.311427
-postcode: 
+postcode: ""
 city: Hoisdorf
 street: "Waldstraße"
 housenumber: 18
 phone: ""
-opening_hours: "Tu-Fr 06:30-09:30; Sa 06:30-11:00; Su,PH 07:00-11:00"
+opening_hours: "Tu-Fr 06:30-09:30; Sa 06:30-11:00; PH,Su 07:00-11:00"
 website: ""

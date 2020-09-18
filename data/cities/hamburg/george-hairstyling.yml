@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.529092000000006
 longitude: 10.1483761
-postcode: 22115
+postcode: "22115"
 city: Hamburg
 street: "Feiningerstraße"
 housenumber: 6

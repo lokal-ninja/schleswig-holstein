@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 53.8109265
 longitude: 10.017234400000001
-postcode: 24629
+postcode: "24629"
 city: Kisdorf
 street: "Dorfstraße"
 housenumber: 23

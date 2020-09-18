@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 54.780892200000004
 longitude: 9.426393500000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Friesische Straße"
 housenumber: 77

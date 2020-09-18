@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.996821800000006
 longitude: 9.2627918
-postcode: 25712
+postcode: "25712"
 city: Burg (Dithmarschen)
 street: "Am Markt"
 housenumber: 2

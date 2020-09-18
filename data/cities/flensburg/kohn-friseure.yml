@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7891666
 longitude: 9.4432161
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Jürgensgaarder Straße"
 housenumber: 22

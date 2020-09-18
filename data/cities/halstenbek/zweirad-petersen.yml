@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.6257139
 longitude: 9.8750988
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Altonaer Straße"
 housenumber: 350

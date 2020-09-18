@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.8019413
 longitude: 10.227327500000001
-postcode: 23867
+postcode: "23867"
 city: Sülfeld
 street: "Neuer Weg"
 housenumber: 13

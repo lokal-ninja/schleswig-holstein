@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2842965
 longitude: 9.1722482
-postcode: 25779
+postcode: "25779"
 city: Hennstedt
 street: "Tellingstedter Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.571422500000004
 longitude: 10.1414527
-postcode: 22043
+postcode: "22043"
 city: Hamburg
 street: "Barsbütteler Straße"
 housenumber: 33

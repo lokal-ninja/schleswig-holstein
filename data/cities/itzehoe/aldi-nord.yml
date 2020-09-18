@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 53.908045400000006
 longitude: 9.482187900000001
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Lübscher Kamp"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
 website: ""

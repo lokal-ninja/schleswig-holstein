@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.6853082
 longitude: 10.0233865
-postcode: 22851
+postcode: "22851"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 148a

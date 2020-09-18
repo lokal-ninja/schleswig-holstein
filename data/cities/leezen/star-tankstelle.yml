@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.868976
 longitude: 10.253001000000001
-postcode: 23816
+postcode: "23816"
 city: Leezen
 street: "Hamburger Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.896659400000004
 longitude: 9.140243700000001
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Koogstraße"
 housenumber: 67

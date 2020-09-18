@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7859665
 longitude: 10.084884
-postcode: 24558
+postcode: "24558"
 city: Wakendorf II
 street: "Naher Straße"
 housenumber: 17

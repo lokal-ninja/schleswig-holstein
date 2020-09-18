@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.720461900000004
 longitude: 9.997096200000001
-postcode: 22846
+postcode: "22846"
 city: Norderstedt
 street: "Ulzburger Straße"
 housenumber: 467

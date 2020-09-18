@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.3156132
 longitude: 9.624733
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Suhmsheide"
 housenumber: 4

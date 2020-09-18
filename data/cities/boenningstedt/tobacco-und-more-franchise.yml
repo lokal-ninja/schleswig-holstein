@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.6667513
 longitude: 9.903759500000001
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Kieler Straße"
 housenumber: 114

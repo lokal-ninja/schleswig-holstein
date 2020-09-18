@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.499968100000004
 longitude: 9.5431358
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Husumer Baum"
 housenumber: 7a

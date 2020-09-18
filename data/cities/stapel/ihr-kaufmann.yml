@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3489002
 longitude: 9.2188826
-postcode: 25879
+postcode: "25879"
 city: Stapel
 street: "Am Markt"
 housenumber: 6

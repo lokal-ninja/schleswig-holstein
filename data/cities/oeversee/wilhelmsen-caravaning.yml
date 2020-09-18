@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.700212400000005
 longitude: 9.43626
-postcode: 24988
+postcode: "24988"
 city: Oeversee
 street: "Krokamp"
 housenumber: 1a

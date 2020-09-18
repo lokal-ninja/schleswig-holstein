@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.138309500000005
 longitude: 8.873692700000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Heider Straße"
 housenumber: 2 b

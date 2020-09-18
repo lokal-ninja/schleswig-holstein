@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.9934224
 longitude: 9.1175
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Birkenstraße"
 housenumber: 2

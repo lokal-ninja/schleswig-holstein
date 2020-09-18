@@ -1,4 +1,4 @@
 ---
-title: "hunkemöller"
+title: "Hunkemöller"
 url: /sylt/hunkemoeller/
 ---

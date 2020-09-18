@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 54.775607300000004
 longitude: 8.980202100000001
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Kirchhofstraße"
 housenumber: 27

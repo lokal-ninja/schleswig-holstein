@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 54.90897150000001
 longitude: 8.3087403
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Andreas-Nielsen-Straße"
 housenumber: 6

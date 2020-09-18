@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.799255
 longitude: 10.4033
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Lily-Braun-Straße"
 housenumber: 34

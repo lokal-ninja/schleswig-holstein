@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.2971961
 longitude: 10.5989692
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Am Hopfenhof"
 housenumber: 14a

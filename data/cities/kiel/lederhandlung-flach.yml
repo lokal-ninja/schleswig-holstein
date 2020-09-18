@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 54.3239182
 longitude: 10.1230778
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Sternstraße"
 housenumber: 19

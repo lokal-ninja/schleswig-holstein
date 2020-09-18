@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.7840539
 longitude: 9.436863800000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 43

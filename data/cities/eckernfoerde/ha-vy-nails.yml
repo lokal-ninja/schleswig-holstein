@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.4739281
 longitude: 9.832440700000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Gaehtjestraße"
 housenumber: 17

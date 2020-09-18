@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.8860539
 longitude: 10.6507345
-postcode: 23617
+postcode: "23617"
 city: Stockelsdorf
 street: "Segeberger Straße"
 housenumber: 13

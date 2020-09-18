@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.7048537
 longitude: 10.0082743
-postcode: 22844
+postcode: "22844"
 city: Norderstedt
 street: "Marktplatz"
 housenumber: 8

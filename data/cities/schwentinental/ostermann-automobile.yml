@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.2910058
 longitude: 10.224054800000001
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Klausdorfer Straße"
 housenumber: 71

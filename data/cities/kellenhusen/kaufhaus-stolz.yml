@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 54.192134
 longitude: 11.054989200000001
-postcode: 23746
+postcode: "23746"
 city: Kellenhusen
 street: "Kirschenallee"
 housenumber: 2

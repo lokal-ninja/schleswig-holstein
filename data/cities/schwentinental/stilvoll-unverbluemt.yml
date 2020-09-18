@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.2818551
 longitude: 10.240959
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Bahnhofstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.2957248
 longitude: 10.5716596
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Kieler Straße"
 housenumber: 29

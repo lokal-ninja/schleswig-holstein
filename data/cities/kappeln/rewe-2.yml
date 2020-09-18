@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.6589845
 longitude: 9.949894200000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Glücksburger Straße"
 housenumber: 3

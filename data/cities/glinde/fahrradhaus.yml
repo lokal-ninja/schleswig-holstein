@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.539920200000005
 longitude: 10.211717
-postcode: 21509
+postcode: "21509"
 city: Glinde
 street: "Oher Weg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.4767595
 longitude: 9.0499609
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Großstraße"
 housenumber: 20

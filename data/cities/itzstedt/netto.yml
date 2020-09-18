@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8115979
 longitude: 10.1635921
-postcode: 
+postcode: ""
 city: Itzstedt
 street: "Segeberger Straße"
 housenumber: 59

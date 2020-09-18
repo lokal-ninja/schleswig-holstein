@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.8844877
 longitude: 9.574967800000001
-postcode: 25566
+postcode: "25566"
 city: Lägerdorf
 street: "Rosenstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.518566500000006
 longitude: 9.564027300000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Bismarckstraße"
 housenumber: 13

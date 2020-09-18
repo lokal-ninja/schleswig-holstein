@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6527225
 longitude: 10.1868712
-postcode: 22359
+postcode: "22359"
 city: Hamburg
 street: "Buchenkamp"
 housenumber: 94

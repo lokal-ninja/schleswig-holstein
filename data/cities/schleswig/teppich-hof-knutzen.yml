@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 54.530950100000005
 longitude: 9.5286231
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lattenkamp"
 housenumber: 3

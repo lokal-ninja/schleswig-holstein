@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.704510500000005
 longitude: 9.7313607
-postcode: 25436
+postcode: "25436"
 city: Tornesch
 street: "Ahrenloher Straße"
 housenumber: 111

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.4901831
 longitude: 10.252409400000001
-postcode: 21465
+postcode: "21465"
 city: Wentorf bei Hamburg
 street: "Zollstraße"
 housenumber: 3

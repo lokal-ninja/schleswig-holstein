@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6169695
 longitude: 9.867857500000001
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Seestraße"
 housenumber: 161

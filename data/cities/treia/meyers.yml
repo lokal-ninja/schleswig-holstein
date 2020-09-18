@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.5156319
 longitude: 9.323645200000001
-postcode: 24896
+postcode: "24896"
 city: Treia
 street: "Treenestraße"
 housenumber: 26

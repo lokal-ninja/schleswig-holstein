@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 54.4380858
 longitude: 11.198010100000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Breite Straße"
 housenumber: 16

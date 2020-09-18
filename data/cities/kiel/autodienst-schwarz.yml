@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.3314272
 longitude: 10.2049974
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Schönkirchener Straße"
 housenumber: 109

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.3334107
 longitude: 10.133165700000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 82

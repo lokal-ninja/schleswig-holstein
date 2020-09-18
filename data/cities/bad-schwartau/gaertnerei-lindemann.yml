@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.9099257
 longitude: 10.669226400000001
-postcode: 23611
+postcode: "23611"
 city: Bad Schwartau
 street: "Stockelsdorfer Weg"
 housenumber: 71a

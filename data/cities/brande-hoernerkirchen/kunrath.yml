@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.854560400000004
 longitude: 9.702888300000001
-postcode: 25364
+postcode: "25364"
 city: Brande-Hörnerkirchen
 street: "Bahnhofstraße"
 housenumber: 111

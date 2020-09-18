@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.7855312
 longitude: 9.447699
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Glücksburger Straße"
 housenumber: 38

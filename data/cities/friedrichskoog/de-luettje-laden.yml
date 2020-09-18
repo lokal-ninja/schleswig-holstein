@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.0104727
 longitude: 8.889747400000001
-postcode: 25718
+postcode: "25718"
 city: Friedrichskoog
 street: "Hafenstraße"
 housenumber: 64a

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.3583185
 longitude: 9.6435783
-postcode: 24791
+postcode: "24791"
 city: Alt Duvenstedt
 street: "Dorfstraße"
 housenumber: 6

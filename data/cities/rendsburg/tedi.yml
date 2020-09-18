@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 54.2935382
 longitude: 9.667515700000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Alte Kieler Landstraße"
 housenumber: 60

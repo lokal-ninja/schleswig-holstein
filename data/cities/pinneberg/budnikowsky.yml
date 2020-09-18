@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6522944
 longitude: 9.7917091
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Richard-Köhn-Straße"
 housenumber: 1

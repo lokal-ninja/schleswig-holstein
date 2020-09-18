@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3356391
 longitude: 10.1900002
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Langer Rehm"
 housenumber: 22

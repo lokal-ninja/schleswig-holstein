@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.319875700000004
 longitude: 10.0892637
-postcode: 24109
+postcode: "24109"
 city: Kiel
 street: "Hofholzallee"
 housenumber: 22

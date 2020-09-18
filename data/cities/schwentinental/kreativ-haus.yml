@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 54.2863175
 longitude: 10.225084500000001
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Dieselstraße"
 housenumber: 3

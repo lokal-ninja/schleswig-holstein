@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9738685
 longitude: 9.9673675
-postcode: 24623
+postcode: "24623"
 city: Großenaspe
 street: "Surhalf"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.647178000000004
 longitude: 9.8716089
-postcode: 25462
+postcode: "25462"
 city: Rellingen
 street: "Kellerstraße"
 housenumber: 197

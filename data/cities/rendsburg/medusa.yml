@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.305792100000005
 longitude: 9.664459200000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "An der Marienkirche"
 housenumber: 12

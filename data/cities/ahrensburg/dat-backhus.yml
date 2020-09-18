@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6674683
 longitude: 10.2290442
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Hamburger Straße"
 housenumber: 81

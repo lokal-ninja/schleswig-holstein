@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.3315744
 longitude: 9.0285028
-postcode: 25774
+postcode: "25774"
 city: Lunden
 street: "Nordbahnhofstraße"
 housenumber: 20

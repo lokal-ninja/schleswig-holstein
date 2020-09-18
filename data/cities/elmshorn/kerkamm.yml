@@ -3,7 +3,7 @@ type: way
 shop: Haushaltsartikel
 latitude: 53.7559696
 longitude: 9.656984900000001
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Schulstraße"
 housenumber: 16-18

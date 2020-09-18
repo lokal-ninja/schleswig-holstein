@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.775795800000004
 longitude: 9.408135300000001
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Am Friedenshügel"
 housenumber: 39

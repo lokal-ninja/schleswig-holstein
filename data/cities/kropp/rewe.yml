@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.410081500000004
 longitude: 9.5073928
-postcode: 24848
+postcode: "24848"
 city: Kropp
 street: "Theodor-Storm-Allee"
 housenumber: 8

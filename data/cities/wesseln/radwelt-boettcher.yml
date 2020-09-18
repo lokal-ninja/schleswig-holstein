@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.207601600000004
 longitude: 9.088509700000001
-postcode: 25746
+postcode: "25746"
 city: Wesseln
 street: "Waldstraße"
 housenumber: 3

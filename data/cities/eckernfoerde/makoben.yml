@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.4800052
 longitude: 9.835750500000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Riesebyer Straße"
 housenumber: 20

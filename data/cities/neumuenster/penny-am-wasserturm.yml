@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.08523460000001
 longitude: 9.9925627
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Gutenbergstraße"
 housenumber: 47

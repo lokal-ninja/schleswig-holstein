@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.478661100000004
 longitude: 11.067935700000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Alte Bahnhofstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.740015400000004
 longitude: 9.5788819
-postcode: 24975
+postcode: "24975"
 city: Ausacker
 street: "Osterdorf"
 housenumber: 15

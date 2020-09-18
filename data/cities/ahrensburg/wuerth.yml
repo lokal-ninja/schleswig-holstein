@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 53.6786351
 longitude: 10.2572243
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Roggenweg"
 housenumber: 2

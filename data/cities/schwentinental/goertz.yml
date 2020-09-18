@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.2873997
 longitude: 10.2243299
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Mergenthalerstraße"
 housenumber: 5-7

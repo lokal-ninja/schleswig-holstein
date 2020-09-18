@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.292833200000004
 longitude: 10.5876981
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Markttwiete"
 housenumber: 2

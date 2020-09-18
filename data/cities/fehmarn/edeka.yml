@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.4435183
 longitude: 11.1813406
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Landkirchener Weg"
 housenumber: 57

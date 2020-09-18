@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6207763
 longitude: 10.8212826
-postcode: 23883
+postcode: "23883"
 city: Sterley
 street: "Alte Dorfstraße"
 housenumber: 14

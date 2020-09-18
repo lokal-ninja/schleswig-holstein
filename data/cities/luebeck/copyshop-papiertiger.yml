@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.86550870000001
 longitude: 10.687815500000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Wahmstraße"
 housenumber: 35-37

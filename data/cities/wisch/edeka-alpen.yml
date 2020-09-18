@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.4329758
 longitude: 10.337848600000001
-postcode: 24217
+postcode: "24217"
 city: Wisch
 street: "Mittelweg"
 housenumber: 107

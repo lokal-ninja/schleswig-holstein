@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.375571900000004
 longitude: 9.547126800000001
-postcode: 24848
+postcode: "24848"
 city: Kropp
 street: ""
 housenumber: 3

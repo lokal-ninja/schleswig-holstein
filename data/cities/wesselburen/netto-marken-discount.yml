@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2097485
 longitude: 8.922995400000001
-postcode: 25764
+postcode: "25764"
 city: Wesselburen
 street: "Büsumer Straße"
 housenumber: 12

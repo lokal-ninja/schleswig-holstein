@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.4403616
 longitude: 11.1974944
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Niendorfer Straße"
 housenumber: 7

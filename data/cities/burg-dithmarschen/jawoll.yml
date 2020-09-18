@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 54.006013200000005
 longitude: 9.249987500000001
-postcode: 25712
+postcode: "25712"
 city: Burg (Dithmarschen)
 street: "Bahnhofstraße"
 housenumber: 114

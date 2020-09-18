@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.569014
 longitude: 10.163992400000001
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Hauptstraße"
 housenumber: 38h

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8085857
 longitude: 10.3775425
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Besttorstraße"
 housenumber: 4-5

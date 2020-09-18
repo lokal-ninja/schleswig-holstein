@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.808699700000005
 longitude: 9.4215476
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Apenrader Straße"
 housenumber: 109

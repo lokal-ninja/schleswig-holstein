@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.292166200000004
 longitude: 10.912040300000001
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Am Voßberg"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.016424400000005
 longitude: 10.2487911
-postcode: 24635
+postcode: "24635"
 city: Daldorf
 street: "Dorfstraße"
 housenumber: 4

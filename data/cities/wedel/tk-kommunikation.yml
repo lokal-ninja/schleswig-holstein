@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.5739608
 longitude: 9.705246200000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bei der Doppeleiche"
 housenumber: 8

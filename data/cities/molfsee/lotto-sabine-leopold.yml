@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.284997100000005
 longitude: 10.084105800000001
-postcode: 24113
+postcode: "24113"
 city: Molfsee
 street: "Eschenbrook"
 housenumber: 2

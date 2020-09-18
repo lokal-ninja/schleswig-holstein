@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.7799929
 longitude: 9.728357800000001
-postcode: 24972
+postcode: "24972"
 city: Steinbergkirche
 street: "Kalleby"
 housenumber: 22

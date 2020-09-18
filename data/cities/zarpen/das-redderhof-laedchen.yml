@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.8676685
 longitude: 10.5201782
-postcode: 23619
+postcode: "23619"
 city: Zarpen
 street: "Lübecker Straße"
 housenumber: 18

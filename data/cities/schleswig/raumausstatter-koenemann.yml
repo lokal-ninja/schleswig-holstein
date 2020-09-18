@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.520623900000004
 longitude: 9.560834100000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Schubystraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 54.327782500000005
 longitude: 8.781603
-postcode: 25836
+postcode: "25836"
 city: Garding
 street: "Süderstraße"
 housenumber: 53

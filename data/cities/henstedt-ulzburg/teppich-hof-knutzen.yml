@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.7645701
 longitude: 9.981057700000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Philipp-Reis-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.61318970000001
 longitude: 10.6758012
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Grambeker Weg"
 housenumber: 101

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.2858686
 longitude: 10.2213166
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Carl-Zeiss-Straße"
 housenumber: 12

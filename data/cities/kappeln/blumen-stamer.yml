@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.6623084
 longitude: 9.928454
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Schmiedestraße"
 housenumber: 34

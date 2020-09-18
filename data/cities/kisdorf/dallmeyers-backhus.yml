@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.8017917
 longitude: 10.003779900000001
-postcode: 24629
+postcode: "24629"
 city: Kisdorf
 street: "Henstedter Straße"
 housenumber: 28
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

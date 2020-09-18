@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.9203819
 longitude: 9.881318
-postcode: 24576
+postcode: "24576"
 city: Bad Bramstedt
 street: "Kirchenbleeck"
 housenumber: 11-13

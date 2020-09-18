@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 55.01582620000001
 longitude: 8.4313401
-postcode: 25992
+postcode: "25992"
 city: List auf Sylt
 street: "Hafenstraße"
 housenumber: 2a

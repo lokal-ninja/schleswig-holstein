@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.495371600000006
 longitude: 10.558902
-postcode: 21516
+postcode: "21516"
 city: Müssen
 street: "Schwarzenbeker Straße"
 housenumber: 1

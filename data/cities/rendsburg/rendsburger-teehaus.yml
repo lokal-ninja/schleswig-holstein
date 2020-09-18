@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 54.3048884
 longitude: 9.6609982
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Schiffbrückenplatz"
 housenumber: 17

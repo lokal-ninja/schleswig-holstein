@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.4732622
 longitude: 9.8260386
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Noorstraße"
 housenumber: 34

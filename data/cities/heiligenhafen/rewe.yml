@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.373331300000004
 longitude: 10.9782848
-postcode: 23774
+postcode: "23774"
 city: Heiligenhafen
 street: "Am Strande"
 housenumber: 7b

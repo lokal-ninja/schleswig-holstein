@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.790251500000004
 longitude: 9.982629300000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Maurepasstraße"
 housenumber: 8

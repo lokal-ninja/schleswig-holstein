@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.52560020000001
 longitude: 10.150740800000001
-postcode: 22115
+postcode: "22115"
 city: Hamburg
 street: "Kandinskyallee"
 housenumber: 4-12

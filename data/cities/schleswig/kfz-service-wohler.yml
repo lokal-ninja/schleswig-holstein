@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.497565300000005
 longitude: 9.5382849
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Husumer Baum"
 housenumber: 48

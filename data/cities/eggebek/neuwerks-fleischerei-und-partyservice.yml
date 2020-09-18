@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.62037
 longitude: 9.364578700000001
-postcode: 24852
+postcode: "24852"
 city: Eggebek
 street: "Westerreihe"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.5556568
 longitude: 10.770945000000001
-postcode: 23899
+postcode: "23899"
 city: Gudow
 street: "Hauptstraße"
 housenumber: 23

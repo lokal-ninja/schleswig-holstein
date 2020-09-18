@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.3340517
 longitude: 9.023656800000001
-postcode: 25774
+postcode: "25774"
 city: Lunden
 street: "Claus-Harms-Straße"
 housenumber: 16

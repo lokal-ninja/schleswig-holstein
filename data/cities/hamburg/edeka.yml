@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.526928000000005
 longitude: 10.1508345
-postcode: 22115
+postcode: "22115"
 city: Hamburg
 street: "Kandinskyallee"
 housenumber: 14-18

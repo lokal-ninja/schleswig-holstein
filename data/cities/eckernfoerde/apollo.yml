@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.470685
 longitude: 9.8370197
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 36-38

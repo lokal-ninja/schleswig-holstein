@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.935585200000006
 longitude: 10.3100854
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Oldesloer Straße"
 housenumber: 18

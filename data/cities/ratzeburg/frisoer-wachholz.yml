@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.6965197
 longitude: 10.7877984
-postcode: 23909
+postcode: "23909"
 city: Ratzeburg
 street: "Jägerstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.907564900000004
 longitude: 8.302151
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Friedrichstraße"
 housenumber: 27

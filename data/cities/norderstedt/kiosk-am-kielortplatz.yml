@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.6827016
 longitude: 10.0109562
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Am Kielortplatz"
 housenumber: 74A

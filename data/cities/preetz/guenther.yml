@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.235911900000005
 longitude: 10.283401900000001
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Garnkorb"
 housenumber: 8

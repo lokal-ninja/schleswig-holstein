@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.6150564
 longitude: 9.864903
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Siebentunnelweg"
 housenumber: 18

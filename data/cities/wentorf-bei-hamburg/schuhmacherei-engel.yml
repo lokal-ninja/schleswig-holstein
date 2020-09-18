@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.486470800000006
 longitude: 10.2594007
-postcode: 21465
+postcode: "21465"
 city: Wentorf bei Hamburg
 street: "Südring"
 housenumber: 38

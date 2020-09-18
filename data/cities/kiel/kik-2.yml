@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.3261769
 longitude: 10.1840887
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Schönberger Straße"
 housenumber: 26

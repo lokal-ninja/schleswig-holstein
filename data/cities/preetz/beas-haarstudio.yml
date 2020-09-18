@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.2352636
 longitude: 10.2846395
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Bismarckplatz"
 housenumber: 1

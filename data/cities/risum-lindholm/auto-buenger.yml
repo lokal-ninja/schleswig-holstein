@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.7571
 longitude: 8.8668771
-postcode: 25920
+postcode: "25920"
 city: Risum-Lindholm
 street: "Dorfstraße"
 housenumber: 166

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.6870807
 longitude: 8.5692742
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Sandwall"
 housenumber: 46

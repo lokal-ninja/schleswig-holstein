@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.8036928
 longitude: 9.4287425
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Brauereiweg"
 housenumber: 20

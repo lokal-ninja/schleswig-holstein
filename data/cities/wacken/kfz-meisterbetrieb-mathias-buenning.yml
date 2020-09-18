@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.0198918
 longitude: 9.3873292
-postcode: 25596
+postcode: "25596"
 city: Wacken
 street: "Gehrn"
 housenumber: 14

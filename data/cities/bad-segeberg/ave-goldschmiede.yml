@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.9343951
 longitude: 10.3108191
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Bahnhofstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.4734069
 longitude: 9.8321609
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Gaehtjestraße"
 housenumber: 5

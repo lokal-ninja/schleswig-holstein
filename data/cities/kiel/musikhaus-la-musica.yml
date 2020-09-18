@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 54.3309955
 longitude: 10.127637700000001
-postcode: 24116
+postcode: "24116"
 city: Kiel
 street: "Jahnstraße"
 housenumber: 2

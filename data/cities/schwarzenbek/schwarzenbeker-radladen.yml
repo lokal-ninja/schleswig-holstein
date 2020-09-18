@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5010477
 longitude: 10.479200200000001
-postcode: 21493
+postcode: "21493"
 city: Schwarzenbek
 street: "Berliner Straße"
 housenumber: 6

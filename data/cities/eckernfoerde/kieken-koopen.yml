@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4675628
 longitude: 9.837387300000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 82

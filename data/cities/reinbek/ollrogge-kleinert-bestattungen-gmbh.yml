@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 53.5084741
 longitude: 10.2505358
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Bahnhofstraße"
 housenumber: 7

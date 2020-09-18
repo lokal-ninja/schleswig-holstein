@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.93852510000001
 longitude: 9.734042200000001
-postcode: 25548
+postcode: "25548"
 city: Kellinghusen
 street: "Neuer Kamp"
 housenumber: 32

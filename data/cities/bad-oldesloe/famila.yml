@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.800488800000004
 longitude: 10.4030242
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Lily-Braun-Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 53.6287438
 longitude: 10.689728500000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 86

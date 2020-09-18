@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.7988664
 longitude: 9.369834800000001
-postcode: 24955
+postcode: "24955"
 city: Harrislee
 street: "Am Oxer"
 housenumber: 25

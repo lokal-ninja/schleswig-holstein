@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.9083753
 longitude: 8.3100059
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Kjeirstraße"
 housenumber: 3A

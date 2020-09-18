@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.236558
 longitude: 10.275202
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Hufenweg"
 housenumber: 24

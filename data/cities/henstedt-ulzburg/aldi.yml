@@ -1,12 +1,12 @@
-id: 39237021
-type: way
+id: 7637635766
+type: node
 shop: Supermarkt
-latitude: 53.7709112
-longitude: 9.985256600000001
-postcode: 24558
+latitude: 53.770515200000006
+longitude: 9.9841473
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Dammstücken"
-housenumber: 25-27
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Sa 8:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.aldi.de/"

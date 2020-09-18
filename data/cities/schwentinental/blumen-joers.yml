@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.3039338
 longitude: 10.2148331
-postcode: 24222
+postcode: "24222"
 city: Schwentinental
 street: "Seebrookswiese"
 housenumber: 4

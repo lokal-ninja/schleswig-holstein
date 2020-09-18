@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.6295501
 longitude: 9.8655038
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Gärtnerstraße"
 housenumber: 

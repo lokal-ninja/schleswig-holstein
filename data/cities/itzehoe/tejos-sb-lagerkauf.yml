@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.91762060000001
 longitude: 9.5144645
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Am Brookhafen"
 housenumber: 16

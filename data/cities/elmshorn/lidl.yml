@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.74890430000001
 longitude: 9.690494600000001
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Hamburger Straße"
 housenumber: 207

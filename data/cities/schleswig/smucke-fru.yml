@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.517350900000004
 longitude: 9.5678909
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Kornmarkt"
 housenumber: 3

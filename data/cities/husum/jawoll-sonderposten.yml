@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 54.492515000000004
 longitude: 9.066903100000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Marienhofweg"
 housenumber: 121

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.071304100000006
 longitude: 9.9852019
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Lütjenstraße"
 housenumber: 1

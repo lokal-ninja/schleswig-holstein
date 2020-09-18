@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 54.5308659
 longitude: 9.0214735
-postcode: 25856
+postcode: "25856"
 city: Hattstedt
 street: "Bundesstraße"
 housenumber: 61

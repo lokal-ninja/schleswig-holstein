@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.7542193
 longitude: 9.527933800000001
-postcode: 24975
+postcode: "24975"
 city: Hürup
 street: "Hauptstraße"
 housenumber: 2

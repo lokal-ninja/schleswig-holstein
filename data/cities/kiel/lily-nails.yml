@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.328839200000004
 longitude: 10.1341699
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Dreiecksplatz"
 housenumber: 5

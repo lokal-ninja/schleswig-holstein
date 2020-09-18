@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.601525300000006
 longitude: 9.3086085
-postcode: 24992
+postcode: "24992"
 city: Jörl
 street: "Dorfstraße"
 housenumber: 8

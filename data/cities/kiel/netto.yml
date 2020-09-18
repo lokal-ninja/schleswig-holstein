@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3010895
 longitude: 10.092154
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Rendsburger Landstraße"
 housenumber: 206

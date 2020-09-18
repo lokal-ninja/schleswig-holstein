@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.072949
 longitude: 9.986337
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 19

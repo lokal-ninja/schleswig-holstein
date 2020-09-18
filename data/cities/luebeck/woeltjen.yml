@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.8702521
 longitude: 10.695031400000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Kanalstraße"
 housenumber: 54-56

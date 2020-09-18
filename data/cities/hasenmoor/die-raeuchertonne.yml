@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.9015319
 longitude: 9.9867222
-postcode: 24640
+postcode: "24640"
 city: Hasenmoor
 street: "Dorfstraße"
 housenumber: 46

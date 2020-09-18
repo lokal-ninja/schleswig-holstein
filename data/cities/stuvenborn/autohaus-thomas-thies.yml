@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.851331200000004
 longitude: 10.120030900000001
-postcode: 24641
+postcode: "24641"
 city: Stuvenborn
 street: "Hauptstraße"
 housenumber: 12

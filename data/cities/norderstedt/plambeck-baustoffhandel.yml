@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.668953800000004
 longitude: 9.972991500000001
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Niendorfer Straße"
 housenumber: 85

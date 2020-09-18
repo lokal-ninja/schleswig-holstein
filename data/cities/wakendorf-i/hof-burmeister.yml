@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8635207
 longitude: 10.353800900000001
-postcode: 23845
+postcode: "23845"
 city: Wakendorf I
 street: "Hauptstraße"
 housenumber: 1

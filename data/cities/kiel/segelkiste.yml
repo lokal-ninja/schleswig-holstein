@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.321606300000006
 longitude: 10.1406264
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Wall"
 housenumber: 34-38

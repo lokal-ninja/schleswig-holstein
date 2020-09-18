@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7827349
 longitude: 9.4386424
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Angelburger Straße"
 housenumber: 25

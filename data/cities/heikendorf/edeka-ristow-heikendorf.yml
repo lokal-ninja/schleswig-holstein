@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3766911
 longitude: 10.2219197
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Tobringer"
 housenumber: 4

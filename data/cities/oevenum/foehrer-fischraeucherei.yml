@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.713171800000005
 longitude: 8.5267973
-postcode: 25938
+postcode: "25938"
 city: Oevenum
 street: "Buurnstrat"
 housenumber: 79

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.8087723
 longitude: 9.6216722
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Elmshorner Straße"
 housenumber: 23

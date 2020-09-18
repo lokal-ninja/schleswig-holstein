@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.320710600000005
 longitude: 9.6275273
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 54-56

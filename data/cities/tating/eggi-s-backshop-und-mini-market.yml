@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.3245507
 longitude: 8.705276600000001
-postcode: 25881
+postcode: "25881"
 city: Tating
 street: "Dorfstraße"
 housenumber: 47

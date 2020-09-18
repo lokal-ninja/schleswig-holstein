@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 54.6634077
 longitude: 9.4005726
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Stapelholmer Weg"
 housenumber: 3

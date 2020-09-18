@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.319870800000004
 longitude: 10.128300900000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Schülperbaum"
 housenumber: 2

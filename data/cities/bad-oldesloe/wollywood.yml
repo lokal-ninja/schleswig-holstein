@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.797086400000005
 longitude: 10.4063648
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Lily-Braun-Straße"
 housenumber: 40

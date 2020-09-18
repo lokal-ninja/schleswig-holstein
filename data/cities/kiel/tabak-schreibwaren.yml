@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.3559178
 longitude: 10.1159526
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Gurlittplatz"
 housenumber: 2

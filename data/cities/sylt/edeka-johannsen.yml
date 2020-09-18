@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.8977711
 longitude: 8.367021600000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Munkmarscher Chaussee"
 housenumber: 6

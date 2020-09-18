@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.9490442
 longitude: 9.008921800000001
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Hafenstraße"
 housenumber: 20

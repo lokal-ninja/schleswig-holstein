@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.517361900000004
 longitude: 9.5670971
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 1

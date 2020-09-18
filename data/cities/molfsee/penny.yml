@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.262782800000004
 longitude: 10.0637094
-postcode: 24113
+postcode: "24113"
 city: Molfsee
 street: "Hamburger Chaussee"
 housenumber: 15

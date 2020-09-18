@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8378469
 longitude: 9.9604496
-postcode: 24568
+postcode: "24568"
 city: Kaltenkirchen
 street: "Holstenstraße"
 housenumber: 5

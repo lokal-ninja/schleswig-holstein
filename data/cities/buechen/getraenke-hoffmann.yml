@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.47755720000001
 longitude: 10.6179565
-postcode: 21514
+postcode: "21514"
 city: Büchen
 street: "Lauenburger Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3056046
 longitude: 8.645975100000001
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Nordergeest"
 housenumber: 3

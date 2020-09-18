@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 53.7259636
 longitude: 10.268414100000001
-postcode: 22941
+postcode: "22941"
 city: Bargteheide
 street: "Hammoorer Weg"
 housenumber: 1

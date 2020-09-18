@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.4709878
 longitude: 9.834832500000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Reeperbahn"
 housenumber: 25

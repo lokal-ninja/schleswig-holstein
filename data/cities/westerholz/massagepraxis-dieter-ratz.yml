@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 54.8071683
 longitude: 9.7050117
-postcode: 24977
+postcode: "24977"
 city: Westerholz
 street: "Hafflücke"
 housenumber: 5

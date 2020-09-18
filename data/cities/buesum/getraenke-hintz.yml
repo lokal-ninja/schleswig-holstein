@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 54.13958160000001
 longitude: 8.8765485
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Am Bauhof"
 housenumber: 12

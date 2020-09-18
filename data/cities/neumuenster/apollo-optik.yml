@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.0739035
 longitude: 9.9818279
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Gänsemarkt"
 housenumber: 1

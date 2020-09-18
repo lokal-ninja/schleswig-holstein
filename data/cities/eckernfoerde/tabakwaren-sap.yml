@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.4801021
 longitude: 9.850137700000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Prinzenstraße"
 housenumber: 52

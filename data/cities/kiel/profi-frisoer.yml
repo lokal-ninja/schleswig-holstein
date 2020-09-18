@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3062862
 longitude: 10.121338600000001
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Hamburger Chaussee"
 housenumber: 38

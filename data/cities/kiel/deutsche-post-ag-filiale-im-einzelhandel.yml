@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 54.3945756
 longitude: 10.1751547
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "An der Schanze"
 housenumber: 40

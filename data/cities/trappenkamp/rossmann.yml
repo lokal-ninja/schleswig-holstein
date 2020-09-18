@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.0429326
 longitude: 10.2145822
-postcode: 24610
+postcode: "24610"
 city: Trappenkamp
 street: "Gablonzer Straße"
 housenumber: 3a

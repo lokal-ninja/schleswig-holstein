@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.800888900000004
 longitude: 9.3783198
-postcode: 24955
+postcode: "24955"
 city: Harrislee
 street: "Pattburger Bogen"
 housenumber: 21

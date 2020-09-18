@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.7031331
 longitude: 10.7236747
-postcode: 23911
+postcode: "23911"
 city: Harmsdorf
 street: "Dorfstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.8086095
 longitude: 10.1588662
-postcode: 23845
+postcode: "23845"
 city: Itzstedt
 street: "Segeberger Straße"
 housenumber: 29

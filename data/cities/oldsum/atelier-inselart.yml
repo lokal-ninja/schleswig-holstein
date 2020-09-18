@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.732669
 longitude: 8.450345
-postcode: 25938
+postcode: "25938"
 city: Oldsum
 street: ""
 housenumber: 109

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.736007400000005
 longitude: 9.6745088
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Karl-Carstens-Ring"
 housenumber: 50

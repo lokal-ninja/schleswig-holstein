@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.9369516
 longitude: 10.307611300000001
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Kurhausstraße"
 housenumber: 3

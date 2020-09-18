@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7877701
 longitude: 9.4342667
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Speicherlinie"
 housenumber: 34

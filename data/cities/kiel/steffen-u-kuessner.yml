@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.294689500000004
 longitude: 10.1746841
-postcode: 24146
+postcode: "24146"
 city: Kiel
 street: "Dorfstraße"
 housenumber: 21

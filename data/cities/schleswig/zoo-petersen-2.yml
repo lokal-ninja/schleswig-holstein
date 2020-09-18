@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 54.499104700000004
 longitude: 9.552679600000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Busdorfer Straße"
 housenumber: 23

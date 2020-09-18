@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 54.4710638
 longitude: 9.8365246
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Rathausmarkt"
 housenumber: 2
 phone: "+49 4351 2007"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; PH closed"
 website: ""

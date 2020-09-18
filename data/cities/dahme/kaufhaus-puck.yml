@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.221650100000005
 longitude: 11.0856533
-postcode: 23747
+postcode: "23747"
 city: Dahme
 street: "Seestraße"
 housenumber: 29

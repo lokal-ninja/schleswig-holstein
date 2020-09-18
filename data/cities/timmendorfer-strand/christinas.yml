@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.998348
 longitude: 10.780049400000001
-postcode: 23669
+postcode: "23669"
 city: Timmendorfer Strand
 street: "Strandallee"
 housenumber: 90

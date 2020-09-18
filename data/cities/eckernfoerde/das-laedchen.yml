@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 54.470280200000005
 longitude: 9.8379966
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 45a

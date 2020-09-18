@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 53.9318399
 longitude: 9.4692913
-postcode: 25524
+postcode: "25524"
 city: Heiligenstedten
 street: "Juliankadamm"
 housenumber: 3

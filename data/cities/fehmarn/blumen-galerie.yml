@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.4366387
 longitude: 11.1969195
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Breite Straße"
 housenumber: 41

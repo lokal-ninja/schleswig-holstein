@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.3387315
 longitude: 10.1331659
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 117

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.63644420000001
 longitude: 9.840513900000001
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Poststraße"
 housenumber: 1

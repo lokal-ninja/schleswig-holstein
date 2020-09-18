@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.872547000000004
 longitude: 10.2602972
-postcode: 23816
+postcode: "23816"
 city: Leezen
 street: "Segeberger Chaussee"
 housenumber: 4

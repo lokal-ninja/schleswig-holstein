@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.730542400000004
 longitude: 9.8973635
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Gerberstraße"
 housenumber: 2

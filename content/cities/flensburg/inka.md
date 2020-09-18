@@ -1,4 +1,4 @@
 ---
-title: "INKA"
+title: "Inka"
 url: /flensburg/inka/
 ---

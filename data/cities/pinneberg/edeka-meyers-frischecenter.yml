@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.653201900000006
 longitude: 9.791587
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Saarlandstraße"
 housenumber: 65

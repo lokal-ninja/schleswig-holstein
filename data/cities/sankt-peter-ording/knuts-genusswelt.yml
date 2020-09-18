@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.305947100000004
 longitude: 8.6303572
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Badallee"
 housenumber: 33

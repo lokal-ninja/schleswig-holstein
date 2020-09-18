@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.7859308
 longitude: 9.6703465
-postcode: 24989
+postcode: "24989"
 city: Dollerup
 street: "Haffstraße"
 housenumber: 62

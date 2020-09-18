@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8298648
 longitude: 9.980091400000001
-postcode: 24568
+postcode: "24568"
 city: Kaltenkirchen
 street: "Kisdorfer Weg"
 housenumber: 13

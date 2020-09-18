@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0762245
 longitude: 10.2273723
-postcode: 24619
+postcode: "24619"
 city: Bornhöved
 street: "Kieler Tor"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.5018571
 longitude: 9.544960000000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Friedrichstraße"
 housenumber: 95

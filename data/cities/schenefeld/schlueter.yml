@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.608655500000005
 longitude: 9.8446461
-postcode: 22869
+postcode: "22869"
 city: Schenefeld
 street: "Friedrich-Ebert-Allee"
 housenumber: 25b

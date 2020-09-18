@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 54.3246297
 longitude: 10.1235376
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Jungfernstieg"
 housenumber: 28

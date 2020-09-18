@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.662460100000004
 longitude: 10.285560400000001
-postcode: 22927
+postcode: "22927"
 city: Großhansdorf
 street: "Eilbergweg"
 housenumber: 11
-phone: "+49 4102 64706"
-opening_hours: ""
+phone: ""
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 08:00-13:00"
 website: ""

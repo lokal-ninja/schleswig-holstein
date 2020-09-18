@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.168613
 longitude: 9.854646
-postcode: 24589
+postcode: "24589"
 city: Nortorf
 street: "Große Mühlenstraße"
 housenumber: 3

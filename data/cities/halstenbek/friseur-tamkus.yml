@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.624045200000005
 longitude: 9.8395835
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Eielkampsweg"
 housenumber: 53

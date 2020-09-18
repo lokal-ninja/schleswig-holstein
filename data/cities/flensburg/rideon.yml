@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.79768000000001
 longitude: 9.426193000000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neustadt"
 housenumber: 41

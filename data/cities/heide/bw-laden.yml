@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.1975569
 longitude: 9.095610500000001
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Heistedter Straße"
 housenumber: 3

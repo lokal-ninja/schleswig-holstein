@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.7474664
 longitude: 9.6935763
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Lise-Meitner-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.502201400000004
 longitude: 9.7148502
-postcode: 24354
+postcode: "24354"
 city: Kosel
 street: "Tannenweg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.6020727
 longitude: 9.5887676
-postcode: 24860
+postcode: "24860"
 city: Böklund
 street: "Gewerbestraße"
 housenumber: 3

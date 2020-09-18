@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.7383381
 longitude: 9.9498636
-postcode: 24395
+postcode: "24395"
 city: Pommerby
 street: "Hüsfeld"
 housenumber: 1

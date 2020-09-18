@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 54.0985298
 longitude: 10.7922557
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Eutiner Straße"
 housenumber: 73

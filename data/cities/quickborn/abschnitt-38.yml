@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.7306916
 longitude: 9.901183600000001
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Bahnhofstraße"
 housenumber: 38

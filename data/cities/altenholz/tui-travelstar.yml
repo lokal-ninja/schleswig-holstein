@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.4000393
 longitude: 10.1264321
-postcode: 24161
+postcode: "24161"
 city: Altenholz
 street: "Altenholzer Straße"
 housenumber: 5-7

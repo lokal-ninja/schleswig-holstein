@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.2214862
 longitude: 10.9006491
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Ottostraße"
 housenumber: 2

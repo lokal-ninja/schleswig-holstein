@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.7827702
 longitude: 9.4405491
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Viktoriastraße"
 housenumber: 2

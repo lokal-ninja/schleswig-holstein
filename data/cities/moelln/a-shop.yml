@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.623716300000005
 longitude: 10.683572400000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Grambeker Weg"
 housenumber: 2

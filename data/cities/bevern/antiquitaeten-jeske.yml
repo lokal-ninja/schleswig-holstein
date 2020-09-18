@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 53.76184610000001
 longitude: 9.7565275
-postcode: 25355
+postcode: "25355"
 city: Bevern
 street: "Im Feld"
 housenumber: 3

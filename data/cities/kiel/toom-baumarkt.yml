@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.2983891
 longitude: 10.0887284
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Rendsburger Landstraße"
 housenumber: 225

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.997978
 longitude: 10.7809931
-postcode: 23669
+postcode: "23669"
 city: Timmendorfer Strand
 street: "Timmendorfer Platz"
 housenumber: 12

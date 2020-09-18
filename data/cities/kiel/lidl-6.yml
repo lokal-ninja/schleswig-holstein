@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.301077400000004
 longitude: 10.0734267
-postcode: 24111
+postcode: "24111"
 city: Kiel
 street: "Rendsburger Landstraße"
 housenumber: 360

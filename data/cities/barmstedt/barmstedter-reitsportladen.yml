@@ -3,7 +3,7 @@ type: node
 shop: Pferde
 latitude: 53.7862006
 longitude: 9.7795786
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Hamburger Straße"
 housenumber: 16

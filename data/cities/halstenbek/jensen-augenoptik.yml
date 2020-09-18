@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.6359835
 longitude: 9.8401327
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Hauptstraße"
 housenumber: 40

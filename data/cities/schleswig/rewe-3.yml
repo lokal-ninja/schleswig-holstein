@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.517622900000006
 longitude: 9.570115000000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Gallberg"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 54.385558800000005
 longitude: 10.373624600000001
-postcode: 24217
+postcode: "24217"
 city: Schönberg (Holstein)
 street: "Eichkamp"
 housenumber: 2

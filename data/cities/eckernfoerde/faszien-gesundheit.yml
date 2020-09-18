@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.473951500000005
 longitude: 9.840149700000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Fördegang"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3378973
 longitude: 10.1242297
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Westring"
 housenumber: 393

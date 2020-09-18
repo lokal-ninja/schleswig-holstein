@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.7892263
 longitude: 9.771396900000001
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Am Markt"
 housenumber: 17

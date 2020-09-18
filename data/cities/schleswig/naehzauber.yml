@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.5178524
 longitude: 9.566753400000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Michaelisstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 54.7560858
 longitude: 9.4021214
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Ochsenweg"
 housenumber: 16

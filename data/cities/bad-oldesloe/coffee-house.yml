@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.8098278
 longitude: 10.375958800000001
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Mühlenstraße"
 housenumber: 17

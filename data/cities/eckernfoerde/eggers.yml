@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.4708455
 longitude: 9.8369874
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 32

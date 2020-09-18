@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7366462
 longitude: 8.944328200000001
-postcode: 25917
+postcode: "25917"
 city: Enge-Sande
 street: "Bundesstraße"
 housenumber: 12

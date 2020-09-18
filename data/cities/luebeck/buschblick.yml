@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.887755600000006
 longitude: 10.7964186
-postcode: 23568
+postcode: "23568"
 city: Lübeck
 street: "Mecklenburger Straße"
 housenumber: 67

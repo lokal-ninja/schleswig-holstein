@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 54.6657731
 longitude: 9.936908800000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Am Hafen"
 housenumber: 23b

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.4710035
 longitude: 9.836065600000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Schulweg"
 housenumber: 1

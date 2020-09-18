@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2956262
 longitude: 9.7085518
-postcode: 24783
+postcode: "24783"
 city: Osterrönfeld
 street: "August-Borsig-Straße"
 housenumber: 1

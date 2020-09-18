@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.693839700000005
 longitude: 10.0270273
-postcode: 22851
+postcode: "22851"
 city: Norderstedt
 street: "Poppenbütteler Straße"
 housenumber: 174

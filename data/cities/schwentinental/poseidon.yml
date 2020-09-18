@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 54.292931800000005
 longitude: 10.2189238
-postcode: 24222
+postcode: "24222"
 city: Schwentinental
 street: "Preetzer Chaussee"
 housenumber: 171

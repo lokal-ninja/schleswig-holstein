@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.5969026
 longitude: 10.4421446
-postcode: 22929
+postcode: "22929"
 city: Hamfelde
 street: "Hasselbergweg"
 housenumber: 13

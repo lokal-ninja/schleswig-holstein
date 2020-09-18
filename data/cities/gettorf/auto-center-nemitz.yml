@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.4157735
 longitude: 9.9759527
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Ravensberg"
 housenumber: 21

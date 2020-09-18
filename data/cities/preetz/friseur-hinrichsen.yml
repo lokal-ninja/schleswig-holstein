@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.23527970000001
 longitude: 10.282944500000001
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Lange Brückstraße"
 housenumber: 3A

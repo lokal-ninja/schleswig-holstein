@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.315533800000004
 longitude: 10.1323249
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Sophienblatt"
 housenumber: 25

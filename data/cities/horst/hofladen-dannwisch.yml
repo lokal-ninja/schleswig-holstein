@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.7960883
 longitude: 9.613153
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Dannwisch"
 housenumber: 1

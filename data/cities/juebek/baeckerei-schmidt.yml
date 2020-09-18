@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.5572066
 longitude: 9.401515400000001
-postcode: 24855
+postcode: "24855"
 city: Jübek
 street: "Große Straße"
 housenumber: 28

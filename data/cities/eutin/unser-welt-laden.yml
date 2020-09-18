@@ -3,10 +3,10 @@ type: node
 shop: Lebensmittel
 latitude: 54.1373596
 longitude: 10.617585400000001
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Kirchplatz"
 housenumber: 5
 phone: ""
-opening_hours: "Mo 15:00-17:00; Tu 10:00-12:00; We 15:00-17:00; Th 10:00-12:00; Fr 15:00-17:00; Sa 10:00-12:00; Su,PH off"
+opening_hours: "Mo 15:00-17:00; Tu 10:00-12:00; We 15:00-17:00; Th 10:00-12:00; Fr 15:00-17:00; Sa 10:00-12:00"
 website: ""

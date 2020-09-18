@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 53.84918630000001
 longitude: 10.6866517
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Kronsforder Allee"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8271558
 longitude: 10.503216400000001
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Feldstraße"
 housenumber: 1

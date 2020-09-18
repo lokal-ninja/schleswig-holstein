@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.158972500000004
 longitude: 10.418582200000001
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Lübecker Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 54.107086800000005
 longitude: 10.8148578
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Waschgrabenstraße"
 housenumber: 1

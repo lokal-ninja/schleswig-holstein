@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 54.236653000000004
 longitude: 9.369484
-postcode: 25786
+postcode: "25786"
 city: Dellstedt
 street: "Vogelstange"
 housenumber: 1

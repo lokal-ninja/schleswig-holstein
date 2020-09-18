@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.2222359
 longitude: 10.273629300000001
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Kührener Straße"
 housenumber: 98

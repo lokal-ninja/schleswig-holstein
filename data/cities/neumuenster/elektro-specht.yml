@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 54.070965900000004
 longitude: 9.9855091
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 32

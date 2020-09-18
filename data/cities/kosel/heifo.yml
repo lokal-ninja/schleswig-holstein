@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 54.49290980000001
 longitude: 9.743245
-postcode: 24354
+postcode: "24354"
 city: Kosel
 street: "Koselfeld"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.871937300000006
 longitude: 10.6900806
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Große Burgstraße"
 housenumber: 44

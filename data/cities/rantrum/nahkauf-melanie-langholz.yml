@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4451009
 longitude: 9.127965000000001
-postcode: 25873
+postcode: "25873"
 city: Rantrum
 street: "Carl-Heinz-Harmsen-Straße"
 housenumber: 2

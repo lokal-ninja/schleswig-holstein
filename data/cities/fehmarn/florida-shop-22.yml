@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 54.437921800000005
 longitude: 11.198072100000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Breite Straße"
 housenumber: 22

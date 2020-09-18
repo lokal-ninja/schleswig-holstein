@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 54.2200866
 longitude: 10.8872196
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Bäderstraße"
 housenumber: 6

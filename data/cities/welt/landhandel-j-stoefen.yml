@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 54.301571800000005
 longitude: 8.766268
-postcode: 25836
+postcode: "25836"
 city: Welt
 street: "Westerdeich"
 housenumber: 2

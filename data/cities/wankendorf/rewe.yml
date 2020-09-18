@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.1117441
 longitude: 10.2069843
-postcode: 24601
+postcode: "24601"
 city: Wankendorf
 street: "Bornhöveder Landstraße"
 housenumber: 2

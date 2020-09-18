@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 53.842793300000004
 longitude: 9.4004312
-postcode: 25599
+postcode: "25599"
 city: Wewelsfleth
 street: "Dorfstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 53.6785196
 longitude: 10.2394774
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Schulstraße"
 housenumber: 1a

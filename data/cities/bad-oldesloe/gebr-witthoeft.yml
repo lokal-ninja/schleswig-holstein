@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.801839900000004
 longitude: 10.393395400000001
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Industriestraße"
 housenumber: 21-25

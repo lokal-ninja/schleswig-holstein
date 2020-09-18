@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.452604
 longitude: 11.1455009
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Hauptstraße"
 housenumber: 51

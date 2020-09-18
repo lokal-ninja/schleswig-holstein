@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.682761600000006
 longitude: 10.0319581
-postcode: 22851
+postcode: "22851"
 city: Norderstedt
 street: "Tangstedter Landstraße"
 housenumber: 549

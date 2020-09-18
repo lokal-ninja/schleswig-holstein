@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3059306
 longitude: 8.630720100000001
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Badallee"
 housenumber: 31

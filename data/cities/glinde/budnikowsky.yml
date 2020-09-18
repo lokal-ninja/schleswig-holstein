@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.541695600000004
 longitude: 10.2139418
-postcode: 21509
+postcode: "21509"
 city: Glinde
 street: "Markt"
 housenumber: 3

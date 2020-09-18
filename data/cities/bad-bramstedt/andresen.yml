@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9078327
 longitude: 9.883879700000001
-postcode: 24576
+postcode: "24576"
 city: Bad Bramstedt
 street: "Hamburger Straße"
 housenumber: 53

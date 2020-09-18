@@ -3,7 +3,7 @@ type: way
 shop: Kamine & Öfen
 latitude: 54.226683200000004
 longitude: 9.511466200000001
-postcode: 24805
+postcode: "24805"
 city: Hamdorf
 street: "Hauptstraße"
 housenumber: 35c

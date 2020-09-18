@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7000442
 longitude: 10.247137500000001
-postcode: 22941
+postcode: "22941"
 city: Delingsdorf
 street: "Poggensiek"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.293103800000004
 longitude: 10.9125026
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Am Voßberg"
 housenumber: 5

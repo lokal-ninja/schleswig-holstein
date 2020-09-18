@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.6802062
 longitude: 8.3328877
-postcode: 25946
+postcode: "25946"
 city: Norddorf auf Amrum
 street: "Lunstruat"
 housenumber: 1

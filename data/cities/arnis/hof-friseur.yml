@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.6304565
 longitude: 9.932394200000001
-postcode: 24399
+postcode: "24399"
 city: Arnis
 street: "Lange Straße"
 housenumber: 15

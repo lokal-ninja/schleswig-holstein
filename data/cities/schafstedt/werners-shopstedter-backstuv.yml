@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.081472100000006
 longitude: 9.295509500000001
-postcode: 25725
+postcode: "25725"
 city: Schafstedt
 street: "Dorfstraße"
 housenumber: 9

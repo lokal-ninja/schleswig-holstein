@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.8885416
 longitude: 10.6418738
-postcode: 23617
+postcode: "23617"
 city: Stockelsdorf
 street: "Segeberger Straße"
 housenumber: 46

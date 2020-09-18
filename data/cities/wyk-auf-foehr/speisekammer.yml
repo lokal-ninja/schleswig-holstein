@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 54.689077700000006
 longitude: 8.5686801
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Wilhelmstraße"
 housenumber: 5

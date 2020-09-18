@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.236423800000004
 longitude: 10.2820865
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Mühlenstraße"
 housenumber: 12

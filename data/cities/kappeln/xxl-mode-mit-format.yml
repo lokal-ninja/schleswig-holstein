@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.6603689
 longitude: 9.933260800000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Mühlenstraße"
 housenumber: 6-8

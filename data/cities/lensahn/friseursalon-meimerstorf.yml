@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.2193419
 longitude: 10.887631800000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Höfesteig"
 housenumber: 1

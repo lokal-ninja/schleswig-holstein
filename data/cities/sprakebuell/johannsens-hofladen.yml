@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.7754959
 longitude: 9.0773477
-postcode: 25917
+postcode: "25917"
 city: Sprakebüll
 street: "Dorfstraße"
 housenumber: 3

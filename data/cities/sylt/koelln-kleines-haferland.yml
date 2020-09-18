@@ -1,11 +1,11 @@
 id: 6109622505
 type: node
 shop: Lebensmittel
-latitude: 54.908837000000005
-longitude: 8.2985588
-postcode: 25980
+latitude: 54.9088414
+longitude: 8.298534100000001
+postcode: "25980"
 city: Sylt
-street: ""
+street: "Promenade"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Su 11:00-17:00"

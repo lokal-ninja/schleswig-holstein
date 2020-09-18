@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.477998400000004
 longitude: 9.8447292
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Prinzenstraße"
 housenumber: 10

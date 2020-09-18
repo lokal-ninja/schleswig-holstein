@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 53.9058396
 longitude: 9.5007386
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Kremper Weg"
 housenumber: 63

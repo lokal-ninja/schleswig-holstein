@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.4625914
 longitude: 9.2304099
-postcode: 25872
+postcode: "25872"
 city: Ostenfeld (Husum)
 street: "Hauptstraße"
 housenumber: 20

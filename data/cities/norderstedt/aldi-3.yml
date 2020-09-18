@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6672324
 longitude: 9.987666500000001
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Rugenbarg"
 housenumber: 84

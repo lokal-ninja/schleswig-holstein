@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.7692953
 longitude: 10.602526300000001
-postcode: 23847
+postcode: "23847"
 city: Bliestorf
 street: "Lübecker Straße"
 housenumber: 3

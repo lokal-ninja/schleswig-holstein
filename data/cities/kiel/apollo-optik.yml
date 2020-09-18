@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.316889700000004
 longitude: 10.131375
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Sophienblatt"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3264554
 longitude: 9.0239285
-postcode: 25774
+postcode: "25774"
 city: Lunden
 street: "Wilhelmstraße"
 housenumber: 20

@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 54.794788600000004
 longitude: 9.471928
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Engelsbyer Straße"
 housenumber: 53
-phone: ""
+phone: "+49 461 65605"
 opening_hours: ""
 website: ""

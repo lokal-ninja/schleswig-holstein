@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2885743
 longitude: 10.582228200000001
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Schönberger Straße"
 housenumber: 3

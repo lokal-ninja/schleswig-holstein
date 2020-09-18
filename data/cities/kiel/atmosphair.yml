@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3358372
 longitude: 10.1455365
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Niemannsweg"
 housenumber: 38

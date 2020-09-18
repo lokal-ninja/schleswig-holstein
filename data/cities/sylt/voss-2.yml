@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 54.907189300000006
 longitude: 8.309853500000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Trift"
 housenumber: 1

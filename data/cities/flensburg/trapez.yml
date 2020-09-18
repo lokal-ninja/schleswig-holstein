@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.7873579
 longitude: 9.4328917
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 35

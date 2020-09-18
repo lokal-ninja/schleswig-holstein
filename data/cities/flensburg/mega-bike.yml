@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.787168
 longitude: 9.4342764
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 12

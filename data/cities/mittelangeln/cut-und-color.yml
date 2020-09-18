@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.68832690000001
 longitude: 9.603258400000001
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Schleswiger Straße"
 housenumber: 24

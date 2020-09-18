@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.236667700000005
 longitude: 10.274448900000001
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Hufenweg"
 housenumber: 24

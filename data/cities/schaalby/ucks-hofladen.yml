@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.5460829
 longitude: 9.638544000000001
-postcode: 24882
+postcode: "24882"
 city: Schaalby
 street: "Mühlenstraße"
 housenumber: 11

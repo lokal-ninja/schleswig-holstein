@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.5166771
 longitude: 9.5637488
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 30

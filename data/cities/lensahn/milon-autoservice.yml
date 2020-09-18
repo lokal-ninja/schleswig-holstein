@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.2220303
 longitude: 10.898272500000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Ottostraße"
 housenumber: 11

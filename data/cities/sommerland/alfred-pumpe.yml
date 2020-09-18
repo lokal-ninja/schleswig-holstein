@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.789113300000004
 longitude: 9.5767115
-postcode: 25358
+postcode: "25358"
 city: Sommerland
 street: "Siethwende"
 housenumber: 38

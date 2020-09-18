@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.75031370000001
 longitude: 9.9175789
-postcode: 25479
+postcode: "25479"
 city: Ellerau
 street: "Berliner Damm"
 housenumber: 1

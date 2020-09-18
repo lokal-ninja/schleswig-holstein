@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.363244200000004
 longitude: 10.290248400000001
-postcode: 24253
+postcode: "24253"
 city: Probsteierhagen
 street: "Alte Dorfstraße"
 housenumber: 64

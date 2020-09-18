@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.64740320000001
 longitude: 9.9091114
-postcode: 
+postcode: ""
 city: Hamburg
 street: "Roman-Zeller-Platz"
 housenumber: 8

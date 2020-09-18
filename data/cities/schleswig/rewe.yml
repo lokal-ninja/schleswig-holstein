@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.5324163
 longitude: 9.575565000000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Hans-Jürgen-Klinker-Straße"
 housenumber: 2

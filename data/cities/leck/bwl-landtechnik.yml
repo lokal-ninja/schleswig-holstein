@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.7773041
 longitude: 8.9780326
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Industriestraße"
 housenumber: 12

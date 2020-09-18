@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.440579400000004
 longitude: 11.1976098
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Niendorfer Straße"
 housenumber: 6

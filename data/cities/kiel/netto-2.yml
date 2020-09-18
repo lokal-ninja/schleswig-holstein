@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.295460000000006
 longitude: 10.190649200000001
-postcode: 24146
+postcode: "24146"
 city: Kiel
 street: "Preetzer Chaussee"
 housenumber: 234

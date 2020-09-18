@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.627901200000004
 longitude: 10.6876002
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 35

@@ -3,10 +3,10 @@ type: node
 shop: Haushaltsartikel
 latitude: 54.9066642
 longitude: 8.303087600000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Bismarckstraße"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
 website: "https://www.tischundherd-sylt.de/"

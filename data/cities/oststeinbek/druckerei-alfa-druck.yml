@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 53.542270800000004
 longitude: 10.1674133
-postcode: 22113
+postcode: "22113"
 city: Oststeinbek
 street: "Möllner Landstraße"
 housenumber: 67

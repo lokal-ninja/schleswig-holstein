@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.9078772
 longitude: 8.3084912
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Wilhelmstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.7876969
 longitude: 9.4399678
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Kurze Straße"
 housenumber: 5

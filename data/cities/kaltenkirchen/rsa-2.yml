@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.8354457
 longitude: 9.9658396
-postcode: 24568
+postcode: "24568"
 city: Kaltenkirchen
 street: "Am Bahnhof"
 housenumber: 3

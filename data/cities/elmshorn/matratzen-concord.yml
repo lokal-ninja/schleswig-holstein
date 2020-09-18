@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.7492743
 longitude: 9.656158300000001
-postcode: 25336
+postcode: "25336"
 city: Elmshorn
 street: "Reichenstraße"
 housenumber: 4-6

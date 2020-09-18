@@ -3,10 +3,10 @@ type: way
 shop: Lebensmittel
 latitude: 53.8785455
 longitude: 10.670039800000001
-postcode: 23554
+postcode: "23554"
 city: Lübeck
 street: "Bei der Lohmühle"
 housenumber: 54
-phone: "+40 451 2908440"
+phone: ""
 opening_hours: "24/7"
 website: ""

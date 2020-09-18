@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.093734500000004
 longitude: 10.823419000000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Sandberger Weg"
 housenumber: 88

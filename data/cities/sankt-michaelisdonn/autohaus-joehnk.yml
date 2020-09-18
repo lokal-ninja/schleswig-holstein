@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.988497800000005
 longitude: 9.1168593
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Schwarzer Weg"
 housenumber: 8

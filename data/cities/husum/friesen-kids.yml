@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.4778643
 longitude: 9.047471400000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Neustadt"
 housenumber: 34

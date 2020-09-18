@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.1000633
 longitude: 9.976786500000001
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Baeyerstraße"
 housenumber: 1

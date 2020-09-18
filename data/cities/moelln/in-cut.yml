@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6282688
 longitude: 10.688357100000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 51

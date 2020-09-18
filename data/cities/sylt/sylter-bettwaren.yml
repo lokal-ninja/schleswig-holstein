@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 54.906622500000005
 longitude: 8.3025296
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Bismarckstraße"
 housenumber: 6-8

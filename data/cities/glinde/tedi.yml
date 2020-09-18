@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.542114500000004
 longitude: 10.212343200000001
-postcode: 21509
+postcode: "21509"
 city: Glinde
 street: "Markt"
 housenumber: 12

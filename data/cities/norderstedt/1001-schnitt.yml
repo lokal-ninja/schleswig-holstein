@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6821361
 longitude: 9.987643700000001
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Europaallee"
 housenumber: 2

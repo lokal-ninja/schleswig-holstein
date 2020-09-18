@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.207089800000006
 longitude: 10.5841039
-postcode: 23714
+postcode: "23714"
 city: Malente
 street: "Dorfstraße"
 housenumber: 42

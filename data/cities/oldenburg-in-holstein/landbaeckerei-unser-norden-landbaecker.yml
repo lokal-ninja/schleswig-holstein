@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2875816
 longitude: 10.8775092
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Kieler Chaussee"
 housenumber: 4a

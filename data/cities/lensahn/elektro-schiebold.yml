@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 54.219665500000005
 longitude: 10.8840819
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Eutiner Straße"
 housenumber: 15

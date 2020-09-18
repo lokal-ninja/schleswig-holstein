@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.312899
 longitude: 9.9485661
-postcode: 24242
+postcode: "24242"
 city: Felde
 street: "Klein Nordseer Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.7867795
 longitude: 9.423543200000001
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Große Deichstraße"
 housenumber: 7

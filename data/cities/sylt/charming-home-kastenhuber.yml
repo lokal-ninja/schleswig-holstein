@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.9088015
 longitude: 8.3031102
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Neue Straße"
 housenumber: 12

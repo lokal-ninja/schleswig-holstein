@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.815314
 longitude: 9.4723986
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Marrensdamm"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.148936500000005
 longitude: 10.3430209
-postcode: 24326
+postcode: "24326"
 city: Ascheberg
 street: "Plöner Chaussee"
 housenumber: 74

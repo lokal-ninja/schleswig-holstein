@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.305433
 longitude: 10.1336268
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Bahnhofstraße"
 housenumber: 25

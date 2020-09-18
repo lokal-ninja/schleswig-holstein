@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6651238
 longitude: 9.9131076
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Flensburger Straße"
 housenumber: 76

@@ -3,10 +3,10 @@ type: way
 shop: Elektronik
 latitude: 53.924332500000006
 longitude: 9.381739000000001
-postcode: 25554
+postcode: "25554"
 city: Wilster
 street: "Steindamm"
 housenumber: 8
 phone: ""
 opening_hours: ""
-website: ""
+website: "http://www.elektroholler.de/"

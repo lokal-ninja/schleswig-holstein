@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.1948054
 longitude: 10.871216700000002
-postcode: 23738
+postcode: "23738"
 city: Beschendorf
 street: "Hofweg"
 housenumber: 7

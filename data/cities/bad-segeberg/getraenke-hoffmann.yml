@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.949565400000004
 longitude: 10.3047553
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Ziegelstraße"
 housenumber: 119

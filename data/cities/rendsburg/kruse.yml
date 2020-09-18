@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 54.304425
 longitude: 9.6635866
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Neue Straße"
 housenumber: 28

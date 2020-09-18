@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.641727100000004
 longitude: 9.8895257
-postcode: 25474
+postcode: "25474"
 city: Ellerbek
 street: "Waldhof"
 housenumber: 1

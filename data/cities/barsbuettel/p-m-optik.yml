@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.569012
 longitude: 10.1639785
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Hauptstraße"
 housenumber: 38h

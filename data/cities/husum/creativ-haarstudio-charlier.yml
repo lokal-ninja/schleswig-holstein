@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.4703978
 longitude: 9.089812700000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Ostenfelder Straße"
 housenumber: 68

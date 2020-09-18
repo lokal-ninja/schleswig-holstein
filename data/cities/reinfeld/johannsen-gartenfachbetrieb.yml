@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 53.8244643
 longitude: 10.501549
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "An der Autobahn"
 housenumber: 22

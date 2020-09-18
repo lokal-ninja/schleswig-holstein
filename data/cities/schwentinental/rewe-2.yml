@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2827537
 longitude: 10.238595700000001
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Rönner Weg"
 housenumber: 2b

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.4013124
 longitude: 10.002202
-postcode: 24214
+postcode: "24214"
 city: Tüttendorf
 street: "Seemannshagen"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.5154274
 longitude: 9.3243971
-postcode: 24896
+postcode: "24896"
 city: Treia
 street: "Treenestraße"
 housenumber: 11-13

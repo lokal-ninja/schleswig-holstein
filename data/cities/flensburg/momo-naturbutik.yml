@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 54.791522300000004
 longitude: 9.4312424
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 47

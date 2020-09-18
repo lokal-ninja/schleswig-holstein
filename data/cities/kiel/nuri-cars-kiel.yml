@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.29591490000001
 longitude: 10.1803491
-postcode: 24146
+postcode: "24146"
 city: Kiel
 street: "Preetzer Chaussee"
 housenumber: 162

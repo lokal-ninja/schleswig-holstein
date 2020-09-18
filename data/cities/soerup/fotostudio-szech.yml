@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.716154700000004
 longitude: 9.6692751
-postcode: 24966
+postcode: "24966"
 city: Sörup
 street: "Schleswiger Straße"
 housenumber: 3

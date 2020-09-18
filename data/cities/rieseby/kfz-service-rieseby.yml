@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.5436229
 longitude: 9.8229009
-postcode: 24354
+postcode: "24354"
 city: Rieseby
 street: "Kappelner Landstraße"
 housenumber: 2

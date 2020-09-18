@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.445442400000005
 longitude: 11.187011700000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Industriestraße"
 housenumber: 9

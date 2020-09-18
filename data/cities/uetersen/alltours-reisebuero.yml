@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.6835735
 longitude: 9.6655411
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Am Markt"
 housenumber: 6

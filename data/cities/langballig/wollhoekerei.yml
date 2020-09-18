@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 54.7974642
 longitude: 9.6533648
-postcode: 24977
+postcode: "24977"
 city: Langballig
 street: "Schmiedestraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.2876896
 longitude: 10.2228249
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Mergenthalerstraße"
 housenumber: 11-13

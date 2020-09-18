@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.9009769
 longitude: 8.3354098
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Boy-Nielsen-Straße"
 housenumber: 15b

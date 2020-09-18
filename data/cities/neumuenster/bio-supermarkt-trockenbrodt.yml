@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.0687672
 longitude: 9.989005
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Altonaer Straße"
 housenumber: 3

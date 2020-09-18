@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.2986177
 longitude: 10.1675109
-postcode: 24147
+postcode: "24147"
 city: Kiel
 street: "Preetzer Straße"
 housenumber: 298

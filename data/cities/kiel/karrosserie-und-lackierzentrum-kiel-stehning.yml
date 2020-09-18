@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.2777686
 longitude: 10.1433078
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Braunstraße"
 housenumber: 6

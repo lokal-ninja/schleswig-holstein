@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.130230600000004
 longitude: 10.579147
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Plöner Straße"
 housenumber: 8-10

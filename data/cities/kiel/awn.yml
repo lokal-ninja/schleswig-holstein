@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.302425500000005
 longitude: 10.1275709
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Flintbeker Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.218054
 longitude: 10.8837618
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Friedrich-August-Straße"
 housenumber: 27

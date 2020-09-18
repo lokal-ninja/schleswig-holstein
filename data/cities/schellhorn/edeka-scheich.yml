@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2292393
 longitude: 10.2958455
-postcode: 24211
+postcode: "24211"
 city: Schellhorn
 street: "Plöner Landstraße"
 housenumber: 18

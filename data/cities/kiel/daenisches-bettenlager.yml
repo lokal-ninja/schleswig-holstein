@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.304664200000005
 longitude: 10.128081100000001
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Stormarnstraße"
 housenumber: 36

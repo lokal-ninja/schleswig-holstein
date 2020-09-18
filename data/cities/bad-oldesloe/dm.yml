@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.810202600000004
 longitude: 10.3756345
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Mühlenstraße"
 housenumber: 18-20

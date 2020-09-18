@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.511165600000005
 longitude: 10.2516149
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Bergstraße"
 housenumber: 6b

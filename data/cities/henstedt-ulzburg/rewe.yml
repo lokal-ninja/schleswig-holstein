@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7531784
 longitude: 9.997572700000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Wilstedter Straße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.000484300000004
 longitude: 9.2621581
-postcode: 25712
+postcode: "25712"
 city: Burg (Dithmarschen)
 street: "Bahnhofstraße"
 housenumber: 9a

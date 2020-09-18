@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8665504
 longitude: 10.687353700000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Königstraße"
 housenumber: 69

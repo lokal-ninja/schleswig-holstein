@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 54.443928400000004
 longitude: 11.1808112
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Gertrudenthaler Straße"
 housenumber: 1

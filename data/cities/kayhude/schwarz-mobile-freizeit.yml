@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.749522500000005
 longitude: 10.125926
-postcode: 23863
+postcode: "23863"
 city: Kayhude
 street: "Segeberger Straße"
 housenumber: 5

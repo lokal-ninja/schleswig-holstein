@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.4716199
 longitude: 9.8356185
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Sankt-Nikolai-Straße"
 housenumber: 5

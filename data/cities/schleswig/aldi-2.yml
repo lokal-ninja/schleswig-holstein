@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.5041178
 longitude: 9.541919100000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Georg-Pfingsten-Weg"
 housenumber: 5

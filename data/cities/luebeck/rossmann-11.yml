@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.8884174
 longitude: 10.687805800000001
-postcode: 23554
+postcode: "23554"
 city: Lübeck
 street: "Schwartauer Landstraße"
 housenumber: 6

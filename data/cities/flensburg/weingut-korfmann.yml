@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.791312500000004
 longitude: 9.419438600000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Dorotheenstraße"
 housenumber: 37

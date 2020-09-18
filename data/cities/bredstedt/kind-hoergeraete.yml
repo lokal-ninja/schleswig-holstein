@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 54.618020300000005
 longitude: 8.9650883
-postcode: 25821
+postcode: "25821"
 city: Bredstedt
 street: "Markt"
 housenumber: 15

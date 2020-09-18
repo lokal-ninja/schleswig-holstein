@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.3071229
 longitude: 9.6035953
-postcode: 24787
+postcode: "24787"
 city: Fockbek
 street: "Rendsburger Straße"
 housenumber: 39

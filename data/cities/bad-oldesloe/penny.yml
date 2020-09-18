@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8146453
 longitude: 10.391894200000001
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Lübecker Straße"
 housenumber: 111

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.684091900000006
 longitude: 9.9922945
-postcode: 24404
+postcode: "24404"
 city: Maasholm
 street: "Uleweg"
 housenumber: 16

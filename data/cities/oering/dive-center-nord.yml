@@ -3,7 +3,7 @@ type: way
 shop: Tauchen
 latitude: 53.8224681
 longitude: 10.1550078
-postcode: 23845
+postcode: "23845"
 city: Oering
 street: "Sauer Moor"
 housenumber: 2

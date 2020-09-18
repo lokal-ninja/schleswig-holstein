@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.469821
 longitude: 9.0904079
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Ostenfelder Straße"
 housenumber: 68

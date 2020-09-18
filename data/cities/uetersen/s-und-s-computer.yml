@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.6852129
 longitude: 9.6686555
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Wassermühlenstraße"
 housenumber: 10

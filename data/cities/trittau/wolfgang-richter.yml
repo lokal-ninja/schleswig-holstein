@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6067011
 longitude: 10.4129273
-postcode: 22946
+postcode: "22946"
 city: Trittau
 street: "Vorburgstraße"
 housenumber: 5

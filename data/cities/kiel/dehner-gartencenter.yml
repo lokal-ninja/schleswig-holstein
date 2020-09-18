@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 54.3022695
 longitude: 10.1336586
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Tonberg"
 housenumber: 5

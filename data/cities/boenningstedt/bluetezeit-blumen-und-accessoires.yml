@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.6630996
 longitude: 9.9060591
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Kieler Straße"
 housenumber: 86

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3278066
 longitude: 10.1320903
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Wilhelminenstraße"
 housenumber: 27

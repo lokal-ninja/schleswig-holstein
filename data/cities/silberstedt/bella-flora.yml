@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.5177619
 longitude: 9.3770551
-postcode: 24887
+postcode: "24887"
 city: Silberstedt
 street: "Hauptstraße"
 housenumber: 19

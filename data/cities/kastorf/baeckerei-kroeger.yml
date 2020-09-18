@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.748118600000005
 longitude: 10.570926100000001
-postcode: 23847
+postcode: "23847"
 city: Kastorf
 street: "Ratzeburger Straße"
 housenumber: 2

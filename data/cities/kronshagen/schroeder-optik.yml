@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.3356049
 longitude: 10.0856556
-postcode: 24119
+postcode: "24119"
 city: Kronshagen
 street: "Meddagskamp"
 housenumber: 4

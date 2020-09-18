@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.930675
 longitude: 9.749323500000001
-postcode: 25563
+postcode: "25563"
 city: Wrist
 street: "Hauptstraße"
 housenumber: 18-20

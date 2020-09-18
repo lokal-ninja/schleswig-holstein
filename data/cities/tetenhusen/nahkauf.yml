@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.3504785
 longitude: 9.496339200000001
-postcode: 24817
+postcode: "24817"
 city: Tetenhusen
 street: "Hauptstraße"
 housenumber: 4

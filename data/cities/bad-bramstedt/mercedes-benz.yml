@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.9231087
 longitude: 9.882142
-postcode: 24576
+postcode: "24576"
 city: Bad Bramstedt
 street: "Liethberg"
 housenumber: 4

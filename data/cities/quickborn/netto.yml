@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.748307200000006
 longitude: 9.9589358
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Ulzburger Landstraße"
 housenumber: 406

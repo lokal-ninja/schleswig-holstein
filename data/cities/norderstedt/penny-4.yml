@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7233152
 longitude: 9.9974287
-postcode: 22844
+postcode: "22844"
 city: Norderstedt
 street: "Ulzburger Straße"
 housenumber: 505

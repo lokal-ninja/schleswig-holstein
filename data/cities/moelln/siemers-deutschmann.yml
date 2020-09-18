@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 53.6236255
 longitude: 10.678394200000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Alt-Möllner Straße"
 housenumber: 28

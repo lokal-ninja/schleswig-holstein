@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.311705700000005
 longitude: 9.6544475
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Eckernförder Straße"
 housenumber: 48-50

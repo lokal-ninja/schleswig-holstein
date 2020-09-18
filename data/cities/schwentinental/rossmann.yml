@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 54.288778400000005
 longitude: 10.2186679
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Mergenthalerstraße"
 housenumber: 32

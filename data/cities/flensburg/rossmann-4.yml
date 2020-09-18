@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.758487200000005
 longitude: 9.3964174
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Holzkrugweg"
 housenumber: 8

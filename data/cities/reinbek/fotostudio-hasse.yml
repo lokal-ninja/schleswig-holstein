@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.5104733
 longitude: 10.2512608
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Hamburger Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.9077909
 longitude: 8.305113
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Friedrichstraße"
 housenumber: 12

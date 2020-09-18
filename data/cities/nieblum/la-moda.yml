@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.6906851
 longitude: 8.4891466
-postcode: 25938
+postcode: "25938"
 city: Nieblum
 street: "Bi de Süd"
 housenumber: 30

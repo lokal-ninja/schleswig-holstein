@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.060667
 longitude: 9.9546875
-postcode: 24537
+postcode: "24537"
 city: Neumünster
 street: "Ehndorfer Straße"
 housenumber: 197

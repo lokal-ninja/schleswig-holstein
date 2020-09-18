@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.303858000000005
 longitude: 8.6376554
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Dorfstraße"
 housenumber: 9

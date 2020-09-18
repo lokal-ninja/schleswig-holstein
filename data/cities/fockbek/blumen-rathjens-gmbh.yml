@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.30570470000001
 longitude: 9.584814
-postcode: 24787
+postcode: "24787"
 city: Fockbek
 street: "Hohner Straße"
 housenumber: 40

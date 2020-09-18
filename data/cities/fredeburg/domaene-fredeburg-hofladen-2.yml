@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.673239900000006
 longitude: 10.7241309
-postcode: 23909
+postcode: "23909"
 city: Fredeburg
 street: "Domänenweg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 54.5231117
 longitude: 8.6829532
-postcode: 25849
+postcode: "25849"
 city: Pellworm
 street: "Tammensiel"
 housenumber: 21-23

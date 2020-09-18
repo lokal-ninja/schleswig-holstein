@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 54.9093602
 longitude: 8.3017549
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Strandstraße"
 housenumber: 22
-phone: ""
+phone: "+49 4651 6273"
 opening_hours: "Mo-Sa 08:00-18:30"
 website: "https://www.edeka-rasmussen.de/"

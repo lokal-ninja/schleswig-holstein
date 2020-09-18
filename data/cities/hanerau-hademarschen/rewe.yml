@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.125175500000005
 longitude: 9.4154196
-postcode: 25557
+postcode: "25557"
 city: Hanerau-Hademarschen
 street: "Bahnhofstraße"
 housenumber: 4

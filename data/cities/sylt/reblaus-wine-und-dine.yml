@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 54.8929668
 longitude: 8.3747243
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Melnwai"
 housenumber: 2

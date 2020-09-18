@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.070954400000005
 longitude: 9.940068100000001
-postcode: 24537
+postcode: "24537"
 city: Neumünster
 street: "Wasbeker Straße"
 housenumber: 330

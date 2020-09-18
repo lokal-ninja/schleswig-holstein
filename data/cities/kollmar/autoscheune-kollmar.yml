@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.7327091
 longitude: 9.4968423
-postcode: 25377
+postcode: "25377"
 city: Kollmar
 street: "Kleine Kirchreihe"
 housenumber: 4

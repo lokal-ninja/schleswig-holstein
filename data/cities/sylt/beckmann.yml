@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 54.899904500000005
 longitude: 8.3419861
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Ingewai"
 housenumber: 2

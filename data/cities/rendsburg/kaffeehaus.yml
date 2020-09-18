@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3046318
 longitude: 9.6606564
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Schiffbrückenplatz"
 housenumber: 17

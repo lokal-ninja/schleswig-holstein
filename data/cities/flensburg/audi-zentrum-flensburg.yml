@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.768492800000004
 longitude: 9.4248794
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Liebigstraße"
 housenumber: 8

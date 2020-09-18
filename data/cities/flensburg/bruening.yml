@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 54.786306100000004
 longitude: 9.4342682
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 2a

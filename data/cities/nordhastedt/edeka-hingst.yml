@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.172982000000005
 longitude: 9.184643600000001
-postcode: 25785
+postcode: "25785"
 city: Nordhastedt
 street: "Hauptstraße"
 housenumber: 24a

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.822071
 longitude: 9.4473749
-postcode: 25376
+postcode: "25376"
 city: Borsfleth
 street: "Büttel"
 housenumber: 148b

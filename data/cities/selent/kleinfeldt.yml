@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 54.291102300000006
 longitude: 10.4241911
-postcode: 24238
+postcode: "24238"
 city: Selent
 street: "Kieler Straße"
 housenumber: 36
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.kleinfeld-selent.de/home.php"

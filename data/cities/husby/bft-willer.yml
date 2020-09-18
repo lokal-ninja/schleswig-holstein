@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.7647087
 longitude: 9.578451000000001
-postcode: 24975
+postcode: "24975"
 city: Husby
 street: "Flensburger Straße"
 housenumber: 37

@@ -3,10 +3,10 @@ type: way
 shop: Schreibwaren
 latitude: 54.79244430000001
 longitude: 9.4666865
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Engelsbyer Straße"
 housenumber: 7
-phone: ""
+phone: "+49 461 6088"
 opening_hours: "Mo-Th 08:00-13:00,14:30-17:15; Fr 08:00-13:00,14:30-16:00"
-website: ""
+website: "udo-staehling.de"

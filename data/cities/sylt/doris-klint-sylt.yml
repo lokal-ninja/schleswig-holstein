@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.9069311
 longitude: 8.303099900000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Bismarckstraße"
 housenumber: 5

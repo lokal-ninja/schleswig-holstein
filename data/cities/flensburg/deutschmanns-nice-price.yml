@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 54.795124
 longitude: 9.4308507
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 128

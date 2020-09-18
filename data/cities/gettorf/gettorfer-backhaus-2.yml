@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.4133398
 longitude: 9.9871709
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Eichkoppel"
 housenumber: 3

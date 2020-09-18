@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 53.5456561
 longitude: 10.1534744
-postcode: 22113
+postcode: "22113"
 city: Oststeinbek
 street: "Willinghusener Weg"
 housenumber: 1

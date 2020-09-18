@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.647191400000004
 longitude: 9.909844300000001
-postcode: 22545
+postcode: "22545"
 city: Hamburg
 street: "Roman-Zeller-Platz"
 housenumber: 2

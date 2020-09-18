@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 54.084664000000004
 longitude: 9.9930719
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Gutenbergstraße"
 housenumber: 52

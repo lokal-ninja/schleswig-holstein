@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.1355069
 longitude: 10.611032
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Bahnhofstraße"
 housenumber: 21c

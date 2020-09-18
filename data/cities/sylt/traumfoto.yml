@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.908174100000004
 longitude: 8.3014901
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Elisabethstraße"
 housenumber: 5

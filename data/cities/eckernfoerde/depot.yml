@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 54.469404000000004
 longitude: 9.8371638
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 62

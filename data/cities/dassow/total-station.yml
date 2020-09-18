@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 53.9131974
 longitude: 10.9775761
-postcode: 23942
+postcode: "23942"
 city: Dassow
 street: "Friedensstraße"
 housenumber: 88

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3050159
 longitude: 9.6641074
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Mühlenstraße"
 housenumber: 3

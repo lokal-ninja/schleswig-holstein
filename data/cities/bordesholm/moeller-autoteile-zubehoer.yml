@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 54.179359700000006
 longitude: 10.026088900000001
-postcode: 24582
+postcode: "24582"
 city: Bordesholm
 street: "Kieler Straße"
 housenumber: 51-53

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.640938000000006
 longitude: 10.217306
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Dänenweg"
 housenumber: 12

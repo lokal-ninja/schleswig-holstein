@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 54.7982506
 longitude: 9.4745282
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Schottweg"
 housenumber: 94
 phone: "+49 461 97888263"
 opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: ""
+website: "https://www.dm.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.618639200000004
 longitude: 9.381975500000001
-postcode: 24852
+postcode: "24852"
 city: Eggebek
 street: "Am Klinkenberg"
 housenumber: 18

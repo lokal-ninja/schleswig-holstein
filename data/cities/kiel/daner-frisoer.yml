@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.314013700000004
 longitude: 10.1294967
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Sophienblatt"
 housenumber: 48b

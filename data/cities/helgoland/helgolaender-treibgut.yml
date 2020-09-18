@@ -3,9 +3,9 @@ type: node
 shop: Tee
 latitude: 54.180829300000006
 longitude: 7.8876283
-postcode: 27498
+postcode: "27498"
 city: Helgoland
-street: "Siemensterrasse"
+street: "J.-A.-Siemens-Terrasse"
 housenumber: 140
 phone: ""
 opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-16:00; Su 11:00-15:30"

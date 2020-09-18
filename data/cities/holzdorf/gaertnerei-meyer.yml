@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 54.557458200000006
 longitude: 9.894141900000001
-postcode: 24364
+postcode: "24364"
 city: Holzdorf
 street: "Dorfstraße"
 housenumber: 41

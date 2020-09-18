@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.096189100000004
 longitude: 10.890934600000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Strandweg"
 housenumber: 54b

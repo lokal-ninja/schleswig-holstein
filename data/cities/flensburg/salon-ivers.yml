@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7732718
 longitude: 9.429702500000001
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Rude"
 housenumber: 30

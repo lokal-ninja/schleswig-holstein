@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 54.777350500000004
 longitude: 9.335789700000001
-postcode: 24983
+postcode: "24983"
 city: Handewitt
 street: "Scandinavian Park"
 housenumber: 11b

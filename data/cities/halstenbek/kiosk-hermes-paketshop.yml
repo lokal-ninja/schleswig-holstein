@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 53.6165135
 longitude: 9.866881600000001
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Seestraße"
 housenumber: 252

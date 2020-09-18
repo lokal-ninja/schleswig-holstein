@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.472220500000006
 longitude: 9.1292886
-postcode: 25866
+postcode: "25866"
 city: Mildstedt
 street: "Mildstedtfeld"
 housenumber: 2

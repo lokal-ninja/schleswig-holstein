@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6794073
 longitude: 10.2336503
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Reeshoop"
 housenumber: 47

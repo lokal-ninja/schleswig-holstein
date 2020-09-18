@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.9055479
 longitude: 8.3289054
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Zum Fliegerhorst"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 53.6305174
 longitude: 9.861789100000001
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Gärtnerstraße"
 housenumber: 118

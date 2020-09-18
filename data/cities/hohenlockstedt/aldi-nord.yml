@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.967088000000004
 longitude: 9.6141193
-postcode: 25551
+postcode: "25551"
 city: Hohenlockstedt
 street: "Deutsch-Ordens-Straße"
 housenumber: 2

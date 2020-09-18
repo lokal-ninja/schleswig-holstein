@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.812617
 longitude: 10.1687559
-postcode: 23845
+postcode: "23845"
 city: Itzstedt
 street: "Schafskoppel"
 housenumber: 5

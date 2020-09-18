@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.2183117
 longitude: 10.5284043
-postcode: 24329
+postcode: "24329"
 city: Rantzau
 street: "Schule Söhren"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.220341600000005
 longitude: 10.887489700000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Bäderstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.991969000000005
 longitude: 9.112270500000001
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Johannßenstraße"
 housenumber: 63

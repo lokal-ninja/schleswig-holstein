@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 54.105236500000004
 longitude: 9.967772700000001
-postcode: 24537
+postcode: "24537"
 city: Neumünster
 street: "Rendsburger Straße"
 housenumber: 354

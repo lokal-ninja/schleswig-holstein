@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.089150700000005
 longitude: 9.9879928
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Kieler Straße"
 housenumber: 200

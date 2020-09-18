@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 54.10862770000001
 longitude: 10.8155801
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Kremper Straße"
 housenumber: 11

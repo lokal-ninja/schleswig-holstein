@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 54.368344900000004
 longitude: 11.0841978
-postcode: 23775
+postcode: "23775"
 city: Großenbrode
 street: "Strandstraße"
 housenumber: 1b
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
 website: ""

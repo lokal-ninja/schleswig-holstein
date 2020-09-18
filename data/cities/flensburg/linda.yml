@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.7879975
 longitude: 9.432696700000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 32

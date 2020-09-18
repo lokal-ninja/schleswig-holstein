@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5238804
 longitude: 10.229202200000001
-postcode: 21509
+postcode: "21509"
 city: Glinde
 street: "Gutenbergstraße"
 housenumber: 1-3

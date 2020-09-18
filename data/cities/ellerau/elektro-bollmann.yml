@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.7514096
 longitude: 9.9201774
-postcode: 25479
+postcode: "25479"
 city: Ellerau
 street: "Steindamm"
 housenumber: 1-3

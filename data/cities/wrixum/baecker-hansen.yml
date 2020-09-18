@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.700060300000004
 longitude: 8.5493669
-postcode: 25938
+postcode: "25938"
 city: Wrixum
 street: "Ohl-Dörp"
 housenumber: 47

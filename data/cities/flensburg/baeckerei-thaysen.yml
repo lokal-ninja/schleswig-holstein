@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.783129
 longitude: 9.436609800000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.579781000000004
 longitude: 9.6389037
-postcode: 24894
+postcode: "24894"
 city: Tolk
 street: "Alte Dorfstraße"
 housenumber: 14

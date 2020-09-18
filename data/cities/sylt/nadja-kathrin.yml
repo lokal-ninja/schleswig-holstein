@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.9099469
 longitude: 8.3027707
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Steinmannstraße"
 housenumber: 14

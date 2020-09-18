@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9316551
 longitude: 9.525006300000001
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Hanseaten-Platz"
 housenumber: 2

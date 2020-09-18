@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.3270059
 longitude: 10.141618300000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Lorentzendamm"
 housenumber: 6-8

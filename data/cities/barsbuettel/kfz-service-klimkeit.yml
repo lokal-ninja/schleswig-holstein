@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.5690053
 longitude: 10.1526745
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Alte Landstraße"
 housenumber: 2b

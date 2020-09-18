@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.639110200000005
 longitude: 10.6959373
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Ratzeburger Straße"
 housenumber: 41

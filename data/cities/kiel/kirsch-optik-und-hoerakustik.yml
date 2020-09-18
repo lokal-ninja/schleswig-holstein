@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.332446700000006
 longitude: 10.1327029
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 68

@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 53.601588400000004
 longitude: 9.8384447
-postcode: 22869
+postcode: "22869"
 city: Schenefeld
 street: "Industriestraße"
 housenumber: 2 e

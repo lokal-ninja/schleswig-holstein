@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.353867
 longitude: 10.091509700000001
-postcode: 24107
+postcode: "24107"
 city: Kiel
 street: "Steenbeker Weg"
 housenumber: 215

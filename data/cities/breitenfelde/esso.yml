@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.609150500000005
 longitude: 10.635643700000001
-postcode: 23881
+postcode: "23881"
 city: Breitenfelde
 street: "Bundesstraße"
 housenumber: 9

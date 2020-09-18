@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.5603525
 longitude: 9.9050581
-postcode: 24364
+postcode: "24364"
 city: Holzdorf
 street: "Seeholz"
 housenumber: 36

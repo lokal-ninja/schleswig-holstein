@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.157935200000004
 longitude: 10.4141463
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Lange Straße"
 housenumber: 17

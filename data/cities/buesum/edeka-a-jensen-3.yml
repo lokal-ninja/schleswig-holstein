@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 54.132316900000006
 longitude: 8.8503342
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Nordseestraße"
 housenumber: 16
-phone: ""
+phone: "+49 4834 9654915"
 opening_hours: "Mo-Sa 07:00-19:00;PH closed;Mar 15-Oct 31: Su,PH 11:30-17:30"
 website: "http://www.edeka-jensen.de/edeka_buesum_nordseestr.html"

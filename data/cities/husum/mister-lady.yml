@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.4773459
 longitude: 9.0517511
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Markt"
 housenumber: 13

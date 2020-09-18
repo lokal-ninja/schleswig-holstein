@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.15798650000001
 longitude: 10.4144273
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Lange Straße"
 housenumber: 14

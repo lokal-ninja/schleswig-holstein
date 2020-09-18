@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.889427500000004
 longitude: 10.6424488
-postcode: 23617
+postcode: "23617"
 city: Stockelsdorf
 street: "Ravensbusch"
 housenumber: 6

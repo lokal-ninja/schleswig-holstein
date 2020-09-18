@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 53.846440300000005
 longitude: 10.6705264
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Zeißstraße"
 housenumber: 1-7

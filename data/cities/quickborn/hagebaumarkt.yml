@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.7431842
 longitude: 9.940575200000001
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Pascalstraße"
 housenumber: 7

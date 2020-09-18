@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.6650532
 longitude: 9.399268600000001
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Bahnhofstraße"
 housenumber: 7

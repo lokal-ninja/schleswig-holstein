@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.662182800000004
 longitude: 9.9066519
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Kieler Straße"
 housenumber: 70-74

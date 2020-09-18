@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.865860500000004
 longitude: 9.31464
-postcode: 25576
+postcode: "25576"
 city: Brokdorf
 street: "Hafenducht"
 housenumber: 1

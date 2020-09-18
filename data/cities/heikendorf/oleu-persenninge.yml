@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 54.3800821
 longitude: 10.218499900000001
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Winkel"
 housenumber: 16

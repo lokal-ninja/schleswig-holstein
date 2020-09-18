@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.4873969
 longitude: 8.8596108
-postcode: 25845
+postcode: "25845"
 city: Nordstrand
 street: "Osterdeich"
 housenumber: 24

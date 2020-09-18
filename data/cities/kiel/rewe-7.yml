@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3162214
 longitude: 10.1189886
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Kirchhofallee"
 housenumber: 66a

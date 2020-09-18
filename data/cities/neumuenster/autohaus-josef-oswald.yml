@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.11819190000001
 longitude: 9.9810458
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Roschdohler Weg"
 housenumber: 100-102

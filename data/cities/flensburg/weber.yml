@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.7939365
 longitude: 9.4312889
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 123

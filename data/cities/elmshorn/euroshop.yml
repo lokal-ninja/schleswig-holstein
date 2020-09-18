@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 53.753080000000004
 longitude: 9.652387500000001
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Alter Markt"
 housenumber: 7

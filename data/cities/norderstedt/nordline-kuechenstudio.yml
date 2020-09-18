@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 53.6827799
 longitude: 10.0047425
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 33

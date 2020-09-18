@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 53.75328330000001
 longitude: 9.6514188
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Marktstraße"
-housenumber: 8
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 6-8
+phone: "+49 4121 2669355"
+opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-17:00"
+website: "https://www.city-elmshorn.de/emmas-vedes-point-de-507.html"

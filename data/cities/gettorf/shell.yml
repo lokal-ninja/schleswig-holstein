@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.4046358
 longitude: 9.9931046
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Kieler Chaussee"
 housenumber: 55

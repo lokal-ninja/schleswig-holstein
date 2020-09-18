@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.8648734
 longitude: 10.689010600000001
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Wahmstraße"
 housenumber: 58

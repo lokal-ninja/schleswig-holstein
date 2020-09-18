@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 54.3310517
 longitude: 10.1284097
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Lehmberg"
 housenumber: 34

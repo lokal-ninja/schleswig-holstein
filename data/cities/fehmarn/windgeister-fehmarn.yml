@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.4462963
 longitude: 11.0510763
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Am Hafen"
 housenumber: 2

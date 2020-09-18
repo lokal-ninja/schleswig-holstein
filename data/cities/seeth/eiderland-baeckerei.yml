@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.365964600000005
 longitude: 9.168589500000001
-postcode: 25878
+postcode: "25878"
 city: Seeth
 street: "Hauptstraße"
 housenumber: 30

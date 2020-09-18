@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.697374700000005
 longitude: 9.717981400000001
-postcode: 25436
+postcode: "25436"
 city: Tornesch
 street: "Lindenweg"
 housenumber: 2

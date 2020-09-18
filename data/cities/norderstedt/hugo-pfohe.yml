@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.6664393
 longitude: 9.9746024
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Niendorfer Straße"
 housenumber: 147

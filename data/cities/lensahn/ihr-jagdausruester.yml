@@ -3,7 +3,7 @@ type: node
 shop: Jagd
 latitude: 54.2191647
 longitude: 10.8990123
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Daimlerstraße"
 housenumber: 3

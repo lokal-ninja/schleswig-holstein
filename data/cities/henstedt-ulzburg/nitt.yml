@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.7529103
 longitude: 9.9972566
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Norderstedter Straße"
 housenumber: 2

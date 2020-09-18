@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.7875925
 longitude: 9.4233507
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Am Fleth"
 housenumber: 15-16

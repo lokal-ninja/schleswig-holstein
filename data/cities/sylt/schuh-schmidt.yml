@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.9087522
 longitude: 8.3032903
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Neue Straße"
 housenumber: 5

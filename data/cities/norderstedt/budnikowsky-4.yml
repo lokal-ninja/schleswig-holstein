@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 53.719613200000005
 longitude: 9.9988063
-postcode: 22846
+postcode: "22846"
 city: Norderstedt
 street: "Ulzburger Straße"
 housenumber: 360

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3703682
 longitude: 10.9865185
-postcode: 23774
+postcode: "23774"
 city: Heiligenhafen
 street: "Am Kalkofen"
 housenumber: 6

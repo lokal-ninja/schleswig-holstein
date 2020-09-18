@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.369411500000005
 longitude: 10.2030635
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Am Schmiedeplatz"
 housenumber: 2

@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 54.6924265
 longitude: 9.596198900000001
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Hans-Redlefsen-Straße"
 housenumber: 2
-phone: ""
+phone: "+49 4633 966196"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
-website: ""
+website: "https://www.rossmann.de"

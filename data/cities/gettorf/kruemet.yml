@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.412223600000004
 longitude: 9.9771243
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Eckernförder Chaussee"
 housenumber: 7-9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.790812
 longitude: 9.979783000000001
-postcode: 24558
+postcode: "24558"
 city: Henstedt-Ulzburg
 street: "Lindenstraße"
 housenumber: 2c

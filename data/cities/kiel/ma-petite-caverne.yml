@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.30533500000001
 longitude: 10.1061267
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Gärtnerstraße"
 housenumber: 2a

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.66060280000001
 longitude: 9.9308232
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Mühlenstraße"
 housenumber: 38

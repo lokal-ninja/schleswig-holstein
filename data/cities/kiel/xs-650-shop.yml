@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 54.276254800000004
 longitude: 10.1655391
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Marga-Faulstich-Straße"
 housenumber: 6

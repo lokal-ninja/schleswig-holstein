@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5949639
 longitude: 10.1683567
-postcode: 22149
+postcode: "22149"
 city: Hamburg
 street: "Brockdorffstraße"
 housenumber: 96

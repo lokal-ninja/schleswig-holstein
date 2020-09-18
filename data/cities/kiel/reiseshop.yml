@@ -3,10 +3,10 @@ type: node
 shop: Outdoor
 latitude: 54.3189008
 longitude: 10.130901000000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Walkerdamm"
 housenumber: 1
 phone: "+49 431 95661"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off; Dec 24 10:00-13:00; Dec 31 10:00-13:00"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00; PH off; Dec 24 10:00-13:00; Dec 31 10:00-13:00"
 website: "https://www.reiseshop-kiel.de/"

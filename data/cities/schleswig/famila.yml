@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.519820300000006
 longitude: 9.5503072
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Friedrich-Ebert-Straße"
 housenumber: 3

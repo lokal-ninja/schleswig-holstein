@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 54.129042000000005
 longitude: 8.8567699
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Hohenzollernstraße"
 housenumber: 11

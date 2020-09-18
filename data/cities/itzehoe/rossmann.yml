@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.92348320000001
 longitude: 9.5168102
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Kirchenstraße"
 housenumber: 23

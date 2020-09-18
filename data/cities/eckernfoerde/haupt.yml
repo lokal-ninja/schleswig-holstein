@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.468983800000004
 longitude: 9.837213
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 70

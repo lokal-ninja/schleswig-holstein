@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.075883000000005
 longitude: 9.9804794
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Konrad-Adenauer-Platz"
 housenumber: 2

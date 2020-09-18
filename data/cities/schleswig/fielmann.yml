@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.5166952
 longitude: 9.5639047
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 28

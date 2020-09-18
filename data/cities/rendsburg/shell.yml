@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.314042300000004
 longitude: 9.644626800000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Flensburger Straße"
 housenumber: 79

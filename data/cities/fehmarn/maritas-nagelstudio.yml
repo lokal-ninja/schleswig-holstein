@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.440604400000005
 longitude: 11.1982117
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Niendorfer Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 54.2858579
 longitude: 10.2246986
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Dieselstraße"
 housenumber: 3a

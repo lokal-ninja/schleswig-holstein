@@ -1,6 +1,6 @@
 ---
 title: Harmsdorf
 url: /harmsdorf/
-latitude: 54.2402804
-longitude: 10.8322014
+latitude: 54.24034940000001
+longitude: 10.8324508
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 54.2199104
 longitude: 10.9005162
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Zum Windpark"
 housenumber: 10

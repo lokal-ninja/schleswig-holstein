@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.235401
 longitude: 10.2837092
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Lange Brückstraße"
 housenumber: 11

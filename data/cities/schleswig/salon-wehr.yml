@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.5215778
 longitude: 9.5737321
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Am Brautsee"
 housenumber: 24

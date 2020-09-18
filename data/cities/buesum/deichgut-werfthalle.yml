@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.128381700000006
 longitude: 8.867795000000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Werftstraße"
 housenumber: 8

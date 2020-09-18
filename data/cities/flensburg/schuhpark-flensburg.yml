@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 54.798228
 longitude: 9.4741906
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Schottweg"
 housenumber: 94
-phone: ""
+phone: "+49 461 31362226"
 opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+website: "https://schuhpark.de/"

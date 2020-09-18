@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6539166
 longitude: 10.5771105
-postcode: 23896
+postcode: "23896"
 city: Nusse
 street: "Kurzenlandskoppel"
 housenumber: 5

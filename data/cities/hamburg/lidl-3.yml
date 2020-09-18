@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.5230608
 longitude: 10.1500617
-postcode: 22115
+postcode: "22115"
 city: Hamburg
 street: "Asbrookdamm"
 housenumber: 37

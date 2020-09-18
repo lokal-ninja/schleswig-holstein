@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 54.220069900000006
 longitude: 10.876235000000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Lütjenburger Straße"
 housenumber: 11

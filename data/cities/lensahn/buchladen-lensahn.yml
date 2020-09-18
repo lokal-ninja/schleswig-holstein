@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.2198034
 longitude: 10.887561600000002
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Bäderstraße"
 housenumber: 8a

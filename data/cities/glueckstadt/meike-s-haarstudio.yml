@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.80047750000001
 longitude: 9.4236073
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Jahnstraße"
 housenumber: 17

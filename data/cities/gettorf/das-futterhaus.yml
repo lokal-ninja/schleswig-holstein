@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.4149054
 longitude: 9.974378600000001
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Starkenbrook"
 housenumber: 4

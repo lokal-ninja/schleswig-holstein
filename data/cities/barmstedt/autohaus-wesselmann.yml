@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.7901746
 longitude: 9.7690646
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Kuhberg"
 housenumber: 12

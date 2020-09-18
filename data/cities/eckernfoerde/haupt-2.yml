@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.480718800000005
 longitude: 9.8505368
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Prinzenstraße"
 housenumber: 59

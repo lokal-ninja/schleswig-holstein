@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.9270701
 longitude: 10.3301675
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Anny-Schröder-Weg"
 housenumber: 4

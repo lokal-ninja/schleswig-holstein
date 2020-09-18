@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.746790000000004
 longitude: 8.9686023
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Alter Mühlenweg"
 housenumber: 9

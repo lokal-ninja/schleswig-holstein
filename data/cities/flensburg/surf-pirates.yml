@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.779642200000005
 longitude: 9.4356717
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Schleswiger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.283133500000005
 longitude: 10.131769
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Grot Steenbusch"
 housenumber: 35

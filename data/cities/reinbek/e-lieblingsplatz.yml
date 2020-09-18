@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.510891300000004
 longitude: 10.2511278
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Bergstraße"
 housenumber: 3

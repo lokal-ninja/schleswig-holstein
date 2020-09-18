@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6359343
 longitude: 9.8386949
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Hauptstraße"
 housenumber: 37

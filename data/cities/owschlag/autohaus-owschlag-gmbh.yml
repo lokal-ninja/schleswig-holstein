@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.3939217
 longitude: 9.5787508
-postcode: 24811
+postcode: "24811"
 city: Owschlag
 street: "Kamp"
 housenumber: 1

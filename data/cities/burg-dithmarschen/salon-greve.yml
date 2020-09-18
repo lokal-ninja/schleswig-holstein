@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.9964231
 longitude: 9.258951600000001
-postcode: 25712
+postcode: "25712"
 city: Burg (Dithmarschen)
 street: "Buchholzer Straße"
 housenumber: 23

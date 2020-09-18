@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.4400928
 longitude: 11.1968674
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Am Markt"
 housenumber: 18

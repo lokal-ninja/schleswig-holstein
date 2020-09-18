@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.473701500000004
 longitude: 9.835991700000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Frau-Clara-Straße"
 housenumber: 11

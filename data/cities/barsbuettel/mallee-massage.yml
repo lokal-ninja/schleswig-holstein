@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 53.5689502
 longitude: 10.173767600000001
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Willinghusener Landstraße"
 housenumber: 11b

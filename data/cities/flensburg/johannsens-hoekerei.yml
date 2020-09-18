@@ -3,10 +3,10 @@ type: way
 shop: Spirituosen
 latitude: 54.789720100000004
 longitude: 9.4309338
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Marienstraße"
 housenumber: 8
 phone: "+49 461 25200"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su,PH off"
 website: "https://www.johannsen-rum.de/"

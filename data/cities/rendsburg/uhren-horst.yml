@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.304756100000006
 longitude: 9.664043900000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Altstädter Markt"
 housenumber: 6

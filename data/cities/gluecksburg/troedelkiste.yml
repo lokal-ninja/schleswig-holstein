@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.8360307
 longitude: 9.5493618
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Waldstraße"
 housenumber: 13

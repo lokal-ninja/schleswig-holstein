@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.7605876
 longitude: 10.728365100000001
-postcode: 23627
+postcode: "23627"
 city: Groß Sarau
 street: "Schwarzen Lande"
 housenumber: 1

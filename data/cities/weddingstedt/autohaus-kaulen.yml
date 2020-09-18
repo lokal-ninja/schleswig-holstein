@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.239232200000004
 longitude: 9.0852942
-postcode: 25795
+postcode: "25795"
 city: Weddingstedt
 street: "Bundesstraße 5"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.707340900000005
 longitude: 8.5107201
-postcode: 25938
+postcode: "25938"
 city: Alkersum
 street: "Nieblumweg"
 housenumber: 7

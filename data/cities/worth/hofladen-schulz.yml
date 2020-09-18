@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.4676057
 longitude: 10.4080747
-postcode: 21502
+postcode: "21502"
 city: Worth
 street: "Dorfstraße"
 housenumber: 13

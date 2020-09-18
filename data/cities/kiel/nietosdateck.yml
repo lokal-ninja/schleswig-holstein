@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.3174475
 longitude: 10.0794341
-postcode: 24109
+postcode: "24109"
 city: Kiel
 street: "Julienluster Weg"
 housenumber: 71a

@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 54.476746500000004
 longitude: 9.0519459
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Markt"
 housenumber: 16

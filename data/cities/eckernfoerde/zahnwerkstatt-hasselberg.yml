@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 54.4804429
 longitude: 9.8357655
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Riesebyer Straße"
 housenumber: 26

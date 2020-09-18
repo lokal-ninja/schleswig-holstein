@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.2353165
 longitude: 10.2831524
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Lange Brückstraße"
 housenumber: 5

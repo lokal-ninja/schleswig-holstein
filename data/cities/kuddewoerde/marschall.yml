@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.5791161
 longitude: 10.392999600000001
-postcode: 22958
+postcode: "22958"
 city: Kuddewörde
 street: "Sachsenwaldstraße"
 housenumber: 1

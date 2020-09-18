@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 53.9286286
 longitude: 9.510606000000001
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Lindenstraße"
 housenumber: 23

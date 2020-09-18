@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3025323
 longitude: 8.6398984
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Dorfstraße"
 housenumber: 20

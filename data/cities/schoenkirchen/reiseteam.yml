@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.3343089
 longitude: 10.22469
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
 street: "Dorfstraße"
 housenumber: 4

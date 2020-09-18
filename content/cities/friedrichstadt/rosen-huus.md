@@ -1,0 +1,4 @@
+---
+title: "Rosen-Huus"
+url: /friedrichstadt/rosen-huus/
+---

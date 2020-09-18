@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.5832332
 longitude: 9.7219484
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Rissener Straße"
 housenumber: 86

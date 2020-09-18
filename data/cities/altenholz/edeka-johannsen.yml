@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3858997
 longitude: 10.1347333
-postcode: 24161
+postcode: "24161"
 city: Altenholz
 street: "Ostpreußenplatz"
 housenumber: 3

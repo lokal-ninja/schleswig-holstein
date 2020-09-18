@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3720228
 longitude: 10.1355295
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "Richthofenstraße"
 housenumber: 57

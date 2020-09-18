@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.7601608
 longitude: 9.4314912
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Schleswiger Straße"
 housenumber: 130

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.54924140000001
 longitude: 9.5246463
-postcode: 24879
+postcode: "24879"
 city: Neuberend
 street: "Klosterreihe"
 housenumber: 52

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 53.8118829
 longitude: 9.619576
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Bahnhofstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.7903596
 longitude: 9.431667200000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 6

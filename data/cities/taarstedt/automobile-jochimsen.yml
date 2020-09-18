@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.5792761
 longitude: 9.6895892
-postcode: 24893
+postcode: "24893"
 city: Taarstedt
 street: "Hauptstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.5297313
 longitude: 9.5271408
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Flensburger Straße"
 housenumber: 61

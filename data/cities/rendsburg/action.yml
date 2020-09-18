@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.317148200000005
 longitude: 9.627407700000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 32-34

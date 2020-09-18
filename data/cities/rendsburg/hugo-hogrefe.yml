@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.298590100000006
 longitude: 9.6648461
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Königstraße"
 housenumber: 22

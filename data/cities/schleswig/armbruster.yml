@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 54.5162812
 longitude: 9.5610047
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 60
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:30; PH,Su closed"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.5989955
 longitude: 10.488605300000001
-postcode: 21493
+postcode: "21493"
 city: Mühlenrade
 street: "Dorfstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.394668
 longitude: 10.1752616
-postcode: 24159
+postcode: "24159"
 city: Kiel
 street: "An der Schanze"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8975772
 longitude: 10.686478800000001
-postcode: 
+postcode: ""
 city: Lübeck
 street: "Memelstraße"
 housenumber: 

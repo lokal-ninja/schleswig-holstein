@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.332036200000005
 longitude: 10.1246506
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Gutenbergstraße"
 housenumber: 16

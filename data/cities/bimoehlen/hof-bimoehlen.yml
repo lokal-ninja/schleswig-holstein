@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.9283804
 longitude: 9.9509016
-postcode: 24576
+postcode: "24576"
 city: Bimöhlen
 street: "Hasenmoorer Straße"
 housenumber: 26

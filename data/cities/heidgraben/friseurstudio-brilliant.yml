@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.7067306
 longitude: 9.6845166
-postcode: 25436
+postcode: "25436"
 city: Heidgraben
 street: "Bürgermeister-Tesch-Straße"
 housenumber: 1-3

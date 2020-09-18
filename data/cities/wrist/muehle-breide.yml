@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.9309992
 longitude: 9.750392900000001
-postcode: 25563
+postcode: "25563"
 city: Wrist
 street: "Hauptstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.7863027
 longitude: 8.8270081
-postcode: 25899
+postcode: "25899"
 city: Niebüll
 street: "Hauptstraße"
 housenumber: 42

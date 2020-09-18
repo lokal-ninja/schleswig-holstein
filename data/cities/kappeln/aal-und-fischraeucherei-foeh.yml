@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.6624843
 longitude: 9.933897700000001
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Dehnthof"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.5166113
 longitude: 9.5647993
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 21

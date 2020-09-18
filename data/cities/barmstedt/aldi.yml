@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7879353
 longitude: 9.7719482
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Küsterkamp"
 housenumber: 3

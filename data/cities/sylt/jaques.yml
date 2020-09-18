@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 54.903874800000004
 longitude: 8.309878900000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Industrieweg"
 housenumber: 2

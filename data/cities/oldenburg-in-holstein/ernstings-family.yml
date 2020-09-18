@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.2922786
 longitude: 10.887333900000002
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Markt"
 housenumber: 22

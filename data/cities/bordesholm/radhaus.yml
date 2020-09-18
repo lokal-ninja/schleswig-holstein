@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.174329500000006
 longitude: 10.0312713
-postcode: 24582
+postcode: "24582"
 city: Bordesholm
 street: "Holstenstraße"
 housenumber: 34

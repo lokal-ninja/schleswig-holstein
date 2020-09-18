@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.9564255
 longitude: 9.0067875
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Königstraße"
 housenumber: 59

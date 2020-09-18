@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.908095800000005
 longitude: 8.2998692
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Andreas-Dirks-Straße"
 housenumber: 14

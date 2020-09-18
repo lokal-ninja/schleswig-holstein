@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.961718700000006
 longitude: 9.6189663
-postcode: 25551
+postcode: "25551"
 city: Hohenlockstedt
 street: "Kieler Straße"
 housenumber: 48

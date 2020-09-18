@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 53.9960972
 longitude: 9.263165500000001
-postcode: 25712
+postcode: "25712"
 city: Burg (Dithmarschen)
 street: "Kleine Schulstraße"
 housenumber: 10

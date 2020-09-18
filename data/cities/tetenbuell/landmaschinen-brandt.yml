@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 54.403083800000005
 longitude: 8.811428000000001
-postcode: 25882
+postcode: "25882"
 city: Tetenbüll
 street: "Norderheverkoogstraße"
 housenumber: 30

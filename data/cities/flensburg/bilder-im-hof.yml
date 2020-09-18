@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.7817425
 longitude: 9.435141600000001
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Rote Straße"
 housenumber: 16

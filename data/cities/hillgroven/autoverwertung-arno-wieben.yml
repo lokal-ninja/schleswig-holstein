@@ -3,7 +3,7 @@ type: node
 shop: Maschinen
 latitude: 54.2280944
 longitude: 8.874417900000001
-postcode: 25764
+postcode: "25764"
 city: Hillgroven
 street: "Dorfstraße"
 housenumber: 9

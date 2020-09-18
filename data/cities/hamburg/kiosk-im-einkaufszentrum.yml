@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.5293836
 longitude: 10.148209000000001
-postcode: 22115
+postcode: "22115"
 city: Hamburg
 street: "Oskar-Schlemmer-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.687777100000005
 longitude: 9.3303616
-postcode: 24997
+postcode: "24997"
 city: Wanderup
 street: "Husumer Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.628317
 longitude: 10.688447100000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 55

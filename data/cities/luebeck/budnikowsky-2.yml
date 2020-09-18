@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.87489720000001
 longitude: 10.70855
-postcode: 23568
+postcode: "23568"
 city: Lübeck
 street: "Heiligen-Geist-Kamp"
 housenumber: 4

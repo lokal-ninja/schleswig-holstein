@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.992036500000005
 longitude: 8.940988
-postcode: 25718
+postcode: "25718"
 city: Friedrichskoog
 street: "Koogstraße"
 housenumber: 16

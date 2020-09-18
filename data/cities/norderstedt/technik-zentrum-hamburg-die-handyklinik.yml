@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.683117100000004
 longitude: 10.0081965
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Segeberger Chaussee"
 housenumber: 51

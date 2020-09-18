@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.101129400000005
 longitude: 10.7973137
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Eutiner Straße"
 housenumber: 49

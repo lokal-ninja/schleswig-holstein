@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 53.752628200000004
 longitude: 9.649856900000001
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Sandberg"
 housenumber: 9

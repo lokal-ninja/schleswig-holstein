@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.230781500000006
 longitude: 10.2933009
-postcode: 24211
+postcode: "24211"
 city: Schellhorn
 street: "Plöner Landstraße"
 housenumber: 1-3

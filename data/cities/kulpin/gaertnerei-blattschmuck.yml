@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.7127758
 longitude: 10.69791
-postcode: 23911
+postcode: "23911"
 city: Kulpin
 street: "Bürgermeister-Saager-Straße"
 housenumber: 1

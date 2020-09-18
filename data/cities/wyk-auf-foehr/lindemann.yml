@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.69212580000001
 longitude: 8.5639576
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Boldixumer Straße"
 housenumber: 29

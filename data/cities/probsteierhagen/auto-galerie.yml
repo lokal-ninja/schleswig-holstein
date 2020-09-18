@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.3658112
 longitude: 10.2988373
-postcode: 24253
+postcode: "24253"
 city: Probsteierhagen
 street: "Krensberg"
 housenumber: 2

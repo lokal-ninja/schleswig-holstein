@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.569271500000006
 longitude: 10.1672474
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Hauptstraße"
 housenumber: 51

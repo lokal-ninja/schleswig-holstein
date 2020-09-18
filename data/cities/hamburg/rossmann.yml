@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.5844352
 longitude: 10.141903600000001
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Berliner Platz"
 housenumber: 1-24

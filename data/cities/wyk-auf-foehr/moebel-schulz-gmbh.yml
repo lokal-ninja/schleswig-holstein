@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.695325800000006
 longitude: 8.567668900000001
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Kohharderweg"
 housenumber: 6

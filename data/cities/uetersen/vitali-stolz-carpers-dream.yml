@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.6924068
 longitude: 9.6556069
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Reuterstraße"
 housenumber: 113

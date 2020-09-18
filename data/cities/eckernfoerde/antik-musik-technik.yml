@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 54.4713159
 longitude: 9.8355008
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Gartenstraße"
 housenumber: 27

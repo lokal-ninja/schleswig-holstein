@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7923904
 longitude: 9.431501200000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 54-56

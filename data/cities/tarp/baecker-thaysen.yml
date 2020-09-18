@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6669573
 longitude: 9.3943416
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Wanderuper Straße"
 housenumber: 13

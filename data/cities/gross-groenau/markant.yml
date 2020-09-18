@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.813487
 longitude: 10.7395527
-postcode: 23627
+postcode: "23627"
 city: Groß Grönau
 street: "Grönauer Heide"
 housenumber: 2

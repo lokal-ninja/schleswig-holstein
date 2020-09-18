@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 53.5622698
 longitude: 10.641831900000001
-postcode: 21516
+postcode: "21516"
 city: Woltersdorf
 street: "Am Windberg"
 housenumber: 5

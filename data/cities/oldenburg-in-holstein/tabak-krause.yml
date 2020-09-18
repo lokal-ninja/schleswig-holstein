@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.290345
 longitude: 10.8896926
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Holsteiner Straße"
 housenumber: 1

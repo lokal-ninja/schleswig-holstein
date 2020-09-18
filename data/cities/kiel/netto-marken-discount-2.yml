@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3557149
 longitude: 10.115391200000001
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Gurlittstraße"
 housenumber: 5-8

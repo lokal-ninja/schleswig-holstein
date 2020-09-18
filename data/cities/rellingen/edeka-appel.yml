@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.6332869
 longitude: 9.8711239
-postcode: 25462
+postcode: "25462"
 city: Rellingen
 street: "Krupunder Heide"
 housenumber: 2a

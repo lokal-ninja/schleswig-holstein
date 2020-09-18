@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.667442
 longitude: 9.6602624
-postcode: 25436
+postcode: "25436"
 city: Moorrege
 street: "Klinkerstraße"
 housenumber: 89

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.9533713
 longitude: 9.0095244
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Steindamm"
 housenumber: 5

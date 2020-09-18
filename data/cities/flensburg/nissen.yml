@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.8160657
 longitude: 9.474533300000001
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Kleine Lücke"
 housenumber: 1

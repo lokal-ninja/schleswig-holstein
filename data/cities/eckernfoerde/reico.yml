@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 54.4724834
 longitude: 9.8351912
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Langebrückstraße"
 housenumber: 9

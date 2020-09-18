@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.2081937
 longitude: 9.090382700000001
-postcode: 25746
+postcode: "25746"
 city: Wesseln
 street: "Waldstraße"
 housenumber: 5a

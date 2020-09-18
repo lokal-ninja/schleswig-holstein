@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.350162600000004
 longitude: 10.0929055
-postcode: 24107
+postcode: "24107"
 city: Kiel
 street: "Klausbrooker Weg"
 housenumber: 1

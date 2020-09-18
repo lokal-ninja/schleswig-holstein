@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.9153947
 longitude: 8.313515200000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Tonderner Straße"
 housenumber: 1

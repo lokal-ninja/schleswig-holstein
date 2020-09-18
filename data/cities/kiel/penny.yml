@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.307995500000004
 longitude: 10.139751200000001
-postcode: 24143
+postcode: "24143"
 city: Kiel
 street: "Werftstraße"
 housenumber: 247

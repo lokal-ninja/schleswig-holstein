@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 53.9621137
 longitude: 9.619495
-postcode: 25551
+postcode: "25551"
 city: Hohenlockstedt
 street: "Kieler Straße"
 housenumber: 52

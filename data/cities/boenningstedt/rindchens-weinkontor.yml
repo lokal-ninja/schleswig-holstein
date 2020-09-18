@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 53.6692863
 longitude: 9.9017757
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Kieler Straße"
 housenumber: 147

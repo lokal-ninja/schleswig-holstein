@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 54.630368100000005
 longitude: 9.9313505
-postcode: 24399
+postcode: "24399"
 city: Arnis
 street: "Lange Straße"
 housenumber: 87

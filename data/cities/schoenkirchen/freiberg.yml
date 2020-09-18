@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.334403200000004
 longitude: 10.247227200000001
-postcode: 24232
+postcode: "24232"
 city: Schönkirchen
 street: "Schönhorster Straße"
 housenumber: 16

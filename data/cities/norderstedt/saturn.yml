@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.6837023
 longitude: 9.9854424
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "De-Gasperi-Passage"
 housenumber: 8

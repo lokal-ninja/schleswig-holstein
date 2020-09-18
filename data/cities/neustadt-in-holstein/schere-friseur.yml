@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.106746900000005
 longitude: 10.8149168
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Waschgrabenstraße"
 housenumber: 5-7

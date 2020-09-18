@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.8974181
 longitude: 9.103084
-postcode: 25541
+postcode: "25541"
 city: Brunsbüttel
 street: "Oesterstraße"
 housenumber: 22

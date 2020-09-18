@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.8714773
 longitude: 10.7476675
-postcode: 23566
+postcode: "23566"
 city: Lübeck
 street: "Wesloer Landstraße"
 housenumber: 72

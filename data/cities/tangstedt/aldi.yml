@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.7297206
 longitude: 10.097742700000001
-postcode: 22889
+postcode: "22889"
 city: Tangstedt
 street: "Eichholzkoppel"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.2131587
 longitude: 10.881735800000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Lübecker Straße"
 housenumber: 30

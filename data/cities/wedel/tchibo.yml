@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 53.578105400000005
 longitude: 9.7046443
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bahnhofstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 54.5417375
 longitude: 9.582000800000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Marie-Curie-Straße"
 housenumber: 6

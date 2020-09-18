@@ -3,7 +3,7 @@ type: way
 shop: Hörgeräte
 latitude: 53.863687600000006
 longitude: 10.6858441
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Mühlenstraße"
 housenumber: 20

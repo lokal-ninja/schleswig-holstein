@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 54.193185500000006
 longitude: 9.100701500000001
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Güterstraße"
 housenumber: 13

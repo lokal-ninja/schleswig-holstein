@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.128624200000004
 longitude: 10.621736
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Bürgermeister-Steenbock-Straße"
 housenumber: 22-24

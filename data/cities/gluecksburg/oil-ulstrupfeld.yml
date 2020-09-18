@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 54.827234000000004
 longitude: 9.536476500000001
-postcode: 24960
+postcode: "24960"
 city: Glücksburg
 street: "Flensburger Straße"
 housenumber: 15b

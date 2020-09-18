@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.6837406
 longitude: 9.665244300000001
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Am Markt"
 housenumber: 3

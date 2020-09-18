@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3314383
 longitude: 10.1276661
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Knooper Weg"
 housenumber: 111

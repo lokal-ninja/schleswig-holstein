@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.747874100000004
 longitude: 10.210857
-postcode: 22941
+postcode: "22941"
 city: Jersbek
 street: "Allee"
 housenumber: 34a

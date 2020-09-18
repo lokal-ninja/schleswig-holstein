@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.013331
 longitude: 8.8994756
-postcode: 25718
+postcode: "25718"
 city: Friedrichskoog
 street: "Koogstraße"
 housenumber: 51

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.9239577
 longitude: 9.381921700000001
-postcode: 25554
+postcode: "25554"
 city: Wilster
 street: "Steindamm"
 housenumber: 26

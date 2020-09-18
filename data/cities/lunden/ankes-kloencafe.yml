@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3327959
 longitude: 9.024028000000001
-postcode: 25774
+postcode: "25774"
 city: Lunden
 street: "P.-H.-Kühl-Platz"
 housenumber: 6

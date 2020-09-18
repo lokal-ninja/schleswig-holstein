@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7483439
 longitude: 9.6829934
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Hans-Böckler-Straße"
 housenumber: 126

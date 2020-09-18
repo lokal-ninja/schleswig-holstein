@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.3051502
 longitude: 9.664681400000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "An der Marienkirche"
 housenumber: 4

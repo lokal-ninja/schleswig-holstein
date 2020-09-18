@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 54.7317806
 longitude: 9.4852419
-postcode: 24991
+postcode: "24991"
 city: Freienwill
 street: "Munkwolstruper Weg"
 housenumber: 14a

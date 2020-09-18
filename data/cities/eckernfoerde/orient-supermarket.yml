@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.470241
 longitude: 9.8362406
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Sauersgang"
 housenumber: 4

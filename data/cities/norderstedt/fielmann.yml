@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.6821921
 longitude: 9.9876377
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Europaallee"
 housenumber: 4

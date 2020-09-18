@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.8308873
 longitude: 10.4879982
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Paul-von-Schoenaich-Straße"
 housenumber: 30

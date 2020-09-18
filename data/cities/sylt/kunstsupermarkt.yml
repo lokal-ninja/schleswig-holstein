@@ -3,10 +3,10 @@ type: node
 shop: Kunst
 latitude: 54.908604800000006
 longitude: 8.301551400000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Elisabethstraße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
 website: ""

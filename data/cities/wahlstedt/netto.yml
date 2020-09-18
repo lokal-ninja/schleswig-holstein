@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.953099400000006
 longitude: 10.2139705
-postcode: 23812
+postcode: "23812"
 city: Wahlstedt
 street: "Neumünsterstraße"
 housenumber: 2

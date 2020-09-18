@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.862086500000004
 longitude: 10.694411200000001
-postcode: 23564
+postcode: "23564"
 city: Lübeck
 street: "Hüxtertorallee"
 housenumber: 8-10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2128765
 longitude: 9.3803625
-postcode: 25799
+postcode: "25799"
 city: Wrohm
 street: "Hauptstraße"
 housenumber: 33

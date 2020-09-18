@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 54.476771500000005
 longitude: 9.050556400000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Großstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 55.016574500000004
 longitude: 8.4387039
-postcode: 25992
+postcode: "25992"
 city: List auf Sylt
 street: "Am Hafen"
 housenumber: 18

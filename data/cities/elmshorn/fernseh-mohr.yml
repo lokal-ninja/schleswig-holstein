@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.7545787
 longitude: 9.6749808
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Köllner Chaussee"
 housenumber: 41

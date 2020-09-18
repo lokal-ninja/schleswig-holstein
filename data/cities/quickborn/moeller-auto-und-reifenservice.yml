@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.7434766
 longitude: 9.938773000000001
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Pascalstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 54.701740400000006
 longitude: 9.519246
-postcode: 24991
+postcode: "24991"
 city: Großsolt
 street: "Neue Straße"
 housenumber: 2

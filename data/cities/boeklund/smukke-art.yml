@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.60529450000001
 longitude: 9.5841513
-postcode: 24860
+postcode: "24860"
 city: Böklund
 street: "Satruper Straße"
 housenumber: 6

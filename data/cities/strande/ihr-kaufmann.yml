@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.4376934
 longitude: 10.174298
-postcode: 24229
+postcode: "24229"
 city: Strande
 street: "Dorfstraße"
 housenumber: 1

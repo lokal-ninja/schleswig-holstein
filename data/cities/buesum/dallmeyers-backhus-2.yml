@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.132601300000005
 longitude: 8.8503915
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Nordseestraße"
 housenumber: 16

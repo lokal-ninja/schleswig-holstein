@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.7070864
 longitude: 9.530244
-postcode: 24991
+postcode: "24991"
 city: Großsolt
 street: "Flensburger Straße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 54.2201863
 longitude: 10.885576100000002
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Eutiner Straße"
 housenumber: 5

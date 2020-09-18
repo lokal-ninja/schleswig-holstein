@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.584124900000006
 longitude: 10.141130500000001
-postcode: 22045
+postcode: "22045"
 city: Hamburg
 street: "Schöneberger Straße"
 housenumber: 31

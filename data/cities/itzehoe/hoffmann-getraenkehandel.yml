@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.9519876
 longitude: 9.4948914
-postcode: 25524
+postcode: "25524"
 city: Itzehoe
 street: "Schenefelder Chaussee"
 housenumber: 80

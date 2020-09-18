@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.9188738
 longitude: 10.6960145
-postcode: 23611
+postcode: "23611"
 city: Bad Schwartau
 street: "Rathausgasse"
 housenumber: 2

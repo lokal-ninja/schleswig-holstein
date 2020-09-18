@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.47746660000001
 longitude: 9.5440582
-postcode: 24866
+postcode: "24866"
 city: Busdorf
 street: "Wittgenstein"
 housenumber: 2

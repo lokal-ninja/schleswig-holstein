@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.65289610000001
 longitude: 9.9498713
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Bernard-Liening-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.908769500000005
 longitude: 8.3040243
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Strandstraße"
 housenumber: 11

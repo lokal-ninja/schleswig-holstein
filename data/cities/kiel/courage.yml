@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.32169510000001
 longitude: 10.129449000000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Exerzierplatz"
 housenumber: 34

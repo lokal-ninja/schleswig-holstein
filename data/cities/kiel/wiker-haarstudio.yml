@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.358767500000006
 longitude: 10.1279132
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Hohenrade"
 housenumber: 24

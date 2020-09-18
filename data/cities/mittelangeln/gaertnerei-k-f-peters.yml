@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.6413943
 longitude: 9.5617446
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Hüholzer Straße"
 housenumber: 2

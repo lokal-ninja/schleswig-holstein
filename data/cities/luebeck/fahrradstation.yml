@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.833882300000006
 longitude: 10.7018074
-postcode: 23562
+postcode: "23562"
 city: Lübeck
 street: "Ratzeburger Allee"
 housenumber: 160

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.9557797
 longitude: 9.0144727
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Feldstraße"
 housenumber: 33

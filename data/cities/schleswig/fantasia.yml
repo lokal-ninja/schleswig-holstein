@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 54.516350900000006
 longitude: 9.5613667
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 56

@@ -3,7 +3,7 @@ type: way
 shop: Tiersalon
 latitude: 53.600309100000004
 longitude: 10.699456900000001
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Gildebrede"
 housenumber: 7

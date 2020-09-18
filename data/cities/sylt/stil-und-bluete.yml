@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.8922279
 longitude: 8.3739802
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Gurtstig"
 housenumber: 33

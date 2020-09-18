@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.771630900000005
 longitude: 9.4281076
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Zur Bleiche"
 housenumber: 46

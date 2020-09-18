@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9978029
 longitude: 9.2615619
-postcode: 25712
+postcode: "25712"
 city: Burg (Dithmarschen)
 street: "Holzmarkt"
 housenumber: 6

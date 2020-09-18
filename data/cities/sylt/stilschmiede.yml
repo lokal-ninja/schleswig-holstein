@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.905674600000005
 longitude: 8.3149294
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Keitumer Chaussee"
 housenumber: 20-22

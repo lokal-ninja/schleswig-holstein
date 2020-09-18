@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 54.360446700000004
 longitude: 10.1188783
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Manrade"
 housenumber: 55

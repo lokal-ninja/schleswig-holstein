@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.8351203
 longitude: 9.964920900000001
-postcode: 24568
+postcode: "24568"
 city: Kaltenkirchen
 street: "Hamburger Straße"
 housenumber: 49

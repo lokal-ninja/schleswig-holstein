@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.9023005
 longitude: 8.333623000000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Zur Kratzmühle"
 housenumber: 4

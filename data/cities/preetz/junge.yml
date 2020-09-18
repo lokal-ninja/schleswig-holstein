@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2347259
 longitude: 10.2818018
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Markt"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.8233478
 longitude: 10.5081133
-postcode: 23858
+postcode: "23858"
 city: Wesenberg
 street: "Stubbendorfer Ring"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.362352
 longitude: 10.2846144
-postcode: 24253
+postcode: "24253"
 city: Probsteierhagen
 street: "Alte Dorfstraße"
 housenumber: 27

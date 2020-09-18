@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.9177613
 longitude: 9.8818059
-postcode: 24576
+postcode: "24576"
 city: Bad Bramstedt
 street: "Bleeck"
 housenumber: 18

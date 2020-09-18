@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 53.938703200000006
 longitude: 9.732945500000001
-postcode: 25548
+postcode: "25548"
 city: Kellinghusen
 street: "Neuer Kamp"
 housenumber: 32

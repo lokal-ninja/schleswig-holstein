@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.3231922
 longitude: 10.131893
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Rathausstraße"
 housenumber: 2

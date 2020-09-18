@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7285583
 longitude: 9.7376658
-postcode: 24996
+postcode: "24996"
 city: Sterup
 street: "Kappelner Straße"
 housenumber: 1

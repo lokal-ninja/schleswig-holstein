@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.8547292
 longitude: 10.636299000000001
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Ziegelstraße"
 housenumber: 232

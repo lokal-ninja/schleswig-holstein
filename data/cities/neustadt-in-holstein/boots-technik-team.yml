@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.0918812
 longitude: 10.827727000000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Sandberger Weg"
 housenumber: 98

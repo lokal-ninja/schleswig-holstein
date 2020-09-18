@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.4888953
 longitude: 9.8100971
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Goldammerweg"
 housenumber: 3

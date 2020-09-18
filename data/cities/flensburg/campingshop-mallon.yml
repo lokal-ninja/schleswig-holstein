@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.802748
 longitude: 9.4916406
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Kauslunder Straße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.6931567
 longitude: 9.5964089
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Flensburger Straße"
 housenumber: 26a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.476787200000004
 longitude: 9.057109500000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Süderstraße"
 housenumber: 46

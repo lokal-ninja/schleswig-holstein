@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.521715500000006
 longitude: 9.5618865
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtfeld"
 housenumber: 29

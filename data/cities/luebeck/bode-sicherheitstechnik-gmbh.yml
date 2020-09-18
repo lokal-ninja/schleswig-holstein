@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.9013744
 longitude: 10.808826900000001
-postcode: 23569
+postcode: "23569"
 city: Lübeck
 street: "Masselbett"
 housenumber: 4

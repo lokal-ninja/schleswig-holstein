@@ -1,4 +1,4 @@
 ---
-title: "NORDIC BIKE SHOP"
+title: "Nordic Bike Shop"
 url: /grossenwiehe/nordic-bike-shop/
 ---

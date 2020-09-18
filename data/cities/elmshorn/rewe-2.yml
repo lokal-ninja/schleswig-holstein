@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7611343
 longitude: 9.6588686
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "An der Ost-West-Brücke"
 housenumber: 3

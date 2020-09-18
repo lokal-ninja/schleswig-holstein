@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.8744096
 longitude: 8.296463300000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Lorens-de-Hahn-Straße"
 housenumber: 50

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 54.332178600000006
 longitude: 10.1215036
-postcode: 24118
+postcode: "24118"
 city: Kiel
 street: "Gutenbergstraße"
 housenumber: 42

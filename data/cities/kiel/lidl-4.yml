@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.323928
 longitude: 10.182343300000001
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Wischhofstraße"
 housenumber: 80

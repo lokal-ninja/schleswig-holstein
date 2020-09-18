@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.290643100000004
 longitude: 10.885999
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Schuhstraße"
 housenumber: 13-15

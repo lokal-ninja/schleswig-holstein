@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.8688744
 longitude: 10.6808701
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Mengstraße"
 housenumber: 64

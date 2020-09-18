@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.554701200000004
 longitude: 10.2481533
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Grenzweg"
 housenumber: 16

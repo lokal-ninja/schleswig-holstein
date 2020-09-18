@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.9662858
 longitude: 9.6158465
-postcode: 25551
+postcode: "25551"
 city: Hohenlockstedt
 street: "Breite Straße"
 housenumber: 18a

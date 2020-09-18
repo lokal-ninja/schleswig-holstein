@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 54.6749791
 longitude: 9.7130831
-postcode: 24405
+postcode: "24405"
 city: Mohrkirch
 street: "Hauptstraße"
 housenumber: 43
-phone: "+49 152 59424690"
-opening_hours: "Tu,Th,Sa nach telefonischer Anmeldung; Mo,We,Fr,Su,PH off"
+phone: "+49 1525 9424690"
+opening_hours: "Tu-Sa nach telefonischer Anmeldung; PH,Su,Mo off"
 website: ""

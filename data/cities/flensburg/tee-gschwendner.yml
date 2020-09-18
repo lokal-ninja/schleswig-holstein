@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 54.786453300000005
 longitude: 9.4337268
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 3

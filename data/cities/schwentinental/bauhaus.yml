@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.289249000000005
 longitude: 10.228348800000001
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Klausdorfer Straße"
 housenumber: 28-32

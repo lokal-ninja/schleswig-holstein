@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0806709
 longitude: 9.9950408
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Goethestraße"
 housenumber: 13

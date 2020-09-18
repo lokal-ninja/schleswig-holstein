@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 54.7085031
 longitude: 8.5324863
-postcode: 25938
+postcode: "25938"
 city: Oevenum
 street: "Dörpstrat"
 housenumber: 3

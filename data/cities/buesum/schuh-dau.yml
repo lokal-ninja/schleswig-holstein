@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 54.130659200000004
 longitude: 8.862252400000001
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Kirchenstraße"
 housenumber: 5

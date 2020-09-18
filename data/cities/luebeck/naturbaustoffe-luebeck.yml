@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.869392700000006
 longitude: 10.6952539
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Kanalstraße"
 housenumber: 70

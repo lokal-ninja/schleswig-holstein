@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 54.9068015
 longitude: 8.3064151
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Maybachstraße"
 housenumber: 10

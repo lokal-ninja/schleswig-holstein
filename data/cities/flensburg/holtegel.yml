@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 54.7670212
 longitude: 9.444473
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Eckernförder Landstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.630405800000005
 longitude: 9.8621801
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Gärtnerstraße"
 housenumber: 120

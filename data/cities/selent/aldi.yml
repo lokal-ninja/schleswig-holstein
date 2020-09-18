@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.2890547
 longitude: 10.429411700000001
-postcode: 24238
+postcode: "24238"
 city: Selent
 street: "Kieler Straße"
 housenumber: 5

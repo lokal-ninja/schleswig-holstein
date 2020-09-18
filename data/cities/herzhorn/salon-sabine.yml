@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 53.7866896
 longitude: 9.4847453
-postcode: 25379
+postcode: "25379"
 city: Herzhorn
 street: "Am Markt"
 housenumber: 7

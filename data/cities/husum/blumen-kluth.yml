@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.4776625
 longitude: 9.047562300000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Neustadt"
 housenumber: 28

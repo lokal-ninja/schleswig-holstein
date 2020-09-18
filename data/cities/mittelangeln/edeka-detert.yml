@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.6924477
 longitude: 9.595823600000001
-postcode: 24986
+postcode: "24986"
 city: Mittelangeln
 street: "Hans-Redlefsen-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.6988624
 longitude: 9.510234200000001
-postcode: 24991
+postcode: "24991"
 city: Großsolt
 street: "Schleswiger Landstraße"
 housenumber: 5

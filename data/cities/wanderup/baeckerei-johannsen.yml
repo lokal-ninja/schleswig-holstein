@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6878127
 longitude: 9.3304325
-postcode: 24997
+postcode: "24997"
 city: Wanderup
 street: "Husumer Straße"
 housenumber: 3

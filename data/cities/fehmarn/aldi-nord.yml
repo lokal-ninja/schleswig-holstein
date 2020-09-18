@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 54.444637400000005
 longitude: 11.181937900000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Ehlerskamp"
 housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 11:00-17:00"
+opening_hours: "Mo-Sa 06:00-21:00; Su 11:00-17:00; PH off"
 website: ""

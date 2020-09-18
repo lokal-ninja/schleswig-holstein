@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.805007
 longitude: 9.3882296
-postcode: 24955
+postcode: "24955"
 city: Harrislee
 street: "Holmberg"
 housenumber: 23

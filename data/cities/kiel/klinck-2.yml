@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.2986391
 longitude: 10.1837938
-postcode: 24147
+postcode: "24147"
 city: Kiel
 street: "Wiener Allee"
 housenumber: 68

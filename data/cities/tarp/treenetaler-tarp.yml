@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 54.664237
 longitude: 9.4061654
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Im Treenetal"
 housenumber: 2
 phone: "+49 4638 332"
 opening_hours: "Mo-Fr 08:30-12:00,14:00-17:30, Sa 09:00-12:00"
-website: "http://shop7.treenetaler.de/treenetaler/"
+website: "https://www.treenetaler.de"

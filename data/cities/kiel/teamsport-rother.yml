@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 54.340353500000006
 longitude: 10.1353988
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Gneisenaustraße"
 housenumber: 15

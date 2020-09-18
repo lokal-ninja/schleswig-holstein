@@ -3,7 +3,7 @@ type: way
 shop: Kamine & Öfen
 latitude: 53.9303462
 longitude: 9.750299700000001
-postcode: 25563
+postcode: "25563"
 city: Wrist
 street: "Bokeler Straße"
 housenumber: 2

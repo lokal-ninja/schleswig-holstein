@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3200525
 longitude: 10.0633429
-postcode: 24109
+postcode: "24109"
 city: Kiel
 street: "Göteborgring"
 housenumber: 3

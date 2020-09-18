@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 54.5143962
 longitude: 9.553105200000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lollfuß"
 housenumber: 41

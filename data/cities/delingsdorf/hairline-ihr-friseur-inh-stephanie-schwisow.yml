@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.706754000000004
 longitude: 10.2526563
-postcode: 22941
+postcode: "22941"
 city: Delingsdorf
 street: "Lübecker Straße"
 housenumber: 6c

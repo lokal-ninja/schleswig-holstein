@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.9664263
 longitude: 9.6237651
-postcode: 25551
+postcode: "25551"
 city: Hohenlockstedt
 street: "Kieler Straße"
 housenumber: 104

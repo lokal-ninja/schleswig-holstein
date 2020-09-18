@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.957311100000005
 longitude: 10.870119200000001
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Vorderreihe"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.485374
 longitude: 8.8564086
-postcode: 25845
+postcode: "25845"
 city: Nordstrand
 street: "Osterdeich"
 housenumber: 3

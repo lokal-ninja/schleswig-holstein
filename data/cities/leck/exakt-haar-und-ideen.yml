@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 54.773839800000005
 longitude: 8.9692472
-postcode: 25917
+postcode: "25917"
 city: Leck
 street: "Allee"
 housenumber: 3
-phone: ""
+phone: "+49 4662 698150"
 opening_hours: ""
-website: ""
+website: "https://exakt-leck.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.324257900000006
 longitude: 10.126553900000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Knooper Weg"
 housenumber: 41-43

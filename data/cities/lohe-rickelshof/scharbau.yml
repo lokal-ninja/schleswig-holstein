@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.1905025
 longitude: 9.076076200000001
-postcode: 25746
+postcode: "25746"
 city: Lohe-Rickelshof
 street: "Loher Weg"
 housenumber: 72

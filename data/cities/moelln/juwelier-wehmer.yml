@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.6273769
 longitude: 10.6863557
-postcode: 23879
+postcode: "23879"
 city: Mölln
 street: "Hauptstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 54.5224034
 longitude: 9.4713645
-postcode: 24850
+postcode: "24850"
 city: Schuby
 street: "Nordring"
 housenumber: 5

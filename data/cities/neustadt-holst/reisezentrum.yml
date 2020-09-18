@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 54.104182900000005
 longitude: 10.808196500000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt (Holst)
 street: "Bahnhofstraße"
 housenumber: 16

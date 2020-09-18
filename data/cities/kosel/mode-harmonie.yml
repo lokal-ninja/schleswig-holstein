@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.5091855
 longitude: 9.7588203
-postcode: 24354
+postcode: "24354"
 city: Kosel
 street: "Schwansenweg"
 housenumber: 32

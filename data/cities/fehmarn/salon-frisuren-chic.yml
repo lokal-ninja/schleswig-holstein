@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.481905000000005
 longitude: 11.0684462
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Schlagsdorfer Straße"
 housenumber: 10

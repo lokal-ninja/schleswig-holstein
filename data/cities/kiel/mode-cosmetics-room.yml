@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.325518100000004
 longitude: 10.178695900000001
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Schönberger Straße"
 housenumber: 68

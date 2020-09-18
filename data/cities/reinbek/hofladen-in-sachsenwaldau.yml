@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.544561400000006
 longitude: 10.2991565
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Sachsenwaldau"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.638618900000004
 longitude: 9.771224100000001
-postcode: 24392
+postcode: "24392"
 city: Süderbrarup
 street: "Bahnhofstraße"
 housenumber: 32

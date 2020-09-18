@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 54.3306813
 longitude: 8.7212417
-postcode: 25881
+postcode: "25881"
 city: Tating
 street: "Osterende"
 housenumber: 8

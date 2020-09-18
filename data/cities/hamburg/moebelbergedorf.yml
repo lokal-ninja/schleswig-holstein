@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.4799662
 longitude: 10.223257700000001
-postcode: 21029
+postcode: "21029"
 city: Hamburg
 street: "Brookkehre"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.336933200000004
 longitude: 10.185991000000001
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Hertzstraße"
 housenumber: 75

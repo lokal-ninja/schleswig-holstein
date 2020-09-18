@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 54.0725837
 longitude: 9.986464
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 23

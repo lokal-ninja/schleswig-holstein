@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.4767419
 longitude: 9.0520452
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Markt"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.630192900000004
 longitude: 9.9307779
-postcode: 24399
+postcode: "24399"
 city: Arnis
 street: "Lange Straße"
 housenumber: 90

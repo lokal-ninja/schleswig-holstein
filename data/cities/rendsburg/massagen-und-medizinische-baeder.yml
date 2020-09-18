@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 54.3111468
 longitude: 9.6550943
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Gerhardstraße"
 housenumber: 

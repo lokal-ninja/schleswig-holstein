@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.438159500000005
 longitude: 11.198398300000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Breite Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.4700834
 longitude: 9.837154
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 50

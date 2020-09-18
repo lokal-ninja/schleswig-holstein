@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.7865005
 longitude: 9.4353649
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Rathausstraße"
 housenumber: 8

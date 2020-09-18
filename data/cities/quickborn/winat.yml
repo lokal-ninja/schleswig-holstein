@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 53.731563900000005
 longitude: 9.899347
-postcode: 25451
+postcode: "25451"
 city: Quickborn
 street: "Am Freibad"
 housenumber: 4a
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: ""
+website: "winatfashion.de"

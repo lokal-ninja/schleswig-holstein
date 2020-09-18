@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.413434
 longitude: 9.982592200000001
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Ravensberg"
 housenumber: 2

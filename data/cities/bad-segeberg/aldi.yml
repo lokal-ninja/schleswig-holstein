@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.950426400000005
 longitude: 10.3132199
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Eutiner Straße"
 housenumber: 24

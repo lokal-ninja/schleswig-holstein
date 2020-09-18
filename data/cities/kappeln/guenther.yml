@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.6611819
 longitude: 9.934267
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Am Hafen"
 housenumber: 13

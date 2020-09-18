@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.220560000000006
 longitude: 10.88668
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Bäderstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 54.2737969
 longitude: 10.9060694
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Mittelster Damm"
 housenumber: 

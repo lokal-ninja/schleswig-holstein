@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.2900785
 longitude: 10.4305637
-postcode: 24238
+postcode: "24238"
 city: Selent
 street: "Kieler Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.8577109
 longitude: 10.6648096
-postcode: 23558
+postcode: "23558"
 city: Lübeck
 street: "Hansering"
 housenumber: 14-16

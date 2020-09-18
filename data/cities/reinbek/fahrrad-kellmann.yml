@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.5084
 longitude: 10.2503767
-postcode: 21465
+postcode: "21465"
 city: Reinbek
 street: "Bahnhofstraße"
 housenumber: 7a

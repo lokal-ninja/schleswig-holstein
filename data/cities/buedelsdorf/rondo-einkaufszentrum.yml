@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 54.3105198
 longitude: 9.663128
-postcode: 24782
+postcode: "24782"
 city: Büdelsdorf
 street: "Am Ahlmannkai"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 54.287513000000004
 longitude: 10.876210500000001
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Kieler Chaussee"
 housenumber: 6b

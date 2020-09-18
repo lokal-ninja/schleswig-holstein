@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.681201300000005
 longitude: 9.6739339
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Großer Sand"
 housenumber: 91

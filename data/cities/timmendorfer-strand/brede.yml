@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.99505550000001
 longitude: 10.7648215
-postcode: 23669
+postcode: "23669"
 city: Timmendorfer Strand
 street: "Bahnhofstraße"
 housenumber: 17

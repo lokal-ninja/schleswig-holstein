@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.7435769
 longitude: 9.7045065
-postcode: 25337
+postcode: "25337"
 city: Elmshorn
 street: "Rampskamper Weg"
 housenumber: 103

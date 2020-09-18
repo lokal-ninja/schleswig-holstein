@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6089734
 longitude: 10.4092245
-postcode: 22946
+postcode: "22946"
 city: Trittau
 street: "Poststraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.346922000000006
 longitude: 10.1046706
-postcode: 24106
+postcode: "24106"
 city: Kiel
 street: "Olshausenstraße"
 housenumber: 77

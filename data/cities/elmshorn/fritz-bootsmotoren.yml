@@ -3,7 +3,7 @@ type: way
 shop: Boot
 latitude: 53.778701500000004
 longitude: 9.647728
-postcode: 25335
+postcode: "25335"
 city: Elmshorn
 street: "Robert-Bosch-Straße"
 housenumber: 1

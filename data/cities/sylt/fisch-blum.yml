@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.9080518
 longitude: 8.3027119
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Neue Straße"
 housenumber: 2

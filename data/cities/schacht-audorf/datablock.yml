@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 54.313118700000004
 longitude: 9.7176253
-postcode: 24790
+postcode: "24790"
 city: Schacht-Audorf
 street: "Kieler Straße"
 housenumber: 20

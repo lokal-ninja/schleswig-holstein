@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.32829340000001
 longitude: 10.1356298
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Brunswiker Straße"
 housenumber: 53/55

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.6721342
 longitude: 10.240084300000001
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Manhagener Allee"
 housenumber: 10

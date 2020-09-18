@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.6893201
 longitude: 9.9811265
-postcode: 22850
+postcode: "22850"
 city: Norderstedt
 street: "Kösliner Weg"
 housenumber: 6

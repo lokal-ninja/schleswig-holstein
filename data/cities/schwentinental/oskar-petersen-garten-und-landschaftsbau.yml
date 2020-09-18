@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.2943755
 longitude: 10.2140599
-postcode: 24222
+postcode: "24222"
 city: Schwentinental
 street: "Preetzer Chaussee"
 housenumber: 80

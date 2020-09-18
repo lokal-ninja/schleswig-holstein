@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 54.106458200000006
 longitude: 10.807731400000002
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Lienaustraße"
 housenumber: 10

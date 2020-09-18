@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.0846481
 longitude: 9.6508296
-postcode: 24594
+postcode: "24594"
 city: Hohenwestedt
 street: "Itzehoer Straße"
 housenumber: 42

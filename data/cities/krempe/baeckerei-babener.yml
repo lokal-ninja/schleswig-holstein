@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.836004
 longitude: 9.4851206
-postcode: 25361
+postcode: "25361"
 city: Krempe
 street: "Breite Straße"
 housenumber: 87

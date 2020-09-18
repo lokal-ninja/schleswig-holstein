@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.086108
 longitude: 9.648307800000001
-postcode: 24594
+postcode: "24594"
 city: Hohenwestedt
 street: "Itzehoer Straße"
 housenumber: 53

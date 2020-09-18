@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 54.313786900000004
 longitude: 9.785182200000001
-postcode: 24790
+postcode: "24790"
 city: Ostenfeld
 street: "Kieler Straße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.0245973
 longitude: 9.280027800000001
-postcode: 25712
+postcode: "25712"
 city: Hochdonn
 street: "Hauptstraße"
 housenumber: 38

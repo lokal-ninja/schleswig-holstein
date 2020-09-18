@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.4997781
 longitude: 9.547985500000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Busdorfer Straße"
 housenumber: 5

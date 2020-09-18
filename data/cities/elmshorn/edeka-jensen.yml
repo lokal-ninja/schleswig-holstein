@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7436772
 longitude: 9.6560178
-postcode: 25336
+postcode: "25336"
 city: Elmshorn
 street: "Meteorstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.070977500000005
 longitude: 9.9401881
-postcode: 24537
+postcode: "24537"
 city: Neumünster
 street: "Wasbeker Straße"
 housenumber: 330

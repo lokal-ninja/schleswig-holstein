@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.4704179
 longitude: 10.072633600000001
-postcode: 
+postcode: ""
 city: Schwedeneck
 street: ""
 housenumber: 98

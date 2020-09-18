@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 54.6642528
 longitude: 9.4029839
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Dorfstraße"
 housenumber: 13
-phone: ""
+phone: "+49 1525 8418929"
 opening_hours: ""
 website: ""

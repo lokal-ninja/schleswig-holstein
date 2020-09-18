@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 54.516896700000004
 longitude: 9.5659971
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 11

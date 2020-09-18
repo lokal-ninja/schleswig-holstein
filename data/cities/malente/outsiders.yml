@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.171688100000004
 longitude: 10.5557639
-postcode: 23714
+postcode: "23714"
 city: Malente
 street: "Bahnhofstraße"
 housenumber: 34

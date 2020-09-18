@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.782003200000005
 longitude: 9.4504246
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Adelbylund"
 housenumber: 4

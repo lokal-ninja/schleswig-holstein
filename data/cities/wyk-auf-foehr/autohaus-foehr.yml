@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.694223900000004
 longitude: 8.569988500000001
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Koogskuhl"
 housenumber: 12

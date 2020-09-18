@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 54.6610242
 longitude: 9.9460946
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Sylter Straße"
 housenumber: 5

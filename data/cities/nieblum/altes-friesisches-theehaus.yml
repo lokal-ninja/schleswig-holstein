@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 54.69217930000001
 longitude: 8.4926163
-postcode: 25938
+postcode: "25938"
 city: Nieblum
 street: "Jens-Jacob-Eschel-Straße"
 housenumber: 13

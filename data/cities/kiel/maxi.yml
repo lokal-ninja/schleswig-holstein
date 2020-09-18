@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.3434718
 longitude: 10.133624600000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Holtenauer Straße"
 housenumber: 204

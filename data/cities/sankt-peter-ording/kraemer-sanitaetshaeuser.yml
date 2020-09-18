@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 54.3042145
 longitude: 8.637909500000001
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Olsdorfer Straße"
 housenumber: 2

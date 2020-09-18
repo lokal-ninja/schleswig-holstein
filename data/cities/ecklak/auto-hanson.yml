@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.9629546
 longitude: 9.2792121
-postcode: 25572
+postcode: "25572"
 city: Ecklak
 street: "Hauptstraße"
 housenumber: 42

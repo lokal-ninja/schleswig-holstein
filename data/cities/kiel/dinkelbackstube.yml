@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3351911
 longitude: 10.135414800000001
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Waitzstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.433841400000006
 longitude: 11.271056600000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: ""
 housenumber: 3

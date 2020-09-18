@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 54.798958600000006
 longitude: 9.4245911
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Neustadt"
 housenumber: 46

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 54.794003700000005
 longitude: 9.4315414
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 96

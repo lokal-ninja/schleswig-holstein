@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 54.7818717
 longitude: 9.4169645
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Am Ochsenmarkt"
 housenumber: 39

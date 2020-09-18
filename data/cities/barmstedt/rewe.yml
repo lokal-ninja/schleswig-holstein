@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.7883901
 longitude: 9.769710100000001
-postcode: 25355
+postcode: "25355"
 city: Barmstedt
 street: "Marktstraße"
 housenumber: 2-10

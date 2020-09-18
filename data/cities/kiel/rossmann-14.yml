@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 54.2944346
 longitude: 10.1845564
-postcode: 24146
+postcode: "24146"
 city: Kiel
 street: "Bebelplatz"
 housenumber: 12-13

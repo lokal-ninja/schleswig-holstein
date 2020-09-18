@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.137250800000004
 longitude: 10.6161109
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Königstraße"
 housenumber: 9

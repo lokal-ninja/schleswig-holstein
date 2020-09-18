@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.487340200000006
 longitude: 9.0460855
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Bredstedter Straße"
 housenumber: 2

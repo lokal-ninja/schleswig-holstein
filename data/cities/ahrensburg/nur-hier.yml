@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.673324400000006
 longitude: 10.239024500000001
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Rondeel"
 housenumber: 2

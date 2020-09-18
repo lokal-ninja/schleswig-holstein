@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.668381000000004
 longitude: 9.972116300000001
-postcode: 22848
+postcode: "22848"
 city: Norderstedt
 street: "Niendorfer Straße"
 housenumber: 85

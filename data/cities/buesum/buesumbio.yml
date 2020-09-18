@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.1297214
 longitude: 8.865957
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Fischerkai"
 housenumber: 2

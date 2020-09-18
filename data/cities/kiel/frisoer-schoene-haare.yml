@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 54.3354573
 longitude: 10.1404025
-postcode: 24105
+postcode: "24105"
 city: Kiel
 street: "Feldstraße"
 housenumber: 38a

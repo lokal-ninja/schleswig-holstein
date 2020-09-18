@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 53.81538260000001
 longitude: 9.6093244
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Schulstraße"
 housenumber: 37

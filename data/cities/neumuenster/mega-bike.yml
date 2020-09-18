@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.07890020000001
 longitude: 9.979694
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Rendsburger Straße"
 housenumber: 12

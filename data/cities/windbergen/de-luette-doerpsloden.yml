@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.046533200000006
 longitude: 9.1175733
-postcode: 25729
+postcode: "25729"
 city: Windbergen
 street: "Ringstraße"
 housenumber: 7

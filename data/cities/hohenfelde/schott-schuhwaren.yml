@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 53.84404730000001
 longitude: 9.6267828
-postcode: 25358
+postcode: "25358"
 city: Hohenfelde
 street: "Dorfstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.2869943
 longitude: 10.8757353
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Kieler Chaussee"
 housenumber: 8

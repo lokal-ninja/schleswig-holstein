@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.6153788
 longitude: 9.8652691
-postcode: 25469
+postcode: "25469"
 city: Halstenbek
 street: "Siebentunnelweg"
 housenumber: 4

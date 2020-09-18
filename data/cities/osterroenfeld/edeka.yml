@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.293980700000006
 longitude: 9.7077421
-postcode: 24783
+postcode: "24783"
 city: Osterrönfeld
 street: "Kieler Straße"
 housenumber: 98a

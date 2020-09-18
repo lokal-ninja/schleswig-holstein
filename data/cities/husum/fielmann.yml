@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.476854100000004
 longitude: 9.0511257
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Markt"
 housenumber: 2

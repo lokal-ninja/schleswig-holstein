@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.2188911
 longitude: 10.8977885
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Dieselstraße"
 housenumber: 6

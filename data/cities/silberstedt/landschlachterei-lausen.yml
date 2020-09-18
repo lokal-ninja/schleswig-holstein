@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 54.5139458
 longitude: 9.3821113
-postcode: 24887
+postcode: "24887"
 city: Silberstedt
 street: "Mühlenredder"
 housenumber: 8

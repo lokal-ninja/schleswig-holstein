@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 54.3228346
 longitude: 9.628406100000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.8058211
 longitude: 9.4587535
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Mürwiker Straße"
 housenumber: 144

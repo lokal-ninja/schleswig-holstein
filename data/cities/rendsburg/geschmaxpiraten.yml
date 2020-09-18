@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.3032436
 longitude: 9.6721614
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Konrad-Adenauer-Straße"
 housenumber: 1

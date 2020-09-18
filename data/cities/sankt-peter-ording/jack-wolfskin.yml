@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 54.3153037
 longitude: 8.607234700000001
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Im Bad"
 housenumber: 25

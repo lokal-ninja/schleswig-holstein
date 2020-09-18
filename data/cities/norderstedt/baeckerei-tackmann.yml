@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.704664900000004
 longitude: 10.0076433
-postcode: 22844
+postcode: "22844"
 city: Norderstedt
 street: "Alter Kirchenweg"
 housenumber: 33-41

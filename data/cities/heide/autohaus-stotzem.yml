@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 54.1786071
 longitude: 9.0918788
-postcode: 25746
+postcode: "25746"
 city: Heide
 street: "Meldorfer Straße"
 housenumber: 217

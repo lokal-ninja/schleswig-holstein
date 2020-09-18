@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 54.66238310000001
 longitude: 9.9327102
-postcode: 24376
+postcode: "24376"
 city: Kappeln
 street: "Dehnthof"
 housenumber: 12

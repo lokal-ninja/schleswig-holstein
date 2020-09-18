@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.7833046
 longitude: 9.4365676
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Holm"
 housenumber: 57-61

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.291513900000005
 longitude: 10.1599071
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Segeberger Landstraße"
 housenumber: 50

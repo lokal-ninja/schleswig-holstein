@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.47195790000001
 longitude: 9.835604700000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Sankt-Nikolai-Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 53.6760749
 longitude: 10.240023500000001
-postcode: 22926
+postcode: "22926"
 city: Ahrensburg
 street: "Bei der Alten Kate"
 housenumber: 7

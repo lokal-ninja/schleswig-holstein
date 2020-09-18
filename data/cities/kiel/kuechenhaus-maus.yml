@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 54.3279573
 longitude: 10.1186252
-postcode: 24116
+postcode: "24116"
 city: Kiel
 street: "Westring"
 housenumber: 284

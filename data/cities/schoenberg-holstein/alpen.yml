@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.4258997
 longitude: 10.3745749
-postcode: 24217
+postcode: "24217"
 city: Schönberg (Holstein)
 street: "Verwellengrund"
 housenumber: 1

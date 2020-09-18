@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 54.7678674
 longitude: 9.561076
-postcode: 24975
+postcode: "24975"
 city: Maasbüll
 street: "Flensburger Straße"
 housenumber: 8

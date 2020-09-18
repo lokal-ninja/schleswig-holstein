@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.086778
 longitude: 9.9868807
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Kieler Straße"
 housenumber: 162

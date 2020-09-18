@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.134332
 longitude: 10.606385600000001
-postcode: 23701
+postcode: "23701"
 city: Eutin
 street: "Hospitalstraße"
 housenumber: 3

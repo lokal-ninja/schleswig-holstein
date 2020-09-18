@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 54.385964900000005
 longitude: 10.1343492
-postcode: 24161
+postcode: "24161"
 city: Altenholz
 street: "Ostpreußenplatz"
 housenumber: 3

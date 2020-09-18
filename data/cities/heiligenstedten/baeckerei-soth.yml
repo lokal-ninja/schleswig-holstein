@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 53.931915200000006
 longitude: 9.4696362
-postcode: 25524
+postcode: "25524"
 city: Heiligenstedten
 street: "Juliankadamm"
 housenumber: 4

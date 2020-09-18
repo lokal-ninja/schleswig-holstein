@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 54.07138320000001
 longitude: 9.9856013
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 28

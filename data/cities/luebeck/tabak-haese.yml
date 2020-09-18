@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 53.958232100000004
 longitude: 10.8706534
-postcode: 23570
+postcode: "23570"
 city: Lübeck
 street: "Kurgartenstraße"
 housenumber: 94

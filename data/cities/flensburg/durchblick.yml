@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.7823561
 longitude: 9.4354964
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Friesische Straße"
 housenumber: 1

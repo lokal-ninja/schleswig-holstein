@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.8843923
 longitude: 10.8178798
-postcode: 23923
+postcode: "23923"
 city: Selmsdorf
 street: "An der Trave"
 housenumber: 21

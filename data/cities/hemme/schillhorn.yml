@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.280771800000004
 longitude: 9.0117075
-postcode: 25774
+postcode: "25774"
 city: Hemme
 street: "Dorfstraße"
 housenumber: 53

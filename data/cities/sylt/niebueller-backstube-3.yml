@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.909578
 longitude: 8.3081136
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Andreas-Nielsen-Straße"
 housenumber: 3

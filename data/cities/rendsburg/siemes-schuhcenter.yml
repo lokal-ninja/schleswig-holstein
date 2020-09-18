@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 54.293492
 longitude: 9.668561500000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Alte Kieler Landstraße"
 housenumber: 30

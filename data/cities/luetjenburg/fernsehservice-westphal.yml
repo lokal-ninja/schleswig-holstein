@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.295416
 longitude: 10.583008600000001
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Am Brunnenstieg"
 housenumber: 8

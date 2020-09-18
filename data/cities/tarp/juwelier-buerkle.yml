@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.6632569
 longitude: 9.4001958
-postcode: 24963
+postcode: "24963"
 city: Tarp
 street: "Stapelholmer Weg"
 housenumber: 5

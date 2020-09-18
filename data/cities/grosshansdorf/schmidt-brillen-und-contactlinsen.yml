@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.6624959
 longitude: 10.285370400000001
-postcode: 22927
+postcode: "22927"
 city: Großhansdorf
 street: "Eilbergweg"
 housenumber: 9

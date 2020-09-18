@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 54.6710306
 longitude: 9.710201300000001
-postcode: 24405
+postcode: "24405"
 city: Mohrkirch
 street: "Babbestraße"
 housenumber: 11

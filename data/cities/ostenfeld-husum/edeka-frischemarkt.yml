@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.4621633
 longitude: 9.2358341
-postcode: 25872
+postcode: "25872"
 city: Ostenfeld (Husum)
 street: "Hauptstraße"
 housenumber: 29

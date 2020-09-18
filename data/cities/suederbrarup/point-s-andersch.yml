@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.6377432
 longitude: 9.7710839
-postcode: 24392
+postcode: "24392"
 city: Süderbrarup
 street: "Bahnhofstraße"
 housenumber: 17

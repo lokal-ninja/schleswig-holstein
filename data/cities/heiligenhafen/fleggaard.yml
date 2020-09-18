@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 54.365547500000005
 longitude: 11.003349700000001
-postcode: 23774
+postcode: "23774"
 city: Heiligenhafen
 street: "Tollbrettkoppel"
 housenumber: 1

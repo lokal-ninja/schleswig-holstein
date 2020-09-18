@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.96900350000001
 longitude: 9.126086800000001
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Eddelaker Straße"
 housenumber: 59a

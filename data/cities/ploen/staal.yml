@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 54.158930100000006
 longitude: 10.433955000000001
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Eutiner Straße"
 housenumber: 25

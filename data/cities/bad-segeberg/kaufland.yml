@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.93399
 longitude: 10.3109312
-postcode: 23795
+postcode: "23795"
 city: Bad Segeberg
 street: "Bahnhofstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.992865800000004
 longitude: 9.1167581
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Burger Straße"
 housenumber: 18

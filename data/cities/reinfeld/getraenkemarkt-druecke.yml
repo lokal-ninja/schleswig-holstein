@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.829375600000006
 longitude: 10.5053912
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Grootkoppel"
 housenumber: 3

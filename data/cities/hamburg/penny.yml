@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.590898300000006
 longitude: 10.1610312
-postcode: 22149
+postcode: "22149"
 city: Hamburg
 street: "Liliencronstraße"
 housenumber: 84-102

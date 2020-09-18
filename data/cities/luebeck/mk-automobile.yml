@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.845830600000006
 longitude: 10.6645147
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Geniner Straße"
 housenumber: 114

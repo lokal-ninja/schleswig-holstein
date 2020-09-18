@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.0822288
 longitude: 9.378206200000001
-postcode: 25557
+postcode: "25557"
 city: Bendorf
 street: "Mühlenberg"
 housenumber: 3

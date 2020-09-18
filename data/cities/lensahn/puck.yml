@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2204952
 longitude: 10.886752300000001
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Bäderstraße"
 housenumber: 2

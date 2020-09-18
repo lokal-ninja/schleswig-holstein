@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.848313600000004
 longitude: 10.1165613
-postcode: 24641
+postcode: "24641"
 city: Stuvenborn
 street: "Kalte Weide"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.98906950000001
 longitude: 9.114877
-postcode: 25693
+postcode: "25693"
 city: Sankt Michaelisdonn
 street: "Bahnhofstraße"
 housenumber: 45

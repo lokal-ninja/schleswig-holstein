@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 54.2520201
 longitude: 10.2953597
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Industriestraße"
 housenumber: 3

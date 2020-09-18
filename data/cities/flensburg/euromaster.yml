@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 54.765929400000005
 longitude: 9.438149000000001
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Gutenbergstraße"
 housenumber: 14

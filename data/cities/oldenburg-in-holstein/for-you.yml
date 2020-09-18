@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.2916776
 longitude: 10.8881978
-postcode: 23758
+postcode: "23758"
 city: Oldenburg in Holstein
 street: "Kuhtorstraße"
 housenumber: 8

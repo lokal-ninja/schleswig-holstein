@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.8097068
 longitude: 9.473286
-postcode: 24944
+postcode: "24944"
 city: Flensburg
 street: "Friedheim"
 housenumber: 51

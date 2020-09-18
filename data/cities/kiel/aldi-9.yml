@@ -1,12 +1,12 @@
-id: 6035466354
-type: node
+id: 36001865
+type: way
 shop: Supermarkt
-latitude: 54.395864
-longitude: 10.1742538
-postcode: 24159
+latitude: 54.28257060000001
+longitude: 10.1326982
+postcode: "24145"
 city: Kiel
-street: "Brauner Berg"
-housenumber: 4
+street: "Grot Steenbusch"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

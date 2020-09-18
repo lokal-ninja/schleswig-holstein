@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.915680800000004
 longitude: 10.7305712
-postcode: 23569
+postcode: "23569"
 city: Lübeck
 street: "Dänischburger Landstraße"
 housenumber: 85

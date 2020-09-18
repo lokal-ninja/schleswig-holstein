@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 54.1618508
 longitude: 9.8543882
-postcode: 24589
+postcode: "24589"
 city: Nortorf
 street: "Itzehoer Straße"
 housenumber: 23

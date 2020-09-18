@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 54.071603100000004
 longitude: 9.9858387
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 26

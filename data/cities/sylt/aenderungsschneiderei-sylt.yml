@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.9075111
 longitude: 8.3055385
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Friedrichstraße"
 housenumber: 7

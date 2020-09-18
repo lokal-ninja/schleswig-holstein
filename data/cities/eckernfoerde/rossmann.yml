@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 54.4710296
 longitude: 9.8372492
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kieler Straße"
 housenumber: 27

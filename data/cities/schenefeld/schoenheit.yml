@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.60857540000001
 longitude: 9.8446291
-postcode: 22869
+postcode: "22869"
 city: Schenefeld
 street: "Friedrich-Ebert-Allee"
 housenumber: 25a

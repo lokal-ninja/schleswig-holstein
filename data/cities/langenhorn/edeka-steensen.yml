@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.68854210000001
 longitude: 8.9549445
-postcode: 25842
+postcode: "25842"
 city: Langenhorn
 street: "Dorfstraße"
 housenumber: 4a

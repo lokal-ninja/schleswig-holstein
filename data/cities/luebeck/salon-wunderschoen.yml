@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.8522248
 longitude: 10.6844084
-postcode: 23560
+postcode: "23560"
 city: Lübeck
 street: "Geniner Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.097214
 longitude: 10.7907218
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Sierksdorfer Straße"
 housenumber: 8

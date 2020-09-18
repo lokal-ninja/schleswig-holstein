@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 54.517501800000005
 longitude: 9.5677105
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Kornmarkt"
 housenumber: 4

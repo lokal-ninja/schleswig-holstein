@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.2831331
 longitude: 10.150010700000001
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Wellseedamm"
 housenumber: 4e

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.5300342
 longitude: 9.529382700000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Lattenkamp"
 housenumber: 1b

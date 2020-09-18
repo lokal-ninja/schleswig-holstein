@@ -3,7 +3,7 @@ type: node
 shop: Fliesen
 latitude: 54.29502720000001
 longitude: 10.598669000000001
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Auf dem Hasenkrug"
 housenumber: 8

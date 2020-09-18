@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 53.86524
 longitude: 10.6914504
-postcode: 23552
+postcode: "23552"
 city: Lübeck
 street: "Hüxstraße"
 housenumber: 95

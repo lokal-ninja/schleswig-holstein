@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 53.806906500000004
 longitude: 9.4525213
-postcode: 25348
+postcode: "25348"
 city: Blomesche Wildnis
 street: "An der Chaussee"
 housenumber: 108a

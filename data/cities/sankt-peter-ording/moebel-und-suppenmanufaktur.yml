@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.301895800000004
 longitude: 8.6405045
-postcode: 25826
+postcode: "25826"
 city: Sankt Peter-Ording
 street: "Pestalozzistraße"
 housenumber: 1

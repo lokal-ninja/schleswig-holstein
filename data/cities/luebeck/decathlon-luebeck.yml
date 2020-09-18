@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 53.8618959
 longitude: 10.627355300000001
-postcode: 23556
+postcode: "23556"
 city: Lübeck
 street: "Lohgerberstraße"
 housenumber: 1

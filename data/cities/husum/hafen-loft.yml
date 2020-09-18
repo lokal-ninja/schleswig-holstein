@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.475583300000004
 longitude: 9.048891300000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Schiffbrücke"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.961933
 longitude: 9.007694200000001
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Meldorfer Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Gasflaschen
 latitude: 53.6798008
 longitude: 9.906193100000001
-postcode: 25474
+postcode: "25474"
 city: Bönningstedt
 street: "Nordring"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 54.4722177
 longitude: 9.8357176
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Kirchplatz"
 housenumber: 1

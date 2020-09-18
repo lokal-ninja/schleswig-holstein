@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 54.477006100000004
 longitude: 9.0535999
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Süderstraße"
 housenumber: 7

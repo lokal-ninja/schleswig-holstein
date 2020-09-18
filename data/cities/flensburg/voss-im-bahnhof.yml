@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.774727000000006
 longitude: 9.436581
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Am Bundesbahnhof"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.129508200000004
 longitude: 8.8617418
-postcode: 25761
+postcode: "25761"
 city: Büsum
 street: "Österstraße"
 housenumber: 1a

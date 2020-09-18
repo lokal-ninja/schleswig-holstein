@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 54.0916118
 longitude: 10.779485600000001
-postcode: 23730
+postcode: "23730"
 city: Sierksdorf
 street: "Wagrienring"
 housenumber: 38

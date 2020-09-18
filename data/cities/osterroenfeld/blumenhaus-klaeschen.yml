@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 54.2894118
 longitude: 9.6918257
-postcode: 24783
+postcode: "24783"
 city: Osterrönfeld
 street: "Wehrautal"
 housenumber: 2

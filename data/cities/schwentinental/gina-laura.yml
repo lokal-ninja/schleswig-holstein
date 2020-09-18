@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.285611700000004
 longitude: 10.220076
-postcode: 24223
+postcode: "24223"
 city: Schwentinental
 street: "Carl-Zeiss-Straße"
 housenumber: 19

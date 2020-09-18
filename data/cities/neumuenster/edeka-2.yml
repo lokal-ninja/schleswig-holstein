@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.0997841
 longitude: 9.9762734
-postcode: 24536
+postcode: "24536"
 city: Neumünster
 street: "Baeyerstraße"
 housenumber: 1

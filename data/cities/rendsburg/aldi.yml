@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3200213
 longitude: 9.624880300000001
-postcode: 24768
+postcode: "24768"
 city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 57a

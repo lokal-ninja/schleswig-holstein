@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.6544061
 longitude: 9.8228851
-postcode: 25462
+postcode: "25462"
 city: Rellingen
 street: "Hauptstraße"
 housenumber: 105

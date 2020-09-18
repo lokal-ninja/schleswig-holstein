@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.3288524
 longitude: 10.1989835
-postcode: 24149
+postcode: "24149"
 city: Kiel
 street: "Schönkirchener Straße"
 housenumber: 80b

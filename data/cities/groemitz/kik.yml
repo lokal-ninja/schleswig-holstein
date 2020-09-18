@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 54.149829600000004
 longitude: 10.958344700000001
-postcode: 23743
+postcode: "23743"
 city: Grömitz
 street: "Kirchenstraße"
 housenumber: 17

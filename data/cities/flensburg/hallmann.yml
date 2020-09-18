@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 54.786811400000005
 longitude: 9.4337876
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Große Straße"
 housenumber: 8

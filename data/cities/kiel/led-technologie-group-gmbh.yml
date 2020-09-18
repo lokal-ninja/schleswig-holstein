@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.280366
 longitude: 10.1585563
-postcode: 24145
+postcode: "24145"
 city: Kiel
 street: "Marie-Curie-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 54.495715600000004
 longitude: 9.085998700000001
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Robert-Koch-Straße"
 housenumber: 34

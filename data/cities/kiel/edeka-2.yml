@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.352735700000004
 longitude: 10.0889144
-postcode: 24107
+postcode: "24107"
 city: Kiel
 street: "Dr.-Hell-Straße"
 housenumber: 1

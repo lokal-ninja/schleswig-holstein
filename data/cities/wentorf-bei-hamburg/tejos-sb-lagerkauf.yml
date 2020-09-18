@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.488654800000006
 longitude: 10.2636345
-postcode: 21465
+postcode: "21465"
 city: Wentorf bei Hamburg
 street: "Stöckenhoop"
 housenumber: 25

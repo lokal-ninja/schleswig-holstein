@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.8042388
 longitude: 9.6253319
-postcode: 25358
+postcode: "25358"
 city: Horst
 street: "Horster Viereck"
 housenumber: 1

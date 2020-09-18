@@ -1,4 +1,4 @@
 ---
-title: "Alisya's  Bäckerei"
+title: "Alisya's Bäckerei"
 url: /kiel/alisyas-baeckerei/
 ---

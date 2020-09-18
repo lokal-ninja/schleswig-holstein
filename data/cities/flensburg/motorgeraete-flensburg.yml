@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.767203
 longitude: 9.444159800000001
-postcode: 24941
+postcode: "24941"
 city: Flensburg
 street: "Eckernförder Landstraße"
 housenumber: 67-69

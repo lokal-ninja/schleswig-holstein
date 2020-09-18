@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.0147787
 longitude: 8.898176300000001
-postcode: 25718
+postcode: "25718"
 city: Friedrichskoog
 street: "Koogstraße"
 housenumber: 67

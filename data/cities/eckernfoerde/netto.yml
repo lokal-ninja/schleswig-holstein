@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.4703674
 longitude: 9.8338338
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Schulweg"
 housenumber: 7

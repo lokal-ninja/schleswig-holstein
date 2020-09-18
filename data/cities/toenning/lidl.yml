@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.3224334
 longitude: 8.9535269
-postcode: 25832
+postcode: "25832"
 city: Tönning
 street: "Dithmarscher Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 53.4883151
 longitude: 10.2619697
-postcode: 21465
+postcode: "21465"
 city: Wentorf bei Hamburg
 street: "Südredder"
 housenumber: 2-4

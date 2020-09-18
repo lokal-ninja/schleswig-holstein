@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.481378500000005
 longitude: 9.046409
-postcode: 25813
+postcode: "25813"
 city: Husum
 street: "Neustadt"
 housenumber: 112

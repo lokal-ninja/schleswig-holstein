@@ -3,10 +3,10 @@ type: way
 shop: Feinkost
 latitude: 54.9351926
 longitude: 8.330317800000001
-postcode: 25996
+postcode: "25996"
 city: Wenningstedt-Braderup (Sylt)
 street: "Osterweg"
 housenumber: 1-5
-phone: ""
-opening_hours: "Mo-Sa 08:30-20:00;Su 11:00-13:00"
+phone: "+49 4651 4821"
+opening_hours: "Mo-Sa 08:30-19:30"
 website: ""

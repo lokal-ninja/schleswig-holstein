@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.3260884
 longitude: 10.1802167
-postcode: 24148
+postcode: "24148"
 city: Kiel
 street: "Am Seefischmarkt"
 housenumber: 11-13

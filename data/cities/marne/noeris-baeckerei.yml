@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.9547092
 longitude: 9.008316800000001
-postcode: 25709
+postcode: "25709"
 city: Marne
 street: "Königstraße"
 housenumber: 35

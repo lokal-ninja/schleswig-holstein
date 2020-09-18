@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 54.792036100000004
 longitude: 9.431477000000001
-postcode: 24939
+postcode: "24939"
 city: Flensburg
 street: "Norderstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 53.47805150000001
 longitude: 10.608585300000001
-postcode: 21514
+postcode: "21514"
 city: Büchen
 street: "Pötrauer Straße"
 housenumber: 3

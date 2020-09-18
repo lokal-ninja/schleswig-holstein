@@ -3,7 +3,7 @@ type: node
 shop: Anhänger
 latitude: 53.688416700000005
 longitude: 10.1615342
-postcode: 22949
+postcode: "22949"
 city: Ammersbek
 street: "Hamburger Straße"
 housenumber: 28

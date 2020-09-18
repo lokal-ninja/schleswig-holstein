@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.7274225
 longitude: 9.996465800000001
-postcode: 22844
+postcode: "22844"
 city: Norderstedt
 street: "Erlengang"
 housenumber: 7

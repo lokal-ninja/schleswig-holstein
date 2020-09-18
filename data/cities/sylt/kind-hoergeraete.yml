@@ -3,10 +3,10 @@ type: node
 shop: Hörgeräte
 latitude: 54.9078944
 longitude: 8.3074454
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Stephanstraße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
 website: "https://www.kind.com/de-de/fachgeschaefte/Westerland/Sylt"

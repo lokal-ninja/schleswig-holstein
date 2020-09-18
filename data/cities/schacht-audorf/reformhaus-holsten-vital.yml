@@ -3,7 +3,7 @@ type: node
 shop: Bioladen
 latitude: 54.3106288
 longitude: 9.718192700000001
-postcode: 24790
+postcode: "24790"
 city: Schacht-Audorf
 street: "Klaus-Groth-Straße"
 housenumber: 6-8

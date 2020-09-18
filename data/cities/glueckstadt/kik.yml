@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 53.7895106
 longitude: 9.4261538
-postcode: 25348
+postcode: "25348"
 city: Glückstadt
 street: "Große Kremper Straße"
 housenumber: 36

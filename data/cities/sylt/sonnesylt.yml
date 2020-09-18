@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 54.91117130000001
 longitude: 8.304867400000001
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Norderstraße"
 housenumber: 19

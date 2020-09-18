@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 54.078098700000005
 longitude: 9.3038109
-postcode: 25725
+postcode: "25725"
 city: Schafstedt
 street: "Judenstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 53.4352437
 longitude: 10.369644300000001
-postcode: 21502
+postcode: "21502"
 city: Geesthacht
 street: "Bergedorfer Straße"
 housenumber: 48

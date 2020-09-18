@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.689798200000006
 longitude: 8.5685264
-postcode: 25938
+postcode: "25938"
 city: Wyk auf Föhr
 street: "Mittelstraße"
 housenumber: 20

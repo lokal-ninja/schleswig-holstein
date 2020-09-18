@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 54.0554282
 longitude: 9.200502700000001
-postcode: 25727
+postcode: "25727"
 city: Süderhastedt
 street: "Hauptstraße"
 housenumber: 2

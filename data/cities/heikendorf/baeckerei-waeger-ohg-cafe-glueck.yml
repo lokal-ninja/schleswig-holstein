@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 54.3701948
 longitude: 10.2047626
-postcode: 24226
+postcode: "24226"
 city: Heikendorf
 street: "Dorfstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.501936900000004
 longitude: 9.544789100000001
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Friedrichstraße"
 housenumber: 93

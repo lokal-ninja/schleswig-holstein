@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 54.3155009
 longitude: 9.856469200000001
-postcode: 24796
+postcode: "24796"
 city: Bredenbek
 street: "Felder Straße"
 housenumber: 1

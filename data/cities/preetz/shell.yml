@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 54.23626530000001
 longitude: 10.283746800000001
-postcode: 24211
+postcode: "24211"
 city: Preetz
 street: "Schwentinestraße"
 housenumber: 5

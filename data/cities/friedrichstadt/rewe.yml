@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.380316
 longitude: 9.0732189
-postcode: 25840
+postcode: "25840"
 city: Friedrichstadt
 street: "Witzworter Straße"
 housenumber: 2

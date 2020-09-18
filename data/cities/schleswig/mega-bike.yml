@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 54.5158788
 longitude: 9.5585457
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 74

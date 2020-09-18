@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.483544300000005
 longitude: 9.830051000000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Klaus-Groth-Straße"
 housenumber: 38

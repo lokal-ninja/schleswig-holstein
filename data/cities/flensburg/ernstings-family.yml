@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.801030000000004
 longitude: 9.454263800000001
-postcode: 24943
+postcode: "24943"
 city: Flensburg
 street: "Mürwiker Straße"
 housenumber: 89

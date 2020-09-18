@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.2562185
 longitude: 10.0829181
-postcode: 24220
+postcode: "24220"
 city: Flintbek
 street: "Kleinflintbeker Straße"
 housenumber: 1

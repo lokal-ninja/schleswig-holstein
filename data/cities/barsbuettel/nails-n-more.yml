@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.569000200000005
 longitude: 10.1638777
-postcode: 22885
+postcode: "22885"
 city: Barsbüttel
 street: "Hauptstraße"
 housenumber: 38h

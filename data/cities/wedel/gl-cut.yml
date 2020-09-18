@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.576720800000004
 longitude: 9.705915800000001
-postcode: 22880
+postcode: "22880"
 city: Wedel
 street: "Bahnhofstraße"
 housenumber: 47

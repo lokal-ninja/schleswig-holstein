@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 54.446658400000004
 longitude: 11.0511002
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Am Hafen"
 housenumber: 2

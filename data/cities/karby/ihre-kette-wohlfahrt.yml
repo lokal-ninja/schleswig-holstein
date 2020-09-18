@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 54.6233154
 longitude: 9.974349
-postcode: 24398
+postcode: "24398"
 city: Karby
 street: "An der Kirche"
 housenumber: 1

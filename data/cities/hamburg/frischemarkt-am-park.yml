@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.5406046
 longitude: 10.1405258
-postcode: 22117
+postcode: "22117"
 city: Hamburg
 street: "Morsumer Weg"
 housenumber: 20

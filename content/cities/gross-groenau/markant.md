@@ -1,4 +1,4 @@
 ---
-title: "MARKANT"
+title: "Markant"
 url: /gross-groenau/markant/
 ---

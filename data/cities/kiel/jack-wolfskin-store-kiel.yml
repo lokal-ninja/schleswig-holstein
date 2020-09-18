@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 54.323098900000005
 longitude: 10.139133600000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Alter Markt"
 housenumber: 18

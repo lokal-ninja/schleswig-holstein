@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.8661952
 longitude: 10.2520802
-postcode: 23816
+postcode: "23816"
 city: Leezen
 street: "Neversdorfer Straße"
 housenumber: 1

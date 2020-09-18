@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 53.8320519
 longitude: 10.4913372
-postcode: 23858
+postcode: "23858"
 city: Reinfeld
 street: "Raiffeisenpassage"
 housenumber: 18

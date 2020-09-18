@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.04552820000001
 longitude: 9.480806300000001
-postcode: 25560
+postcode: "25560"
 city: Schenefeld
 street: "Holstenstraße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.8086758
 longitude: 10.377642100000001
-postcode: 23843
+postcode: "23843"
 city: Bad Oldesloe
 street: "Besttorstraße"
 housenumber: 9

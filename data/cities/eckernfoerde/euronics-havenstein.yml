@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 54.48014250000001
 longitude: 9.835715200000001
-postcode: 24340
+postcode: "24340"
 city: Eckernförde
 street: "Riesebyer Straße"
 housenumber: 22

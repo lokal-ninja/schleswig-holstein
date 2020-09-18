@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 54.215538900000006
 longitude: 10.8828625
-postcode: 23738
+postcode: "23738"
 city: Lensahn
 street: "Lübecker Straße"
 housenumber: 20

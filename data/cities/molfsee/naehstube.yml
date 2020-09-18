@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.2849166
 longitude: 10.0842828
-postcode: 24113
+postcode: "24113"
 city: Molfsee
 street: "Eschenbrook"
 housenumber: 2

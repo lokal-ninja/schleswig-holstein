@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 54.2920327
 longitude: 10.5932086
-postcode: 24321
+postcode: "24321"
 city: Lütjenburg
 street: "Mühlenstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 54.4094738
 longitude: 9.9747663
-postcode: 24214
+postcode: "24214"
 city: Gettorf
 street: "Herrenstraße"
 housenumber: 1

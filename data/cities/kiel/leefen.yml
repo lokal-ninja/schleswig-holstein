@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.3144287
 longitude: 10.1114756
-postcode: 24114
+postcode: "24114"
 city: Kiel
 street: "Lüdemannstraße"
 housenumber: 77

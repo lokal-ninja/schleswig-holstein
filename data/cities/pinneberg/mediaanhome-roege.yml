@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 53.65901890000001
 longitude: 9.8069586
-postcode: 25421
+postcode: "25421"
 city: Pinneberg
 street: "Damm"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 54.1590214
 longitude: 10.409795200000001
-postcode: 24306
+postcode: "24306"
 city: Plön
 street: "Johannisstraße"
 housenumber: 36

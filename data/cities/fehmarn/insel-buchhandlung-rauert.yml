@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.4402813
 longitude: 11.197368800000001
-postcode: 23769
+postcode: "23769"
 city: Fehmarn
 street: "Niendorfer Straße"
 housenumber: 5

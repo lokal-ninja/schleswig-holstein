@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 54.9036709
 longitude: 8.3118867
-postcode: 25980
+postcode: "25980"
 city: Sylt
 street: "Industrieweg"
 housenumber: 1

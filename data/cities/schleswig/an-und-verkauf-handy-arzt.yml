@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 54.515361000000006
 longitude: 9.5577355
-postcode: 24837
+postcode: "24837"
 city: Schleswig
 street: "Stadtweg"
 housenumber: 79

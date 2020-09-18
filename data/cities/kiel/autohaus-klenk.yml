@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 54.348727800000006
 longitude: 10.0924814
-postcode: 24107
+postcode: "24107"
 city: Kiel
 street: "Suchskrug"
 housenumber: 6

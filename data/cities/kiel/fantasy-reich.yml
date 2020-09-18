@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 54.328106700000006
 longitude: 10.133259800000001
-postcode: 24103
+postcode: "24103"
 city: Kiel
 street: "Wilhelminenstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 54.6518226
 longitude: 9.138592800000001
-postcode: 25862
+postcode: "25862"
 city: Joldelund
 street: "Mittelstraße"
 housenumber: 8

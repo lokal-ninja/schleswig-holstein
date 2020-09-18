@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 54.6218153
 longitude: 9.536707700000001
-postcode: 24860
+postcode: "24860"
 city: Klappholz
 street: "Dorfstraße"
 housenumber: 10

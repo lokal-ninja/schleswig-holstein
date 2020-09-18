@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.103891000000004
 longitude: 10.833434500000001
-postcode: 23730
+postcode: "23730"
 city: Neustadt in Holstein
 street: "Rettiner Weg"
 housenumber: 77

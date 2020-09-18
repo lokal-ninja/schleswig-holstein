@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 54.0798591
 longitude: 10.7062747
-postcode: 23701
+postcode: "23701"
 city: Süsel
 street: "An der Bäderstraße"
 housenumber: 8

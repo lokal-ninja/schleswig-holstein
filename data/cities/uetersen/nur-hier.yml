@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.6834702
 longitude: 9.664871900000001
-postcode: 25436
+postcode: "25436"
 city: Uetersen
 street: "Großer Sand"
 housenumber: 2

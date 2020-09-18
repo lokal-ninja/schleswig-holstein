@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 54.2988354
 longitude: 10.0877361
-postcode: 24113
+postcode: "24113"
 city: Kiel
 street: "Seekoppelweg"
 housenumber: 1

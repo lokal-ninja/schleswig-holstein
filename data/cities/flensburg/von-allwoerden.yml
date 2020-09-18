@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 54.7826164
 longitude: 9.4368472
-postcode: 24937
+postcode: "24937"
 city: Flensburg
 street: "Südermarkt"
 housenumber: 4

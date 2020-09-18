@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 54.695762
 longitude: 9.245885300000001
-postcode: 24969
+postcode: "24969"
 city: Großenwiehe
 street: "Alter Bahndamm"
 housenumber: 1

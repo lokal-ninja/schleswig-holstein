@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 54.0706636
 longitude: 9.98549
-postcode: 24534
+postcode: "24534"
 city: Neumünster
 street: "Großflecken"
 housenumber: 34
