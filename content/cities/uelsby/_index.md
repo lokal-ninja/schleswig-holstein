@@ -1,6 +1,6 @@
 ---
 title: Uelsby
 url: /uelsby/
-latitude: 54.632364900000006
-longitude: 9.6001683
+latitude: 54.6316476
+longitude: 9.5991061
 ---

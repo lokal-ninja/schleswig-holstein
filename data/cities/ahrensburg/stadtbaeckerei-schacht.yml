@@ -1,12 +1,12 @@
-id: 4245010150
+id: 1411367222
 type: node
 shop: Bäckerei
-latitude: 53.675273700000005
-longitude: 10.240355300000001
-postcode: ""
+latitude: 53.6833571
+longitude: 10.262260000000001
+postcode: "22926"
 city: Ahrensburg
-street: "Große Straße"
-housenumber: 13b
-phone: ""
-opening_hours: "Mo-Fr 07:00-14:00; Sa 07:00-13:00; Su 08:00-11:00"
-website: ""
+street: "Kurt-Fischer-Straße"
+housenumber: 10
+phone: "+49 4102 471236"
+opening_hours: "Mo-Fr 06:00-11:00; Sa 06:00-10:00"
+website: "https://www.stadtbaeckerei-schacht.de/"
