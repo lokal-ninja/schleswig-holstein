@@ -1,6 +1,6 @@
 ---
 title: Nübel
 url: /nuebel/
-latitude: 54.7716122
-longitude: 9.7137249
+latitude: 54.771957300000004
+longitude: 9.712932200000001
 ---

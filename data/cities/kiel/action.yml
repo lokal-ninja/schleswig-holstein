@@ -1,12 +1,12 @@
-id: 112696044
-type: way
+id: 210002832
+type: node
 shop: Kramladen
-latitude: 54.3214101
-longitude: 10.052078400000001
-postcode: "24109"
+latitude: 54.3333012
+longitude: 10.110898
+postcode: "24116"
 city: Kiel
-street: "Kurt-Schumacher-Platz"
-housenumber: 13
+street: "Eckernförder Straße"
+housenumber: 159
 phone: ""
-opening_hours: "Monday 09:00-20:00; Tuesday 09:00-20:00; Wednesday 09:00-20:00; Thursday 09:00-20:00; Friday 09:00-20:00; Saturday 09:00-20:00; Sunday closed"
-website: "https://www.action.com/de-de/laden/kiel-kurt-schumacher-platz-13/"
+opening_hours: ""
+website: ""

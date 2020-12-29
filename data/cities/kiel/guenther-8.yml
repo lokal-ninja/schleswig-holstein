@@ -1,12 +1,12 @@
-id: 3896524458
+id: 4087641089
 type: node
 shop: Bäckerei
-latitude: 54.301067
-longitude: 10.0920026
-postcode: "24113"
+latitude: 54.341779
+longitude: 10.124209800000001
+postcode: "24118"
 city: Kiel
-street: "Rendsburger Landstraße"
-housenumber: 206
+street: "Fraunhoferstraße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: ""
+opening_hours: "Mo-Fr 06:30-17:00; Sa,Su off"
+website: "https://shop.bäckerei-günther.de/"
