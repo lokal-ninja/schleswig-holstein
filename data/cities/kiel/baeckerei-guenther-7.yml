@@ -1,12 +1,11 @@
-id: 2487065912
-type: node
-shop: Bäckerei
-latitude: 54.3162534
-longitude: 10.131089900000001
-postcode: "24103"
+id: 90681921
+type: way
+latitude: 54.282102200000004
+longitude: 10.156469000000001
+postcode: "24145"
 city: Kiel
-street: "Sophienblatt"
-housenumber: 20
-phone: ""
-opening_hours: ""
-website: ""
+street: "Dorothea-Erxleben-Straße"
+housenumber: 5
+phone: "+49 431-1690732"
+opening_hours: "Mo-Fr 06:00-13:00; Sa off; Su off"
+website: "http://www.baeckerei-guenther.de/filialen"

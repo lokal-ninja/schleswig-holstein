@@ -1,6 +1,5 @@
 id: 101528288
 type: way
-shop: Supermarkt
 latitude: 53.5238804
 longitude: 10.229202200000001
 postcode: "21509"
@@ -8,5 +7,5 @@ city: Glinde
 street: "Gutenbergstraße"
 housenumber: 1-3
 phone: ""
-opening_hours: "zur Zeit im Umbau und nicht geöffnet"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

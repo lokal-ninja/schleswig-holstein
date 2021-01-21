@@ -1,6 +1,5 @@
 id: 333136858
 type: way
-shop: Supermarkt
 latitude: 54.3383119
 longitude: 10.133019800000001
 postcode: "24118"
@@ -8,5 +7,5 @@ city: Kiel
 street: "Knooper Weg"
 housenumber: 185
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00; Su,PH off"
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH,Su off"
 website: ""

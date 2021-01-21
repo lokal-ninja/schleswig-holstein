@@ -1,6 +1,5 @@
 id: 2072909529
 type: node
-shop: Kleidung
 latitude: 54.5160222
 longitude: 9.560399100000001
 postcode: "24837"
@@ -8,5 +7,5 @@ city: Schleswig
 street: "Stadtweg"
 housenumber: 51
 phone: "+49 4621 20989"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; Su off"
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
 website: "http://www.lederfreytag.de/"

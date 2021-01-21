@@ -1,12 +1,11 @@
 id: 4880024322
 type: node
-shop: Friseur
-latitude: 54.3338315
-longitude: 10.134349100000001
+latitude: 54.3338065
+longitude: 10.1343169
 postcode: "24105"
 city: Kiel
 street: "Lornsenstraße"
 housenumber: 61
 phone: "+49 431 561634"
-opening_hours: "Tu-Th 09:00-18:00; Fr 08:00-18:00; Sa 08:00-14:00; Su,Mo off"
+opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00; Su,Mo off"
 website: "https://www.dobros-haartreff.de"

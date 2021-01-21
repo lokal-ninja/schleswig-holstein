@@ -1,6 +1,5 @@
 id: 3261877987
 type: node
-shop: Supermarkt
 latitude: 54.043213
 longitude: 10.215012100000001
 postcode: "24610"
@@ -8,5 +7,5 @@ city: Trappenkamp
 street: "Gablonzer Straße"
 housenumber: 1-2
 phone: "+49 4323 50990"
-opening_hours: "Sa-Sa 08:00-21:00"
+opening_hours: "Sa 08:00-21:00"
 website: "https://www.famila-nordost.de/wqwarenhaus/trappenkamp/"

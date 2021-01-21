@@ -1,6 +1,5 @@
 id: 3446800653
 type: node
-shop: Hörgeräte
 latitude: 54.516896700000004
 longitude: 9.5659971
 postcode: "24837"
@@ -8,5 +7,5 @@ city: Schleswig
 street: "Stadtweg"
 housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-12:00"
 website: ""

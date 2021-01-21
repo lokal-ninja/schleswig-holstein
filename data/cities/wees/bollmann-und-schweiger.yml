@@ -1,6 +1,5 @@
 id: 4051707151
 type: node
-shop: Kleidung
 latitude: 54.7932616
 longitude: 9.521696700000001
 postcode: "24999"
@@ -8,5 +7,5 @@ city: Wees
 street: "Weesries"
 housenumber: 1
 phone: "+49 4631 1366"
-opening_hours: "Jan-Nov: Tu,Th 14:00-18:00; Sa 11:00-15:00; Dec: Mo-Fr 14:00-18:00; Sa 11:00-15:00"
+opening_hours: "Jan-Nov: Tu,Th 14:00-18:00; Sa 11:00-15:00; Dec: Mo-Fr 14:00-18:00; Sa 11:00-15:00; PH off; Jan 8-31 off"
 website: "https://www.bollmann-schweiger.de/"

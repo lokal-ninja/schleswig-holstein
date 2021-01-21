@@ -1,12 +1,11 @@
-id: 3469872809
-type: node
-shop: Kleidung
-latitude: 54.516938800000005
-longitude: 9.5651851
+id: 87439143
+type: way
+latitude: 54.530839500000006
+longitude: 9.5280711
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 20
+street: "Lattenkamp"
+housenumber: 3a
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:30"
 website: ""

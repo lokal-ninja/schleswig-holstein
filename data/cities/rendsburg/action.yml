@@ -1,6 +1,5 @@
 id: 703318149
 type: node
-shop: Kramladen
 latitude: 54.317148200000005
 longitude: 9.627407700000001
 postcode: "24768"
@@ -8,5 +7,5 @@ city: Rendsburg
 street: "Friedrichstädter Straße"
 housenumber: 32-34
 phone: ""
-opening_hours: "Monday 09:00-20:00; Tuesday 09:00-20:00; Wednesday 09:00-20:00; Thursday 09:00-20:00; Friday 09:00-20:00; Saturday 09:00-20:00; Sunday closed"
+opening_hours: "Mo-Sa 09:00-20:00; Su closed"
 website: "https://www.action.com/de-de/laden/rendsburg-friedrichstadter-strabe/"

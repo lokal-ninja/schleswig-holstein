@@ -1,6 +1,5 @@
 id: 1426027698
 type: node
-shop: Blumen
 latitude: 54.01760470000001
 longitude: 10.571906700000001
 postcode: "23623"
@@ -8,5 +7,5 @@ city: Ahrensbök
 street: "Plöner Straße"
 housenumber: 86
 phone: "+49 4525 1428"
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-18:00; Sa 08:00-12:00; So 10:00-12:00; PH off"
+opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00; Su 10:00-12:00; PH off"
 website: "http://www.gärtnereiklüss.de"

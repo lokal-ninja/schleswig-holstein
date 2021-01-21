@@ -1,6 +1,5 @@
 id: 1455843127
 type: node
-shop: Kosmetik
 latitude: 53.8095751
 longitude: 10.3744039
 postcode: "23843"
@@ -8,5 +7,5 @@ city: Bad Oldesloe
 street: "Hindenburgstraße"
 housenumber: 11
 phone: "+491743408632"
-opening_hours: "Mo-So Nach Vereinbarung"
+opening_hours: "Mo-Su Nach Vereinbarung"
 website: "https://odkosmetik.wordpress.com/"

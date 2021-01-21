@@ -1,6 +1,5 @@
 id: 392544689
 type: node
-shop: Sport
 latitude: 54.4128417
 longitude: 10.2298127
 postcode: "24235"
@@ -8,5 +7,5 @@ city: Laboe
 street: "Strandstraße"
 housenumber: 33
 phone: "+494343496396"
-opening_hours: "Apr: Mo-Fr 11:00-18:00; Apr: Sa 10:00-18:00; Apr: So 10:00-18:00; Nov: Mo-Fr 11:00-18:00; Nov: Sa 10:00-18:00; Nov: So 10:00-18:00; May-Oct: 09:30-18:30"
+opening_hours: "Apr: Mo-Fr 11:00-18:00; Apr: Sa 10:00-18:00; Apr: Su 10:00-18:00; Nov: Mo-Fr 11:00-18:00; Nov: Sa 10:00-18:00; Nov: Su 10:00-18:00; May-Oct: 09:30-18:30"
 website: "https://kiel.surfers-p.de"

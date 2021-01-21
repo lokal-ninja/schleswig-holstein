@@ -1,6 +1,5 @@
 id: 5156409168
 type: node
-shop: Kramladen
 latitude: 53.823386000000006
 longitude: 10.501607400000001
 postcode: "23858"
@@ -8,5 +7,5 @@ city: Reinfeld
 street: "An der Autobahn"
 housenumber: 7
 phone: ""
-opening_hours: "Monday 09:00-20:00; Tuesday 09:00-20:00; Wednesday 09:00-20:00; Thursday 09:00-20:00; Friday 09:00-20:00; Saturday 09:00-20:00; Sunday closed"
+opening_hours: "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su closed"
 website: "https://www.action.com/de-de/laden/reinfeld-an-der-autobahn/"

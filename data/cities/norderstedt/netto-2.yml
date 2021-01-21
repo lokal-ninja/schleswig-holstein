@@ -1,6 +1,5 @@
 id: 165518475
 type: way
-shop: Supermarkt
 latitude: 53.682727
 longitude: 10.030936200000001
 postcode: "22851"
@@ -8,5 +7,5 @@ city: Norderstedt
 street: "Tangstedter Landstraße"
 housenumber: 545-547
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
 website: ""

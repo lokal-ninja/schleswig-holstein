@@ -1,6 +1,5 @@
 id: 7865932602
 type: node
-shop: Töpferei
 latitude: 54.010330100000004
 longitude: 10.573348800000002
 postcode: "23623"
@@ -8,5 +7,5 @@ city: Ahrensbök
 street: "Plöner Straße"
 housenumber: 4
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-17:00; PH off; Sep 3-Sep13 off"
+opening_hours: "Mo,Tu,Th,Fr 10:00-17:00; PH off; Sep 03-13 off"
 website: "https://www.meerkeramik.de/"

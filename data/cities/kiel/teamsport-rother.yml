@@ -1,6 +1,5 @@
 id: 1950752452
 type: node
-shop: Sport
 latitude: 54.340353500000006
 longitude: 10.1353988
 postcode: "24105"
@@ -8,5 +7,5 @@ city: Kiel
 street: "Gneisenaustraße"
 housenumber: 15
 phone: "+49 431 5344966"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
+opening_hours: "Mo-Fr 11:00-13:30,14:30-17:00; Sa 11:00-13:00"
 website: "https://www.teamsport-rother.de/"

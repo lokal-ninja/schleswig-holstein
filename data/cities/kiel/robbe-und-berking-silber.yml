@@ -1,6 +1,5 @@
 id: 3312939661
 type: node
-shop: Schmuck
 latitude: 54.330969100000004
 longitude: 10.1317123
 postcode: ""
@@ -8,5 +7,5 @@ city: Kiel
 street: "Holtenauer Straße"
 housenumber: 33
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: ""

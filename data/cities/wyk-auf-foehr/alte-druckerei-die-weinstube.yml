@@ -1,6 +1,5 @@
 id: 2219596473
 type: node
-shop: Wein
 latitude: 54.689392000000005
 longitude: 8.5682898
 postcode: "25938"
@@ -8,5 +7,5 @@ city: Wyk auf Föhr
 street: "Mittelstraße"
 housenumber: 17
 phone: "+49 4681 748600"
-opening_hours: "Mo-Su 10:00-24:00, Nov.-Mar.: Mo-Su 14:00-23:00"
+opening_hours: "Mo-Su 10:00-24:00, Nov-Mar: Mo-Su 14:00-23:00"
 website: "http://www.dasweinkontor.com"

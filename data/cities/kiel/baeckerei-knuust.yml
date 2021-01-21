@@ -1,6 +1,5 @@
 id: 2646374407
 type: node
-shop: Bäckerei
 latitude: 54.319875700000004
 longitude: 10.0892637
 postcode: "24109"
@@ -8,5 +7,5 @@ city: Kiel
 street: "Hofholzallee"
 housenumber: 22
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00"
 website: ""

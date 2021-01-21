@@ -1,12 +1,11 @@
-id: 1921403733
-type: node
-shop: Garten-Center
-latitude: 54.4506809
-longitude: 11.1125971
+id: 895949669
+type: way
+latitude: 54.450335
+longitude: 11.1119306
 postcode: "23769"
 city: Fehmarn
-street: ""
+street: "Neujellingsdorf"
 housenumber: 1
-phone: ""
+phone: "+49 4371 503770"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
 website: "https://www.gaertnerei-toepfer.de/"

@@ -1,6 +1,5 @@
 id: 6728262939
 type: node
-shop: Blumen
 latitude: 54.385964900000005
 longitude: 10.1343492
 postcode: "24161"
@@ -8,5 +7,5 @@ city: Altenholz
 street: "Ostpreußenplatz"
 housenumber: 3
 phone: "+49 431 322354"
-opening_hours: "Mo-Th 08:00-13:00; Mo-Th 15:00-18:00; Fr 08:00-18:00; Sa 08:00-14:00; So 10:00-12:00"
+opening_hours: "Mo-Th 08:00-13:00; Mo-Th 15:00-18:00; Fr 08:00-18:00; Sa 08:00-14:00; Su 10:00-12:00"
 website: "http://www.blumen-kalinka.de/"

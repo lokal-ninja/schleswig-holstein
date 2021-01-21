@@ -1,6 +1,5 @@
 id: 3191674561
 type: node
-shop: Schuhe
 latitude: 54.333027
 longitude: 10.1329759
 postcode: "24105"
@@ -8,5 +7,5 @@ city: Kiel
 street: "Holtenauer Straße"
 housenumber: 76
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00, Sa 09:00-13:00; Su,PH off"
+opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-13:00; PH,Su off"
 website: ""
