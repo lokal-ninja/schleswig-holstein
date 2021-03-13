@@ -1,6 +1,6 @@
 ---
 title: Bimöhlen
 url: /bimoehlen/
-latitude: 53.936421300000006
-longitude: 9.954259700000001
+latitude: 53.9366307
+longitude: 9.9533923
 ---

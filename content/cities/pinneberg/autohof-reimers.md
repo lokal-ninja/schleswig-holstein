@@ -1,5 +1,5 @@
 ---
 title: "Autohof Reimers"
 url: /pinneberg/autohof-reimers/
-shop: Allgemein
+shop: Autohaus
 ---
