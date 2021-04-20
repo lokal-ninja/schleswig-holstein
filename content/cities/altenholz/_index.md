@@ -1,6 +1,6 @@
 ---
 title: Altenholz
 url: /altenholz/
-latitude: 54.399325700000006
-longitude: 10.1237852
+latitude: 54.395676200000004
+longitude: 10.1187695
 ---

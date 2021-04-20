@@ -1,5 +1,5 @@
 ---
 title: "Fabrikverkauf"
 url: /bad-bramstedt/fabrikverkauf/
-shop: Allgemein
+shop: Fisch
 ---

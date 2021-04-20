@@ -1,11 +1,11 @@
-id: 6186166473
-type: node
-latitude: 54.325232400000004
-longitude: 10.1184004
-postcode: "24116"
+id: 26674953
+type: way
+latitude: 54.3162214
+longitude: 10.1189886
+postcode: "24114"
 city: Kiel
-street: "Weißenburgstraße"
-housenumber: 15
-phone: "+49 431 2376090"
-opening_hours: "Mo-Sa 07:00-23:00; PH closed"
+street: "Kirchhofallee"
+housenumber: 66a
+phone: ""
+opening_hours: "Mo-Sa 07:00-21:00;PH closed"
 website: ""

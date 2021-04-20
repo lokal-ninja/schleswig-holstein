@@ -1,5 +1,5 @@
 ---
 title: "arko"
 url: /schleswig/arko/
-shop: Feinkost
+shop: Süßwaren
 ---
