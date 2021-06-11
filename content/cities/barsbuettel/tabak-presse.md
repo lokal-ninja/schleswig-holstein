@@ -1,5 +1,5 @@
 ---
 title: "Tabak-Presse"
 url: /barsbuettel/tabak-presse/
-shop: Allgemein
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stefanel"
 url: /sylt/stefanel/
-shop: Kleidung
+shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
-title: "kik"
+title: "KiK"
 url: /eckernfoerde/kik/
 shop: Kleidung
 ---

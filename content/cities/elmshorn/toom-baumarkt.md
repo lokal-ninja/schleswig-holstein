@@ -1,5 +1,5 @@
 ---
-title: "toom Baumarkt"
+title: "Toom Baumarkt"
 url: /elmshorn/toom-baumarkt/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anke's Dampferhafen"
 url: /quickborn/ankes-dampferhafen/
-shop: Allgemein
+shop: E-Zigaretten
 ---

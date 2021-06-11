@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /kappeln/action/
-shop: Warenhaus
+shop: Kramladen
 ---

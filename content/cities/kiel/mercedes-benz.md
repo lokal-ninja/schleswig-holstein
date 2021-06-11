@@ -1,5 +1,5 @@
 ---
-title: "Mercedes Benz"
+title: "Mercedes-Benz"
 url: /kiel/mercedes-benz/
 shop: Autohaus
 ---

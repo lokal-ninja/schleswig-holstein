@@ -1,6 +1,6 @@
 ---
 title: Bredstedt
 url: /bredstedt/
-latitude: 
-longitude: 
+latitude: 54.6236326
+longitude: 8.9640834
 ---

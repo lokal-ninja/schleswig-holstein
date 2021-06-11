@@ -1,5 +1,5 @@
 ---
-title: "ARAL"
+title: "Aral"
 url: /luebeck/aral/
 shop: Lebensmittel
 ---
