@@ -1,0 +1,2 @@
+Schleswig-Holstein ist eine parlamentarische Republik und ein teilsouveräner Gliedstaat (Land) der Bundesrepublik Deutschland. Die Landeshauptstadt und größte Stadt des Landes ist die Großstadt Kiel; weitere Oberzentren sind die Großstadt Lübeck sowie die Mittelstädte Flensburg und Neumünster. Diese vier Städte sind kreisfrei. Die 1970 durch Fusion entstandene fünftgrößte Stadt Norderstedt hat in etwa so viele Einwohner wie Neumünster, zählt jedoch aufgrund der Nähe zu Hamburg nur als Mittelzentrum im Verdichtungsraum. (Wikipedia)
+

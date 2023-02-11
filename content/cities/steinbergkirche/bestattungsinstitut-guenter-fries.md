@@ -1,0 +1,5 @@
+---
+title: "Bestattungsinstitut Günter Fries"
+url: /steinbergkirche/bestattungsinstitut-guenter-fries/
+shop: Bestattungen
+---
