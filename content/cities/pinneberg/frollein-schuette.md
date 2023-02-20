@@ -1,5 +1,5 @@
 ---
 title: "Frollein Schütte"
 url: /pinneberg/frollein-schuette/
-shop: Supermarkt
+shop: Lebensmittel
 ---

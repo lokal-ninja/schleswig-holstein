@@ -1,5 +1,5 @@
 ---
 title: "Barbershop Wanderup"
 url: /wanderup/barbershop-wanderup/
-shop: Allgemein
+shop: Friseur
 ---
