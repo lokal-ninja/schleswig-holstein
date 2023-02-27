@@ -1,6 +1,6 @@
 ---
 title: Borsfleth
 url: /borsfleth/
-latitude: 53.827
-longitude: 9.427
+latitude: 53.822
+longitude: 9.447
 ---

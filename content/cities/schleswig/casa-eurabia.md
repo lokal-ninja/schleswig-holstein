@@ -1,5 +1,5 @@
 ---
-title: "Casa Eurabia"
+title: "casa eurabia"
 url: /schleswig/casa-eurabia/
-shop: Möbel
+shop: Raumausstattung
 ---
