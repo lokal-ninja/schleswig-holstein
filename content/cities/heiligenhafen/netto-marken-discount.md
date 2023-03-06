@@ -1,5 +1,5 @@
 ---
-title: "netto Marken-Discount"
+title: "Netto Marken-Discount"
 url: /heiligenhafen/netto-marken-discount/
 shop: Supermarkt
 ---

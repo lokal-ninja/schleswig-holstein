@@ -1,6 +1,6 @@
 ---
 title: Molfsee
 url: /molfsee/
-latitude: 54.262
-longitude: 10.064
+latitude: 54.263
+longitude: 10.065
 ---

@@ -1,6 +1,6 @@
 ---
 title: Probsteierhagen
 url: /probsteierhagen/
-latitude: 54.362
-longitude: 10.285
+latitude: 54.348
+longitude: 10.259
 ---
