@@ -1,5 +1,5 @@
 ---
-title: "poco"
+title: "POCO"
 url: /luebeck/poco/
 shop: Möbel
 ---
