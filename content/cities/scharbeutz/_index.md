@@ -1,6 +1,6 @@
 ---
 title: Scharbeutz
 url: /scharbeutz/
-latitude: 54.025
-longitude: 10.748
+latitude: 54.02
+longitude: 10.743
 ---

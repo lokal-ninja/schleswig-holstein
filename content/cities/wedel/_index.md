@@ -1,6 +1,6 @@
 ---
 title: Wedel
 url: /wedel/
-latitude: 53.585
-longitude: 9.724
+latitude: 53.578
+longitude: 9.706
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hasloh
 url: /hasloh/
-latitude: 53.696
-longitude: 9.94
+latitude: 53.69
+longitude: 9.909
 ---
