@@ -1,11 +1,11 @@
-id: 169474257
-type: way
-latitude: 54.13232
-longitude: 8.85033
+id: 654322268
+type: node
+latitude: 54.13126
+longitude: 8.86065
 postcode: "25761"
 city: Büsum
-street: "Nordseestraße"
-housenumber: 16
-phone: "+49 4834 9654915"
-opening_hours: "Mo-Sa 07:00-19:00; PH closed;Mar 15-Oct 31: Su,PH 11:30-17:30"
-website: "https://www.edeka-jensen.de/b%C3%BCsum-nordseestr"
+street: "Alleestraße"
+housenumber: 6
+phone: ""
+opening_hours: "Mo-Sa 06:30-20:00; Su 11:30-17:30"
+website: "https://www.edeka-jensen.de/b%C3%BCsum-alleestr"
