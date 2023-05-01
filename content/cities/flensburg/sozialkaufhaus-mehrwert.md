@@ -1,5 +1,5 @@
 ---
-title: "Sozialkaufhaus mehrwert"
+title: "Sozialkaufhaus Mehrwert"
 url: /flensburg/sozialkaufhaus-mehrwert/
 shop: Gebrauchtwaren
 ---

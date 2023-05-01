@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /fehmarn/aldi-nord/
 shop: Supermarkt
 ---
