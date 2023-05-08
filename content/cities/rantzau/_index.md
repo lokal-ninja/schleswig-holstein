@@ -1,6 +1,6 @@
 ---
 title: Rantzau
 url: /rantzau/
-latitude: 54.237
-longitude: 10.515
+latitude: 54.218
+longitude: 10.528
 ---
