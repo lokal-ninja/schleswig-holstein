@@ -7,5 +7,5 @@ city: Kiel
 street: "Ringstraße"
 housenumber: 40
 phone: "+49 431 678024"
-opening_hours: "Mo-Fr 12:00-18:00"
+opening_hours: "Mo,Tu,Th,Fr 10:00-14:00"
 website: "http://www.blickfang-schmuck.de/impressum/"
