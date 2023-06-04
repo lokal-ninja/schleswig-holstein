@@ -1,6 +1,6 @@
 ---
 title: Kappeln
 url: /kappeln/
-latitude: 54.661
-longitude: 9.933
+latitude: 54.669
+longitude: 9.932
 ---
