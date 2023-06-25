@@ -1,6 +1,6 @@
 ---
 title: Schenefeld
 url: /schenefeld/
-latitude: 53.608
-longitude: 9.843
+latitude: 53.598
+longitude: 9.854
 ---
