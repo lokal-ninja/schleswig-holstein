@@ -1,6 +1,6 @@
 ---
 title: Kisdorf
 url: /kisdorf/
-latitude: 53.805
-longitude: 10.007
+latitude: 53.809
+longitude: 10.008
 ---

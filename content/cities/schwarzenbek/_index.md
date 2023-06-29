@@ -1,6 +1,6 @@
 ---
 title: Schwarzenbek
 url: /schwarzenbek/
-latitude: 53.502
-longitude: 10.474
+latitude: 53.513
+longitude: 10.496
 ---
