@@ -1,5 +1,5 @@
 ---
 title: "Hofladen Tastrupfeld"
-url: /tastrup/hofladen-tastrupfeld/
+url: /huerup/hofladen-tastrupfeld/
 shop: Hofladen
 ---

@@ -7,5 +7,5 @@ city: Pinneberg
 street: "Heinrich-Christiansen-Straße"
 housenumber: 43
 phone: "+49 4101 8570670"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 08:30-14:00"
+opening_hours: "Mo,Su off; Tu,Th-Fr 09:30-18:00; We 09:30-14:00; Sa 08:30-14:00"
 website: ""

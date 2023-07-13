@@ -1,5 +1,5 @@
 ---
 title: "Oliver Andresen Kfz-Meisterbetrieb"
-url: /tastrup/oliver-andresen-kfz-meisterbetrieb/
+url: /huerup/oliver-andresen-kfz-meisterbetrieb/
 shop: Autowerkstatt
 ---
