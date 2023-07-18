@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
 url: /flensburg/rituals/
-shop: Kosmetik
+shop: Parfümerie
 ---
