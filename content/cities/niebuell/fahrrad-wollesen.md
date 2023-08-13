@@ -1,5 +1,5 @@
 ---
 title: "Fahrrad Wollesen"
-url: /aventoft/fahrrad-wollesen/
+url: /niebuell/fahrrad-wollesen/
 shop: Fahrrad
 ---
