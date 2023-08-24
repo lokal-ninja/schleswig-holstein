@@ -1,5 +1,5 @@
 ---
-title: "Pa Petter"
+title: "På Petter"
 url: /kappeln/pa-petter/
 shop: Kleidung
 ---
