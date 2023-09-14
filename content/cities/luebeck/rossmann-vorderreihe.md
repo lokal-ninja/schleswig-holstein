@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /luebeck/rossmann/
+url: /luebeck/rossmann-vorderreihe/
 shop: Drogerie
 ---

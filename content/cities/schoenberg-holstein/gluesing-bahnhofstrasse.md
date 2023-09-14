@@ -1,5 +1,5 @@
 ---
 title: "Glüsing"
-url: /schoenberg-holstein/gluesing/
+url: /schoenberg-holstein/gluesing-bahnhofstrasse/
 shop: Bäckerei
 ---

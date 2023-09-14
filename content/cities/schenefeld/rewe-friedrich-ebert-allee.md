@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /schenefeld/rewe/
+url: /schenefeld/rewe-friedrich-ebert-allee/
 shop: Supermarkt
 ---

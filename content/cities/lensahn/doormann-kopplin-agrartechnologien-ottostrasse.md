@@ -1,5 +1,5 @@
 ---
 title: "Doormann+Kopplin Agrartechnologien"
-url: /lensahn/doormann-kopplin-agrartechnologien/
+url: /lensahn/doormann-kopplin-agrartechnologien-ottostrasse/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /schenefeld/penny/
+url: /schenefeld/penny-am-bahnhof/
 shop: Supermarkt
 ---

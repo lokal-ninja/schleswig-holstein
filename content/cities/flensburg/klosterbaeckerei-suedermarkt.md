@@ -1,5 +1,5 @@
 ---
 title: "Klosterbäckerei"
-url: /flensburg/klosterbaeckerei/
+url: /flensburg/klosterbaeckerei-suedermarkt/
 shop: Bäckerei
 ---

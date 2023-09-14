@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /wedel/edeka/
+url: /wedel/edeka-feldstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Andresen"
-url: /bad-bramstedt/baeckerei-andresen/
+url: /bad-bramstedt/baeckerei-andresen-lohstuecker-weg/
 shop: Bäckerei
 ---

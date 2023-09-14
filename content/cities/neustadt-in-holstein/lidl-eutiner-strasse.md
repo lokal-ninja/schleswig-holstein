@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /neustadt-in-holstein/lidl/
+url: /neustadt-in-holstein/lidl-eutiner-strasse/
 shop: Supermarkt
 ---

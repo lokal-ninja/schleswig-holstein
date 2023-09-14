@@ -1,5 +1,5 @@
 ---
 title: "Süverkrüp"
-url: /kiel/sueverkruep/
+url: /kiel/sueverkruep-holzkoppelweg/
 shop: Autohaus
 ---

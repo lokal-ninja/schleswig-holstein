@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /luebeck/kik/
+url: /luebeck/kik-alexander-fleming-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schlüter"
-url: /schenefeld/schlueter/
+url: /schenefeld/schlueter-friedrich-ebert-allee/
 shop: Bäckerei
 ---

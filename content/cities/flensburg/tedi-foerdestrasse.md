@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /flensburg/tedi/
+url: /flensburg/tedi-foerdestrasse/
 shop: Kramladen
 ---

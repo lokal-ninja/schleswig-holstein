@@ -1,5 +1,5 @@
 ---
 title: "Voss"
-url: /sylt/voss/
+url: /sylt/voss-trift/
 shop: Zeitungen
 ---

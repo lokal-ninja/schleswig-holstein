@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Puck"
-url: /ratekau/landbaeckerei-puck/
+url: /ratekau/landbaeckerei-puck-rosenstrasse/
 shop: Bäckerei
 ---

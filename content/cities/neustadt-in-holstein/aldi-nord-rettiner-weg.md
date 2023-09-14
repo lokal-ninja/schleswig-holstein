@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /neustadt-in-holstein/aldi-nord/
+url: /neustadt-in-holstein/aldi-nord-rettiner-weg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Andresen"
-url: /rendsburg/andresen/
+url: /rendsburg/andresen-schiffbrueckenplatz/
 shop: Bäckerei
 ---

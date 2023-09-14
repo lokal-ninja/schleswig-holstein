@@ -1,5 +1,5 @@
 ---
 title: "Orient-Barbier"
-url: /schleswig/orient-barbier/
+url: /schleswig/orient-barbier-stadtweg/
 shop: Friseur
 ---

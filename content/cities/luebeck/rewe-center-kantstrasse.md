@@ -1,5 +1,5 @@
 ---
 title: "Rewe Center"
-url: /luebeck/rewe-center/
+url: /luebeck/rewe-center-kantstrasse/
 shop: Supermarkt
 ---

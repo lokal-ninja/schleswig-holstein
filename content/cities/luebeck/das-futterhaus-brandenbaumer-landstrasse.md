@@ -1,5 +1,5 @@
 ---
 title: "Das Futterhaus"
-url: /luebeck/das-futterhaus/
+url: /luebeck/das-futterhaus-brandenbaumer-landstrasse/
 shop: Tiere
 ---

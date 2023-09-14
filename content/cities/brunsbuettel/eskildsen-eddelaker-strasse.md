@@ -1,5 +1,5 @@
 ---
 title: "Eskildsen"
-url: /brunsbuettel/eskildsen/
+url: /brunsbuettel/eskildsen-eddelaker-strasse/
 shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rönnau"
-url: /kiel/roennau/
+url: /kiel/roennau-holtenauer-strasse/
 shop: Bäckerei
 ---

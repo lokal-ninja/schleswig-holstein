@@ -1,5 +1,5 @@
 ---
 title: "Puck"
-url: /schoenberg-holstein/puck/
+url: /schoenberg-holstein/puck-eichkamp/
 shop: Blumen
 ---

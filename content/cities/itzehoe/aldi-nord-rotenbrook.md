@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /itzehoe/aldi-nord/
+url: /itzehoe/aldi-nord-rotenbrook/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /luebeck/vodafone/
+url: /luebeck/vodafone-holstenstrasse/
 shop: Handy
 ---

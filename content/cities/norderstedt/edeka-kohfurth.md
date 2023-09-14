@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /norderstedt/edeka/
+url: /norderstedt/edeka-kohfurth/
 shop: Supermarkt
 ---

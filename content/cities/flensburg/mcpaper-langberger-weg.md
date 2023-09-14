@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /flensburg/mcpaper/
+url: /flensburg/mcpaper-langberger-weg/
 shop: Schreibwaren
 ---

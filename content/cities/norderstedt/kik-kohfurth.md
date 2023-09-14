@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /norderstedt/kik/
+url: /norderstedt/kik-kohfurth/
 shop: Kleidung
 ---

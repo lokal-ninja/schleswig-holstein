@@ -1,5 +1,5 @@
 ---
 title: "Kolls"
-url: /quickborn/kolls/
+url: /quickborn/kolls-bahnhofstrasse/
 shop: Bäckerei
 ---

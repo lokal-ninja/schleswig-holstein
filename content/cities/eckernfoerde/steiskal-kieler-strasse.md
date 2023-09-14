@@ -1,5 +1,5 @@
 ---
 title: "Steiskal"
-url: /eckernfoerde/steiskal/
+url: /eckernfoerde/steiskal-kieler-strasse/
 shop: Bäckerei
 ---

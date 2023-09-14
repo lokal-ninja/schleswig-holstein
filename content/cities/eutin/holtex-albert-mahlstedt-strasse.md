@@ -1,5 +1,5 @@
 ---
 title: "Holtex"
-url: /eutin/holtex/
+url: /eutin/holtex-albert-mahlstedt-strasse/
 shop: Kleidung
 ---

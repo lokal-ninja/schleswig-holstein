@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /schleswig/rewe/
+url: /schleswig/rewe-gallberg/
 shop: Supermarkt
 ---

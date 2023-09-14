@@ -1,5 +1,5 @@
 ---
 title: "Hof Soltau"
-url: /barsbuettel/hof-soltau/
+url: /barsbuettel/hof-soltau-meienfelde/
 shop: Hofladen
 ---

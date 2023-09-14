@@ -1,5 +1,5 @@
 ---
 title: "Steiskal"
-url: /luetjenburg/steiskal/
+url: /luetjenburg/steiskal-posthofstrasse/
 shop: Bäckerei
 ---

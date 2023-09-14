@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /kiel/rossmann/
+url: /kiel/rossmann-holtenauer-strasse-3/
 shop: Drogerie
 ---

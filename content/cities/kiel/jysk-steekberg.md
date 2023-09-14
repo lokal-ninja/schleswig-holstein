@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /kiel/jysk/
+url: /kiel/jysk-steekberg/
 shop: Möbel
 ---

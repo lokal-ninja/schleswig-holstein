@@ -1,5 +1,5 @@
 ---
 title: "Aldi Nord"
-url: /flensburg/aldi-nord/
+url: /flensburg/aldi-nord-friedheim/
 shop: Supermarkt
 ---

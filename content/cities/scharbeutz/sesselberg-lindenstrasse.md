@@ -1,5 +1,5 @@
 ---
 title: "Seßelberg"
-url: /scharbeutz/sesselberg/
+url: /scharbeutz/sesselberg-lindenstrasse/
 shop: Bäckerei
 ---

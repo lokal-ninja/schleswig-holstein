@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /pinneberg/edeka/
+url: /pinneberg/edeka-saarlandstrasse/
 shop: Supermarkt
 ---

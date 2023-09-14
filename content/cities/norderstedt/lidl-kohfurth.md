@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /norderstedt/lidl/
+url: /norderstedt/lidl-kohfurth/
 shop: Supermarkt
 ---

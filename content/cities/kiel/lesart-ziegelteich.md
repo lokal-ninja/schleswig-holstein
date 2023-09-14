@@ -1,5 +1,5 @@
 ---
 title: "Lesart"
-url: /kiel/lesart/
+url: /kiel/lesart-ziegelteich/
 shop: Bücher
 ---

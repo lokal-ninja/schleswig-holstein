@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /eutin/rossmann/
+url: /eutin/rossmann-markt/
 shop: Drogerie
 ---

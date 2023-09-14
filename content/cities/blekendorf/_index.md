@@ -1,6 +1,6 @@
 ---
 title: Blekendorf
 url: /blekendorf/
-latitude: 54.283
+latitude: 54.281
 longitude: 10.681
 ---

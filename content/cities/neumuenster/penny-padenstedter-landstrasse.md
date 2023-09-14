@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /neumuenster/penny/
+url: /neumuenster/penny-padenstedter-landstrasse/
 shop: Supermarkt
 ---

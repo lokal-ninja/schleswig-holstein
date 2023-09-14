@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /itzehoe/rewe/
+url: /itzehoe/rewe-lise-meitner-strasse/
 shop: Supermarkt
 ---

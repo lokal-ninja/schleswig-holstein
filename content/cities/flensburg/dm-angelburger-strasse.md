@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /flensburg/dm/
+url: /flensburg/dm-angelburger-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /kiel/bauhaus/
+url: /kiel/bauhaus-steenbeker-weg/
 shop: Baumarkt
 ---

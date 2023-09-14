@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Carstens"
-url: /itzehoe/baeckerei-carstens/
+url: /itzehoe/baeckerei-carstens-kraemerstrasse/
 shop: Bäckerei
 ---

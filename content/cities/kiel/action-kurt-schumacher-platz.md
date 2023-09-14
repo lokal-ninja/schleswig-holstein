@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /kiel/action/
+url: /kiel/action-kurt-schumacher-platz/
 shop: Kramladen
 ---

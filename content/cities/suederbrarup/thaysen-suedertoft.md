@@ -1,5 +1,5 @@
 ---
 title: "Thaysen"
-url: /suederbrarup/thaysen/
+url: /suederbrarup/thaysen-suedertoft/
 shop: Bäckerei
 ---

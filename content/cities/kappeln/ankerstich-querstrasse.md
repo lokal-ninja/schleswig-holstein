@@ -1,5 +1,5 @@
 ---
 title: "Ankerstich"
-url: /kappeln/ankerstich/
+url: /kappeln/ankerstich-querstrasse/
 shop: Tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /kiel/dm/
+url: /kiel/dm-stormarnstrasse/
 shop: Drogerie
 ---

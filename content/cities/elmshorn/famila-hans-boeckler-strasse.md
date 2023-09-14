@@ -1,5 +1,5 @@
 ---
 title: "Famila"
-url: /elmshorn/famila/
+url: /elmshorn/famila-hans-boeckler-strasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Rau"
-url: /brunsbuettel/autohaus-rau/
+url: /brunsbuettel/autohaus-rau-eddelaker-strasse/
 shop: Autohaus
 ---

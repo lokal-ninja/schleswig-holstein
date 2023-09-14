@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /luebeck/rossmann/
+url: /luebeck/rossmann-alexander-fleming-strasse/
 shop: Drogerie
 ---

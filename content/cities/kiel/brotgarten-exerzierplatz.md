@@ -1,5 +1,5 @@
 ---
 title: "Brotgarten"
-url: /kiel/brotgarten/
+url: /kiel/brotgarten-exerzierplatz/
 shop: Bäckerei
 ---

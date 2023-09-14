@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Sesselberg"
-url: /neustadt-in-holstein/baeckerei-sesselberg/
+url: /neustadt-in-holstein/baeckerei-sesselberg-am-markt/
 shop: Bäckerei
 ---

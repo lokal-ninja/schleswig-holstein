@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /norderstedt/rossmann/
+url: /norderstedt/rossmann-europaallee/
 shop: Drogerie
 ---

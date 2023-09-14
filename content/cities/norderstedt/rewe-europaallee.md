@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /norderstedt/rewe/
+url: /norderstedt/rewe-europaallee/
 shop: Supermarkt
 ---

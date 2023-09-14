@@ -1,5 +1,5 @@
 ---
 title: "Klosterbäckerei"
-url: /gelting/klosterbaeckerei/
+url: /gelting/klosterbaeckerei-norderholm/
 shop: Bäckerei
 ---

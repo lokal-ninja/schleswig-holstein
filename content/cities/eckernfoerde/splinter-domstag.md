@@ -1,5 +1,5 @@
 ---
 title: "Splinter"
-url: /eckernfoerde/splinter/
+url: /eckernfoerde/splinter-domstag/
 shop: Friseur
 ---

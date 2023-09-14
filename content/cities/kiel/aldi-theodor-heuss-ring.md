@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /kiel/aldi/
+url: /kiel/aldi-theodor-heuss-ring/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jeronimo"
-url: /fehmarn/jeronimo/
+url: /fehmarn/jeronimo-breite-strasse/
 shop: Kleidung
 ---

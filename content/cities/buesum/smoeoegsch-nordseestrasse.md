@@ -1,5 +1,5 @@
 ---
 title: "Smöögsch"
-url: /buesum/smoeoegsch/
+url: /buesum/smoeoegsch-nordseestrasse/
 shop: Andenken
 ---

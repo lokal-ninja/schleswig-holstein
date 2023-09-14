@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /schleswig/rewe/
+url: /schleswig/rewe-georg-pfingsten-weg/
 shop: Supermarkt
 ---

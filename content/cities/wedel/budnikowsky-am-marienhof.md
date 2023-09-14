@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /wedel/budnikowsky/
+url: /wedel/budnikowsky-am-marienhof/
 shop: Drogerie
 ---

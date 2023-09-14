@@ -1,5 +1,5 @@
 ---
 title: "InselPerle"
-url: /fehmarn/inselperle/
+url: /fehmarn/inselperle-breite-strasse/
 shop: Andenken
 ---

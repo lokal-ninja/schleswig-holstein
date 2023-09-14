@@ -1,5 +1,5 @@
 ---
 title: "Steiskal"
-url: /preetz/steiskal/
+url: /preetz/steiskal-markt/
 shop: Bäckerei
 ---

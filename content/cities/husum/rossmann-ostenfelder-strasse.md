@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /husum/rossmann/
+url: /husum/rossmann-ostenfelder-strasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /luebeck/amplifon/
+url: /luebeck/amplifon-koenigstrasse/
 shop: Hörgeräte
 ---

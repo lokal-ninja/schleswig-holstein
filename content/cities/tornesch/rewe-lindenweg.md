@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /tornesch/rewe/
+url: /tornesch/rewe-lindenweg/
 shop: Supermarkt
 ---

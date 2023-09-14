@@ -1,5 +1,5 @@
 ---
 title: "Niebüller Backstube"
-url: /leck/niebueller-backstube/
+url: /leck/niebueller-backstube-industriestrasse/
 shop: Bäckerei
 ---

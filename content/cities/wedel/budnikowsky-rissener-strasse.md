@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /wedel/budnikowsky/
+url: /wedel/budnikowsky-rissener-strasse/
 shop: Drogerie
 ---

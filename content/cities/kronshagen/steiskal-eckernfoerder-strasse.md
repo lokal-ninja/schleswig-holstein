@@ -1,5 +1,5 @@
 ---
 title: "Steiskal"
-url: /kronshagen/steiskal/
+url: /kronshagen/steiskal-eckernfoerder-strasse/
 shop: Bäckerei
 ---

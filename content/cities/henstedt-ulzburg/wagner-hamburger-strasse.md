@@ -1,5 +1,5 @@
 ---
 title: "Wagner"
-url: /henstedt-ulzburg/wagner/
+url: /henstedt-ulzburg/wagner-hamburger-strasse/
 shop: Bäckerei
 ---

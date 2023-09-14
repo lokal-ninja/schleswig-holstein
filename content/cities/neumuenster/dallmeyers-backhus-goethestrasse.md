@@ -1,5 +1,5 @@
 ---
 title: "Dallmeyers Backhus"
-url: /neumuenster/dallmeyers-backhus/
+url: /neumuenster/dallmeyers-backhus-goethestrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleggaard"
-url: /harrislee/fleggaard/
+url: /harrislee/fleggaard-wassersleben/
 shop: Supermarkt
 ---

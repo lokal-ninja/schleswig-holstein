@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /grosshansdorf/penny/
+url: /grosshansdorf/penny-sieker-landstrasse/
 shop: Supermarkt
 ---

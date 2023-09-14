@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /husum/rewe/
+url: /husum/rewe-bredstedter-strasse/
 shop: Supermarkt
 ---

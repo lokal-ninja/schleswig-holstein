@@ -1,5 +1,5 @@
 ---
 title: "Ernsting's family"
-url: /kiel/ernstings-family/
+url: /kiel/ernstings-family-holstenstrasse/
 shop: Kleidung
 ---

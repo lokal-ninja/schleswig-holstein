@@ -1,5 +1,5 @@
 ---
 title: "Erdkorn"
-url: /kiel/erdkorn/
+url: /kiel/erdkorn-schlossstrasse/
 shop: Supermarkt
 ---

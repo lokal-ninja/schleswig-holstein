@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /luebeck/jysk/
+url: /luebeck/jysk-herrenholz/
 shop: Möbel
 ---

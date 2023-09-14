@@ -1,5 +1,5 @@
 ---
 title: "Niebüller Backstube"
-url: /husum/niebueller-backstube/
+url: /husum/niebueller-backstube-grossstrasse/
 shop: Bäckerei
 ---

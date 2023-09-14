@@ -1,5 +1,5 @@
 ---
 title: "Niebuhr"
-url: /elmshorn/niebuhr/
+url: /elmshorn/niebuhr-vormstegen/
 shop: Eisenwaren
 ---

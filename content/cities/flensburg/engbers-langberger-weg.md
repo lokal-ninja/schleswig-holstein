@@ -1,5 +1,5 @@
 ---
 title: "engbers"
-url: /flensburg/engbers/
+url: /flensburg/engbers-langberger-weg/
 shop: Kleidung
 ---

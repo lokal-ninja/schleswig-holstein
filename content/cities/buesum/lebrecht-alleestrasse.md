@@ -1,5 +1,5 @@
 ---
 title: "Lebrecht"
-url: /buesum/lebrecht/
+url: /buesum/lebrecht-alleestrasse/
 shop: Schuhe
 ---

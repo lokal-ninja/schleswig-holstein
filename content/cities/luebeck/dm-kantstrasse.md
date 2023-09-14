@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /luebeck/dm/
+url: /luebeck/dm-kantstrasse/
 shop: Drogerie
 ---

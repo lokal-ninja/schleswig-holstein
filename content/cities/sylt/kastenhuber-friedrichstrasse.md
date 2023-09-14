@@ -1,5 +1,5 @@
 ---
 title: "Kastenhuber"
-url: /sylt/kastenhuber/
+url: /sylt/kastenhuber-friedrichstrasse/
 shop: Kleidung
 ---

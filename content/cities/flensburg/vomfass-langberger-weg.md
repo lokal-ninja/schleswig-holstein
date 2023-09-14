@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
-url: /flensburg/vomfass/
+url: /flensburg/vomfass-langberger-weg/
 shop: Feinkost
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /pinneberg/kik/
+url: /pinneberg/kik-fahltskamp/
 shop: Kleidung
 ---

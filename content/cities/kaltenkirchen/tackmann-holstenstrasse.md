@@ -1,5 +1,5 @@
 ---
 title: "Tackmann"
-url: /kaltenkirchen/tackmann/
+url: /kaltenkirchen/tackmann-holstenstrasse/
 shop: Bäckerei
 ---

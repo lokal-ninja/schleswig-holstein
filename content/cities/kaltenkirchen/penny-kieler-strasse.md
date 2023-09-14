@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /kaltenkirchen/penny/
+url: /kaltenkirchen/penny-kieler-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spielwaren Schmidt"
-url: /kappeln/spielwaren-schmidt/
+url: /kappeln/spielwaren-schmidt-schmiedestrasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /neumuenster/rossmann/
+url: /neumuenster/rossmann-grossflecken/
 shop: Drogerie
 ---

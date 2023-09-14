@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /kappeln/aldi-nord/
+url: /kappeln/aldi-nord-gluecksburger-strasse/
 shop: Supermarkt
 ---

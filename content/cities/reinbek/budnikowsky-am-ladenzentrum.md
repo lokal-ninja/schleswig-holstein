@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /reinbek/budnikowsky/
+url: /reinbek/budnikowsky-am-ladenzentrum/
 shop: Drogerie
 ---

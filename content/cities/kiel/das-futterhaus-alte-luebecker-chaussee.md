@@ -1,5 +1,5 @@
 ---
 title: "Das Futterhaus"
-url: /kiel/das-futterhaus/
+url: /kiel/das-futterhaus-alte-luebecker-chaussee/
 shop: Tiere
 ---

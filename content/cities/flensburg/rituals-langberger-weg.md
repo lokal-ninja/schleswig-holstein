@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /flensburg/rituals/
+url: /flensburg/rituals-langberger-weg/
 shop: Kosmetik
 ---

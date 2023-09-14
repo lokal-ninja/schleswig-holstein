@@ -1,5 +1,5 @@
 ---
 title: "Günther"
-url: /kiel/guenther/
+url: /kiel/guenther-rendsburger-landstrasse/
 shop: Bäckerei
 ---

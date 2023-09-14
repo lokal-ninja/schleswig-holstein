@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /luebeck/euroshop/
+url: /luebeck/euroshop-kohlmarkt/
 shop: Kramladen
 ---

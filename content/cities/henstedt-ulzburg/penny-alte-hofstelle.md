@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /henstedt-ulzburg/penny/
+url: /henstedt-ulzburg/penny-alte-hofstelle/
 shop: Supermarkt
 ---

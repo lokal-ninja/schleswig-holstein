@@ -1,5 +1,5 @@
 ---
 title: "Sneakstar"
-url: /flensburg/sneakstar/
+url: /flensburg/sneakstar-langberger-weg/
 shop: Schuhe
 ---

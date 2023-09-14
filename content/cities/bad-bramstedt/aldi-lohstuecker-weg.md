@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /bad-bramstedt/aldi/
+url: /bad-bramstedt/aldi-lohstuecker-weg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leder Freytag"
-url: /flensburg/leder-freytag/
+url: /flensburg/leder-freytag-langberger-weg/
 shop: Leder
 ---

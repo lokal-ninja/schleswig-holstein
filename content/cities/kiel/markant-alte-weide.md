@@ -1,5 +1,5 @@
 ---
 title: "Markant"
-url: /kiel/markant/
+url: /kiel/markant-alte-weide/
 shop: Supermarkt
 ---

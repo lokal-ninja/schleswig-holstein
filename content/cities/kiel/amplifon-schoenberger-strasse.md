@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /kiel/amplifon/
+url: /kiel/amplifon-schoenberger-strasse/
 shop: Hörgeräte
 ---

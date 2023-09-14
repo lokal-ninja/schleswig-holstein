@@ -1,5 +1,5 @@
 ---
 title: "Edeka Hafenkante"
-url: /kappeln/edeka-hafenkante/
+url: /kappeln/edeka-hafenkante-hafenstrasse/
 shop: Bäckerei
 ---

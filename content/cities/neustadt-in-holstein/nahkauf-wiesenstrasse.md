@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /neustadt-in-holstein/nahkauf/
+url: /neustadt-in-holstein/nahkauf-wiesenstrasse/
 shop: Supermarkt
 ---

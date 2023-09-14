@@ -1,5 +1,5 @@
 ---
 title: "Thaysen"
-url: /flensburg/thaysen/
+url: /flensburg/thaysen-wasserlooser-weg/
 shop: Bäckerei
 ---

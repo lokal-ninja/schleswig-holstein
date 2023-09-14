@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /elmshorn/rossmann/
+url: /elmshorn/rossmann-hainholzer-damm/
 shop: Drogerie
 ---

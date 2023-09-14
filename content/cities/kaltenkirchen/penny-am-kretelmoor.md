@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /kaltenkirchen/penny/
+url: /kaltenkirchen/penny-am-kretelmoor/
 shop: Supermarkt
 ---

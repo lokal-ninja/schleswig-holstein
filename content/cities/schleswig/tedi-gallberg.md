@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /schleswig/tedi/
+url: /schleswig/tedi-gallberg/
 shop: Kramladen
 ---

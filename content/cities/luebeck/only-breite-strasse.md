@@ -1,5 +1,5 @@
 ---
 title: "ONLY"
-url: /luebeck/only/
+url: /luebeck/only-breite-strasse/
 shop: Kleidung
 ---

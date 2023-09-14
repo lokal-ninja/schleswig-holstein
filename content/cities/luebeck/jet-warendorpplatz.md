@@ -1,5 +1,5 @@
 ---
 title: "Jet"
-url: /luebeck/jet/
+url: /luebeck/jet-warendorpplatz/
 shop: Lebensmittel
 ---

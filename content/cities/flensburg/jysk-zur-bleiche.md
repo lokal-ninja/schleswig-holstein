@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /flensburg/jysk/
+url: /flensburg/jysk-zur-bleiche/
 shop: Möbel
 ---

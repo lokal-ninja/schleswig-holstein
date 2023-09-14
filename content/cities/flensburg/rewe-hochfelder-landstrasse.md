@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /flensburg/rewe/
+url: /flensburg/rewe-hochfelder-landstrasse/
 shop: Supermarkt
 ---

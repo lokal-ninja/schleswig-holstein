@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /bad-oldesloe/rewe/
+url: /bad-oldesloe/rewe-hamburger-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /norderstedt/budnikowsky/
+url: /norderstedt/budnikowsky-schmuggelstieg/
 shop: Drogerie
 ---

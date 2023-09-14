@@ -1,5 +1,5 @@
 ---
 title: "Famila"
-url: /rendsburg/famila/
+url: /rendsburg/famila-kreishafenstrasse/
 shop: Supermarkt
 ---

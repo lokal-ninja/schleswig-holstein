@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /rendsburg/rossmann/
+url: /rendsburg/rossmann-hohe-strasse/
 shop: Drogerie
 ---

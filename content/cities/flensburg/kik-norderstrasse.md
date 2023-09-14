@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /flensburg/kik/
+url: /flensburg/kik-norderstrasse/
 shop: Kleidung
 ---

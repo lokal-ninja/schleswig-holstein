@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /husum/edeka/
+url: /husum/edeka-ostenfelder-strasse/
 shop: Supermarkt
 ---

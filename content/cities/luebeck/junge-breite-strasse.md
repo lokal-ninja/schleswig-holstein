@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /luebeck/junge/
+url: /luebeck/junge-breite-strasse/
 shop: Bäckerei
 ---

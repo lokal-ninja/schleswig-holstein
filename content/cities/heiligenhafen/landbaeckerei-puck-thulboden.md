@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Puck"
-url: /heiligenhafen/landbaeckerei-puck/
+url: /heiligenhafen/landbaeckerei-puck-thulboden/
 shop: Bäckerei
 ---

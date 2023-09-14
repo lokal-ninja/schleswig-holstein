@@ -1,5 +1,5 @@
 ---
 title: "Kunterbunt"
-url: /laboe/kunterbunt/
+url: /laboe/kunterbunt-reventloustrasse/
 shop: Kleidung
 ---

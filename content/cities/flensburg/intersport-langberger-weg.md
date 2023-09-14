@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /flensburg/intersport/
+url: /flensburg/intersport-langberger-weg/
 shop: Sport
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heimathafen"
-url: /eckernfoerde/heimathafen/
+url: /eckernfoerde/heimathafen-frau-clara-strasse/
 shop: Kleidung
 ---

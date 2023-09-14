@@ -1,5 +1,5 @@
 ---
 title: "Wäger"
-url: /kiel/waeger/
+url: /kiel/waeger-langer-rehm/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /kiel/rossmann/
+url: /kiel/rossmann-bebelplatz/
 shop: Drogerie
 ---

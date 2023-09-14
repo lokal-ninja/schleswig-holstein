@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /oldenburg-in-holstein/rossmann/
+url: /oldenburg-in-holstein/rossmann-am-vossberg/
 shop: Drogerie
 ---

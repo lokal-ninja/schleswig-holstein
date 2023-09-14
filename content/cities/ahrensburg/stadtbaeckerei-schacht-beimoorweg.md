@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Schacht"
-url: /ahrensburg/stadtbaeckerei-schacht/
+url: /ahrensburg/stadtbaeckerei-schacht-beimoorweg/
 shop: Bäckerei
 ---

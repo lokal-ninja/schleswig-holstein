@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Ernst"
-url: /kiel/autohaus-ernst/
+url: /kiel/autohaus-ernst-bahnhofstrasse/
 shop: Autohaus
 ---

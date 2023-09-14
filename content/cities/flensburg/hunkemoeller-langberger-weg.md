@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /flensburg/hunkemoeller/
+url: /flensburg/hunkemoeller-langberger-weg/
 shop: Kleidung
 ---

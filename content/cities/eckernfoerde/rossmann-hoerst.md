@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /eckernfoerde/rossmann/
+url: /eckernfoerde/rossmann-hoerst/
 shop: Drogerie
 ---

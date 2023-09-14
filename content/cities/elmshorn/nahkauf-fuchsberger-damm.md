@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /elmshorn/nahkauf/
+url: /elmshorn/nahkauf-fuchsberger-damm/
 shop: Supermarkt
 ---

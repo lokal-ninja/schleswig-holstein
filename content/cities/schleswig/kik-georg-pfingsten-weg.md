@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /schleswig/kik/
+url: /schleswig/kik-georg-pfingsten-weg/
 shop: Kleidung
 ---

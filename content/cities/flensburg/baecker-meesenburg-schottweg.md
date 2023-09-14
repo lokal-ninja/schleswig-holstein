@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Meesenburg"
-url: /flensburg/baecker-meesenburg/
+url: /flensburg/baecker-meesenburg-schottweg/
 shop: Bäckerei
 ---

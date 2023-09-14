@@ -1,5 +1,5 @@
 ---
 title: "Klosterbäckerei"
-url: /flensburg/klosterbaeckerei/
+url: /flensburg/klosterbaeckerei-taruper-hauptstrasse/
 shop: Bäckerei
 ---

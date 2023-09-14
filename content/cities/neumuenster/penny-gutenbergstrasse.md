@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /neumuenster/penny/
+url: /neumuenster/penny-gutenbergstrasse/
 shop: Supermarkt
 ---

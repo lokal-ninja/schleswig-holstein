@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /flensburg/depot/
+url: /flensburg/depot-langberger-weg/
 shop: Raumausstattung
 ---

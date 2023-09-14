@@ -1,5 +1,5 @@
 ---
 title: "veloCenter"
-url: /kiel/velocenter/
+url: /kiel/velocenter-eichkamp/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
-url: /flensburg/snipes/
+url: /flensburg/snipes-nikolaistrasse/
 shop: Schuhe
 ---

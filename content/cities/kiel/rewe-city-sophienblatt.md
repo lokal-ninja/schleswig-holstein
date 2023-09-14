@@ -1,5 +1,5 @@
 ---
 title: "REWE City"
-url: /kiel/rewe-city/
+url: /kiel/rewe-city-sophienblatt/
 shop: Supermarkt
 ---

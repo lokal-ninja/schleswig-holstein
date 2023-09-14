@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /luebeck/hunkemoeller/
+url: /luebeck/hunkemoeller-herrenholz/
 shop: Kleidung
 ---

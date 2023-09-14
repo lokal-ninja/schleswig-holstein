@@ -1,5 +1,5 @@
 ---
 title: "Brede"
-url: /ratekau/brede/
+url: /ratekau/brede-eutiner-strasse/
 shop: Bäckerei
 ---

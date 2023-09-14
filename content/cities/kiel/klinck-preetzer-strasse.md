@@ -1,5 +1,5 @@
 ---
 title: "Klinck"
-url: /kiel/klinck/
+url: /kiel/klinck-preetzer-strasse/
 shop: Friseur
 ---

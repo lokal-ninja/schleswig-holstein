@@ -1,5 +1,5 @@
 ---
 title: "Knutzen"
-url: /kiel/knutzen/
+url: /kiel/knutzen-bahnhofstrasse/
 shop: Möbel
 ---

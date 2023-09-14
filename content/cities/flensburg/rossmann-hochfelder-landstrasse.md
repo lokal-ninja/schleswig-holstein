@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /flensburg/rossmann/
+url: /flensburg/rossmann-hochfelder-landstrasse/
 shop: Drogerie
 ---

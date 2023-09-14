@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /luebeck/woolworth/
+url: /luebeck/woolworth-ziegelstrasse/
 shop: Warenhaus
 ---

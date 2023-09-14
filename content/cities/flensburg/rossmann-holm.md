@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /flensburg/rossmann/
+url: /flensburg/rossmann-holm/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmann"
-url: /flensburg/hallmann/
+url: /flensburg/hallmann-ochsenweg/
 shop: Optiker
 ---

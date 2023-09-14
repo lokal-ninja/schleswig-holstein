@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /luebeck/bauhaus/
+url: /luebeck/bauhaus-bei-der-lohmuehle/
 shop: Baumarkt
 ---

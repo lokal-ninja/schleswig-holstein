@@ -1,5 +1,5 @@
 ---
 title: "Schnittstelle"
-url: /eutin/schnittstelle/
+url: /eutin/schnittstelle-am-rosengarten/
 shop: Friseur
 ---

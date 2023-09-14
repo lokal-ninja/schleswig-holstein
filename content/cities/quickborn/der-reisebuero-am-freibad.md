@@ -1,5 +1,5 @@
 ---
 title: "DER Reisebüro"
-url: /quickborn/der-reisebuero/
+url: /quickborn/der-reisebuero-am-freibad/
 shop: Reisebüro
 ---

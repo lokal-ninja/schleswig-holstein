@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /ahrensburg/budnikowsky/
+url: /ahrensburg/budnikowsky-hamburger-strasse/
 shop: Drogerie
 ---

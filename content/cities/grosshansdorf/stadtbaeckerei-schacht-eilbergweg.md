@@ -1,5 +1,5 @@
 ---
 title: "Stadtbäckerei Schacht"
-url: /grosshansdorf/stadtbaeckerei-schacht/
+url: /grosshansdorf/stadtbaeckerei-schacht-eilbergweg/
 shop: Bäckerei
 ---

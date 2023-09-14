@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /eutin/lidl/
+url: /eutin/lidl-ploener-strasse/
 shop: Supermarkt
 ---

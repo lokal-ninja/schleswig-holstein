@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /norderstedt/penny/
+url: /norderstedt/penny-marktplatz/
 shop: Supermarkt
 ---

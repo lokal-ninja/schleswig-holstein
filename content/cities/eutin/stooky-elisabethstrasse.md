@@ -1,5 +1,5 @@
 ---
 title: "Stooky"
-url: /eutin/stooky/
+url: /eutin/stooky-elisabethstrasse/
 shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brede"
-url: /scharbeutz/brede/
+url: /scharbeutz/brede-bahnhofstrasse/
 shop: Bäckerei
 ---

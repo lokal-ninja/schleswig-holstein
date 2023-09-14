@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /schenefeld/aldi/
+url: /schenefeld/aldi-friedrich-ebert-allee/
 shop: Supermarkt
 ---

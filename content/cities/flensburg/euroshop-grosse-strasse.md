@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /flensburg/euroshop/
+url: /flensburg/euroshop-grosse-strasse/
 shop: Kramladen
 ---

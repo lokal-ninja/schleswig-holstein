@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /flensburg/apollo-optik/
+url: /flensburg/apollo-optik-langberger-weg/
 shop: Optiker
 ---

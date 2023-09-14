@@ -1,5 +1,5 @@
 ---
 title: "Tange"
-url: /kappeln/tange/
+url: /kappeln/tange-poststrasse/
 shop: Bäckerei
 ---

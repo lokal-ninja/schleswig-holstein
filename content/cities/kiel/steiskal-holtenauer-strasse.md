@@ -1,5 +1,5 @@
 ---
 title: "Steiskal"
-url: /kiel/steiskal/
+url: /kiel/steiskal-holtenauer-strasse/
 shop: Bäckerei
 ---

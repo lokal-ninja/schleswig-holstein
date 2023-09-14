@@ -1,5 +1,5 @@
 ---
 title: "Kaufmann"
-url: /helgoland/kaufmann/
+url: /helgoland/kaufmann-bremer-strasse/
 shop: Schmuck
 ---

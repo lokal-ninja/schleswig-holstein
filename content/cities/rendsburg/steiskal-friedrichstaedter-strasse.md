@@ -1,5 +1,5 @@
 ---
 title: "Steiskal"
-url: /rendsburg/steiskal/
+url: /rendsburg/steiskal-friedrichstaedter-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohls"
-url: /neumuenster/kohls/
+url: /neumuenster/kohls-muehlenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /flensburg/douglas/
+url: /flensburg/douglas-langberger-weg/
 shop: Parfümerie
 ---
