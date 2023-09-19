@@ -1,6 +1,6 @@
 ---
 title: Freienwill
 url: /freienwill/
-latitude: 54.727
-longitude: 9.493
+latitude: 54.729
+longitude: 9.489
 ---
