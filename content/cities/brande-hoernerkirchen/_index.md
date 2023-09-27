@@ -1,6 +1,6 @@
 ---
 title: Brande-Hörnerkirchen
 url: /brande-hoernerkirchen/
-latitude: 53.853
-longitude: 9.7
+latitude: 53.855
+longitude: 9.703
 ---
