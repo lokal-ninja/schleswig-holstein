@@ -1,5 +1,5 @@
 ---
 title: "Mühlen Bäcker"
-url: /meldorf/muehlen-baecker/
+url: /buesum/muehlen-baecker/
 shop: Bäckerei
 ---
