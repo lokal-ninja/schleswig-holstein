@@ -1,6 +1,6 @@
 ---
 title: Reinbek
 url: /reinbek/
-latitude: 53.528
-longitude: 10.252
+latitude: 53.518
+longitude: 10.25
 ---

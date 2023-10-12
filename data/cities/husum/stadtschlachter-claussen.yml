@@ -7,5 +7,5 @@ city: Husum
 street: "Markt"
 housenumber: 20
 phone: ""
-opening_hours: "Mo-We 09:00-18:00; Th 08:30-18:00; Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: "Tu,We 09:00-18:00; Th 08:30-18:00; Fr 09:00-18:00; Sa 09:00-16:00"
 website: "https://www.stadtschlachter.de/"
