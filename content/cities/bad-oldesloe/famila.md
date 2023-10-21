@@ -1,5 +1,5 @@
 ---
-title: "Famila"
+title: "famila"
 url: /bad-oldesloe/famila/
 shop: Supermarkt
 ---
