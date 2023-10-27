@@ -1,6 +1,6 @@
 ---
 title: Tespe
 url: /tespe/
-latitude: 53.408
-longitude: 10.4
+latitude: 53.406
+longitude: 10.406
 ---
