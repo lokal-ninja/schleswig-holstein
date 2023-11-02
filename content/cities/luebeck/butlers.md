@@ -1,5 +1,5 @@
 ---
-title: "BUTLERS"
+title: "Butlers"
 url: /luebeck/butlers/
-shop: Möbel
+shop: Raumausstattung
 ---
