@@ -1,5 +1,5 @@
 ---
 title: "Das Futterhaus"
 url: /ammersbek/das-futterhaus/
-shop: Supermarkt
+shop: Tiere
 ---
