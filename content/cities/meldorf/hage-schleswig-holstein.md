@@ -1,5 +1,5 @@
 ---
 title: "HaGe Schleswig-Holstein"
 url: /meldorf/hage-schleswig-holstein/
-shop: Baustoffe
+shop: Landwirtschaftlich
 ---

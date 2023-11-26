@@ -1,5 +1,5 @@
 ---
 title: "Segelkiste"
 url: /kiel/segelkiste/
-shop: Allgemein
+shop: Schiffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Futtersaloon"
 url: /ahrensboek/futtersaloon/
-shop: Tierfutter
+shop: Tiere
 ---
