@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /heide/netto-marken-discount-husumer-strasse/
+url: /kiel/netto-marken-discount-preetzer-chaussee/
 shop: Supermarkt
 ---

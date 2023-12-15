@@ -1,5 +1,5 @@
 ---
 title: "Petit Bistro"
-url: /bark/petit-bistro/
+url: /bockhorn/petit-bistro/
 shop: Lebensmittel
 ---
