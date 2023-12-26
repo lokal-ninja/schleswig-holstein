@@ -1,5 +1,5 @@
 ---
 title: "Fleggaard"
 url: /heiligenhafen/fleggaard/
-shop: Getränke
+shop: Supermarkt
 ---

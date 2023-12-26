@@ -1,5 +1,5 @@
 ---
 title: "Reformhaus Engelhardt"
 url: /elmshorn/reformhaus-engelhardt/
-shop: Supermarkt
+shop: Bioladen
 ---
