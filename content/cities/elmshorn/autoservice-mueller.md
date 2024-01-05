@@ -1,5 +1,5 @@
 ---
-title: "Autoservice Müller"
+title: "Autoservice Mueller"
 url: /elmshorn/autoservice-mueller/
 shop: Autowerkstatt
 ---
