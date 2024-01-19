@@ -1,5 +1,5 @@
 ---
 title: "Brotgarten"
-url: /kiel/brotgarten-hamburger-chaussee/
+url: /kiel/brotgarten-exerzierplatz/
 shop: Bäckerei
 ---
