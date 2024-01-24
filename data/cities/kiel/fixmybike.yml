@@ -7,5 +7,5 @@ city: Kiel
 street: "Iltisstraße"
 housenumber: 9
 phone: "+49 431 77548441"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: "Mo,Tu,Th,Fr 10:00-14:00,15:00-19:00"
 website: "https://fixmybike.org/"

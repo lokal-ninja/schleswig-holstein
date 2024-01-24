@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /fehmarn/aldi-nord-ehlerskamp/
+url: /moelln/aldi-nord-grambeker-weg/
 shop: Supermarkt
 ---

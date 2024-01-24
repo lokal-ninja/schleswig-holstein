@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /norderstedt/penny-mittelstrasse/
+url: /neustadt-in-holstein/penny/
 shop: Supermarkt
 ---
