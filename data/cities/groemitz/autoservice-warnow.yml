@@ -1,11 +1,11 @@
-id: 2358737957
-type: node
-latitude: 54.15232
-longitude: 10.95268
+id: 949620558
+type: way
+latitude: 54.15174
+longitude: 10.94167
 postcode: "23743"
 city: Grömitz
-street: "Neustädter Straße"
-housenumber: 25
-phone: ""
-opening_hours: ""
-website: ""
+street: "Körnickerfeld"
+housenumber: 27
+phone: "+49 4562 9908"
+opening_hours: "Mo-Do 07:30-17:00; Fr: 07:30-15:00"
+website: "https://www.autoservice-warnow.de"

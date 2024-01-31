@@ -1,5 +1,5 @@
 ---
 title: "Projekt Vielfalt"
 url: /jersbek/projekt-vielfalt/
-shop: Lebensmittel
+shop: Gemüse & Obst
 ---
