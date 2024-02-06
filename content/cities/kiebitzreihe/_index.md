@@ -1,6 +1,6 @@
 ---
 title: Kiebitzreihe
 url: /kiebitzreihe/
-latitude: 53.782
-longitude: 9.622
+latitude: 53.78
+longitude: 9.62
 ---
