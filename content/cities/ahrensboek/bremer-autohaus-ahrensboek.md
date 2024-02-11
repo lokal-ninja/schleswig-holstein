@@ -1,5 +1,5 @@
 ---
 title: "Bremer Autohaus Ahrensbök"
 url: /ahrensboek/bremer-autohaus-ahrensboek/
-shop: Autowerkstatt
+shop: Autohaus
 ---
