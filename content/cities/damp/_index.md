@@ -1,6 +1,6 @@
 ---
 title: Damp
 url: /damp/
-latitude: 54.571
-longitude: 9.956
+latitude: 54.582
+longitude: 10.022
 ---
