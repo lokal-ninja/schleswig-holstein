@@ -1,5 +1,5 @@
 ---
-title: "COSMO"
+title: "Cosmo"
 url: /flensburg/cosmo/
-shop: Friseur
+shop: Friseurbedarf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /luebeck/rossmann-ziegelstrasse-2/
+url: /luebeck/rossmann-kantstrasse/
 shop: Drogerie
 ---
