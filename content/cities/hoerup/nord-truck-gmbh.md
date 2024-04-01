@@ -1,5 +1,5 @@
 ---
-title: "NORD-TRUCK GmbH"
+title: "Nord-Truck GmbH"
 url: /hoerup/nord-truck-gmbh/
 shop: Reifen
 ---
