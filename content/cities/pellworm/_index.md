@@ -1,6 +1,6 @@
 ---
 title: Pellworm
 url: /pellworm/
-latitude: 54.534
-longitude: 8.66
+latitude: 54.505
+longitude: 8.645
 ---
