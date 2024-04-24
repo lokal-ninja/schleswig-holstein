@@ -7,5 +7,5 @@ city: Nordhastedt
 street: "Hauptstraße"
 housenumber: 24a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-20:00;Su,PH closed"
+website: "http://www.edeka.de/eh/nord/edeka-bill-hauptstra%C3%9Fe-24a/index.jsp"

@@ -7,5 +7,5 @@ city: Brunsbüttel
 street: "Koogstraße"
 housenumber: 48
 phone: "+49 4852 9193"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
+opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00;Su,PH off"
 website: "https://www.nette-schuhe.de/"
