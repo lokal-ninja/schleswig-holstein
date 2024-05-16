@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /silberstedt/aldi/
+url: /schafflund/aldi/
 shop: Supermarkt
 ---
