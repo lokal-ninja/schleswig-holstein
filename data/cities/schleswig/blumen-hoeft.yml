@@ -1,11 +1,11 @@
-id: 95016950
-type: way
-latitude: 54.49978
-longitude: 9.54799
+id: 11910653388
+type: node
+latitude: 54.49983
+longitude: 9.54794
 postcode: "24837"
 city: Schleswig
 street: "Busdorfer Straße"
 housenumber: 5
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 4621 32470"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30; Su,PH off"
+website: "https://www.blumen-hoeft.de/"
