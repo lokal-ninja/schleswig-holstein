@@ -1,5 +1,5 @@
 ---
 title: "Amrumer Autodienst"
-url: /nebel-sueddorf/amrumer-autodienst/
+url: /nebel/amrumer-autodienst/
 shop: Autowerkstatt
 ---
