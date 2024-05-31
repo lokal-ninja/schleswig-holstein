@@ -1,6 +1,6 @@
 ---
 title: Schleswig
 url: /schleswig/
-latitude: 54.519
-longitude: 9.52
+latitude: 54.532
+longitude: 9.575
 ---
