@@ -7,5 +7,5 @@ city: Kiel
 street: ""
 housenumber: 
 phone: ""
-opening_hours: "Tu-Fr 08:00-17:30; Sa 08:00-12:00"
+opening_hours: "Tu,We 08:00-17:30; Sa 08:00-12:00; Th,Fr 09:00-17:30"
 website: ""
