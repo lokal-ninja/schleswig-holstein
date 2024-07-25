@@ -1,6 +1,6 @@
 ---
 title: Braderup
 url: /braderup/
-latitude: 54.837
-longitude: 8.891
+latitude: 54.836
+longitude: 8.89
 ---
