@@ -1,6 +1,6 @@
 ---
 title: Hasselberg
 url: /hasselberg/
-latitude: 54.715
-longitude: 9.951
+latitude: 54.712
+longitude: 9.936
 ---

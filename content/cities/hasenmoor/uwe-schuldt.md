@@ -1,5 +1,5 @@
 ---
 title: "Uwe Schuldt"
-url: /fuhlenruee/uwe-schuldt/
+url: /hasenmoor/uwe-schuldt/
 shop: Autohaus
 ---

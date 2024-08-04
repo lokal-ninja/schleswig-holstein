@@ -1,6 +1,6 @@
 ---
 title: Stoltebüll
 url: /stoltebuell/
-latitude: 54.691
-longitude: 9.827
+latitude: 54.698
+longitude: 9.851
 ---

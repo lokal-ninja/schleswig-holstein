@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /fehmarn/aldi-ehlerskamp/
+url: /luebeck/aldi-grootkoppel/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /husum/aldi-nord-nordhusumer-strasse/
+url: /moelln/aldi-nord-grambeker-weg/
 shop: Supermarkt
 ---
