@@ -1,6 +1,6 @@
 ---
 title: Utersum
 url: /utersum/
-latitude: 54.715
-longitude: 8.406
+latitude: 54.713
+longitude: 8.407
 ---
