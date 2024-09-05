@@ -1,5 +1,5 @@
 ---
 title: "Brandenburg Friseure"
-url: /niendorf/brandenburg-friseure/
+url: /timmendorfer-strand/brandenburg-friseure/
 shop: Friseur
 ---

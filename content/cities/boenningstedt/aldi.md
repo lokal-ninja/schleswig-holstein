@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /boenningstedt/aldi/
 shop: Supermarkt
 ---

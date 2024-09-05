@@ -1,5 +1,5 @@
 ---
 title: "La Sala Mode"
-url: /travemuende/la-sala-mode/
+url: /luebeck/la-sala-mode/
 shop: Kleidung
 ---

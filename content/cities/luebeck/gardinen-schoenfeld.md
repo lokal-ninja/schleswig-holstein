@@ -1,5 +1,5 @@
 ---
 title: "Gardinen Schoenfeld"
-url: /luebecl/gardinen-schoenfeld/
+url: /luebeck/gardinen-schoenfeld/
 shop: Gardinen
 ---

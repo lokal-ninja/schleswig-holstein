@@ -1,5 +1,5 @@
 ---
 title: "Haferkorn"
-url: /travemuende/haferkorn/
+url: /luebeck/haferkorn/
 shop: Supermarkt
 ---
