@@ -4,8 +4,8 @@ latitude: 54.7892
 longitude: 9.4328
 postcode: "24937"
 city: Flensburg
-street: "Schiffbrückstraße"
-housenumber: 2
-phone: "+49 461 1604111"
-opening_hours: "Sa 10:00-16:00; PH,Su off; Mo-Fr 10:00-17:00"
+street: Schiffbrückstraße
+housenumber: "2"
+phone: +49 461 1604111
+opening_hours: Sa 10:00-16:00; PH,Su off; Mo-Fr 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 675130279
-type: way
+type: node
 latitude: 54.50706
 longitude: 9.0066
 postcode: "25813"
 city: Husum
-street: "Nordseestraße"
-housenumber: 31
-phone: "+49 4841 3546"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
+street: Nordseestraße
+housenumber: "31"
+phone: +49 4841 3546
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
 website: ""

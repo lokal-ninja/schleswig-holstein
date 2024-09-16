@@ -1,11 +1,11 @@
 id: 203799149
-type: way
+type: node
 latitude: 54.07622
 longitude: 10.22737
 postcode: "24619"
 city: Bornhöved
-street: "Kieler Tor"
-housenumber: 42
+street: Kieler Tor
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

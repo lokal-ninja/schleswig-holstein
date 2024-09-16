@@ -4,8 +4,8 @@ latitude: 53.9589
 longitude: 10.8732
 postcode: ""
 city: Lübeck
-street: "Vorderreihe"
-housenumber: 61
+street: Vorderreihe
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.info-travemuende.de/einkaufen/#Mode"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.info-travemuende.de/einkaufen/#Mode

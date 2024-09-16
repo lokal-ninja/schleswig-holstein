@@ -1,11 +1,11 @@
 id: 189282837
-type: way
+type: node
 latitude: 54.27588
 longitude: 9.65784
 postcode: "24784"
 city: Westerrönfeld
-street: "Am Busbahnhof"
-housenumber: 28
+street: Am Busbahnhof
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

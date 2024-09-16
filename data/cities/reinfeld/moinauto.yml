@@ -1,11 +1,11 @@
 id: 591161724
-type: way
+type: node
 latitude: 53.82268
 longitude: 10.50026
 postcode: "23858"
 city: Reinfeld
-street: "Barnitzer Straße"
-housenumber: 12
+street: Barnitzer Straße
+housenumber: "12"
 phone: "+4945332086867"
 opening_hours: ""
 website: ""

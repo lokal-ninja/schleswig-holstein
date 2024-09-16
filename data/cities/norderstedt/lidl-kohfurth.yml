@@ -1,11 +1,11 @@
 id: 51730595
-type: way
+type: node
 latitude: 53.6877
 longitude: 9.9829
 postcode: "22850"
 city: Norderstedt
-street: "Kohfurth"
-housenumber: 5
+street: Kohfurth
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/norderstedt/kohfurth-5.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/filialen/norderstedt/kohfurth-5.html

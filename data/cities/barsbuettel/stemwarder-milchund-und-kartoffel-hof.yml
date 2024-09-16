@@ -1,11 +1,11 @@
 id: 114447900
-type: way
+type: node
 latitude: 53.56902
 longitude: 10.24176
 postcode: "22885"
 city: Barsbüttel
-street: "Dorfstraße"
-housenumber: 3
+street: Dorfstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

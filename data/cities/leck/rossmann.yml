@@ -1,11 +1,11 @@
 id: 30485026
-type: way
+type: node
 latitude: 54.77306
 longitude: 8.96992
 postcode: "25917"
 city: Leck
-street: "Hauptstraße"
-housenumber: 34
-phone: "+49 4662 3728"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su off; PH off"
-website: "https://www.rossmann.de"
+street: Hauptstraße
+housenumber: "34"
+phone: +49 4662 3728
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su off; PH off
+website: https://www.rossmann.de

@@ -1,11 +1,11 @@
 id: 26683100
-type: way
+type: node
 latitude: 53.65272
 longitude: 10.18687
 postcode: "22359"
 city: Hamburg
-street: "Buchenkamp"
-housenumber: 94
+street: Buchenkamp
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

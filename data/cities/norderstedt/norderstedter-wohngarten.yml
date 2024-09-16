@@ -1,11 +1,11 @@
 id: 309790556
-type: way
+type: node
 latitude: 53.66718
 longitude: 9.98966
 postcode: "22848"
 city: Norderstedt
-street: "Rugenbarg"
-housenumber: 69
-phone: "+49 40 94368068"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://norderstedter-wohngarten.de/"
+street: Rugenbarg
+housenumber: "69"
+phone: +49 40 94368068
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://norderstedter-wohngarten.de/

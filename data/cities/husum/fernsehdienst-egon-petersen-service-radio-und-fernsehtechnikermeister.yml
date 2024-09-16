@@ -1,11 +1,11 @@
 id: 115733385
-type: way
+type: node
 latitude: 54.49356
 longitude: 9.08632
 postcode: "25813"
 city: Husum
-street: "Am Messeplatz"
-housenumber: 2
+street: Am Messeplatz
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

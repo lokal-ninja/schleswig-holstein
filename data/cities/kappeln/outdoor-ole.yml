@@ -1,11 +1,11 @@
 id: 247756561
-type: way
+type: node
 latitude: 54.65972
 longitude: 9.93377
 postcode: "24376"
 city: Kappeln
-street: "Am Hafen"
-housenumber: 1
-phone: "+494642 9213370"
-opening_hours: "Mo-Sa 10:00-18:00; PH,Su off"
-website: "https://www.outdoorole.com/unsere-filialen/kappeln-1/"
+street: Am Hafen
+housenumber: "1"
+phone: +494642 9213370
+opening_hours: Mo-Sa 10:00-18:00; PH,Su off
+website: https://www.outdoorole.com/unsere-filialen/kappeln-1/

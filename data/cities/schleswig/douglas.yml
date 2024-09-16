@@ -4,8 +4,8 @@ latitude: 54.51656
 longitude: 9.56444
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 25
-phone: "+49 4621 21923"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off"
+street: Stadtweg
+housenumber: "25"
+phone: +49 4621 21923
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00; PH,Su off
 website: ""

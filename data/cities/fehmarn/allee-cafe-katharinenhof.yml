@@ -4,8 +4,8 @@ latitude: 54.43384
 longitude: 11.27106
 postcode: "23769"
 city: Fehmarn
-street: "Katharinenhof"
-housenumber: 3
-phone: "+49 4371 503838"
-opening_hours: "Mo-Fr 11:00+; Sa,Su 08:30+"
-website: "https://www.alleecafe-katharinenhof.de/"
+street: Katharinenhof
+housenumber: "3"
+phone: +49 4371 503838
+opening_hours: Mo-Fr 11:00+; Sa,Su 08:30+
+website: https://www.alleecafe-katharinenhof.de/

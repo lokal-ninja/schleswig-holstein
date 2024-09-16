@@ -1,11 +1,11 @@
 id: 135968567
-type: way
+type: node
 latitude: 54.308
 longitude: 10.13975
 postcode: "24143"
 city: Kiel
-street: "Werftstraße"
-housenumber: 247
+street: Werftstraße
+housenumber: "247"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:00"
+opening_hours: Mo-Sa 07:00-23:00
 website: ""

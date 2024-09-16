@@ -4,8 +4,8 @@ latitude: 54.90626
 longitude: 8.31477
 postcode: "25980"
 city: Sylt
-street: "Rosenweg"
-housenumber: 1
+street: Rosenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-14:00; Su off"
-website: "https://www.sylter-teeparadies.de/"
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-14:00; Su off
+website: https://www.sylter-teeparadies.de/

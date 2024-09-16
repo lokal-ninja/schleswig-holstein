@@ -1,11 +1,11 @@
 id: 233364090
-type: way
+type: node
 latitude: 54.37009
 longitude: 10.49625
 postcode: "24257"
 city: Hohenfelde
-street: "Dorfstraße"
-housenumber: 28
-phone: "+49 4385 5930075"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:00; Su 07:30-12:00"
-website: "https://markttreff-sh.de/de/markttreff-hohenfelde"
+street: Dorfstraße
+housenumber: "28"
+phone: +49 4385 5930075
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-16:00; Su 07:30-12:00
+website: https://markttreff-sh.de/de/markttreff-hohenfelde

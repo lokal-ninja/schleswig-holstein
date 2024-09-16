@@ -1,11 +1,11 @@
 id: 427654581
-type: way
+type: node
 latitude: 54.3061
 longitude: 8.64897
 postcode: "25826"
 city: Sankt Peter-Ording
-street: "Bövergeest"
+street: Bövergeest
 housenumber: 71a
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.st-peter-ording.de/gastro/raeucherscheune"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.st-peter-ording.de/gastro/raeucherscheune

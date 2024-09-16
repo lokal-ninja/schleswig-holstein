@@ -4,8 +4,8 @@ latitude: 53.75392
 longitude: 9.65296
 postcode: "25335"
 city: Elmshorn
-street: "Kirchenstraße"
-housenumber: 4
-phone: "+49 4121 7890641"
-opening_hours: "Mo,Fr 9:00-12:00,14:00-18:00; We 9:00-18:00; Sa 9:00-14:00"
-website: "https://www.simpelunverpacktelmshorn.de"
+street: Kirchenstraße
+housenumber: "4"
+phone: +49 4121 7890641
+opening_hours: Mo,Fr 9:00-12:00,14:00-18:00; We 9:00-18:00; Sa 9:00-14:00
+website: https://www.simpelunverpacktelmshorn.de

@@ -4,8 +4,8 @@ latitude: 53.966
 longitude: 10.8198
 postcode: "23626"
 city: Ratekau
-street: "Fuchsbergstraße"
-housenumber: 4
-phone: "+49 4502 888432"
-opening_hours: "Mo-Su 08:00-19:00"
-website: "https://karls.de/warnsdorf/"
+street: Fuchsbergstraße
+housenumber: "4"
+phone: +49 4502 888432
+opening_hours: Mo-Su 08:00-19:00
+website: https://karls.de/warnsdorf/

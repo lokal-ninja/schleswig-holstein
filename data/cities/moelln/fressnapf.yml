@@ -1,11 +1,11 @@
 id: 745476907
-type: way
+type: node
 latitude: 53.61613
 longitude: 10.67883
 postcode: "23879"
 city: Mölln
-street: "Grambeker Weg"
-housenumber: 77
+street: Grambeker Weg
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

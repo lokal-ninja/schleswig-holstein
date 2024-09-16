@@ -1,11 +1,11 @@
 id: 143684644
-type: way
+type: node
 latitude: 53.92972
 longitude: 9.49732
 postcode: "25524"
 city: Itzehoe
-street: "Brückenstraße"
+street: Brückenstraße
 housenumber: 56a
-phone: "+49 4821 4083247"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:30-12:30"
-website: "https://www.kuechenstudio-boege.de/"
+phone: +49 4821 4083247
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:00; Sa 09:30-12:30
+website: https://www.kuechenstudio-boege.de/

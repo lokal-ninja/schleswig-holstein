@@ -1,11 +1,11 @@
 id: 59491253
-type: way
+type: node
 latitude: 54.80886
 longitude: 9.50976
 postcode: "24999"
 city: Wees
-street: "Birkland"
-housenumber: 5
-phone: "+49 4631 40980"
-opening_hours: "Mo-Sa 06:00-13:00; Su 07:30-11:00"
+street: Birkland
+housenumber: "5"
+phone: +49 4631 40980
+opening_hours: Mo-Sa 06:00-13:00; Su 07:30-11:00
 website: ""

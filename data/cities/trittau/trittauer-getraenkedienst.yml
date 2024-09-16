@@ -1,11 +1,11 @@
 id: 790674129
-type: way
+type: node
 latitude: 53.60497
 longitude: 10.40639
 postcode: "22946"
 city: Trittau
-street: "Herrenruhmweg"
-housenumber: 31
+street: Herrenruhmweg
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://mertinkat-getraenke.de/"
+website: https://mertinkat-getraenke.de/

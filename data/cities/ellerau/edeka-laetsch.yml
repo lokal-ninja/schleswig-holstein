@@ -1,11 +1,11 @@
 id: 25257545
-type: way
+type: node
 latitude: 53.75038
 longitude: 9.9176
 postcode: "25479"
 city: Ellerau
-street: "Berliner Damm"
-housenumber: 7
-phone: "+49 4106 809365"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/nord/edeka-l%C3%A4tsch-berliner-damm-3-11/index.jsp"
+street: Berliner Damm
+housenumber: "7"
+phone: +49 4106 809365
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/nord/edeka-l%C3%A4tsch-berliner-damm-3-11/index.jsp

@@ -4,8 +4,8 @@ latitude: 54.07105
 longitude: 9.67169
 postcode: "24594"
 city: Grauel
-street: "Dorfstraße"
-housenumber: 12
+street: Dorfstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "https://dornecker.bike/"
+opening_hours: Mo-Fr 14:00-18:00
+website: https://dornecker.bike/

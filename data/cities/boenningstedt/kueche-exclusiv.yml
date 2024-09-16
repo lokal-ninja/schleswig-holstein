@@ -4,8 +4,8 @@ latitude: 53.65551
 longitude: 9.90773
 postcode: "25474"
 city: Bönningstedt
-street: "Kieler Straße"
-housenumber: 32
-phone: "+49 40 5560330"
-opening_hours: "nach Vereinbarung"
-website: "https://www.kueche-exclusiv.de"
+street: Kieler Straße
+housenumber: "32"
+phone: +49 40 5560330
+opening_hours: '"nach Vereinbarung"'
+website: https://www.kueche-exclusiv.de

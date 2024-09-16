@@ -4,8 +4,8 @@ latitude: 53.89814
 longitude: 9.12557
 postcode: "25541"
 city: Brunsbüttel
-street: "Röntgenstraße"
-housenumber: 3
+street: Röntgenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
-website: "https://reifen-auto-service.de/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
+website: https://reifen-auto-service.de/

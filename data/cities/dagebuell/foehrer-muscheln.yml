@@ -1,11 +1,11 @@
 id: 187433101
-type: way
+type: node
 latitude: 54.73827
 longitude: 8.71688
 postcode: "25899"
 city: Dagebüll
-street: "Deichwanderweg"
-housenumber: 6
-phone: "+49 4667 94040"
+street: Deichwanderweg
+housenumber: "6"
+phone: +49 4667 94040
 opening_hours: ""
-website: "http://www.foehrermuscheln.de"
+website: http://www.foehrermuscheln.de

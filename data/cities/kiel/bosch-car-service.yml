@@ -1,11 +1,11 @@
 id: 93520000
-type: way
+type: node
 latitude: 54.29738
 longitude: 10.16855
 postcode: "24147"
 city: Kiel
-street: "Preetzer Straße"
-housenumber: 304
+street: Preetzer Straße
+housenumber: "304"
 phone: ""
 opening_hours: ""
-website: "https://paulus-kiel.de/"
+website: https://paulus-kiel.de/

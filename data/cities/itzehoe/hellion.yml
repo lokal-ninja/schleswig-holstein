@@ -1,11 +1,11 @@
 id: 165344833
-type: way
+type: node
 latitude: 53.92321
 longitude: 9.51965
 postcode: "25524"
 city: Itzehoe
-street: "Sandberg"
-housenumber: 13
-phone: "+49 4821 3682"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.hellionrecords.de/"
+street: Sandberg
+housenumber: "13"
+phone: +49 4821 3682
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.hellionrecords.de/

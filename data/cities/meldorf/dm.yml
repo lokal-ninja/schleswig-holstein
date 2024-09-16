@@ -1,11 +1,11 @@
 id: 772457312
-type: way
+type: node
 latitude: 54.09741
 longitude: 9.06455
 postcode: "25704"
 city: Meldorf
-street: "Altentreptower Straße"
+street: Altentreptower Straße
 housenumber: 2a
-phone: "+49 4832 9859070"
-opening_hours: "Mo-Sa 07:00-20:00;PH off"
-website: "https://www.dm.de/store/de-2917/meldorf/altentreptower-str-2a"
+phone: +49 4832 9859070
+opening_hours: Mo-Sa 07:00-20:00;PH off
+website: https://www.dm.de/store/de-2917/meldorf/altentreptower-str-2a

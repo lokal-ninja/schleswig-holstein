@@ -4,8 +4,8 @@ latitude: 54.91117
 longitude: 8.30487
 postcode: "25980"
 city: Sylt
-street: "Norderstraße"
-housenumber: 19
+street: Norderstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-21:00"
-website: "http://www.sonnenstudio-sylt.de/"
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-21:00
+website: http://www.sonnenstudio-sylt.de/

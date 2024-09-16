@@ -1,11 +1,11 @@
 id: 87616820
-type: way
+type: node
 latitude: 54.69232
 longitude: 9.59608
 postcode: "24986"
 city: Mittelangeln
-street: "Hans-Redlefsen-Straße"
-housenumber: 4
+street: Hans-Redlefsen-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:30-10:30"
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00; Su 07:30-10:30
 website: ""

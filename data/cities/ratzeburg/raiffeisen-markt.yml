@@ -1,11 +1,11 @@
 id: 91733279
-type: way
+type: node
 latitude: 53.69112
 longitude: 10.80179
 postcode: "23909"
 city: Ratzeburg
-street: "Schweriner Straße"
-housenumber: 86
+street: Schweriner Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-14:00"
-website: "https://www.raiffeisenmarkt.de/de/standorte/standort/4295029235/Raiffeisen-Markt_Ratzeburg"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-14:00
+website: https://www.raiffeisenmarkt.de/de/standorte/standort/4295029235/Raiffeisen-Markt_Ratzeburg

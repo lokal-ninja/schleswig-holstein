@@ -1,11 +1,11 @@
 id: 158198339
-type: way
+type: node
 latitude: 53.94647
 longitude: 9.49451
 postcode: "25524"
 city: Itzehoe
-street: "Edendorfer Straße"
-housenumber: 200
+street: Edendorfer Straße
+housenumber: "200"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 233138514
-type: way
+type: node
 latitude: 53.81309
 longitude: 9.61436
 postcode: "25358"
 city: Horst
-street: "Schulstraße"
-housenumber: 17
+street: Schulstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo,Fr 09:00-12:00; Tu,Th 14:30-18:00"
+opening_hours: Mo,Fr 09:00-12:00; Tu,Th 14:30-18:00
 website: ""

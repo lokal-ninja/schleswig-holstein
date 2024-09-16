@@ -1,11 +1,11 @@
 id: 258243591
-type: way
+type: node
 latitude: 54.47771
 longitude: 9.04755
 postcode: "25813"
 city: Husum
-street: "Neustadt"
-housenumber: 30
+street: Neustadt
+housenumber: "30"
 phone: ""
 opening_hours: ""
-website: "https://www.thaimassage-husum.de/"
+website: https://www.thaimassage-husum.de/

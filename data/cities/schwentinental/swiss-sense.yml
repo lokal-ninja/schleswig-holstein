@@ -1,11 +1,11 @@
 id: 27199855
-type: way
+type: node
 latitude: 54.28855
 longitude: 10.22436
 postcode: "24223"
 city: Schwentinental
-street: "Mergenthalerstraße"
-housenumber: 18
-phone: "+49 430 72049828"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.swisssense.de/ausstellungen/deutschland/schwentinental"
+street: Mergenthalerstraße
+housenumber: "18"
+phone: +49 430 72049828
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.swisssense.de/ausstellungen/deutschland/schwentinental

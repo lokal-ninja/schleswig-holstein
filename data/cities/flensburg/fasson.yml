@@ -4,8 +4,8 @@ latitude: 54.78722
 longitude: 9.43336
 postcode: "24937"
 city: Flensburg
-street: "Große Straße"
-housenumber: 18
-phone: "+49 461 23010"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su,Mo,PH off"
-website: "https://fasson-friseure.de/"
+street: Große Straße
+housenumber: "18"
+phone: +49 461 23010
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; Su,Mo,PH off
+website: https://fasson-friseure.de/

@@ -1,11 +1,11 @@
 id: 361626611
-type: way
+type: node
 latitude: 53.55393
 longitude: 10.243
 postcode: "21465"
 city: Reinbek
-street: "Grenzweg"
-housenumber: 34
+street: Grenzweg
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

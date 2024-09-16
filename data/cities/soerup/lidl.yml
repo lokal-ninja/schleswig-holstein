@@ -1,11 +1,11 @@
 id: 194271666
-type: way
+type: node
 latitude: 54.72247
 longitude: 9.67559
 postcode: "24966"
 city: Sörup
-street: "Tarper Straße"
-housenumber: 9
+street: Tarper Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

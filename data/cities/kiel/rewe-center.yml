@@ -1,11 +1,11 @@
 id: 25922372
-type: way
+type: node
 latitude: 54.30892
 longitude: 10.11009
 postcode: "24114"
 city: Kiel
-street: "Winterbeker Weg"
-housenumber: 44
-phone: "+49 431 648010"
-opening_hours: "Mo-Sa 07:00-22:00; PH,Su off"
-website: "https://www.rewe.de/marktseite/kiel/565687/rewe-center-winterbeker-weg-44/"
+street: Winterbeker Weg
+housenumber: "44"
+phone: +49 431 648010
+opening_hours: Mo-Sa 07:00-22:00; PH,Su off
+website: https://www.rewe.de/marktseite/kiel/565687/rewe-center-winterbeker-weg-44/

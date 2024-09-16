@@ -4,8 +4,8 @@ latitude: 54.32317
 longitude: 10.12422
 postcode: "24103"
 city: Kiel
-street: "Möllingstraße"
-housenumber: 20
+street: Möllingstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 11:00-18:00; We 10:00-17:00; Sa 10:00-14:00"
+opening_hours: Mo,Tu,Th,Fr 11:00-18:00; We 10:00-17:00; Sa 10:00-14:00
 website: ""

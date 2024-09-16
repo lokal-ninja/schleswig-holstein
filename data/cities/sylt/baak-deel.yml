@@ -1,11 +1,11 @@
 id: 183543597
-type: way
+type: node
 latitude: 54.87441
 longitude: 8.29646
 postcode: "25980"
 city: Sylt
-street: "Lorens-de-Hahn-Straße"
-housenumber: 50
+street: Lorens-de-Hahn-Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

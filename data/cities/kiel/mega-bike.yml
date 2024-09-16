@@ -4,8 +4,8 @@ latitude: 54.36232
 longitude: 10.13221
 postcode: "24106"
 city: Kiel
-street: "Schleusenstraße"
-housenumber: 18
+street: Schleusenstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.megabike24.de/standorte/fahrrad-mega-bike-kiel-wik.html"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.megabike24.de/standorte/fahrrad-mega-bike-kiel-wik.html

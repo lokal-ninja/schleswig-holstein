@@ -1,11 +1,11 @@
 id: 295992992
-type: way
+type: node
 latitude: 54.65387
 longitude: 9.95055
 postcode: "24376"
 city: Kappeln
-street: "Bernard-Liening-Straße"
+street: Bernard-Liening-Straße
 housenumber: 12a
-phone: "+49 4642 81272"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH,Su off"
+phone: +49 4642 81272
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH,Su off
 website: ""

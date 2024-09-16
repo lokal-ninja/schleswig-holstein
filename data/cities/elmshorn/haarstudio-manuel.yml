@@ -1,11 +1,11 @@
 id: 224773807
-type: way
+type: node
 latitude: 53.74679
 longitude: 9.65886
 postcode: "25336"
 city: Elmshorn
-street: "Ansgarstraße"
-housenumber: 20
+street: Ansgarstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 100189774
-type: way
+type: node
 latitude: 53.7205
 longitude: 9.90227
 postcode: "25451"
 city: Quickborn
-street: "Güttloh"
+street: Güttloh
 housenumber: 7-9
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/quickborn/guettloh-7-9.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/quickborn/guettloh-7-9.html

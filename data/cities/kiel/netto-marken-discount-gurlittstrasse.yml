@@ -1,11 +1,11 @@
 id: 284701492
-type: way
+type: node
 latitude: 54.35568
 longitude: 10.11535
 postcode: "24106"
 city: Kiel
-street: "Gurlittstraße"
+street: Gurlittstraße
 housenumber: 5-8
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/

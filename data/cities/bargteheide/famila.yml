@@ -1,11 +1,11 @@
 id: 29370810
-type: way
+type: node
 latitude: 53.72127
 longitude: 10.27808
 postcode: "22941"
 city: Bargteheide
-street: "Am Redder"
-housenumber: 2
+street: Am Redder
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

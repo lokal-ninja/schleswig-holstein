@@ -4,8 +4,8 @@ latitude: 54.90897
 longitude: 8.30484
 postcode: "25980"
 city: Sylt
-street: "Strandstraße"
-housenumber: 4
+street: Strandstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off"
-website: "https://www.vosssylt.de/tabak-papier-strandstrasse/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off
+website: https://www.vosssylt.de/tabak-papier-strandstrasse/

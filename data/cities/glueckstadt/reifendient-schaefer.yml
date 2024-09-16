@@ -1,11 +1,11 @@
 id: 418091769
-type: way
+type: node
 latitude: 53.77887
 longitude: 9.43748
 postcode: "25348"
 city: Glückstadt
-street: "Der Keil"
-housenumber: 11
+street: Der Keil
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://der-reifendienst-schaefer.de/"
+website: https://der-reifendienst-schaefer.de/

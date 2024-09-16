@@ -4,8 +4,8 @@ latitude: 53.83822
 longitude: 9.95611
 postcode: "24568"
 city: Kaltenkirchen
-street: "Friedenstraße"
-housenumber: 1
+street: Friedenstraße
+housenumber: "1"
 phone: "+494191952255"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-13:00"
-website: "https://www.mobile-point-online.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-13:00
+website: https://www.mobile-point-online.de/

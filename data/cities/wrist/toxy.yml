@@ -1,11 +1,11 @@
 id: 568660988
-type: way
+type: node
 latitude: 53.92988
 longitude: 9.75066
 postcode: "25563"
 city: Wrist
-street: "Bokeler Straße"
-housenumber: 3
+street: Bokeler Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Th-Fr 15:00-18:00; Sa 09:00-12:00"
+opening_hours: Th-Fr 15:00-18:00; Sa 09:00-12:00
 website: ""

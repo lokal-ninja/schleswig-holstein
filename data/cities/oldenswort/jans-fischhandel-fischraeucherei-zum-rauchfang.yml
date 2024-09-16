@@ -1,11 +1,11 @@
 id: 471739967
-type: way
+type: node
 latitude: 54.36829
 longitude: 8.97822
 postcode: "25870"
 city: Oldenswort
-street: "Harblek"
-housenumber: 33
+street: Harblek
+housenumber: "33"
 phone: ""
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

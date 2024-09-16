@@ -1,11 +1,11 @@
 id: 256604679
-type: way
+type: node
 latitude: 53.97127
 longitude: 9.62974
 postcode: "25551"
 city: Hohenlockstedt
-street: "Am Wasserturm"
-housenumber: 1
+street: Am Wasserturm
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220011361
-type: way
+type: node
 latitude: 54.48217
 longitude: 9.69793
 postcode: "24357"
 city: Fleckeby
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 954397900
-type: way
+type: node
 latitude: 53.73028
 longitude: 9.89685
 postcode: "25451"
 city: Quickborn
-street: "Kieler Straße"
-housenumber: 94
-phone: "+49 4106 7972400"
-opening_hours: "Mo-Fr 08:00-18:00; Sa by appointment; "
-website: "https://www.autozentrum-wicher.de/"
+street: Kieler Straße
+housenumber: "94"
+phone: +49 4106 7972400
+opening_hours: 'Mo-Fr 08:00-18:00; Sa "by appointment"; '
+website: https://www.autozentrum-wicher.de/

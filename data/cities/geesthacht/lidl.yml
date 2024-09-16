@@ -1,11 +1,11 @@
 id: 86594400
-type: way
+type: node
 latitude: 53.43571
 longitude: 10.38021
 postcode: "21502"
 city: Geesthacht
-street: "Trift"
-housenumber: 33
+street: Trift
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

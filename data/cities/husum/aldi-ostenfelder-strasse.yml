@@ -1,11 +1,11 @@
 id: 230083142
-type: way
+type: node
 latitude: 54.46976
 longitude: 9.08978
 postcode: "25813"
 city: Husum
-street: "Ostenfelder Straße"
-housenumber: 70
+street: Ostenfelder Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/husum/ostenfelder-str-70.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/husum/ostenfelder-str-70.html

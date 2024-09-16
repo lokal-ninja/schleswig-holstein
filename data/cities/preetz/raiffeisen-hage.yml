@@ -1,11 +1,11 @@
 id: 207591213
-type: way
+type: node
 latitude: 54.252
 longitude: 10.29532
 postcode: "24211"
 city: Preetz
-street: "Industriestraße"
-housenumber: 3
+street: Industriestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

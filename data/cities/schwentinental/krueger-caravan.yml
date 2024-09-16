@@ -1,11 +1,11 @@
 id: 171018047
-type: way
+type: node
 latitude: 54.28628
 longitude: 10.22863
 postcode: "24223"
 city: Schwentinental
-street: "Gutenbergstraße"
-housenumber: 11
+street: Gutenbergstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

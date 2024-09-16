@@ -1,11 +1,11 @@
 id: 702252895
-type: way
+type: node
 latitude: 53.77558
 longitude: 9.43596
 postcode: "25348"
 city: Glückstadt
-street: "Hinterm Hofe"
-housenumber: 1
-phone: "+49 4124 91899900"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://glueckstadt.schroeder-bauzentrum.de"
+street: Hinterm Hofe
+housenumber: "1"
+phone: +49 4124 91899900
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://glueckstadt.schroeder-bauzentrum.de

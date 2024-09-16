@@ -1,11 +1,11 @@
 id: 232100787
-type: way
+type: node
 latitude: 53.9251
 longitude: 10.32005
 postcode: "23795"
 city: Bad Segeberg
-street: "Asternweg"
-housenumber: 2
+street: Asternweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.74253
 longitude: 9.93991
 postcode: "25451"
 city: Quickborn
-street: "Pascalstraße"
-housenumber: 9
-phone: "+49 4106 6289111"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Pascalstraße
+housenumber: "9"
+phone: +49 4106 6289111
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

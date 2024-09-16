@@ -1,11 +1,11 @@
 id: 90055454
-type: way
+type: node
 latitude: 54.28374
 longitude: 10.04197
 postcode: "24247"
 city: Mielkendorf
-street: "Dorfstraße"
-housenumber: 9
+street: Dorfstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 8:00-17:30; Sa 10:00-13:00"
+opening_hours: Mo-Fr 8:00-17:30; Sa 10:00-13:00
 website: ""

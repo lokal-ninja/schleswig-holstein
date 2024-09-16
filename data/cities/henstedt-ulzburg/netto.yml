@@ -1,11 +1,11 @@
 id: 263477510
-type: way
+type: node
 latitude: 53.78789
 longitude: 10.00119
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Norderstedter Straße"
-housenumber: 120
+street: Norderstedter Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

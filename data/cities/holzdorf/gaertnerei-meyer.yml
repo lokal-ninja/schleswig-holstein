@@ -4,8 +4,8 @@ latitude: 54.55746
 longitude: 9.89414
 postcode: "24364"
 city: Holzdorf
-street: "Dorfstraße"
-housenumber: 41
-phone: "+49 4352 2352"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-14:00"
-website: "https://www.meyer-garten.de/"
+street: Dorfstraße
+housenumber: "41"
+phone: +49 4352 2352
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-14:00
+website: https://www.meyer-garten.de/

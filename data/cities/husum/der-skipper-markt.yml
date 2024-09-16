@@ -1,11 +1,11 @@
 id: 148579361
-type: way
+type: node
 latitude: 54.49326
 longitude: 9.06699
 postcode: "25813"
 city: Husum
-street: "Marienhofweg"
-housenumber: 129
+street: Marienhofweg
+housenumber: "129"
 phone: ""
 opening_hours: ""
-website: "http://www.der-skipper-markt.de"
+website: http://www.der-skipper-markt.de

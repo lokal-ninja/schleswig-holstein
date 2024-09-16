@@ -1,11 +1,11 @@
 id: 123074039
-type: way
+type: node
 latitude: 53.80322
 longitude: 10.36166
 postcode: "23843"
 city: Bad Oldesloe
-street: "Hamburger Straße"
-housenumber: 85
+street: Hamburger Straße
+housenumber: "85"
 phone: "+49453189990"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.senger-mobility.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.senger-mobility.de

@@ -1,11 +1,11 @@
 id: 116716410
-type: way
+type: node
 latitude: 53.60755
 longitude: 10.18922
 postcode: "22143"
 city: Hamburg
-street: "Merkurring"
-housenumber: 120
+street: Merkurring
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
 website: ""

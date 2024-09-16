@@ -1,11 +1,11 @@
 id: 77360888
-type: way
+type: node
 latitude: 54.31151
 longitude: 10.12525
 postcode: "24114"
 city: Kiel
-street: "Königsweg"
+street: Königsweg
 housenumber: 76-78
-phone: "+49 431 66440"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00; Su,PH off"
+phone: +49 431 66440
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00; Su,PH off
 website: ""

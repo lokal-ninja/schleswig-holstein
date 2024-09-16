@@ -4,8 +4,9 @@ latitude: 54.50385
 longitude: 11.22671
 postcode: "23769"
 city: Puttgarden
-street: "Neuer Skandinavienkai"
-housenumber: 1
+street: Neuer Skandinavienkai
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 06:00-20:00; Th-Su 06:00-24:00; Fr, Sa 00:00-24:00; Su 00:00-20:00; Dec 24, Dec 25, Dec 31, Jan 01 off"
-website: "https://www.bordershop.com/dk"
+opening_hours: Mo-We 06:00-20:00; Th-Su 06:00-24:00; Fr, Sa 00:00-24:00; Su 00:00-20:00;
+    Dec 24, Dec 25, Dec 31, Jan 01 off
+website: https://www.bordershop.com/dk

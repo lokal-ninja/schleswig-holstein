@@ -1,11 +1,11 @@
 id: 150644238
-type: way
+type: node
 latitude: 53.59059
 longitude: 9.71593
 postcode: "22880"
 city: Wedel
-street: "Egenbüttelweg"
-housenumber: 4
+street: Egenbüttelweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

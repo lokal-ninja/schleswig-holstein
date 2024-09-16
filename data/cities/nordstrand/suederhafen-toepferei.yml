@@ -1,11 +1,11 @@
 id: 230588136
-type: way
+type: node
 latitude: 54.47444
 longitude: 8.90716
 postcode: ""
 city: Nordstrand
-street: "Tegelistraat"
-housenumber: 22
+street: Tegelistraat
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.suederhafentoepferei.de/"
+website: https://www.suederhafentoepferei.de/

@@ -4,8 +4,8 @@ latitude: 54.66246
 longitude: 9.9298
 postcode: "24376"
 city: Kappeln
-street: "Schmiedestraße"
-housenumber: 37
+street: Schmiedestraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.jeans-fritz.de/"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.jeans-fritz.de/

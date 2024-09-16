@@ -1,11 +1,11 @@
 id: 231449302
-type: way
+type: node
 latitude: 53.95069
 longitude: 9.49321
 postcode: "25524"
 city: Itzehoe
-street: "Lise-Meitner-Straße"
-housenumber: 1
+street: Lise-Meitner-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

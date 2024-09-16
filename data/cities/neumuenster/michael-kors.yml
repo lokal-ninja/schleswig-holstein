@@ -1,11 +1,11 @@
 id: 182516013
-type: way
+type: node
 latitude: 54.0435
 longitude: 9.9781
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 40 822105760"
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://locations.michaelkors.de/neumunster/oderstrasse-10.html"
+street: Oderstraße
+housenumber: "10"
+phone: +49 40 822105760
+opening_hours: Mo-Sa 10:00-21:00
+website: https://locations.michaelkors.de/neumunster/oderstrasse-10.html

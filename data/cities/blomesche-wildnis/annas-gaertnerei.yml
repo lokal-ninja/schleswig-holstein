@@ -1,11 +1,11 @@
 id: 238864097
-type: way
+type: node
 latitude: 53.82055
 longitude: 9.40045
 postcode: "25348"
 city: Blomesche Wildnis
-street: "Am Neuendeich"
-housenumber: 187
+street: Am Neuendeich
+housenumber: "187"
 phone: ""
-opening_hours: "Th-Sa 09:00-18:00"
+opening_hours: Th-Sa 09:00-18:00
 website: ""

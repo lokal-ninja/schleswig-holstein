@@ -4,8 +4,8 @@ latitude: 54.43769
 longitude: 10.1743
 postcode: "24229"
 city: Strande
-street: "Dorfstraße"
-housenumber: 1
-phone: "+49 4349 9 14 90 24"
-opening_hours: "Mo-Sa 07:30-13:00,15:00-19:00; Su 08:30-13:00,15:00-17:00"
+street: Dorfstraße
+housenumber: "1"
+phone: +49 4349 9 14 90 24
+opening_hours: Mo-Sa 07:30-13:00,15:00-19:00; Su 08:30-13:00,15:00-17:00
 website: ""

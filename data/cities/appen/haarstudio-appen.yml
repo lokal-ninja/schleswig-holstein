@@ -4,8 +4,8 @@ latitude: 53.65943
 longitude: 9.74299
 postcode: "25482"
 city: Appen
-street: "Hauptstraße"
-housenumber: 63
-phone: "+49 4101 200136"
-opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:00-13:00; PH off"
-website: "https://haarstudio-appen.de/"
+street: Hauptstraße
+housenumber: "63"
+phone: +49 4101 200136
+opening_hours: Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:00-13:00; PH off
+website: https://haarstudio-appen.de/

@@ -4,8 +4,8 @@ latitude: 54.40887
 longitude: 9.97454
 postcode: "24214"
 city: Gettorf
-street: "Eichstraße"
-housenumber: 7
+street: Eichstraße
+housenumber: "7"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

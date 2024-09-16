@@ -1,11 +1,11 @@
 id: 1191613481
-type: way
+type: node
 latitude: 53.66855
 longitude: 9.97312
 postcode: "22848"
 city: Norderstedt
-street: "Niendorfer Straße"
-housenumber: 85
+street: Niendorfer Straße
+housenumber: "85"
 phone: "+494094366831"
 opening_hours: ""
-website: "http://www.sportshop-norderstedt.de/html/impressum.html"
+website: http://www.sportshop-norderstedt.de/html/impressum.html

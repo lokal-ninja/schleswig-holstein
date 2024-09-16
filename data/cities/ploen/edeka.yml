@@ -1,11 +1,12 @@
 id: 118051387
-type: way
+type: node
 latitude: 54.14915
 longitude: 10.46037
 postcode: "24306"
 city: Plön
-street: "Fünf-Seen-Allee"
-housenumber: 21
+street: Fünf-Seen-Allee
+housenumber: "21"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Sa 07:00-20:00, Mar-Oct: Su 12:00-18:00, Nov-Feb: Mo-Sa 07:00-20:00"
+opening_hours: 'Mar-Oct: Mo-Sa 07:00-20:00, Mar-Oct: Su 12:00-18:00, Nov-Feb: Mo-Sa
+    07:00-20:00'
 website: ""

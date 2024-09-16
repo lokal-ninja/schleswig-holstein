@@ -4,8 +4,8 @@ latitude: 53.50757
 longitude: 10.4823
 postcode: "21493"
 city: Schwarzenbek
-street: "Möllner Straße"
-housenumber: 23
+street: Möllner Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-12:00"
-website: "http://www.blumenfeelings.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-12:00
+website: http://www.blumenfeelings.de

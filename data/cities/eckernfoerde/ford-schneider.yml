@@ -1,11 +1,11 @@
 id: 245762649
-type: way
+type: node
 latitude: 54.46241
 longitude: 9.83948
 postcode: "24340"
 city: Eckernförde
-street: "Berliner Straße"
-housenumber: 22
-phone: "+49 4351 476476"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "http://www.ford-sh.de/"
+street: Berliner Straße
+housenumber: "22"
+phone: +49 4351 476476
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: http://www.ford-sh.de/

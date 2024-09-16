@@ -1,11 +1,11 @@
 id: 285735415
-type: way
+type: node
 latitude: 53.53174
 longitude: 10.23699
 postcode: "21465"
 city: Reinbek
-street: "Senefelder-Ring"
-housenumber: 1
+street: Senefelder-Ring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

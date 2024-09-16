@@ -4,8 +4,8 @@ latitude: 54.09111
 longitude: 9.65339
 postcode: "24594"
 city: Hohenwestedt
-street: "Wilhelmstraße"
-housenumber: 6
-phone: "+49 4871 1713"
-opening_hours: "Tu-Th 08:00-19:00; Fr 08:00-18:30"
-website: "https://www.piasfriseure.de/"
+street: Wilhelmstraße
+housenumber: "6"
+phone: +49 4871 1713
+opening_hours: Tu-Th 08:00-19:00; Fr 08:00-18:30
+website: https://www.piasfriseure.de/

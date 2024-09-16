@@ -4,8 +4,8 @@ latitude: 54.13082
 longitude: 8.85839
 postcode: "25761"
 city: Büsum
-street: "Westerstraße"
-housenumber: 14
-phone: "+49 4834 962612"
-opening_hours: "Mo-Sa 09:30-12:15, Mo-Su 14:00-18:00, Su 10:00-12:15"
-website: "http://www.fahrradverleih-buesum.de"
+street: Westerstraße
+housenumber: "14"
+phone: +49 4834 962612
+opening_hours: Mo-Sa 09:30-12:15, Mo-Su 14:00-18:00, Su 10:00-12:15
+website: http://www.fahrradverleih-buesum.de

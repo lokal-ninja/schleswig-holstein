@@ -1,11 +1,11 @@
 id: 109560845
-type: way
+type: node
 latitude: 54.5418
 longitude: 9.497
 postcode: "24850"
 city: Lürschau
-street: "Dorfstraße"
-housenumber: 13
+street: Dorfstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.86951
 longitude: 10.68927
 postcode: "23552"
 city: Lübeck
-street: "Königstraße"
-housenumber: 25
-phone: "+49 451 77494"
-opening_hours: "Tu-Fr 09:00-19:00; Sa-Mo,PH off"
-website: "https://www.headcut-society.de/"
+street: Königstraße
+housenumber: "25"
+phone: +49 451 77494
+opening_hours: Tu-Fr 09:00-19:00; Sa-Mo,PH off
+website: https://www.headcut-society.de/

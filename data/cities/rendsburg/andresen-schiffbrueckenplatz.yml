@@ -4,8 +4,8 @@ latitude: 54.30559
 longitude: 9.66064
 postcode: "24768"
 city: Rendsburg
-street: "Schiffbrückenplatz"
-housenumber: 7
-phone: "+49 4331 6097550"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su,PH 08:00-17:00"
-website: "https://baecker-andresen.de/"
+street: Schiffbrückenplatz
+housenumber: "7"
+phone: +49 4331 6097550
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su,PH 08:00-17:00
+website: https://baecker-andresen.de/

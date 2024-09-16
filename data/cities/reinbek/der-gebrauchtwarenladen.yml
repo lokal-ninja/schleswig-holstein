@@ -4,8 +4,8 @@ latitude: 53.52411
 longitude: 10.24799
 postcode: "21465"
 city: Reinbek
-street: "Scholtzstraße"
-housenumber: 9
-phone: "+49 40 71143440"
-opening_hours: "Tu,Th 09:00-18:00; We,Fr 09:00-16:00; Sa 10:00-14:00"
-website: "http://www.der-gebrauchtwarenladen.com"
+street: Scholtzstraße
+housenumber: "9"
+phone: +49 40 71143440
+opening_hours: Tu,Th 09:00-18:00; We,Fr 09:00-16:00; Sa 10:00-14:00
+website: http://www.der-gebrauchtwarenladen.com

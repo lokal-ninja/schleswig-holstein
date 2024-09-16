@@ -4,8 +4,8 @@ latitude: 54.37327
 longitude: 10.98093
 postcode: "23774"
 city: Heiligenhafen
-street: "Hafenstraße"
-housenumber: 1
-phone: "+49 4362 5720"
-opening_hours: "Mo-Su 05:30-15:00"
-website: "http://1116.koncept.eadm.dk/filialen/"
+street: Hafenstraße
+housenumber: "1"
+phone: +49 4362 5720
+opening_hours: Mo-Su 05:30-15:00
+website: http://1116.koncept.eadm.dk/filialen/

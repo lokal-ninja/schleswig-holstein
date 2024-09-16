@@ -1,11 +1,11 @@
 id: 343916541
-type: way
+type: node
 latitude: 53.89634
 longitude: 9.15777
 postcode: "25541"
 city: Brunsbüttel
-street: "Fährstraße"
-housenumber: 2
+street: Fährstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

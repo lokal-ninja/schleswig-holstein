@@ -4,8 +4,8 @@ latitude: 53.79204
 longitude: 10.04446
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Götzberger Straße"
-housenumber: 102
-phone: "+49 4193 2226"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00; PH off"
-website: "http://www.goetzbergermuehle.de/"
+street: Götzberger Straße
+housenumber: "102"
+phone: +49 4193 2226
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00; PH off
+website: http://www.goetzbergermuehle.de/

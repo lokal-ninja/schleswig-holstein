@@ -4,8 +4,9 @@ latitude: 54.36327
 longitude: 10.29051
 postcode: "24253"
 city: Probsteierhagen
-street: "Alte Dorfstraße"
-housenumber: 64
-phone: "+49 4348 529"
-opening_hours: "May-Aug Tu-Fr 08:30-13:30,15:00-18:00; May-Aug We 08:30-13:30; May-Aug Sa 08:00-13:00; Sa 07:30-13:00; Sep-Apr Tu-Fr 07:30-13:30,15:00-18:00"
-website: "https://www.schlachterei-schierer.de/"
+street: Alte Dorfstraße
+housenumber: "64"
+phone: +49 4348 529
+opening_hours: May-Aug Tu-Fr 08:30-13:30,15:00-18:00; May-Aug We 08:30-13:30; May-Aug
+    Sa 08:00-13:00; Sa 07:30-13:00; Sep-Apr Tu-Fr 07:30-13:30,15:00-18:00
+website: https://www.schlachterei-schierer.de/

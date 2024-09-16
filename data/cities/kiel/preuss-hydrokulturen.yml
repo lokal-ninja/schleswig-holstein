@@ -1,11 +1,11 @@
 id: 250248227
-type: way
+type: node
 latitude: 54.33358
 longitude: 10.10561
 postcode: "24116"
 city: Kiel
-street: "Eichhofstraße"
-housenumber: 40
+street: Eichhofstraße
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.preuss-hydrokulturen.de/"
+website: https://www.preuss-hydrokulturen.de/

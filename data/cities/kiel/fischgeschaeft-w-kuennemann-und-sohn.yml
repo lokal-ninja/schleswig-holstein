@@ -4,8 +4,8 @@ latitude: 54.34094
 longitude: 10.13667
 postcode: "24105"
 city: Kiel
-street: "Gneisenaustraße"
-housenumber: 20
-phone: "+49 431 83682"
-opening_hours: "Mo- Fr 08:30-18:00; Sa 08:30-13:00; PH off"
-website: "http://kuennemannundsohn.de"
+street: Gneisenaustraße
+housenumber: "20"
+phone: +49 431 83682
+opening_hours: Mo- Fr 08:30-18:00; Sa 08:30-13:00; PH off
+website: http://kuennemannundsohn.de

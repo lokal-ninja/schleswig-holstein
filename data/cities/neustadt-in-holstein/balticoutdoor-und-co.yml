@@ -1,11 +1,11 @@
 id: 614416618
-type: way
+type: node
 latitude: 54.10943
 longitude: 10.81581
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Kremper Straße"
-housenumber: 27
+street: Kremper Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo,Tu 10:00-17:30; We 10:00-17:00; Th,Fr 10:00-18:00; Sa 10:00-15:30"
+opening_hours: Mo,Tu 10:00-17:30; We 10:00-17:00; Th,Fr 10:00-18:00; Sa 10:00-15:30
 website: ""

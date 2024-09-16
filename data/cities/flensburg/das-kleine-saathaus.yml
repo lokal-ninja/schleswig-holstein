@@ -4,8 +4,8 @@ latitude: 54.7825
 longitude: 9.43545
 postcode: "24937"
 city: Flensburg
-street: "Friesische Straße"
-housenumber: 2
-phone: "+49 461 1829725"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-13:30; Su,PH off"
-website: "https://www.gartenbedarf-flensburg.de/"
+street: Friesische Straße
+housenumber: "2"
+phone: +49 461 1829725
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-13:30; Su,PH off
+website: https://www.gartenbedarf-flensburg.de/

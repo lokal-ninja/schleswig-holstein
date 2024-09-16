@@ -4,8 +4,8 @@ latitude: 54.17518
 longitude: 9.09386
 postcode: "25746"
 city: Heide
-street: "Fritz-Thiedemann-Ring"
-housenumber: 39
+street: Fritz-Thiedemann-Ring
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00;Sa 07:00-14:00;PH closed"
-website: "https://www.schroeder-bauzentrum.de/schroederbauzentrum-heide"
+opening_hours: Mo-Fr 07:00-18:00;Sa 07:00-14:00;PH closed
+website: https://www.schroeder-bauzentrum.de/schroederbauzentrum-heide

@@ -1,11 +1,11 @@
 id: 199618197
-type: way
+type: node
 latitude: 54.09011
 longitude: 9.06904
 postcode: "25704"
 city: Meldorf
-street: "Jungfernstieg"
-housenumber: 13
+street: Jungfernstieg
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:15; Sa 06:00-22:15; Su 07:30-22:15"
+opening_hours: Mo-Fr 05:00-22:15; Sa 06:00-22:15; Su 07:30-22:15
 website: ""

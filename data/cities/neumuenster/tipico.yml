@@ -1,11 +1,11 @@
 id: 264820684
-type: way
+type: node
 latitude: 54.07544
 longitude: 9.98288
 postcode: "24534"
 city: Neumünster
-street: "Kieler Straße"
-housenumber: 4
+street: Kieler Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 10:00-22:00"
+opening_hours: Mo-Su 10:00-22:00
 website: ""

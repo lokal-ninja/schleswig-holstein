@@ -1,11 +1,11 @@
 id: 232573996
-type: way
+type: node
 latitude: 54.10804
 longitude: 10.82274
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Kirchhofsallee"
-housenumber: 12
+street: Kirchhofsallee
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

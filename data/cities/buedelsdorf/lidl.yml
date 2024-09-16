@@ -1,11 +1,11 @@
 id: 800563562
-type: way
+type: node
 latitude: 54.32232
 longitude: 9.6924
 postcode: "24782"
 city: Büdelsdorf
-street: "Konrad-Adenauer-Straße"
-housenumber: 1
+street: Konrad-Adenauer-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.57624
 longitude: 9.70575
 postcode: "22880"
 city: Wedel
-street: "Bahnhofstraße"
-housenumber: 48
+street: Bahnhofstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.kaland.de/parfuemerie-kaland/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.kaland.de/parfuemerie-kaland/

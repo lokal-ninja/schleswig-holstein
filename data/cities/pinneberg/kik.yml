@@ -4,8 +4,8 @@ latitude: 53.65254
 longitude: 9.79153
 postcode: "25421"
 city: Pinneberg
-street: "Richard-Köhn-Straße"
-housenumber: 1
+street: Richard-Köhn-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.kik.de/filialfinder/6521/Pinneberg/Richard-K%C3%B6hn-Stra%C3%9Fe"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.kik.de/filialfinder/6521/Pinneberg/Richard-K%C3%B6hn-Stra%C3%9Fe

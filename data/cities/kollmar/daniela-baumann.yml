@@ -1,11 +1,11 @@
 id: 261587531
-type: way
+type: node
 latitude: 53.72674
 longitude: 9.48878
 postcode: "25377"
 city: Kollmar
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

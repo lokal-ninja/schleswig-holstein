@@ -1,11 +1,11 @@
 id: 760532727
-type: way
+type: node
 latitude: 54.79349
 longitude: 9.02698
 postcode: "25917"
 city: Achtrup
-street: "Ladelunder Straße"
-housenumber: 15
+street: Ladelunder Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

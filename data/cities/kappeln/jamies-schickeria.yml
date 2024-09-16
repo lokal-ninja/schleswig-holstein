@@ -4,8 +4,8 @@ latitude: 54.66072
 longitude: 9.93112
 postcode: "24376"
 city: Kappeln
-street: "Mühlenstraße"
-housenumber: 23
-phone: "+49 4642 9645210"
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 11:00-20:00; Sa 09:00-14:30; Su,Mo,PH off"
-website: "https://jamies-schickeria.salon/"
+street: Mühlenstraße
+housenumber: "23"
+phone: +49 4642 9645210
+opening_hours: Tu,We,Fr 09:00-18:00; Th 11:00-20:00; Sa 09:00-14:30; Su,Mo,PH off
+website: https://jamies-schickeria.salon/

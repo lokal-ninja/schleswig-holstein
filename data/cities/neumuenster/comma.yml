@@ -1,11 +1,11 @@
 id: 375867449
-type: way
+type: node
 latitude: 54.04274
 longitude: 9.97955
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 8518966"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://stores.comma-fashion.com/neumunster/designer-outlet-neumunster"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 8518966
+opening_hours: Mo-Sa 10:00-20:00
+website: https://stores.comma-fashion.com/neumunster/designer-outlet-neumunster

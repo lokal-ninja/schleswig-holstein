@@ -4,8 +4,8 @@ latitude: 54.77387
 longitude: 9.39631
 postcode: "24941"
 city: Flensburg
-street: "Langberger Weg"
-housenumber: 4
-phone: "+49 461 1682268"
-opening_hours: "Mo-Fr 09:00-18:00; Sa,Su,PH off"
-website: "https://www.hoergeraete-pavel.de/"
+street: Langberger Weg
+housenumber: "4"
+phone: +49 461 1682268
+opening_hours: Mo-Fr 09:00-18:00; Sa,Su,PH off
+website: https://www.hoergeraete-pavel.de/

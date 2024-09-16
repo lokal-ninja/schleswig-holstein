@@ -1,11 +1,11 @@
 id: 555828090
-type: way
+type: node
 latitude: 54.33881
 longitude: 10.13315
 postcode: "24118"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 119
+street: Holtenauer Straße
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; PH off"
+opening_hours: Mo-Sa 08:00-19:00; PH off
 website: ""

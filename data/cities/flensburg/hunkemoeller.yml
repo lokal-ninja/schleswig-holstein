@@ -4,8 +4,8 @@ latitude: 54.78389
 longitude: 9.43571
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 70
-phone: "+49 461 14681351"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.hunkemoller.de/de_de/filiale/flensburg-holm"
+street: Holm
+housenumber: "70"
+phone: +49 461 14681351
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.hunkemoller.de/de_de/filiale/flensburg-holm

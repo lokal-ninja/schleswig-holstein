@@ -4,8 +4,8 @@ latitude: 53.84361
 longitude: 10.54947
 postcode: "23858"
 city: Wesenberg
-street: "Hof Ratzbek"
-housenumber: 1
-phone: "+49 4533 20670"
-opening_hours: "Mo-Fr 08:15-16:15"
-website: "https://www.hof-ratzbek.de/"
+street: Hof Ratzbek
+housenumber: "1"
+phone: +49 4533 20670
+opening_hours: Mo-Fr 08:15-16:15
+website: https://www.hof-ratzbek.de/

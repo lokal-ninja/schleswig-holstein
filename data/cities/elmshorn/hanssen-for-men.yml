@@ -4,8 +4,8 @@ latitude: 53.75326
 longitude: 9.65127
 postcode: "25335"
 city: Elmshorn
-street: "Marktstraße"
-housenumber: 10
-phone: "+49 4121 20529"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.hanssen-for-men.de/"
+street: Marktstraße
+housenumber: "10"
+phone: +49 4121 20529
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.hanssen-for-men.de/

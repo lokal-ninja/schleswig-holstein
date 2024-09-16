@@ -4,8 +4,8 @@ latitude: 54.30502
 longitude: 9.66411
 postcode: "24768"
 city: Rendsburg
-street: "Mühlenstraße"
-housenumber: 3
-phone: "+49 4331 4339581"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off"
+street: Mühlenstraße
+housenumber: "3"
+phone: +49 4331 4339581
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off
 website: ""

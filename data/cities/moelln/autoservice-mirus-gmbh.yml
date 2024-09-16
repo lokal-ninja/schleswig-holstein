@@ -1,11 +1,11 @@
 id: 624805361
-type: way
+type: node
 latitude: 53.62065
 longitude: 10.67558
 postcode: "23879"
 city: Mölln
-street: "Vorkamp"
-housenumber: 17
-phone: "+49 4542 87878"
+street: Vorkamp
+housenumber: "17"
+phone: +49 4542 87878
 opening_hours: ""
 website: ""

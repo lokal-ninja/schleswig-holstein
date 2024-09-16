@@ -1,11 +1,11 @@
 id: 299784233
-type: way
+type: node
 latitude: 54.06436
 longitude: 9.99842
 postcode: "24539"
 city: Neumünster
-street: "Haart"
-housenumber: 104
+street: Haart
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

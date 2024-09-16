@@ -4,8 +4,8 @@ latitude: 54.51716
 longitude: 9.56868
 postcode: "24837"
 city: Schleswig
-street: "Mönchenbrückstraße"
-housenumber: 3
+street: Mönchenbrückstraße
+housenumber: "3"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

@@ -1,11 +1,11 @@
 id: 122237408
-type: way
+type: node
 latitude: 54.32599
 longitude: 10.0724
 postcode: "24119"
 city: Kronshagen
-street: "Claus-Sinjen-Straße"
-housenumber: 33
+street: Claus-Sinjen-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.92442
 longitude: 9.38195
 postcode: "25554"
 city: Wilster
-street: "Steindamm"
-housenumber: 9
+street: Steindamm
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00;PH off"
-website: "https://blumenatelier-wilster.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-13:00;PH off
+website: https://blumenatelier-wilster.de

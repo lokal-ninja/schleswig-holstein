@@ -1,11 +1,11 @@
 id: 25037727
-type: way
+type: node
 latitude: 53.65056
 longitude: 9.82876
 postcode: "25462"
 city: Rellingen
-street: "Hauptstraße"
-housenumber: 39
-phone: "+49 4101 60090"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.edeka.de/eh/nord/edeka-b%C3%B6ge-hauptstra%C3%9Fe-39/index.jsp"
+street: Hauptstraße
+housenumber: "39"
+phone: +49 4101 60090
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.edeka.de/eh/nord/edeka-b%C3%B6ge-hauptstra%C3%9Fe-39/index.jsp

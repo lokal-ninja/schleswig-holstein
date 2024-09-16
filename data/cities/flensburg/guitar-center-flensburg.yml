@@ -4,8 +4,8 @@ latitude: 54.77155
 longitude: 9.4292
 postcode: "24941"
 city: Flensburg
-street: "Zur Bleiche"
-housenumber: 44
-phone: "+49 461 97894040"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00"
-website: "https://www.guitar-center-flensburg.de"
+street: Zur Bleiche
+housenumber: "44"
+phone: +49 461 97894040
+opening_hours: Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-14:00
+website: https://www.guitar-center-flensburg.de

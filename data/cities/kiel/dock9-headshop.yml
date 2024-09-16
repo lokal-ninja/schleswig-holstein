@@ -4,8 +4,8 @@ latitude: 54.32586
 longitude: 10.12103
 postcode: "24116"
 city: Kiel
-street: "Eckernförder Straße"
-housenumber: 54
-phone: "+49 431 51201"
-opening_hours: "Mo,Tu,Th,Fr 12:00-18:00"
-website: "https://www.dock9.de/"
+street: Eckernförder Straße
+housenumber: "54"
+phone: +49 431 51201
+opening_hours: Mo,Tu,Th,Fr 12:00-18:00
+website: https://www.dock9.de/

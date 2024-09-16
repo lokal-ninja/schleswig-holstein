@@ -4,8 +4,8 @@ latitude: 54.77336
 longitude: 9.3965
 postcode: "24941"
 city: Flensburg
-street: "Langberger Weg"
-housenumber: 4
-phone: "+49 461 49359915"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.douglas.de/"
+street: Langberger Weg
+housenumber: "4"
+phone: +49 461 49359915
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.douglas.de/

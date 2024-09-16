@@ -1,11 +1,11 @@
 id: 230102591
-type: way
+type: node
 latitude: 54.63877
 longitude: 9.75952
 postcode: "24392"
 city: Süderbrarup
-street: "Schleswiger Straße"
-housenumber: 85
+street: Schleswiger Straße
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

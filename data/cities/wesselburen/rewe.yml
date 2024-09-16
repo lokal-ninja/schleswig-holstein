@@ -1,11 +1,11 @@
 id: 87452338
-type: way
+type: node
 latitude: 54.21611
 longitude: 8.92102
 postcode: "25764"
 city: Wesselburen
-street: "Schülper Chaussee"
-housenumber: 1
+street: Schülper Chaussee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 422402978
-type: way
+type: node
 latitude: 54.47986
 longitude: 9.06449
 postcode: "25813"
 city: Husum
-street: "Osterende"
-housenumber: 110
+street: Osterende
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

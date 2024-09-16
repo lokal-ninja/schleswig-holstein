@@ -4,8 +4,8 @@ latitude: 53.67851
 longitude: 10.14619
 postcode: "22949"
 city: Ammersbek
-street: "Hamburger Straße"
-housenumber: 108
-phone: "+49 40 60441111"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.urlaubsmacher.de/"
+street: Hamburger Straße
+housenumber: "108"
+phone: +49 40 60441111
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.urlaubsmacher.de/

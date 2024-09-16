@@ -4,8 +4,8 @@ latitude: 54.74123
 longitude: 9.94258
 postcode: "24395"
 city: Pommerby
-street: "Börsby"
-housenumber: 3
+street: Börsby
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30,14:00-17:30; Su 09:00-12:30,14:00-17:30"
-website: "https://www.boersby.de/hofladen"
+opening_hours: Mo-Sa 08:00-12:30,14:00-17:30; Su 09:00-12:30,14:00-17:30
+website: https://www.boersby.de/hofladen

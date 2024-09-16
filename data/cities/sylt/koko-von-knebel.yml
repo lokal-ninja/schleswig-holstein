@@ -4,8 +4,9 @@ latitude: 54.90878
 longitude: 8.30485
 postcode: "25980"
 city: Sylt
-street: "Strandstraße"
+street: Strandstraße
 housenumber: 3-5
 phone: ""
-opening_hours: "Wird nur noch als Schaufenster genutzt, der Laden ist jetzt in der Neuen Mitte, Neue Straße 3"
-website: "https://www.kokovonknebel.com/store/westerland-sylt/"
+opening_hours: '"Wird nur noch als Schaufenster genutzt, der Laden ist jetzt in der
+    Neuen Mitte, Neue Straße 3"'
+website: https://www.kokovonknebel.com/store/westerland-sylt/

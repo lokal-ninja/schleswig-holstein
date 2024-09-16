@@ -4,8 +4,8 @@ latitude: 54.36887
 longitude: 10.46457
 postcode: "24257"
 city: Schwartbuck
-street: "Schwartbuckerholz"
-housenumber: 14
+street: Schwartbuckerholz
+housenumber: "14"
 phone: ""
-opening_hours: "Mar-Dec: Fr 16:00-18:00"
+opening_hours: 'Mar-Dec: Fr 16:00-18:00'
 website: ""

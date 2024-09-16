@@ -1,11 +1,11 @@
 id: 182585459
-type: way
+type: node
 latitude: 54.04264
 longitude: 9.97803
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 8407251"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://de.tumi.com/store-detail/?StoreID=4725176377"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 8407251
+opening_hours: Mo-Sa 10:00-20:00
+website: https://de.tumi.com/store-detail/?StoreID=4725176377

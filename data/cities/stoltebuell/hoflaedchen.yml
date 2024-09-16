@@ -1,11 +1,11 @@
 id: 225800427
-type: way
+type: node
 latitude: 54.68828
 longitude: 9.83824
 postcode: "24409"
 city: Stoltebüll
-street: "Spannbrück"
-housenumber: 2
+street: Spannbrück
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.biohof-spannbrueck.de/"
+website: https://www.biohof-spannbrueck.de/

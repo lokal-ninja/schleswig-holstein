@@ -1,11 +1,11 @@
 id: 503418879
-type: way
+type: node
 latitude: 54.22464
 longitude: 11.0349
 postcode: "23749"
 city: Grube
-street: "Bürgermeister-Höppner-Straße"
-housenumber: 1
+street: Bürgermeister-Höppner-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 11:00-17:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 11:00-17:00; PH off
+website: https://www.aldi-nord.de/

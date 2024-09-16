@@ -1,11 +1,11 @@
 id: 733097572
-type: way
+type: node
 latitude: 54.06072
 longitude: 9.98186
 postcode: "24539"
 city: Neumünster
-street: "Altonaer Straße"
-housenumber: 132
+street: Altonaer Straße
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

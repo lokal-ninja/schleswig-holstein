@@ -4,8 +4,9 @@ latitude: 53.667
 longitude: 9.9036
 postcode: "25474"
 city: Bönningstedt
-street: "Kieler Straße"
-housenumber: 116
-phone: "+49 40 696 07 222"
-opening_hours: "We 15:00-18:00 Beratungszeiten; Oder jederzeit nach telefonischer Absprache"
-website: "https://www.purps-partyservice.de/"
+street: Kieler Straße
+housenumber: "116"
+phone: +49 40 696 07 222
+opening_hours: We 15:00-18:00 "Beratungszeiten"; "Oder jederzeit nach telefonischer
+    Absprache"
+website: https://www.purps-partyservice.de/

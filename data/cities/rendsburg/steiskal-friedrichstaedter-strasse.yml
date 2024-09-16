@@ -4,8 +4,8 @@ latitude: 54.32005
 longitude: 9.6243
 postcode: "24768"
 city: Rendsburg
-street: "Friedrichstädter Straße"
-housenumber: 57
-phone: "+49 4331 433766"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.baecker-steiskal.de/"
+street: Friedrichstädter Straße
+housenumber: "57"
+phone: +49 4331 433766
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.baecker-steiskal.de/

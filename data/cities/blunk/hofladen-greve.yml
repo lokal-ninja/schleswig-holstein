@@ -4,8 +4,8 @@ latitude: 54.01157
 longitude: 10.31289
 postcode: "23813"
 city: Blunk
-street: "Dorfstraße"
-housenumber: 18
-phone: "+49 4557 247"
-opening_hours: "Fr 13:30-18:00; Sa 09:00-12:00,13:30-18:00"
-website: "http://hofladen-greve.de/"
+street: Dorfstraße
+housenumber: "18"
+phone: +49 4557 247
+opening_hours: Fr 13:30-18:00; Sa 09:00-12:00,13:30-18:00
+website: http://hofladen-greve.de/

@@ -4,8 +4,8 @@ latitude: 54.63745
 longitude: 9.78633
 postcode: "24392"
 city: Süderbrarup
-street: "Kappelner Straße"
-housenumber: 38
-phone: "+49 4641 2384"
-opening_hours: "Wenn op is, is op. Wenn to is, is to."
-website: "https://www.puettscherpetersen.de/"
+street: Kappelner Straße
+housenumber: "38"
+phone: +49 4641 2384
+opening_hours: '"Wenn op is, is op. Wenn to is, is to."'
+website: https://www.puettscherpetersen.de/

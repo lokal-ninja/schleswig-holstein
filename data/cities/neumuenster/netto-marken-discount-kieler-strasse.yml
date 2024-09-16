@@ -1,11 +1,11 @@
 id: 240547990
-type: way
+type: node
 latitude: 54.08678
 longitude: 9.98688
 postcode: "24536"
 city: Neumünster
-street: "Kieler Straße"
-housenumber: 162
+street: Kieler Straße
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

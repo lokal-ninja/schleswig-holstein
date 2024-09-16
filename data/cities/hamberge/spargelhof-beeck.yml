@@ -4,8 +4,8 @@ latitude: 53.83931
 longitude: 10.58157
 postcode: "23619"
 city: Hamberge
-street: "Eichenweg"
-housenumber: 6
-phone: "+49 451 891348"
-opening_hours: "Mo-Sa 9:00-18:00;Su 9:00-15:00"
-website: "https://www.spargelhof-beeck.de/"
+street: Eichenweg
+housenumber: "6"
+phone: +49 451 891348
+opening_hours: Mo-Sa 9:00-18:00;Su 9:00-15:00
+website: https://www.spargelhof-beeck.de/

@@ -1,11 +1,11 @@
 id: 156353816
-type: way
+type: node
 latitude: 54.01368
 longitude: 8.8975
 postcode: "25718"
 city: Friedrichskoog
-street: "Koogstraße"
-housenumber: 72
+street: Koogstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 09:00-12:00,17:00-18:00"
+opening_hours: Mo,Tu,Th-Sa 09:00-12:00,17:00-18:00
 website: ""

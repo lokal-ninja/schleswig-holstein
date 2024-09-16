@@ -1,11 +1,11 @@
 id: 64963280
-type: way
+type: node
 latitude: 54.3036
 longitude: 10.11205
 postcode: "24113"
 city: Kiel
-street: "Hamburger Chaussee"
-housenumber: 114
+street: Hamburger Chaussee
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

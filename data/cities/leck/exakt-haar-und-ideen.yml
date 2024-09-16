@@ -4,8 +4,8 @@ latitude: 54.77384
 longitude: 8.96925
 postcode: "25917"
 city: Leck
-street: "Allee"
-housenumber: 3
-phone: "+49 4662 698150"
-opening_hours: "Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:30-12:30"
-website: "https://exakt-leck.de/"
+street: Allee
+housenumber: "3"
+phone: +49 4662 698150
+opening_hours: Tu-Th 08:30-18:00; Fr 08:30-19:00; Sa 08:30-12:30
+website: https://exakt-leck.de/

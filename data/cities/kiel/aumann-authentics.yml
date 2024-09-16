@@ -4,8 +4,8 @@ latitude: 54.33204
 longitude: 10.13252
 postcode: "24105"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 64
+street: Holtenauer Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-16:00; Su,PH off; Fr[1] 10:00-22:00 Spätschicht"
-website: "https://aumann-schuhe.de/"
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-16:00; Su,PH off; Fr[1] 10:00-22:00 "Spätschicht"
+website: https://aumann-schuhe.de/

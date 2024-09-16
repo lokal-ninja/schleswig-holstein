@@ -1,11 +1,11 @@
 id: 95564626
-type: way
+type: node
 latitude: 53.98747
 longitude: 9.11223
 postcode: "25693"
 city: Sankt Michaelisdonn
-street: "Westerstraße"
+street: Westerstraße
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
-website: "http://www.luetzen.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
+website: http://www.luetzen.de/

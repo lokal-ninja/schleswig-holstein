@@ -4,8 +4,8 @@ latitude: 54.783
 longitude: 9.44393
 postcode: "24943"
 city: Flensburg
-street: "Hafermarkt"
-housenumber: 19
-phone: "+49 461 141310"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00"
-website: "https://www.fahrradpetersen.de/"
+street: Hafermarkt
+housenumber: "19"
+phone: +49 461 141310
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00
+website: https://www.fahrradpetersen.de/

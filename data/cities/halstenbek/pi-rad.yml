@@ -1,11 +1,11 @@
 id: 782768389
-type: way
+type: node
 latitude: 53.62356
 longitude: 9.82468
 postcode: "25469"
 city: Halstenbek
-street: "Dockenhudener Chaussee"
-housenumber: 119
-phone: "+49 4101 8194571"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://pi-rad.de/"
+street: Dockenhudener Chaussee
+housenumber: "119"
+phone: +49 4101 8194571
+opening_hours: Mo-Fr 09:00-17:00
+website: https://pi-rad.de/

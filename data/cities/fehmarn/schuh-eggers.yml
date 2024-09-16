@@ -4,8 +4,8 @@ latitude: 54.43724
 longitude: 11.19735
 postcode: "23769"
 city: Fehmarn
-street: "Breite Straße"
-housenumber: 27
-phone: "+49 4371 879820"
-opening_hours: "Mo-Sa 09:00-19:00;Su 11:00-17:00;PH closed"
-website: "https://www.shoesnow.de/"
+street: Breite Straße
+housenumber: "27"
+phone: +49 4371 879820
+opening_hours: Mo-Sa 09:00-19:00;Su 11:00-17:00;PH closed
+website: https://www.shoesnow.de/

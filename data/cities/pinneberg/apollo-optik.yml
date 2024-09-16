@@ -1,11 +1,11 @@
 id: 1058390205
-type: way
+type: node
 latitude: 53.66178
 longitude: 9.79887
 postcode: "25421"
 city: Pinneberg
-street: "Am Rathaus"
+street: Am Rathaus
 housenumber: 8a
-phone: "+49 4101 3709949"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off"
-website: "https://filialen.apollo.de/schleswig-holstein/pinneberg/am-rathaus-8a.html"
+phone: +49 4101 3709949
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off
+website: https://filialen.apollo.de/schleswig-holstein/pinneberg/am-rathaus-8a.html

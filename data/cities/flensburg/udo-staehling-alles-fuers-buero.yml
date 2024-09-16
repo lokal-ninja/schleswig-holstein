@@ -1,11 +1,11 @@
 id: 176625150
-type: way
+type: node
 latitude: 54.79244
 longitude: 9.46669
 postcode: "24943"
 city: Flensburg
-street: "Engelsbyer Straße"
-housenumber: 7
-phone: "+49 461 6088"
-opening_hours: "Mo-Th 08:00-13:00,14:30-17:15; Fr 08:00-13:00,14:30-16:00"
-website: "https://www.udo-staehling.de/"
+street: Engelsbyer Straße
+housenumber: "7"
+phone: +49 461 6088
+opening_hours: Mo-Th 08:00-13:00,14:30-17:15; Fr 08:00-13:00,14:30-16:00
+website: https://www.udo-staehling.de/

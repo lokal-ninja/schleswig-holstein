@@ -1,11 +1,13 @@
 id: 529883437
-type: way
+type: node
 latitude: 54.83113
 longitude: 9.41484
 postcode: "24955"
 city: Harrislee
-street: "Wassersleben"
-housenumber: 36
+street: Wassersleben
+housenumber: "36"
 phone: ""
-opening_hours: "07:00-22:00; Su 11:00-20:00; May 01 11:00-20:00; easter +39 days 11:00-20:00; easter +49 days,easter +50 days 11:00-20:00; Dec 24 07:00-14:00; Dec 25-26 off; Oct 03 11:00-20:00; Dec 31 07:00-14:00"
+opening_hours: 07:00-22:00; Su 11:00-20:00; May 01 11:00-20:00; easter +39 days 11:00-20:00;
+    easter +49 days,easter +50 days 11:00-20:00; Dec 24 07:00-14:00; Dec 25-26 off;
+    Oct 03 11:00-20:00; Dec 31 07:00-14:00
 website: ""

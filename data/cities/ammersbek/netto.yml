@@ -1,11 +1,11 @@
 id: 246301725
-type: way
+type: node
 latitude: 53.70908
 longitude: 10.21175
 postcode: "22949"
 city: Ammersbek
-street: "Weg zu den Tannen"
-housenumber: 1
+street: Weg zu den Tannen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.73113
 longitude: 9.9033
 postcode: "25451"
 city: Quickborn
-street: "Bahnhofstraße"
-housenumber: 53
+street: Bahnhofstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://lcc-quickborn.lcc.de/"
+website: https://lcc-quickborn.lcc.de/

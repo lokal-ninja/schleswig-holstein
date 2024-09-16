@@ -4,8 +4,8 @@ latitude: 54.11696
 longitude: 10.3341
 postcode: "24326"
 city: Dersau
-street: "Redderberg"
-housenumber: 8
-phone: "+49 4526 8718"
-opening_hours: "We-Sa 09:00-17:00; Su 12:00-17:00; Mo,Tu off"
-website: "https://www.landgaertnereikobs.de/"
+street: Redderberg
+housenumber: "8"
+phone: +49 4526 8718
+opening_hours: We-Sa 09:00-17:00; Su 12:00-17:00; Mo,Tu off
+website: https://www.landgaertnereikobs.de/

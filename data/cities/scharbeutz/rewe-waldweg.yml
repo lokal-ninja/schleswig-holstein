@@ -1,11 +1,12 @@
 id: 333361122
-type: way
+type: node
 latitude: 54.04824
 longitude: 10.74633
 postcode: "23683"
 city: Scharbeutz
-street: "Waldweg"
+street: Waldweg
 housenumber: 2b
-phone: "+49 4563 478440"
-opening_hours: "Mo-Sa 07:00-21:00; PH closed; Mar 15-Oct 31: Mo-Sa 07:00-22:00; Mar 15-Oct 31: Su,PH 11:00-17:00"
+phone: +49 4563 478440
+opening_hours: 'Mo-Sa 07:00-21:00; PH closed; Mar 15-Oct 31: Mo-Sa 07:00-22:00; Mar
+    15-Oct 31: Su,PH 11:00-17:00'
 website: ""

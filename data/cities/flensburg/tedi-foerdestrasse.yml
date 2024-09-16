@@ -1,11 +1,11 @@
 id: 391517896
-type: way
+type: node
 latitude: 54.81503
 longitude: 9.47079
 postcode: "24944"
 city: Flensburg
-street: "Fördestraße"
-housenumber: 72
+street: Fördestraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.tedi.com/

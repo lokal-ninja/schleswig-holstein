@@ -1,11 +1,11 @@
 id: 75350083
-type: way
+type: node
 latitude: 53.69095
 longitude: 9.99576
 postcode: "22850"
 city: Norderstedt
-street: "Ulzburger Straße"
-housenumber: 101
-phone: "+49 40 5253231"
-opening_hours: "Mo-Fr 06:00-22:00; Sa-Su,PH 07:00-22:00"
-website: "https://www.oil-tankstellen.de/tankstellen-tankstationen/tankstellenfinder-kraftstoffpreise-benzinpreise/tankstelle/ulzburger-strasse-101-22850-norderstedt/"
+street: Ulzburger Straße
+housenumber: "101"
+phone: +49 40 5253231
+opening_hours: Mo-Fr 06:00-22:00; Sa-Su,PH 07:00-22:00
+website: https://www.oil-tankstellen.de/tankstellen-tankstationen/tankstellenfinder-kraftstoffpreise-benzinpreise/tankstelle/ulzburger-strasse-101-22850-norderstedt/

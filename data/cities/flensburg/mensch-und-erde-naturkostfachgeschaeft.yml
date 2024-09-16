@@ -4,8 +4,8 @@ latitude: 54.77062
 longitude: 9.44504
 postcode: "24941"
 city: Flensburg
-street: "Valentinerallee"
-housenumber: 2
-phone: "+49 461 9001122"
-opening_hours: "Mo-Fr 08:00-13:00; PH,Sa,Su off"
-website: "http://www.menschunderde-naturkost.de/"
+street: Valentinerallee
+housenumber: "2"
+phone: +49 461 9001122
+opening_hours: Mo-Fr 08:00-13:00; PH,Sa,Su off
+website: http://www.menschunderde-naturkost.de/

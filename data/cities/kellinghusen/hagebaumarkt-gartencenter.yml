@@ -1,11 +1,11 @@
 id: 418534723
-type: way
+type: node
 latitude: 53.93853
 longitude: 9.73404
 postcode: "25548"
 city: Kellinghusen
-street: "Neuer Kamp"
-housenumber: 32
+street: Neuer Kamp
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-20:00; Su 11:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-20:00; Su 11:00-16:00
 website: ""

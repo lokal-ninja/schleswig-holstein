@@ -4,8 +4,8 @@ latitude: 53.67837
 longitude: 10.14936
 postcode: "22949"
 city: Ammersbek
-street: "Georg-Sasse-Straße"
-housenumber: 3
-phone: "040 238 004 770"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
-website: "https://hoercomfort.de"
+street: Georg-Sasse-Straße
+housenumber: "3"
+phone: 040 238 004 770
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00
+website: https://hoercomfort.de

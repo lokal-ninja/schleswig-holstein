@@ -1,11 +1,11 @@
 id: 244684408
-type: way
+type: node
 latitude: 53.69259
 longitude: 9.71707
 postcode: "25436"
 city: Tornesch
-street: "Esinger Straße"
-housenumber: 56
-phone: "+49 4122 9670038"
+street: Esinger Straße
+housenumber: "56"
+phone: +49 4122 9670038
 opening_hours: ""
-website: "https://andreaspaulsen.de/standorte/abholcenter-tornesch/"
+website: https://andreaspaulsen.de/standorte/abholcenter-tornesch/

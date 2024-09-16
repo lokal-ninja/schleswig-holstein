@@ -1,11 +1,11 @@
 id: 76945880
-type: way
+type: node
 latitude: 53.80047
 longitude: 9.97863
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Kirchweg"
-housenumber: 74
-phone: "+49 4193 9654282"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.getraenke-hoffmann.de/filiale/henstedt-ulzburg/kirchweg-74"
+street: Kirchweg
+housenumber: "74"
+phone: +49 4193 9654282
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.getraenke-hoffmann.de/filiale/henstedt-ulzburg/kirchweg-74

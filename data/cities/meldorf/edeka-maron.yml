@@ -1,11 +1,11 @@
 id: 124324989
-type: way
+type: node
 latitude: 54.09106
 longitude: 9.07854
 postcode: "25704"
 city: Meldorf
-street: "Raiffeisenplatz"
-housenumber: 18
+street: Raiffeisenplatz
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 06:30-20:00; PH off"
-website: "https://www.edeka.de/eh/nord/edeka-maron-raiffeisenplatz-18/index.jsp"
+opening_hours: Mo-Sa 06:30-20:00; PH off
+website: https://www.edeka.de/eh/nord/edeka-maron-raiffeisenplatz-18/index.jsp

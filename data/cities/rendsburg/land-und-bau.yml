@@ -1,11 +1,11 @@
 id: 209755784
-type: way
+type: node
 latitude: 54.31486
 longitude: 9.62472
 postcode: "24768"
 city: Rendsburg
-street: "Friedrichstädter Straße"
-housenumber: 13
-phone: "+49 4331 4509-0"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-12:00; Su,PH off"
-website: "https://www.landundbau.de/"
+street: Friedrichstädter Straße
+housenumber: "13"
+phone: +49 4331 4509-0
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-12:00; Su,PH off
+website: https://www.landundbau.de/

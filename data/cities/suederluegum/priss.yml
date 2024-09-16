@@ -1,11 +1,11 @@
 id: 196358383
-type: way
+type: node
 latitude: 54.88352
 longitude: 8.90884
 postcode: "25923"
 city: Süderlügum
-street: "Hauptstraße"
-housenumber: 58
+street: Hauptstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
-website: "https://www.priss.dk/aabningstider_suderlugum.html"
+website: https://www.priss.dk/aabningstider_suderlugum.html

@@ -1,11 +1,11 @@
 id: 83339193
-type: way
+type: node
 latitude: 53.64232
 longitude: 9.83499
 postcode: "25469"
 city: Halstenbek
-street: "Stawedder"
-housenumber: 30
+street: Stawedder
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00; PH off"
-website: "https://www.auto-thomsen.de/halstenbek"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00; PH off
+website: https://www.auto-thomsen.de/halstenbek

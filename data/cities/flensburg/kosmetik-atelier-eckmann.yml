@@ -4,8 +4,8 @@ latitude: 54.81426
 longitude: 9.49405
 postcode: "24944"
 city: Flensburg
-street: "Tremmerupweg"
-housenumber: 112
-phone: "+49 461 311928"
-opening_hours: "nach Vereinbarung"
+street: Tremmerupweg
+housenumber: "112"
+phone: +49 461 311928
+opening_hours: '"nach Vereinbarung"'
 website: ""

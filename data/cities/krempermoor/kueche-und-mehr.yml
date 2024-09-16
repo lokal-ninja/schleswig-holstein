@@ -1,11 +1,11 @@
 id: 336322327
-type: way
+type: node
 latitude: 53.87952
 longitude: 9.48034
 postcode: "25569"
 city: Krempermoor
-street: "Dorfstraße"
-housenumber: 7
+street: Dorfstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.lk-kuecheundmehr.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.lk-kuecheundmehr.de/

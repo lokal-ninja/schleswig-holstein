@@ -1,11 +1,11 @@
 id: 283857444
-type: way
+type: node
 latitude: 54.44642
 longitude: 9.16918
 postcode: "25873"
 city: Oldersbek
-street: "Dorfstraße"
-housenumber: 30
+street: Dorfstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

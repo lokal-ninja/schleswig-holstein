@@ -4,8 +4,8 @@ latitude: 54.4742
 longitude: 9.83654
 postcode: "24340"
 city: Eckernförde
-street: "Frau-Clara-Straße"
-housenumber: 26
-phone: "+49 4351 8834499"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://eckernfoerde-isst-schoen.de/"
+street: Frau-Clara-Straße
+housenumber: "26"
+phone: +49 4351 8834499
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00; PH off
+website: https://eckernfoerde-isst-schoen.de/

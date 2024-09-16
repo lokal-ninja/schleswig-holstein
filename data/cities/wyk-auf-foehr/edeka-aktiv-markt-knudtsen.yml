@@ -1,11 +1,11 @@
 id: 66098834
-type: way
+type: node
 latitude: 54.69153
 longitude: 8.56593
 postcode: "25938"
 city: Wyk auf Föhr
-street: "Boldixumer Straße"
+street: Boldixumer Straße
 housenumber: 13-15
-phone: "+49 4681 932"
-opening_hours: "Mo-Sa 08:00-20:00; PH closed; Mar 15-Oct 31:Su,PH 11:00-17:00"
-website: "https://www.edeka.de/eh/nord/e-aktiv-markt-knudsen-boldixumer-str.-13-15/index.jsp"
+phone: +49 4681 932
+opening_hours: Mo-Sa 08:00-20:00; PH closed; Mar 15-Oct 31:Su,PH 11:00-17:00
+website: https://www.edeka.de/eh/nord/e-aktiv-markt-knudsen-boldixumer-str.-13-15/index.jsp

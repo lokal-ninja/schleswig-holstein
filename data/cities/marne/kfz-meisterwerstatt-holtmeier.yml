@@ -1,11 +1,11 @@
 id: 241593593
-type: way
+type: node
 latitude: 53.96193
 longitude: 9.00769
 postcode: "25709"
 city: Marne
-street: "Meldorfer Straße"
-housenumber: 32
+street: Meldorfer Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "http://www.reifendienst-holtmeier.de/"
+website: http://www.reifendienst-holtmeier.de/

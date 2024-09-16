@@ -4,8 +4,8 @@ latitude: 54.66254
 longitude: 9.93129
 postcode: "24376"
 city: Kappeln
-street: "Schmiedestraße"
-housenumber: 17
+street: Schmiedestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:30-17:00"
-website: "https://www.ernstings-family.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:30-17:00
+website: https://www.ernstings-family.de/

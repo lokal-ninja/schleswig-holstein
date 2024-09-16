@@ -4,8 +4,8 @@ latitude: 53.73077
 longitude: 9.90335
 postcode: "25451"
 city: Quickborn
-street: "Bahnhofstraße"
-housenumber: 78
+street: Bahnhofstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:00"
-website: "https://www.der.com/reisebuero/Quickborn-Bahnhofstrasse-9"
+opening_hours: Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:00
+website: https://www.der.com/reisebuero/Quickborn-Bahnhofstrasse-9

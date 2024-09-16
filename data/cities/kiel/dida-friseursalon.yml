@@ -4,8 +4,8 @@ latitude: 54.33226
 longitude: 10.1209
 postcode: "24118"
 city: Kiel
-street: "Gutenbergstraße"
-housenumber: 46
+street: Gutenbergstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

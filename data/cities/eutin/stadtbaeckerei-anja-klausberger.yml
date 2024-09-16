@@ -4,8 +4,8 @@ latitude: 54.13261
 longitude: 10.61301
 postcode: "23701"
 city: Eutin
-street: "Albert-Mahlstedt-Straße"
-housenumber: 65
+street: Albert-Mahlstedt-Straße
+housenumber: "65"
 phone: "+49452178423"
-opening_hours: "Fr 05:45-12:00, Sa 06:30-11:00, Su 06:30-11:00"
-website: "http://klausberger.de/"
+opening_hours: Fr 05:45-12:00, Sa 06:30-11:00, Su 06:30-11:00
+website: http://klausberger.de/

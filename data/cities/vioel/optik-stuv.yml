@@ -1,11 +1,11 @@
 id: 198918319
-type: way
+type: node
 latitude: 54.56889
 longitude: 9.17619
 postcode: "25884"
 city: Viöl
-street: "Westerende"
-housenumber: 38
+street: Westerende
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00 nach Terminabsprache, Th 15:30-18:00 nach Terminabsprache"
+opening_hours: Mo-Fr 09:00-12:00 "nach Terminabsprache", Th 15:30-18:00 "nach Terminabsprache"
 website: ""

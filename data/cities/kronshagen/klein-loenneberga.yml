@@ -4,8 +4,8 @@ latitude: 54.34393
 longitude: 10.09906
 postcode: "24119"
 city: Kronshagen
-street: "Eckernförder Straße"
-housenumber: 262
-phone: "+49 431 2404278"
-opening_hours: "Do-Fr 11:00-18:00, Sa 11:00-15:00 || nach Vereinbarung"
-website: "https://www.klein-loenneberga.de/"
+street: Eckernförder Straße
+housenumber: "262"
+phone: +49 431 2404278
+opening_hours: Do-Fr 11:00-18:00, Sa 11:00-15:00 || "nach Vereinbarung"
+website: https://www.klein-loenneberga.de/

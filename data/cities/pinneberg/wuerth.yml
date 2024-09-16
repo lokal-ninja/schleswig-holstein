@@ -1,11 +1,11 @@
 id: 263628152
-type: way
+type: node
 latitude: 53.67494
 longitude: 9.80074
 postcode: "25421"
 city: Pinneberg
-street: "Flensburger Straße"
-housenumber: 12
+street: Flensburger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

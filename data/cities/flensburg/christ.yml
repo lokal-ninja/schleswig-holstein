@@ -4,8 +4,8 @@ latitude: 54.7839
 longitude: 9.43601
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 43
-phone: "+49 461 1682137"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.christ.de/filiale/106/flensburg-holm"
+street: Holm
+housenumber: "43"
+phone: +49 461 1682137
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.christ.de/filiale/106/flensburg-holm

@@ -1,11 +1,11 @@
 id: 256719479
-type: way
+type: node
 latitude: 53.92097
 longitude: 9.88087
 postcode: "24576"
 city: Bad Bramstedt
-street: "Maienbeeck"
-housenumber: 5
+street: Maienbeeck
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-14:00; Sa 09:00-12:00
 website: ""

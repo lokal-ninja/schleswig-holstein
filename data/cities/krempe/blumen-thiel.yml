@@ -1,11 +1,11 @@
 id: 85263717
-type: way
+type: node
 latitude: 53.8369
 longitude: 9.49088
 postcode: "25361"
 city: Krempe
-street: "Breite Straße"
-housenumber: 17
+street: Breite Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 09:00-12:00; Su 10:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 09:00-12:00; Su 10:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.65038
 longitude: 9.79211
 postcode: "25421"
 city: Pinneberg
-street: "Richard-Köhn-Straße"
-housenumber: 18
-phone: "+49 4101 6049500"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-13:00; Su,Mo off"
+street: Richard-Köhn-Straße
+housenumber: "18"
+phone: +49 4101 6049500
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:30-13:00; Su,Mo off
 website: ""

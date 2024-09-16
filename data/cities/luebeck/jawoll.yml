@@ -1,11 +1,11 @@
 id: 181674632
-type: way
+type: node
 latitude: 53.87065
 longitude: 10.74435
 postcode: "23566"
 city: Lübeck
-street: "Grootkoppel"
+street: Grootkoppel
 housenumber: 4-6
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.jawoll.de/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.jawoll.de/

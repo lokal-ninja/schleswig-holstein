@@ -4,8 +4,8 @@ latitude: 54.6571
 longitude: 9.71735
 postcode: "24401"
 city: Böel
-street: "Böelkamp"
-housenumber: 1
-phone: "+49 4641 988215"
-opening_hours: "Mo,Tu,Fr 08:00-12:00; We,Th 08:00-12:00,14:00-18:00; Sa 09:00-12:00"
+street: Böelkamp
+housenumber: "1"
+phone: +49 4641 988215
+opening_hours: Mo,Tu,Fr 08:00-12:00; We,Th 08:00-12:00,14:00-18:00; Sa 09:00-12:00
 website: ""

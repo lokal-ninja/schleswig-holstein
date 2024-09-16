@@ -4,8 +4,8 @@ latitude: 53.57397
 longitude: 9.70703
 postcode: "22880"
 city: Wedel
-street: "Goethestraße"
-housenumber: 4
+street: Goethestraße
+housenumber: "4"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

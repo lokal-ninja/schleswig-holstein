@@ -1,11 +1,11 @@
 id: 1293952439
-type: way
+type: node
 latitude: 54.29288
 longitude: 10.90995
 postcode: "23758"
 city: Oldenburg in Holstein
-street: "Am Voßberg"
-housenumber: 1
-phone: "+49-4361-508060"
-opening_hours: "Mo-Sa 07:00-21:00; Su 11:00-17:00; Ph off"
+street: Am Voßberg
+housenumber: "1"
+phone: +49-4361-508060
+opening_hours: Mo-Sa 07:00-21:00; Su 11:00-17:00; Ph off
 website: ""

@@ -1,11 +1,11 @@
 id: 184237107
-type: way
+type: node
 latitude: 54.05831
 longitude: 9.97956
 postcode: "24539"
 city: Neumünster
-street: "Altonaer Straße"
-housenumber: 164
+street: Altonaer Straße
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

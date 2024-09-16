@@ -1,11 +1,11 @@
 id: 806360260
-type: way
+type: node
 latitude: 54.32345
 longitude: 8.95036
 postcode: "25832"
 city: Tönning
-street: "Utholmer Straße"
-housenumber: 1
+street: Utholmer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:00
 website: ""

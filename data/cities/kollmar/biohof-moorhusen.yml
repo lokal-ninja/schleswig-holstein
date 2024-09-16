@@ -4,8 +4,8 @@ latitude: 53.75514
 longitude: 9.54478
 postcode: "25377"
 city: Kollmar
-street: "Moorhusen"
-housenumber: 41
+street: Moorhusen
+housenumber: "41"
 phone: ""
-opening_hours: "24/7"
-website: "https://shop.biohof-moorhusen.de/"
+opening_hours: 24/7
+website: https://shop.biohof-moorhusen.de/

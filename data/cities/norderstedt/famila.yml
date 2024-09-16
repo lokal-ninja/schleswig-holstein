@@ -1,11 +1,11 @@
 id: 154459927
-type: way
+type: node
 latitude: 53.70838
 longitude: 10.01847
 postcode: "22844"
 city: Norderstedt
-street: "Stormarnstraße"
+street: Stormarnstraße
 housenumber: 33-41
-phone: "+49 40 525090"
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.famila-nordost.de/wqwarenhaus/norderstedt/"
+phone: +49 40 525090
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.famila-nordost.de/wqwarenhaus/norderstedt/

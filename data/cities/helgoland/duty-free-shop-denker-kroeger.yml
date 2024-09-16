@@ -1,11 +1,11 @@
 id: 315187802
-type: way
+type: node
 latitude: 54.1815
 longitude: 7.88982
 postcode: "27498"
 city: Helgoland
-street: "Friesenstraße"
-housenumber: 57
-phone: "+49 4725 811191"
-opening_hours: "Mo-Sa 11:00-16:30; PH,Su 10:30-16:00"
+street: Friesenstraße
+housenumber: "57"
+phone: +49 4725 811191
+opening_hours: Mo-Sa 11:00-16:30; PH,Su 10:30-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.61649
 longitude: 9.86682
 postcode: "25469"
 city: Halstenbek
-street: "Seestraße"
-housenumber: 250
-phone: "+49 4101 48 09 87"
-opening_hours: "Mo-Fr 09:00-18:00 || Nach Absprache andere Termine auch Samstags"
-website: "https://www.kosmetik-fusspflege-krupunder.de/"
+street: Seestraße
+housenumber: "250"
+phone: +49 4101 48 09 87
+opening_hours: Mo-Fr 09:00-18:00 || "Nach Absprache andere Termine auch Samstags"
+website: https://www.kosmetik-fusspflege-krupunder.de/

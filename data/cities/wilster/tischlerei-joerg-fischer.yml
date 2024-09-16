@@ -1,11 +1,11 @@
 id: 183391496
-type: way
+type: node
 latitude: 53.91928
 longitude: 9.37128
 postcode: "25554"
 city: Wilster
-street: "Krumwehl"
-housenumber: 12
+street: Krumwehl
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

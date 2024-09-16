@@ -1,11 +1,11 @@
 id: 91675895
-type: way
+type: node
 latitude: 53.86476
 longitude: 10.72176
 postcode: "23566"
 city: Lübeck
-street: "Kantstraße"
-housenumber: 11
+street: Kantstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/luebeck/marli-kantstr-11.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/luebeck/marli-kantstr-11.html

@@ -4,8 +4,8 @@ latitude: 54.78455
 longitude: 9.43674
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 39
-phone: "+49 461 9788740"
-opening_hours: "Mo-Sa 09:30-19:00; Su,PH off"
-website: "https://www.tkmaxx.de/"
+street: Holm
+housenumber: "39"
+phone: +49 461 9788740
+opening_hours: Mo-Sa 09:30-19:00; Su,PH off
+website: https://www.tkmaxx.de/

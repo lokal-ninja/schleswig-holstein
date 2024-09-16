@@ -4,8 +4,8 @@ latitude: 53.69836
 longitude: 10.5668
 postcode: "23898"
 city: Duvensee
-street: "See-Enn"
-housenumber: 1
-phone: "04543-808388"
-opening_hours: "Mo-Fr: 8:00 Uhr - 17:00 Uhr"
+street: See-Enn
+housenumber: "1"
+phone: 04543-808388
+opening_hours: 'Mo-Fr: 8:00 Uhr - 17:00 Uhr'
 website: ""

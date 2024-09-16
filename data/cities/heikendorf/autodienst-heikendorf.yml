@@ -1,11 +1,11 @@
 id: 110222603
-type: way
+type: node
 latitude: 54.37854
 longitude: 10.21845
 postcode: "24226"
 city: Heikendorf
-street: "Winkel"
-housenumber: 4
+street: Winkel
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:00
 website: ""

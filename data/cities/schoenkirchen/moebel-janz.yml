@@ -1,11 +1,11 @@
 id: 214486199
-type: way
+type: node
 latitude: 54.33587
 longitude: 10.21089
 postcode: "24232"
 city: Schönkirchen
-street: "Schönberger Landstraße"
+street: Schönberger Landstraße
 housenumber: 59-61
 phone: ""
 opening_hours: ""
-website: "https://moebel-janz.de/"
+website: https://moebel-janz.de/

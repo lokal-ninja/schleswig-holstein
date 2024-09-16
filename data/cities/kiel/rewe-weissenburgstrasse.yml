@@ -4,8 +4,8 @@ latitude: 54.32523
 longitude: 10.1184
 postcode: "24116"
 city: Kiel
-street: "Weißenburgstraße"
-housenumber: 15
-phone: "+49 431 2376090"
-opening_hours: "Mo-Sa 07:00-23:00; PH closed"
-website: "https://www.rewe.de/marktseite/kiel/561207/rewe-markt-weissenburgstr-15/"
+street: Weißenburgstraße
+housenumber: "15"
+phone: +49 431 2376090
+opening_hours: Mo-Sa 07:00-23:00; PH closed
+website: https://www.rewe.de/marktseite/kiel/561207/rewe-markt-weissenburgstr-15/

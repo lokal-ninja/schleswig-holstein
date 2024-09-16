@@ -1,11 +1,11 @@
 id: 265804183
-type: way
+type: node
 latitude: 54.15665
 longitude: 10.41069
 postcode: "24306"
 city: Plön
-street: "Hamburger Straße"
-housenumber: 28
+street: Hamburger Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

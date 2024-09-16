@@ -4,8 +4,8 @@ latitude: 54.53786
 longitude: 9.58129
 postcode: "24837"
 city: Schleswig
-street: "Werner-von-Siemens-Straße"
-housenumber: 5
-phone: "+49 4621 9550-0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
-website: "http://www.luettmer.de/"
+street: Werner-von-Siemens-Straße
+housenumber: "5"
+phone: +49 4621 9550-0
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
+website: http://www.luettmer.de/

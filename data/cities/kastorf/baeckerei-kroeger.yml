@@ -1,11 +1,11 @@
 id: 313084085
-type: way
+type: node
 latitude: 53.74812
 longitude: 10.57093
 postcode: "23847"
 city: Kastorf
-street: "Ratzeburger Straße"
-housenumber: 2
+street: Ratzeburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

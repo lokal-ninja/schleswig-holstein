@@ -1,11 +1,11 @@
 id: 198453031
-type: way
+type: node
 latitude: 54.89777
 longitude: 8.36702
 postcode: "25980"
 city: Sylt
-street: "Munkmarscher Chaussee"
-housenumber: 6
-phone: "+49 4651 935580"
-opening_hours: "Mo-Sa 07:00-19:00; Su 11:00-17:00"
+street: Munkmarscher Chaussee
+housenumber: "6"
+phone: +49 4651 935580
+opening_hours: Mo-Sa 07:00-19:00; Su 11:00-17:00
 website: ""

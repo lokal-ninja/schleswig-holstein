@@ -1,11 +1,11 @@
 id: 280262889
-type: way
+type: node
 latitude: 54.51982
 longitude: 9.55031
 postcode: "24837"
 city: Schleswig
-street: "Friedrich-Ebert-Straße"
-housenumber: 3
-phone: "+49 4621 977850"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.famila-nordost.de/markt/schleswig/"
+street: Friedrich-Ebert-Straße
+housenumber: "3"
+phone: +49 4621 977850
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.famila-nordost.de/markt/schleswig/

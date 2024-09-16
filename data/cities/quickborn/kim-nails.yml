@@ -4,8 +4,8 @@ latitude: 53.73105
 longitude: 9.89978
 postcode: "25451"
 city: Quickborn
-street: "Bahnhofstraße"
-housenumber: 13
-phone: "+49 4106 8047818"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:30; by appointment"
+street: Bahnhofstraße
+housenumber: "13"
+phone: +49 4106 8047818
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:30; "by appointment"
 website: ""

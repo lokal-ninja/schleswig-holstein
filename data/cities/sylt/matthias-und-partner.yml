@@ -4,8 +4,8 @@ latitude: 54.90779
 longitude: 8.30602
 postcode: "25980"
 city: Sylt
-street: "Friedrichstraße"
-housenumber: 4
+street: Friedrichstraße
+housenumber: "4"
 phone: ""
-opening_hours: "2022 Nov 01-2023 Mar 31: Tu-Fr 08:30-18:30; Sa off"
+opening_hours: '2022 Nov 01-2023 Mar 31: Tu-Fr 08:30-18:30; Sa off'
 website: ""

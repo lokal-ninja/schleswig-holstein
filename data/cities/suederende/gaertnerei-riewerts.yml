@@ -1,11 +1,11 @@
 id: 120328699
-type: way
+type: node
 latitude: 54.72623
 longitude: 8.44274
 postcode: "25938"
 city: Süderende
 street: ""
-housenumber: 70
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

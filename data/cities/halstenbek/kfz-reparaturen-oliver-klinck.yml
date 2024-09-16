@@ -1,11 +1,11 @@
 id: 33002893
-type: way
+type: node
 latitude: 53.63697
 longitude: 9.84485
 postcode: "25469"
 city: Halstenbek
-street: "Poststraße"
-housenumber: 25
-phone: "+49 4101 43867"
-opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-14:00"
-website: "https://www.kfz-klinck.de/"
+street: Poststraße
+housenumber: "25"
+phone: +49 4101 43867
+opening_hours: Mo-Th 07:30-17:00; Fr 07:30-14:00
+website: https://www.kfz-klinck.de/

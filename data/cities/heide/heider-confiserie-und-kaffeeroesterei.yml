@@ -4,8 +4,8 @@ latitude: 54.19286
 longitude: 9.09111
 postcode: "25746"
 city: Heide
-street: "Süderstraße"
-housenumber: 19
-phone: "+49 481 62381"
-opening_hours: "Mo-Fr 09:30-13:30,14:00-18:00; Sa 09:00-14:00"
-website: "http://heider-kaffeeroesterei.de/"
+street: Süderstraße
+housenumber: "19"
+phone: +49 481 62381
+opening_hours: Mo-Fr 09:30-13:30,14:00-18:00; Sa 09:00-14:00
+website: http://heider-kaffeeroesterei.de/

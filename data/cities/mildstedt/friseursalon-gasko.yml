@@ -1,11 +1,11 @@
 id: 673467019
-type: way
+type: node
 latitude: 54.46083
 longitude: 9.09503
 postcode: "25866"
 city: Mildstedt
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

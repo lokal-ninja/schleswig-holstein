@@ -1,11 +1,11 @@
 id: 285080983
-type: way
+type: node
 latitude: 53.83638
 longitude: 9.49099
 postcode: "25361"
 city: Krempe
-street: "Am Kirchhof"
-housenumber: 14
+street: Am Kirchhof
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

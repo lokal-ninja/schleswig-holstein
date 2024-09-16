@@ -1,11 +1,11 @@
 id: 343730116
-type: way
+type: node
 latitude: 54.52408
 longitude: 9.53859
 postcode: "24837"
 city: Schleswig
-street: "Husumer Straße"
-housenumber: 43
-phone: "+49 4621 25972"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off"
-website: "https://www.gaertnerei-petersen.de/"
+street: Husumer Straße
+housenumber: "43"
+phone: +49 4621 25972
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su off
+website: https://www.gaertnerei-petersen.de/

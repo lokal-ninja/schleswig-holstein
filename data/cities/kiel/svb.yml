@@ -1,11 +1,11 @@
 id: 27179413
-type: way
+type: node
 latitude: 54.30243
 longitude: 10.12757
 postcode: "24113"
 city: Kiel
-street: "Flintbeker Straße"
-housenumber: 2
+street: Flintbeker Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 9:30-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 9:30-18:00; Sa 09:00-14:00
 website: ""

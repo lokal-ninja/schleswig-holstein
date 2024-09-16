@@ -1,11 +1,11 @@
 id: 38481141
-type: way
+type: node
 latitude: 54.63591
 longitude: 8.3562
 postcode: "25946"
 city: Nebel
-street: "Gewerbegebiet"
-housenumber: 2
+street: Gewerbegebiet
+housenumber: "2"
 phone: "+494682968949"
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241785433
-type: way
+type: node
 latitude: 54.71218
 longitude: 9.54345
 postcode: "24991"
 city: Großsolt
-street: "Alte Landstraße"
-housenumber: 2
-phone: "+49 4633 96420"
+street: Alte Landstraße
+housenumber: "2"
+phone: +49 4633 96420
 opening_hours: ""
 website: ""

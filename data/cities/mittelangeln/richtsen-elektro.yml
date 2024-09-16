@@ -1,11 +1,11 @@
 id: 243295834
-type: way
+type: node
 latitude: 54.68283
 longitude: 9.60404
 postcode: "24986"
 city: Mittelangeln
-street: "Raiffeisenstraße"
-housenumber: 3
-phone: "+49 4633 96496"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.richtsen.de"
+street: Raiffeisenstraße
+housenumber: "3"
+phone: +49 4633 96496
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.richtsen.de

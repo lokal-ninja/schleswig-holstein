@@ -4,8 +4,8 @@ latitude: 54.9068
 longitude: 8.30642
 postcode: "25980"
 city: Sylt
-street: "Maybachstraße"
-housenumber: 10
-phone: "+49 4651 82550"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; PH off"
-website: "https://hbjensen.de/"
+street: Maybachstraße
+housenumber: "10"
+phone: +49 4651 82550
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; PH off
+website: https://hbjensen.de/

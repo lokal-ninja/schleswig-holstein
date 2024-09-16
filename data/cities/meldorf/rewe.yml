@@ -1,11 +1,11 @@
 id: 129095302
-type: way
+type: node
 latitude: 54.0957
 longitude: 9.0647
 postcode: "25704"
 city: Meldorf
-street: "Heider Straße"
-housenumber: 33
+street: Heider Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

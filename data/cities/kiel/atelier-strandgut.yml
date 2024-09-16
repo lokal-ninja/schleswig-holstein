@@ -4,8 +4,8 @@ latitude: 54.32987
 longitude: 10.13493
 postcode: "24105"
 city: Kiel
-street: "Preußerstraße"
-housenumber: 20
+street: Preußerstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:00,15:00-18:00; Sa 11:00-13:00"
-website: "http://kerastragu.de"
+opening_hours: Mo-Fr 11:00-13:00,15:00-18:00; Sa 11:00-13:00
+website: http://kerastragu.de

@@ -1,11 +1,11 @@
 id: 99949153
-type: way
+type: node
 latitude: 54.66577
 longitude: 9.93691
 postcode: "24376"
 city: Kappeln
-street: "Am Hafen"
+street: Am Hafen
 housenumber: 23b
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00"
-website: "https://www.yachthandel24.de/"
+opening_hours: Tu-Fr 09:00-12:00
+website: https://www.yachthandel24.de/

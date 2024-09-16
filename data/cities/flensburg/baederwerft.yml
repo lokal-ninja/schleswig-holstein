@@ -4,8 +4,8 @@ latitude: 54.77586
 longitude: 9.40597
 postcode: "24941"
 city: Flensburg
-street: "Am Friedenshügel"
-housenumber: 28
-phone: "+49 461 4304285"
-opening_hours: "nach Terminabsprache"
-website: "https://baederwerft.de/"
+street: Am Friedenshügel
+housenumber: "28"
+phone: +49 461 4304285
+opening_hours: '"nach Terminabsprache"'
+website: https://baederwerft.de/

@@ -1,11 +1,11 @@
 id: 264434552
-type: way
+type: node
 latitude: 53.68711
 longitude: 9.78326
 postcode: "25495"
 city: Kummerfeld
-street: "Ossenpadd"
-housenumber: 4
-phone: "+49 4101 8548482"
-opening_hours: "Mo-Fr 11:00-14:00"
+street: Ossenpadd
+housenumber: "4"
+phone: +49 4101 8548482
+opening_hours: Mo-Fr 11:00-14:00
 website: ""

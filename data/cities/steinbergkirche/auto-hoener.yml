@@ -1,11 +1,11 @@
 id: 201391145
-type: way
+type: node
 latitude: 54.7716
 longitude: 9.72673
 postcode: "24972"
 city: Steinbergkirche
-street: "Nübelfeld"
-housenumber: 60
-phone: "+49 4632 87261"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 10:00-13:00"
-website: "https://home.mobile.de/auto-hoener"
+street: Nübelfeld
+housenumber: "60"
+phone: +49 4632 87261
+opening_hours: Mo-Fr 09:00-17:30; Sa 10:00-13:00
+website: https://home.mobile.de/auto-hoener

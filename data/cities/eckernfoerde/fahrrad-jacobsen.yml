@@ -4,8 +4,8 @@ latitude: 54.4672
 longitude: 9.83741
 postcode: "24340"
 city: Eckernförde
-street: "Kieler Straße"
-housenumber: 88
+street: Kieler Straße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,13:30-18:00; Sa 08:00-13:00"
-website: "https://www.fahrrad-jacobsen.de/"
+opening_hours: Mo-Fr 08:00-13:00,13:30-18:00; Sa 08:00-13:00
+website: https://www.fahrrad-jacobsen.de/

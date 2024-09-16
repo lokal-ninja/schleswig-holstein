@@ -1,11 +1,11 @@
 id: 123913824
-type: way
+type: node
 latitude: 53.96203
 longitude: 10.32037
 postcode: "23795"
 city: Klein Rönnau
-street: "Am Plöner Eck"
-housenumber: 1
+street: Am Plöner Eck
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 563217134
-type: way
+type: node
 latitude: 54.3958
 longitude: 9.67
 postcode: "24358"
 city: Ahlefeld-Bistensee
-street: "Meierhof"
-housenumber: 4
+street: Meierhof
+housenumber: "4"
 phone: ""
-opening_hours: "Th-Fr 11:00-18:00; Sa 11:00-16:00; PH off"
-website: "http://rathjens-depot.de"
+opening_hours: Th-Fr 11:00-18:00; Sa 11:00-16:00; PH off
+website: http://rathjens-depot.de

@@ -1,11 +1,11 @@
 id: 180016927
-type: way
+type: node
 latitude: 53.57832
 longitude: 10.19126
 postcode: "22885"
 city: Barsbüttel
-street: "Hanskampring"
-housenumber: 2
+street: Hanskampring
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://kaercher-center-lippke.de/"
+website: https://kaercher-center-lippke.de/

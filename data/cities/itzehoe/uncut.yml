@@ -1,11 +1,11 @@
 id: 129199801
-type: way
+type: node
 latitude: 53.92488
 longitude: 9.52302
 postcode: "25524"
 city: Itzehoe
-street: "Sandberg"
-housenumber: 64
-phone: "+49 4821 63040"
+street: Sandberg
+housenumber: "64"
+phone: +49 4821 63040
 opening_hours: ""
 website: ""

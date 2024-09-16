@@ -1,11 +1,11 @@
 id: 399025218
-type: way
+type: node
 latitude: 54.48179
 longitude: 9.04613
 postcode: "25813"
 city: Husum
-street: "Hinter der Neustadt"
-housenumber: 53
-phone: "+49 4841 5544"
+street: Hinter der Neustadt
+housenumber: "53"
+phone: +49 4841 5544
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.34827
 longitude: 10.09347
 postcode: "24107"
 city: Kiel
-street: "Suchskrug"
-housenumber: 2
-phone: "+49 431 546300"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00"
+street: Suchskrug
+housenumber: "2"
+phone: +49 431 546300
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-14:00
 website: ""

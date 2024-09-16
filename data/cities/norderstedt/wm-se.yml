@@ -1,11 +1,11 @@
 id: 309793439
-type: way
+type: node
 latitude: 53.66322
 longitude: 9.98555
 postcode: "22848"
 city: Norderstedt
-street: "Bornbarch"
-housenumber: 14
+street: Bornbarch
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

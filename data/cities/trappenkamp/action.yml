@@ -1,11 +1,11 @@
 id: 167811423
-type: way
+type: node
 latitude: 54.04189
 longitude: 10.21978
 postcode: "24610"
 city: Trappenkamp
-street: "Erfurter Straße"
-housenumber: 1
+street: Erfurter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

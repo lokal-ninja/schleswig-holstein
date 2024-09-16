@@ -1,11 +1,11 @@
 id: 142379214
-type: way
+type: node
 latitude: 54.13703
 longitude: 8.87399
 postcode: "25761"
 city: Büsum
-street: "Hafentörn"
-housenumber: 4
-phone: "+49 4834 960490"
-opening_hours: "Mo-Sa 09:00-17:30; PH off; Mar 15-Oct 31 Su, PH 11:30-17:30"
-website: "https://www.kaufhaus-stolz.com"
+street: Hafentörn
+housenumber: "4"
+phone: +49 4834 960490
+opening_hours: Mo-Sa 09:00-17:30; PH off; Mar 15-Oct 31 Su, PH 11:30-17:30
+website: https://www.kaufhaus-stolz.com

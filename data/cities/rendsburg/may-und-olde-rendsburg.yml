@@ -4,8 +4,9 @@ latitude: 54.32768
 longitude: 9.61992
 postcode: "24768"
 city: Rendsburg
-street: "Büsumer Straße"
-housenumber: 150
+street: Büsumer Straße
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30 open Service; Sa 09:00-12:00 open Service; Su 11:00-16:00 open Präsentation"
+opening_hours: Mo-Fr 07:30-17:30 open "Service"; Sa 09:00-12:00 open "Service"; Su
+    11:00-16:00 open "Präsentation"
 website: ""

@@ -4,8 +4,9 @@ latitude: 53.93405
 longitude: 10.30853
 postcode: "23795"
 city: Bad Segeberg
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 9-11
 phone: ""
-opening_hours: "Su 07:30-16:00; Sa 06:00-17:00; Mo-Fr 06:00-18:00; Jun 09-10 07:30-12:00 open Pfingsten"
+opening_hours: Su 07:30-16:00; Sa 06:00-17:00; Mo-Fr 06:00-18:00; Jun 09-10 07:30-12:00
+    open "Pfingsten"
 website: ""

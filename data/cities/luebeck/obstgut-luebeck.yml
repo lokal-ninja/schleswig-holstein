@@ -1,11 +1,11 @@
 id: 238458937
-type: way
+type: node
 latitude: 53.82278
 longitude: 10.64942
 postcode: "23560"
 city: Lübeck
-street: "Kronsforder Landstraße"
-housenumber: 201
-phone: "+49 451 57518"
+street: Kronsforder Landstraße
+housenumber: "201"
+phone: +49 451 57518
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 398297626
-type: way
+type: node
 latitude: 54.89299
 longitude: 8.37118
 postcode: "25980"
 city: Sylt
-street: "Gaat"
-housenumber: 6
+street: Gaat
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

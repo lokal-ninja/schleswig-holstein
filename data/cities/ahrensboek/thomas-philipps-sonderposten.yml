@@ -1,11 +1,11 @@
 id: 132524788
-type: way
+type: node
 latitude: 54.01045
 longitude: 10.57498
 postcode: "23623"
 city: Ahrensbök
-street: "Bökenbarg"
-housenumber: 1
+street: Bökenbarg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

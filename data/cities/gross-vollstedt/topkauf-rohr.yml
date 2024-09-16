@@ -4,8 +4,8 @@ latitude: 54.23525
 longitude: 9.86981
 postcode: "24802"
 city: Groß Vollstedt
-street: "Dorfstraße"
-housenumber: 38
-phone: "+49 4305 387"
-opening_hours: "Mo-Fr 07:00-13:00, 14:30-18:30; Sa 07:00-13:00; Su 07:00-12:00"
+street: Dorfstraße
+housenumber: "38"
+phone: +49 4305 387
+opening_hours: Mo-Fr 07:00-13:00, 14:30-18:30; Sa 07:00-13:00; Su 07:00-12:00
 website: ""

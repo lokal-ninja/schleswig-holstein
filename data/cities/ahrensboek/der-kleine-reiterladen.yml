@@ -4,8 +4,8 @@ latitude: 54.01042
 longitude: 10.57331
 postcode: "23623"
 city: Ahrensbök
-street: "Plöner Straße"
-housenumber: 6
+street: Plöner Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:30, 15:30-18:00; We,Sa,Su off; PH off"
-website: "https://www.der-kleine-reiterladen-ahrensboek.de/"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:30, 15:30-18:00; We,Sa,Su off; PH off
+website: https://www.der-kleine-reiterladen-ahrensboek.de/

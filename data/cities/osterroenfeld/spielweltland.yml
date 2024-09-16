@@ -1,11 +1,11 @@
 id: 127238519
-type: way
+type: node
 latitude: 54.28676
 longitude: 9.68085
 postcode: "24783"
 city: Osterrönfeld
-street: "Walter-Zeidler-Straße"
-housenumber: 1
-phone: "+49 4331 88452"
+street: Walter-Zeidler-Straße
+housenumber: "1"
+phone: +49 4331 88452
 opening_hours: ""
-website: "https://spielweltland.de"
+website: https://spielweltland.de

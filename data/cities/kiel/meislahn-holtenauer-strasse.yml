@@ -4,8 +4,8 @@ latitude: 54.33064
 longitude: 10.13236
 postcode: "24105"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 34
-phone: "+49 431 8879915"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH,Su off"
-website: "https://meislahn.de/pages/lieblingsstucke"
+street: Holtenauer Straße
+housenumber: "34"
+phone: +49 431 8879915
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH,Su off
+website: https://meislahn.de/pages/lieblingsstucke

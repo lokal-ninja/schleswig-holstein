@@ -4,8 +4,8 @@ latitude: 54.65934
 longitude: 10.01609
 postcode: "24376"
 city: Kappeln
-street: "Hafenpromenade"
-housenumber: 3
-phone: "+49 4642 9212467"
-opening_hours: "Mo-Su 09:00-16:00"
+street: Hafenpromenade
+housenumber: "3"
+phone: +49 4642 9212467
+opening_hours: Mo-Su 09:00-16:00
 website: ""

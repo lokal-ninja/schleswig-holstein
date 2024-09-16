@@ -1,11 +1,11 @@
 id: 61323102
-type: way
+type: node
 latitude: 53.62563
 longitude: 9.68872
 postcode: "25488"
 city: Holm
-street: "Bredhornweg"
-housenumber: 76
+street: Bredhornweg
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

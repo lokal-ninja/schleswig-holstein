@@ -4,8 +4,8 @@ latitude: 54.47328
 longitude: 9.83487
 postcode: "24340"
 city: Eckernförde
-street: "Langebrückstraße"
-housenumber: 20
+street: Langebrückstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.eckernfoerder-kaffeeroesterei.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.eckernfoerder-kaffeeroesterei.de/

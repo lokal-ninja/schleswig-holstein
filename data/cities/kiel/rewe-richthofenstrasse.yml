@@ -1,11 +1,11 @@
 id: 135985705
-type: way
+type: node
 latitude: 54.37202
 longitude: 10.13553
 postcode: "24159"
 city: Kiel
-street: "Richthofenstraße"
-housenumber: 57
+street: Richthofenstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

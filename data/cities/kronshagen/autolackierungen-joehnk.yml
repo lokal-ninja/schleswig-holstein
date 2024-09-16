@@ -1,11 +1,11 @@
 id: 252448354
-type: way
+type: node
 latitude: 54.34351
 longitude: 10.09854
 postcode: "24119"
 city: Kronshagen
-street: "Eckernförder Straße"
-housenumber: 303
+street: Eckernförder Straße
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

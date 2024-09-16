@@ -1,11 +1,11 @@
 id: 493047084
-type: way
+type: node
 latitude: 54.2843
 longitude: 9.17225
 postcode: "25779"
 city: Hennstedt
-street: "Tellingstedter Straße"
-housenumber: 11
+street: Tellingstedter Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00;Su,PH off"
-website: "https://www.netto-online.de/filialen/Hennstedt/Tellingstedter-Str-11/"
+opening_hours: Mo-Sa 07:00-21:00;Su,PH off
+website: https://www.netto-online.de/filialen/Hennstedt/Tellingstedter-Str-11/

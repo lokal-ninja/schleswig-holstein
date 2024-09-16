@@ -4,8 +4,8 @@ latitude: 54.78644
 longitude: 8.82733
 postcode: "25899"
 city: Niebüll
-street: "Hauptstraße"
-housenumber: 45
+street: Hauptstraße
+housenumber: "45"
 phone: "+491776453689"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://packundschnack.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://packundschnack.de/

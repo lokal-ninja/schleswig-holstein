@@ -1,11 +1,11 @@
 id: 225654752
-type: way
+type: node
 latitude: 54.37803
 longitude: 9.07236
 postcode: "25840"
 city: Friedrichstadt
-street: "Van-Wouwer-Straße"
-housenumber: 6
+street: Van-Wouwer-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

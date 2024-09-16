@@ -4,8 +4,8 @@ latitude: 54.78273
 longitude: 9.43679
 postcode: "24937"
 city: Flensburg
-street: "Südermarkt"
-housenumber: 3
-phone: "+49 461 25680"
-opening_hours: "Mo-Fr 07:30-18:00; Su,PH 08:00-17:00; Sa 08:00-16:00"
+street: Südermarkt
+housenumber: "3"
+phone: +49 461 25680
+opening_hours: Mo-Fr 07:30-18:00; Su,PH 08:00-17:00; Sa 08:00-16:00
 website: ""

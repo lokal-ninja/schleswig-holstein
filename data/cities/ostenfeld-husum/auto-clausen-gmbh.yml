@@ -1,11 +1,11 @@
 id: 254181163
-type: way
+type: node
 latitude: 54.46383
 longitude: 9.22188
 postcode: "25872"
 city: Ostenfeld (Husum)
-street: "Ostenfelder Landstraße"
-housenumber: 6
+street: Ostenfelder Landstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

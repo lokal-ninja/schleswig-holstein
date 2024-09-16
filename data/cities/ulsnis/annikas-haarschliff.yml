@@ -4,8 +4,9 @@ latitude: 54.56729
 longitude: 9.74706
 postcode: "24897"
 city: Ulsnis
-street: "Süderholzstraße"
-housenumber: 1
-phone: "+49 4641 3213"
-opening_hours: "Mo 08:00-12:30,15:00-20:00; Tu,Fr,Sa 08:00-12:30; Th 08:00-17:00; PH,We,Su off"
+street: Süderholzstraße
+housenumber: "1"
+phone: +49 4641 3213
+opening_hours: Mo 08:00-12:30,15:00-20:00; Tu,Fr,Sa 08:00-12:30; Th 08:00-17:00; PH,We,Su
+    off
 website: ""

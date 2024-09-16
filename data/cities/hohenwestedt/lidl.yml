@@ -1,11 +1,11 @@
 id: 186466675
-type: way
+type: node
 latitude: 54.08466
 longitude: 9.65084
 postcode: "24594"
 city: Hohenwestedt
-street: "Itzehoer Straße"
-housenumber: 42
+street: Itzehoer Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

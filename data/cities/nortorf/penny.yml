@@ -1,11 +1,11 @@
 id: 211283250
-type: way
+type: node
 latitude: 54.16651
 longitude: 9.85778
 postcode: "24589"
 city: Nortorf
-street: "Lohkamp"
+street: Lohkamp
 housenumber: 19-23
-phone: "+49221 20199959"
+phone: +49221 20199959
 opening_hours: ""
-website: "https://www.penny.de/"
+website: https://www.penny.de/

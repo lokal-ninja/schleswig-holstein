@@ -4,8 +4,9 @@ latitude: 53.93608
 longitude: 10.31015
 postcode: "23795"
 city: Bad Segeberg
-street: "Oldesloer Straße"
-housenumber: 1
-phone: "+49 4551 304774"
-opening_hours: "Mo-Tu 10:00-18:00; We 10:00-13:00; Th-Fr 10:00-18:00; Sa 10:00-13:00; Su off"
-website: "https://shopseite.telekom.de/nord-ost/bad-segeberg/oldesloer-str-1"
+street: Oldesloer Straße
+housenumber: "1"
+phone: +49 4551 304774
+opening_hours: Mo-Tu 10:00-18:00; We 10:00-13:00; Th-Fr 10:00-18:00; Sa 10:00-13:00;
+    Su off
+website: https://shopseite.telekom.de/nord-ost/bad-segeberg/oldesloer-str-1

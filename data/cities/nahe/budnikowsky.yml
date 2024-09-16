@@ -1,11 +1,11 @@
 id: 140185317
-type: way
+type: node
 latitude: 53.79668
 longitude: 10.14293
 postcode: "23866"
 city: Nahe
-street: "Segeberger Straße"
-housenumber: 30
+street: Segeberger Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.budni.de/filialen/23866-segeberger-strasse-30/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.budni.de/filialen/23866-segeberger-strasse-30/

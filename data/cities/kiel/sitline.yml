@@ -4,8 +4,8 @@ latitude: 54.325
 longitude: 10.1289
 postcode: "24103"
 city: Kiel
-street: "Fleethörn"
-housenumber: 59
-phone: "+49 431 970222"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00"
-website: "https://www.sitline.de"
+street: Fleethörn
+housenumber: "59"
+phone: +49 431 970222
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00
+website: https://www.sitline.de

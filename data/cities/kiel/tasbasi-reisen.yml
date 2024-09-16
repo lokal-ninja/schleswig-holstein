@@ -4,8 +4,8 @@ latitude: 54.35264
 longitude: 10.09138
 postcode: "24107"
 city: Kiel
-street: "Steekberg"
-housenumber: 5
-phone: "+49 431 313030"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; PH,Su off"
-website: "https://www.tasbasi.de/"
+street: Steekberg
+housenumber: "5"
+phone: +49 431 313030
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; PH,Su off
+website: https://www.tasbasi.de/

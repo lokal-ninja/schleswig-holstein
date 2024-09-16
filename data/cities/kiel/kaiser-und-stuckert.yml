@@ -4,8 +4,8 @@ latitude: 54.32303
 longitude: 10.13083
 postcode: "24103"
 city: Kiel
-street: "Dammstraße"
-housenumber: 7
-phone: "+49 431 981390"
-opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-15:00"
-website: "https://www.kaiser-stuckert.de/"
+street: Dammstraße
+housenumber: "7"
+phone: +49 431 981390
+opening_hours: Mo-Th 06:30-17:00; Fr 06:30-15:00
+website: https://www.kaiser-stuckert.de/

@@ -4,8 +4,8 @@ latitude: 54.76072
 longitude: 9.41462
 postcode: "24941"
 city: Flensburg
-street: "Philipp-Reis-Straße"
-housenumber: 9
-phone: "+49 160 6292531"
-opening_hours: "Tu 09:00-14:00"
-website: "https://www.frieda-kaffee.de/"
+street: Philipp-Reis-Straße
+housenumber: "9"
+phone: +49 160 6292531
+opening_hours: Tu 09:00-14:00
+website: https://www.frieda-kaffee.de/

@@ -1,11 +1,11 @@
 id: 109409405
-type: way
+type: node
 latitude: 54.2996
 longitude: 10.14704
 postcode: "24143"
 city: Kiel
-street: "Konrad-Adenauer-Damm"
-housenumber: 8
+street: Konrad-Adenauer-Damm
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

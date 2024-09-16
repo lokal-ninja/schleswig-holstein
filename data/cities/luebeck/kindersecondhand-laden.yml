@@ -4,8 +4,8 @@ latitude: 53.85549
 longitude: 10.66697
 postcode: "23558"
 city: Lübeck
-street: "Moislinger Allee"
-housenumber: 84
-phone: "+49 1525 5670406"
-opening_hours: "Mo closed, Tu,Th-Fr 10:00-18:00, We,Sa 10:00-13:30"
-website: "https://kindersecondhand-laden.de/"
+street: Moislinger Allee
+housenumber: "84"
+phone: +49 1525 5670406
+opening_hours: Mo closed, Tu,Th-Fr 10:00-18:00, We,Sa 10:00-13:30
+website: https://kindersecondhand-laden.de/

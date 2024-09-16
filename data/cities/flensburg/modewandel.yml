@@ -4,8 +4,8 @@ latitude: 54.7822
 longitude: 9.43586
 postcode: "24937"
 city: Flensburg
-street: "Rote Straße"
-housenumber: 3
-phone: "+49 461 97888777"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off"
-website: "https://www.modewandel.de/"
+street: Rote Straße
+housenumber: "3"
+phone: +49 461 97888777
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off
+website: https://www.modewandel.de/

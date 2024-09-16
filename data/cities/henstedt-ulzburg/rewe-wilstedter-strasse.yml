@@ -1,11 +1,11 @@
 id: 78336423
-type: way
+type: node
 latitude: 53.75318
 longitude: 9.99757
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Wilstedter Straße"
-housenumber: 63
+street: Wilstedter Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 304872180
-type: way
+type: node
 latitude: 53.67896
 longitude: 9.98593
 postcode: "22848"
 city: Norderstedt
-street: "Tannenhofstraße"
-housenumber: 47
+street: Tannenhofstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 05:30-13:00; Sa 05:30-12:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 05:30-13:00; Sa 05:30-12:00; Su 08:00-11:00
 website: ""

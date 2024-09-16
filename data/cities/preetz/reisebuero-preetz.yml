@@ -4,8 +4,9 @@ latitude: 54.23415
 longitude: 10.28153
 postcode: "24211"
 city: Preetz
-street: "Kirchenstraße"
-housenumber: 4
+street: Kirchenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-17:00; We 09:00-13:00,15:00-17:00; Sa 09:00-13:00"
-website: "https://www.reisebuero-preetz.de/"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-17:00; We 09:00-13:00,15:00-17:00; Sa
+    09:00-13:00
+website: https://www.reisebuero-preetz.de/

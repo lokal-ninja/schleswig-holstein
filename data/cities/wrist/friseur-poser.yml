@@ -1,11 +1,11 @@
 id: 560472142
-type: way
+type: node
 latitude: 53.93401
 longitude: 9.75427
 postcode: "25563"
 city: Wrist
-street: "Stettiner Straße"
-housenumber: 11
-phone: "+49 4822 7222"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-13:00"
+street: Stettiner Straße
+housenumber: "11"
+phone: +49 4822 7222
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:00-13:00
 website: ""

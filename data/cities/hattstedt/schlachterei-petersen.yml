@@ -1,11 +1,11 @@
 id: 255225141
-type: way
+type: node
 latitude: 54.53087
 longitude: 9.02147
 postcode: "25856"
 city: Hattstedt
-street: "Bundesstraße"
-housenumber: 61
-phone: "+49 4846 69135"
-opening_hours: "Mo-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:00"
-website: "https://fleischerei-petersen.de/"
+street: Bundesstraße
+housenumber: "61"
+phone: +49 4846 69135
+opening_hours: Mo-Fr 07:00-13:00,14:30-18:00; Sa 07:00-12:00
+website: https://fleischerei-petersen.de/

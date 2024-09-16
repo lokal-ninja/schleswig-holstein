@@ -4,8 +4,9 @@ latitude: 54.0716
 longitude: 9.98584
 postcode: "24534"
 city: Neumünster
-street: "Großflecken"
-housenumber: 26
+street: Großflecken
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-We 08:00-18:30; Th 08:00-19:00; Fr 08:00-18:30; Sa 08:00-18:00; PH off"
+opening_hours: Mo-We 08:00-18:30; Th 08:00-19:00; Fr 08:00-18:30; Sa 08:00-18:00;
+    PH off
 website: ""

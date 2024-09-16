@@ -4,8 +4,8 @@ latitude: 54.2187
 longitude: 10.89766
 postcode: "23738"
 city: Lensahn
-street: "Dieselstraße"
-housenumber: 6
+street: Dieselstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Mar-Oct: Su 11:00-17:00"
+opening_hours: 'Mo-Sa 07:00-22:00; Mar-Oct: Su 11:00-17:00'
 website: ""

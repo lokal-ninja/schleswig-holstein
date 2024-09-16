@@ -4,8 +4,8 @@ latitude: 54.12972
 longitude: 8.86596
 postcode: "25761"
 city: Büsum
-street: "Fischerkai"
-housenumber: 2
-phone: "+49 4834 9844 910"
-opening_hours: "Mo-Sa 07:00-14:00"
-website: "https://buesum-bio.de/"
+street: Fischerkai
+housenumber: "2"
+phone: +49 4834 9844 910
+opening_hours: Mo-Sa 07:00-14:00
+website: https://buesum-bio.de/

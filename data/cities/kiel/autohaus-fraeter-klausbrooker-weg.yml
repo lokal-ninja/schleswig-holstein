@@ -1,11 +1,11 @@
 id: 127682280
-type: way
+type: node
 latitude: 54.35008
 longitude: 10.09341
 postcode: "24107"
 city: Kiel
-street: "Klausbrooker Weg"
-housenumber: 1
-phone: "+49 431 548060"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.autohaus-fraeter.de/standorte.php?ort=1"
+street: Klausbrooker Weg
+housenumber: "1"
+phone: +49 431 548060
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.autohaus-fraeter.de/standorte.php?ort=1

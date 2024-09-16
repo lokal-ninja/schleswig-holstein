@@ -1,11 +1,11 @@
 id: 28679562
-type: way
+type: node
 latitude: 53.82986
 longitude: 9.98009
 postcode: "24568"
 city: Kaltenkirchen
-street: "Kisdorfer Weg"
-housenumber: 13
+street: Kisdorfer Weg
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.famila-nordost.de/markt/kaltenkirchen/"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.famila-nordost.de/markt/kaltenkirchen/

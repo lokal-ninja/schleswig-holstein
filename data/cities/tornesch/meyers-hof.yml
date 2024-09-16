@@ -1,11 +1,11 @@
 id: 533427239
-type: way
+type: node
 latitude: 53.70463
 longitude: 9.73293
 postcode: "25436"
 city: Tornesch
-street: "Ahrenloher Straße"
-housenumber: 120
+street: Ahrenloher Straße
+housenumber: "120"
 phone: ""
 opening_hours: ""
-website: "http://www.die-gruene-suchmaschine.de/Adresseintrag/97427-Tornesch-Hofladen-Meyer.html"
+website: http://www.die-gruene-suchmaschine.de/Adresseintrag/97427-Tornesch-Hofladen-Meyer.html

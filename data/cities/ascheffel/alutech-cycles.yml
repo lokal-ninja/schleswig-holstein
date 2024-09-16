@@ -1,11 +1,11 @@
 id: 428201322
-type: way
+type: node
 latitude: 54.42741
 longitude: 9.69994
 postcode: "24358"
 city: Ascheffel
-street: "Straßberg"
-housenumber: 5
+street: Straßberg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://alutech-cycles.com/"
+website: https://alutech-cycles.com/

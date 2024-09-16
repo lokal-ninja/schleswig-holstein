@@ -1,11 +1,11 @@
 id: 198511821
-type: way
+type: node
 latitude: 54.48833
 longitude: 9.07842
 postcode: "25813"
 city: Husum
-street: "Flensburger Chaussee"
-housenumber: 48
+street: Flensburger Chaussee
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

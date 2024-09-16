@@ -1,11 +1,11 @@
 id: 417571392
-type: way
+type: node
 latitude: 54.48232
 longitude: 9.04504
 postcode: "25813"
 city: Husum
-street: "Hinter der Neustadt"
-housenumber: 88
-phone: "+49 4841 9040626"
+street: Hinter der Neustadt
+housenumber: "88"
+phone: +49 4841 9040626
 opening_hours: ""
-website: "https://dw-husum.de"
+website: https://dw-husum.de

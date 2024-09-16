@@ -4,8 +4,8 @@ latitude: 54.51668
 longitude: 9.56375
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 30
-phone: "+49 4621 25830"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; PH,Su off"
-website: "http://www.baeckerei-jaich.de/"
+street: Stadtweg
+housenumber: "30"
+phone: +49 4621 25830
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; PH,Su off
+website: http://www.baeckerei-jaich.de/

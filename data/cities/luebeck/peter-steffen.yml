@@ -4,8 +4,8 @@ latitude: 53.8896
 longitude: 10.79945
 postcode: "23568"
 city: Lübeck
-street: "Schlutuper Kirchstraße"
-housenumber: 13
-phone: "+49-451-690922"
-opening_hours: "Mo-Fr 06:00-14:00"
-website: "https://www.petersteffen.de/"
+street: Schlutuper Kirchstraße
+housenumber: "13"
+phone: +49-451-690922
+opening_hours: Mo-Fr 06:00-14:00
+website: https://www.petersteffen.de/

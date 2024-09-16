@@ -1,11 +1,11 @@
 id: 33721026
-type: way
+type: node
 latitude: 53.66842
 longitude: 10.23236
 postcode: "22926"
 city: Ahrensburg
-street: "Bahnhofstraße"
-housenumber: 17
-phone: "+49 4102 57961"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.edeka.de/eh/nord/edeka-höfling-bahnhofstraße-17/index.jsp"
+street: Bahnhofstraße
+housenumber: "17"
+phone: +49 4102 57961
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.edeka.de/eh/nord/edeka-höfling-bahnhofstraße-17/index.jsp

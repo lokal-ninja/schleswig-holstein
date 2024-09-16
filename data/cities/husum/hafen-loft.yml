@@ -1,11 +1,11 @@
 id: 257815488
-type: way
+type: node
 latitude: 54.47558
 longitude: 9.04889
 postcode: "25813"
 city: Husum
-street: "Schiffbrücke"
-housenumber: 2
-phone: "+49 4841 7766822"
+street: Schiffbrücke
+housenumber: "2"
+phone: +49 4841 7766822
 opening_hours: ""
 website: ""

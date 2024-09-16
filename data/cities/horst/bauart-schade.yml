@@ -1,11 +1,11 @@
 id: 275260034
-type: way
+type: node
 latitude: 53.80362
 longitude: 9.64829
 postcode: "25358"
 city: Horst
-street: "Gewerbestraße"
-housenumber: 9
-phone: "+49 4126 39110"
+street: Gewerbestraße
+housenumber: "9"
+phone: +49 4126 39110
 opening_hours: ""
-website: "https://bauart-schade.de/"
+website: https://bauart-schade.de/

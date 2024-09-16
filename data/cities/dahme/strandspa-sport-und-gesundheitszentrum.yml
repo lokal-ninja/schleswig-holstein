@@ -1,11 +1,11 @@
 id: 170702198
-type: way
+type: node
 latitude: 54.22851
 longitude: 11.08605
 postcode: "23747"
 city: Dahme
-street: "An der Strandpromenade"
-housenumber: 38
+street: An der Strandpromenade
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "http://strandspa.de"
+website: http://strandspa.de

@@ -1,11 +1,11 @@
 id: 429889735
-type: way
+type: node
 latitude: 53.82247
 longitude: 10.15501
 postcode: "23845"
 city: Oering
-street: "Sauer Moor"
-housenumber: 2
+street: Sauer Moor
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

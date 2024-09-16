@@ -1,11 +1,11 @@
 id: 359639916
-type: way
+type: node
 latitude: 54.81417
 longitude: 9.47083
 postcode: "24944"
 city: Flensburg
-street: "Fördestraße"
-housenumber: 70
-phone: "+49 461 34447"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/"
+street: Fördestraße
+housenumber: "70"
+phone: +49 461 34447
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/

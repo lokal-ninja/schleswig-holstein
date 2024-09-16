@@ -1,11 +1,11 @@
 id: 257815472
-type: way
+type: node
 latitude: 54.47535
 longitude: 9.04849
 postcode: "25813"
 city: Husum
-street: "Hafenstraße"
-housenumber: 20
+street: Hafenstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

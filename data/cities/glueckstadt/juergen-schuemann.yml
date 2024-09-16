@@ -1,11 +1,11 @@
 id: 95224992
-type: way
+type: node
 latitude: 53.77857
 longitude: 9.43175
 postcode: "25348"
 city: Glückstadt
-street: "Stadtstraße"
-housenumber: 46
+street: Stadtstraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 110897338
-type: way
+type: node
 latitude: 54.53727
 longitude: 9.58496
 postcode: "24837"
 city: Schleswig
-street: "Heinrich-Hertz-Straße"
-housenumber: 18
-phone: "+49 4621 95900"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
+street: Heinrich-Hertz-Straße
+housenumber: "18"
+phone: +49 4621 95900
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
 website: ""

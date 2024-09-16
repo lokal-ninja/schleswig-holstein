@@ -1,11 +1,11 @@
 id: 304798349
-type: way
+type: node
 latitude: 53.65424
 longitude: 9.82743
 postcode: "25462"
 city: Rellingen
-street: "Hauptstraße"
-housenumber: 94
+street: Hauptstraße
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

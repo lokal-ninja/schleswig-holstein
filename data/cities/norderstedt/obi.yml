@@ -1,11 +1,11 @@
 id: 152494609
-type: way
+type: node
 latitude: 53.66904
 longitude: 9.97086
 postcode: "22848"
 city: Norderstedt
-street: "Niendorfer Straße"
-housenumber: 85
-phone: "+49 40 52300523"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+street: Niendorfer Straße
+housenumber: "85"
+phone: +49 40 52300523
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
 website: ""

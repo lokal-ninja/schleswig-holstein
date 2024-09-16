@@ -1,11 +1,11 @@
 id: 148188078
-type: way
+type: node
 latitude: 54.49496
 longitude: 9.0668
 postcode: "25813"
 city: Husum
-street: "Siemensstraße"
-housenumber: 3
-phone: "+49 4841 62899"
+street: Siemensstraße
+housenumber: "3"
+phone: +49 4841 62899
 opening_hours: ""
-website: "https://www.motorradtechnikhusum.de/"
+website: https://www.motorradtechnikhusum.de/

@@ -1,11 +1,11 @@
 id: 207176809
-type: way
+type: node
 latitude: 54.53414
 longitude: 9.58301
 postcode: "24837"
 city: Schleswig
-street: "Heinrich-Hertz-Straße"
-housenumber: 11
-phone: "+49 4621 943 88 98"
+street: Heinrich-Hertz-Straße
+housenumber: "11"
+phone: +49 4621 943 88 98
 opening_hours: ""
-website: "https://kfzservice-schleswig.de/"
+website: https://kfzservice-schleswig.de/

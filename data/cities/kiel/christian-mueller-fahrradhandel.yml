@@ -4,8 +4,8 @@ latitude: 54.33144
 longitude: 10.12767
 postcode: "24118"
 city: Kiel
-street: "Knooper Weg"
-housenumber: 111
+street: Knooper Weg
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.fahrradmuellerkiel.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.fahrradmuellerkiel.de/

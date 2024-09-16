@@ -1,11 +1,11 @@
 id: 148505374
-type: way
+type: node
 latitude: 54.48781
 longitude: 9.07641
 postcode: "25813"
 city: Husum
-street: "Industriestraße"
-housenumber: 37
-phone: "+49 4841 71194"
+street: Industriestraße
+housenumber: "37"
+phone: +49 4841 71194
 opening_hours: ""
-website: "https://www.autocentrum-lass.de/"
+website: https://www.autocentrum-lass.de/

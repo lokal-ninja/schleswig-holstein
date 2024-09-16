@@ -4,8 +4,8 @@ latitude: 54.75993
 longitude: 9.43165
 postcode: "24941"
 city: Flensburg
-street: "Schleswiger Straße"
-housenumber: 130
+street: Schleswiger Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi.de"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi.de

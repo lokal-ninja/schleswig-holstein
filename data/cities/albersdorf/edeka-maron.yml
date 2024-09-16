@@ -4,8 +4,8 @@ latitude: 54.13988
 longitude: 9.28568
 postcode: "25767"
 city: Albersdorf
-street: "Karkloh"
-housenumber: 14
-phone: "+49 4835 971460"
-opening_hours: "Mo-Sa 06:30-20:00;Su,PH closed"
-website: "https://www.edeka.de/eh/nord/edeka-maron-karkloh-4/index.jsp"
+street: Karkloh
+housenumber: "14"
+phone: +49 4835 971460
+opening_hours: Mo-Sa 06:30-20:00;Su,PH closed
+website: https://www.edeka.de/eh/nord/edeka-maron-karkloh-4/index.jsp

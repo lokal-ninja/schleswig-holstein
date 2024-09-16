@@ -4,8 +4,8 @@ latitude: 53.73001
 longitude: 10.26769
 postcode: "22941"
 city: Bargteheide
-street: "Rathausstraße"
-housenumber: 25
-phone: "+49 4532 1749"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://bargtebuch.de"
+street: Rathausstraße
+housenumber: "25"
+phone: +49 4532 1749
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://bargtebuch.de

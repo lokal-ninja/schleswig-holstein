@@ -1,11 +1,11 @@
 id: 41711354
-type: way
+type: node
 latitude: 54.47302
 longitude: 9.82644
 postcode: "24340"
 city: Eckernförde
-street: "Noorstraße"
+street: Noorstraße
 housenumber: 28-32
-phone: "+49 4351 71750"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
+phone: +49 4351 71750
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 59273997
-type: way
+type: node
 latitude: 53.95048
 longitude: 10.30863
 postcode: "23795"
 city: Bad Segeberg
-street: "Lindhofstraße"
-housenumber: 11
+street: Lindhofstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 9:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 9:00-16:00
 website: ""

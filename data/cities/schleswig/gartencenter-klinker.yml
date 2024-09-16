@@ -1,11 +1,11 @@
 id: 194948017
-type: way
+type: node
 latitude: 54.53284
 longitude: 9.5555
 postcode: "24837"
 city: Schleswig
-street: "Kattenhunder Weg"
-housenumber: 151
-phone: "+49 4621 5055"
+street: Kattenhunder Weg
+housenumber: "151"
+phone: +49 4621 5055
 opening_hours: ""
-website: "https://www.klinker-freizeitmoebel.de/"
+website: https://www.klinker-freizeitmoebel.de/

@@ -1,11 +1,11 @@
 id: 76945846
-type: way
+type: node
 latitude: 53.80961
 longitude: 9.9646
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Heidekoppel"
-housenumber: 25
+street: Heidekoppel
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.9168
 longitude: 8.30799
 postcode: "25980"
 city: Sylt
-street: "Norderstraße"
-housenumber: 42
-phone: "+49 (0)4651-299031"
-opening_hours: "Mo-Sa 07:00-11:30; Su off"
-website: "https://www.raffelhueschen-sylt.de"
+street: Norderstraße
+housenumber: "42"
+phone: +49 (0)4651-299031
+opening_hours: Mo-Sa 07:00-11:30; Su off
+website: https://www.raffelhueschen-sylt.de

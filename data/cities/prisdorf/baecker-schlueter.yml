@@ -4,8 +4,8 @@ latitude: 53.67148
 longitude: 9.77137
 postcode: "25497"
 city: Prisdorf
-street: "Peiner Hag"
-housenumber: 11
-phone: "+49 4101 407992"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 07:30-11:00"
-website: "http://baeckerschlueter.de/"
+street: Peiner Hag
+housenumber: "11"
+phone: +49 4101 407992
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 07:30-11:00
+website: http://baeckerschlueter.de/

@@ -1,11 +1,11 @@
 id: 391735912
-type: way
+type: node
 latitude: 54.40131
 longitude: 10.0022
 postcode: "24214"
 city: Tüttendorf
-street: "Seemannshagen"
-housenumber: 2
+street: Seemannshagen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

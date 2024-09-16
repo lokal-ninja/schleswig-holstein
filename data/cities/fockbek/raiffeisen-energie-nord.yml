@@ -4,8 +4,8 @@ latitude: 54.31113
 longitude: 9.5983
 postcode: "24787"
 city: Fockbek
-street: "Harald-Striewski-Straße"
-housenumber: 11
-phone: "+49 4331 665990"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.ramoelln.de/"
+street: Harald-Striewski-Straße
+housenumber: "11"
+phone: +49 4331 665990
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.ramoelln.de/

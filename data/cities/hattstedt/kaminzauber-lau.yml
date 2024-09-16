@@ -1,11 +1,11 @@
 id: 255225145
-type: way
+type: node
 latitude: 54.53134
 longitude: 9.02206
 postcode: "25856"
 city: Hattstedt
-street: "Bundesstraße"
-housenumber: 62
+street: Bundesstraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
-website: "https://www.kaminzauber.de/"
+website: https://www.kaminzauber.de/

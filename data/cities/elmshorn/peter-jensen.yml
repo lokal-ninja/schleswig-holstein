@@ -1,11 +1,11 @@
 id: 973944827
-type: way
+type: node
 latitude: 53.74393
 longitude: 9.70562
 postcode: "25337"
 city: Elmshorn
-street: "Ramskamp"
-housenumber: 109
+street: Ramskamp
+housenumber: "109"
 phone: ""
 opening_hours: ""
-website: "https://www.peterjensen.de/"
+website: https://www.peterjensen.de/

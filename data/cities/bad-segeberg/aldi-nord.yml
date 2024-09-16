@@ -1,11 +1,11 @@
 id: 98782830
-type: way
+type: node
 latitude: 53.95043
 longitude: 10.31322
 postcode: "23795"
 city: Bad Segeberg
-street: "Eutiner Straße"
-housenumber: 24
+street: Eutiner Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

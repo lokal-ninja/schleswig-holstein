@@ -4,8 +4,8 @@ latitude: 53.70485
 longitude: 10.00827
 postcode: "22844"
 city: Norderstedt
-street: "Marktplatz"
-housenumber: 8
-phone: "+49 40 5251465"
-opening_hours: "Mo-Fr 08:00-12:30; Mo-Fr 14:30-18:00"
+street: Marktplatz
+housenumber: "8"
+phone: +49 40 5251465
+opening_hours: Mo-Fr 08:00-12:30; Mo-Fr 14:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 145930226
-type: way
+type: node
 latitude: 53.86369
 longitude: 10.68584
 postcode: "23552"
 city: Lübeck
-street: "Mühlenstraße"
-housenumber: 20
+street: Mühlenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 180325086
-type: way
+type: node
 latitude: 53.68015
 longitude: 9.99359
 postcode: "22848"
 city: Norderstedt
-street: "Ohechaussee"
-housenumber: 42
-phone: "+49 40 94361985"
-opening_hours: "Mo OFF; Tu-Fr 13:00-20:00, Sa 11:00-16:00"
-website: "https://red-planet-tattoo.de/"
+street: Ohechaussee
+housenumber: "42"
+phone: +49 40 94361985
+opening_hours: Mo OFF; Tu-Fr 13:00-20:00, Sa 11:00-16:00
+website: https://red-planet-tattoo.de/

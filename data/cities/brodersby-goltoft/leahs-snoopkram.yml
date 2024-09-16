@@ -4,8 +4,8 @@ latitude: 54.54745
 longitude: 9.72342
 postcode: "24864"
 city: Brodersby-Goltoft
-street: "Dorfstraße"
-housenumber: 10
-phone: "+49 175 2043836"
-opening_hours: "Jan-Apr: off; May-Oct: Tu-Su 08:00-13:00; Nov-Dec: Tu-Su 08:00-12:00"
-website: "https://www.leahs-snoopkram.de/"
+street: Dorfstraße
+housenumber: "10"
+phone: +49 175 2043836
+opening_hours: 'Jan-Apr: off; May-Oct: Tu-Su 08:00-13:00; Nov-Dec: Tu-Su 08:00-12:00'
+website: https://www.leahs-snoopkram.de/

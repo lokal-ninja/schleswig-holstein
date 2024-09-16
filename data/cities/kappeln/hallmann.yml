@@ -4,8 +4,8 @@ latitude: 54.66246
 longitude: 9.92969
 postcode: "24376"
 city: Kappeln
-street: "Schmiedestraße"
-housenumber: 35
-phone: "+49 4642 9249919"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.optik-hallmann.de/"
+street: Schmiedestraße
+housenumber: "35"
+phone: +49 4642 9249919
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.optik-hallmann.de/

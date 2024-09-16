@@ -4,8 +4,8 @@ latitude: 54.32066
 longitude: 10.12565
 postcode: "24103"
 city: Kiel
-street: "Adelheidstraße"
-housenumber: 26
+street: Adelheidstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,13:00-14:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 09:00-12:00,13:00-14:00; PH,Sa,Su off
 website: ""

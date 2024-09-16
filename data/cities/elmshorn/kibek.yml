@@ -1,11 +1,11 @@
 id: 35645927
-type: way
+type: node
 latitude: 53.74078
 longitude: 9.70995
 postcode: "25337"
 city: Elmshorn
-street: "Ramskamp"
-housenumber: 100
+street: Ramskamp
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.kibek.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.kibek.de/

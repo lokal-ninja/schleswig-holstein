@@ -1,11 +1,11 @@
 id: 96957112
-type: way
+type: node
 latitude: 53.67978
 longitude: 10.2494
 postcode: "22926"
 city: Ahrensburg
-street: "Gänseberg"
-housenumber: 3
+street: Gänseberg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.heinrich-burth.de/"
+website: https://www.heinrich-burth.de/

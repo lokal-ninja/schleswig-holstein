@@ -4,8 +4,8 @@ latitude: 53.79835
 longitude: 10.40747
 postcode: "23843"
 city: Bad Oldesloe
-street: "Elly-Heuss-Knapp-Straße"
-housenumber: 3
+street: Elly-Heuss-Knapp-Straße
+housenumber: "3"
 phone: "+494531808090"
-opening_hours: "Mo,We,Fr 08:00-17:00; Tu,Th 08:00-19:00; Sa 09:00-13:00"
-website: "https://www.bs-caraudio.de"
+opening_hours: Mo,We,Fr 08:00-17:00; Tu,Th 08:00-19:00; Sa 09:00-13:00
+website: https://www.bs-caraudio.de

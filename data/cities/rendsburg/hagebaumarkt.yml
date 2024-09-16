@@ -1,11 +1,11 @@
 id: 184990776
-type: way
+type: node
 latitude: 54.31182
 longitude: 9.62683
 postcode: "24768"
 city: Rendsburg
-street: "Friedrichstädter Straße"
+street: Friedrichstädter Straße
 housenumber: 1-7
-phone: "+49 4331 78110"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH,Su off"
-website: "https://www.hagebau.de/"
+phone: +49 4331 78110
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH,Su off
+website: https://www.hagebau.de/

@@ -1,11 +1,11 @@
 id: 288277458
-type: way
+type: node
 latitude: 54.43881
 longitude: 11.1966
 postcode: "23769"
 city: Fehmarn
-street: "Am Markt"
-housenumber: 7
+street: Am Markt
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

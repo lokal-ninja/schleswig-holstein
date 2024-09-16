@@ -1,11 +1,11 @@
 id: 144797679
-type: way
+type: node
 latitude: 53.92583
 longitude: 9.50089
 postcode: "25524"
 city: Itzehoe
-street: "Hafenstraße"
-housenumber: 12
+street: Hafenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

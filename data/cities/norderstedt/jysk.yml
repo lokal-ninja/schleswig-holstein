@@ -1,11 +1,11 @@
 id: 56300561
-type: way
+type: node
 latitude: 53.68827
 longitude: 9.98319
 postcode: "22850"
 city: Norderstedt
-street: "Kohfurth"
+street: Kohfurth
 housenumber: 7-9
-phone: "+49 40 5287590"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"
-website: "https://jysk.de/stores-locator?storeId=1122"
+phone: +49 40 5287590
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off
+website: https://jysk.de/stores-locator?storeId=1122

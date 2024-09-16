@@ -4,8 +4,8 @@ latitude: 54.78247
 longitude: 9.4373
 postcode: "24937"
 city: Flensburg
-street: "Angelburger Straße"
-housenumber: 6
-phone: "+49 461 22324"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.optik-gloyer.de/"
+street: Angelburger Straße
+housenumber: "6"
+phone: +49 461 22324
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off
+website: https://www.optik-gloyer.de/

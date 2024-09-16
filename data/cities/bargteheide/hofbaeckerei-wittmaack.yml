@@ -4,8 +4,8 @@ latitude: 53.72124
 longitude: 10.26903
 postcode: "22941"
 city: Bargteheide
-street: "Johannes-Gutenberg-Straße"
-housenumber: 8
-phone: "+49 4532 26990"
-opening_hours: "Mo-Fr 03:00-12:00"
-website: "https://der-biobaecker.de/"
+street: Johannes-Gutenberg-Straße
+housenumber: "8"
+phone: +49 4532 26990
+opening_hours: Mo-Fr 03:00-12:00
+website: https://der-biobaecker.de/

@@ -1,11 +1,11 @@
 id: 1274499308
-type: way
+type: node
 latitude: 53.6603
 longitude: 9.7399
 postcode: "25482"
 city: Appen
-street: "Hauptstraße"
-housenumber: 68
+street: Hauptstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-14:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 10:00-14:00; Su,PH off
 website: ""

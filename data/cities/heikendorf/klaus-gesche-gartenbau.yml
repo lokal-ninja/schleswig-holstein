@@ -1,11 +1,11 @@
 id: 110243941
-type: way
+type: node
 latitude: 54.37947
 longitude: 10.21282
 postcode: "24226"
 city: Heikendorf
-street: "Hammerstiel"
-housenumber: 2
+street: Hammerstiel
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

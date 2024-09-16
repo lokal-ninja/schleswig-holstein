@@ -1,11 +1,11 @@
 id: 36730000
-type: way
+type: node
 latitude: 54.09517
 longitude: 10.7851
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Neukoppel"
-housenumber: 1
+street: Neukoppel
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su off"
+opening_hours: Mo-Sa 07:00-20:00; Su off
 website: ""

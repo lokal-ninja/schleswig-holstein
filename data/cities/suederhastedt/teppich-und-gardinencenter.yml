@@ -1,11 +1,11 @@
 id: 196268497
-type: way
+type: node
 latitude: 54.05048
 longitude: 9.20911
 postcode: "25727"
 city: Süderhastedt
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "http://www.tgc-schaefer.de"
+website: http://www.tgc-schaefer.de

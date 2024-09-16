@@ -1,11 +1,11 @@
 id: 126822873
-type: way
+type: node
 latitude: 54.66816
 longitude: 9.92462
 postcode: "24376"
 city: Kappeln
-street: "Mehlbydiek"
-housenumber: 2
-phone: "+49 4642 924280"
-opening_hours: "Mo-Sa 07:00-22:00;PH off"
+street: Mehlbydiek
+housenumber: "2"
+phone: +49 4642 924280
+opening_hours: Mo-Sa 07:00-22:00;PH off
 website: ""

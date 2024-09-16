@@ -1,11 +1,11 @@
 id: 270320748
-type: way
+type: node
 latitude: 53.95539
 longitude: 10.7237
 postcode: "23626"
 city: Ratekau
-street: "Ernst-Abbe-Straße"
+street: Ernst-Abbe-Straße
 housenumber: 3-4
 phone: ""
 opening_hours: ""
-website: "http://www.elferhus.de/"
+website: http://www.elferhus.de/

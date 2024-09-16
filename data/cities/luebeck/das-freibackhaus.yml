@@ -4,8 +4,8 @@ latitude: 53.86891
 longitude: 10.6927
 postcode: "23552"
 city: Lübeck
-street: "Glockengießerstraße"
-housenumber: 42
-phone: "+49 451 75793"
-opening_hours: "Mo-Fr 7:00-18:00; Sa 7:00-13:00"
-website: "http://www.freibackhaus.de"
+street: Glockengießerstraße
+housenumber: "42"
+phone: +49 451 75793
+opening_hours: Mo-Fr 7:00-18:00; Sa 7:00-13:00
+website: http://www.freibackhaus.de

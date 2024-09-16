@@ -1,11 +1,11 @@
 id: 196354990
-type: way
+type: node
 latitude: 54.86995
 longitude: 8.90679
 postcode: "25923"
 city: Süderlügum
-street: "Hauptstraße"
-housenumber: 6
+street: Hauptstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/suederluegum/hauptstr-6-a.html"
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/suederluegum/hauptstr-6-a.html

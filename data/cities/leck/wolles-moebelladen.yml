@@ -1,11 +1,11 @@
 id: 96156669
-type: way
+type: node
 latitude: 54.7629
 longitude: 8.9812
 postcode: "25917"
 city: Leck
-street: "Flensburger Straße"
-housenumber: 49
-phone: "+49 4662 885847"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.wolles-moebelladen.de/"
+street: Flensburger Straße
+housenumber: "49"
+phone: +49 4662 885847
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.wolles-moebelladen.de/

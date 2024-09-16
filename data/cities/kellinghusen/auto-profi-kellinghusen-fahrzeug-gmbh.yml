@@ -1,11 +1,11 @@
 id: 1017555076
-type: way
+type: node
 latitude: 53.94291
 longitude: 9.73196
 postcode: "25548"
 city: Kellinghusen
-street: "Mühlenbeker Straße"
-housenumber: 31
-phone: "+49 4822 5095"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://autoprofi.go1a.de/"
+street: Mühlenbeker Straße
+housenumber: "31"
+phone: +49 4822 5095
+opening_hours: Mo-Fr 07:30-18:00
+website: https://autoprofi.go1a.de/

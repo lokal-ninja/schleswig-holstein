@@ -1,11 +1,11 @@
 id: 359639920
-type: way
+type: node
 latitude: 54.81434
 longitude: 9.47179
 postcode: "24944"
 city: Flensburg
-street: "Friedheim"
-housenumber: 8
+street: Friedheim
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.aldi-nord.de/

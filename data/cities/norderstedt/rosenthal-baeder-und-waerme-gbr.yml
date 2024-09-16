@@ -1,11 +1,11 @@
 id: 320092548
-type: way
+type: node
 latitude: 53.71747
 longitude: 9.99947
 postcode: "22846"
 city: Norderstedt
-street: "Ulzburger Straße"
-housenumber: 350
-phone: "+49 40 5222120"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-14:00; PH,Su off"
-website: "http://www.rosenthal-sanitaertechnik.de/"
+street: Ulzburger Straße
+housenumber: "350"
+phone: +49 40 5222120
+opening_hours: Mo-Fr 09:30-18:00, Sa 10:00-14:00; PH,Su off
+website: http://www.rosenthal-sanitaertechnik.de/

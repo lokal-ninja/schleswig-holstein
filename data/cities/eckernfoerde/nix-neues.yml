@@ -1,11 +1,11 @@
 id: 41711362
-type: way
+type: node
 latitude: 54.47327
 longitude: 9.82748
 postcode: "24340"
 city: Eckernförde
-street: "Hans-Christian-Andersen-Weg"
-housenumber: 1
+street: Hans-Christian-Andersen-Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

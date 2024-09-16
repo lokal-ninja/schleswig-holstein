@@ -1,11 +1,12 @@
 id: 401796460
-type: way
+type: node
 latitude: 54.41636
 longitude: 10.4045
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Holunderbusch"
-housenumber: 3
+street: Holunderbusch
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Su 10:00-12:30; Mo-Tu 14:00-17:00; Th-Sa 14:00-17:00 || Sowie nach Terminvereinbarung || Seasonal"
+opening_hours: Mo-Su 10:00-12:30; Mo-Tu 14:00-17:00; Th-Sa 14:00-17:00 || "Sowie nach
+    Terminvereinbarung || Seasonal"
 website: ""

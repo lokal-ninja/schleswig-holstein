@@ -4,8 +4,8 @@ latitude: 54.91686
 longitude: 8.30805
 postcode: "25980"
 city: Sylt
-street: "Norderstraße"
-housenumber: 42
+street: Norderstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Beratungsgespräche bitte nach Vereinbarung"
+opening_hours: '"Beratungsgespräche bitte nach Vereinbarung"'
 website: ""

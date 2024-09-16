@@ -1,11 +1,11 @@
 id: 592449100
-type: way
+type: node
 latitude: 54.10718
 longitude: 10.81583
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Hochtorstraße"
-housenumber: 14
+street: Hochtorstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.75565
 longitude: 8.28859
 postcode: "25997"
 city: Hörnum (Sylt)
-street: "Rantumer Straße"
-housenumber: 12
+street: Rantumer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "10:00-16:00"
-website: "https://www.mare-sylt.de/"
+opening_hours: 10:00-16:00
+website: https://www.mare-sylt.de/

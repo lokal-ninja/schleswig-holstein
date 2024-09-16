@@ -1,11 +1,11 @@
 id: 226286589
-type: way
+type: node
 latitude: 54.69237
 longitude: 9.33221
 postcode: "24997"
 city: Wanderup
-street: "Flensburger Straße"
-housenumber: 22
+street: Flensburger Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

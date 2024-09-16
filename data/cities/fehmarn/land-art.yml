@@ -1,11 +1,11 @@
 id: 444421311
-type: way
+type: node
 latitude: 54.47919
 longitude: 11.06822
 postcode: "23769"
 city: Fehmarn
-street: "Alte Hauptstraße"
-housenumber: 24
+street: Alte Hauptstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo 10:30-12:30; Tu,Th,Fr 10:30-12:30,16:00-18:00"
+opening_hours: Mo 10:30-12:30; Tu,Th,Fr 10:30-12:30,16:00-18:00
 website: ""

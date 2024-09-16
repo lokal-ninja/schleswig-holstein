@@ -4,8 +4,8 @@ latitude: 54.31661
 longitude: 10.06672
 postcode: "24109"
 city: Kiel
-street: "Hofholzallee"
-housenumber: 223
+street: Hofholzallee
+housenumber: "223"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.elektro-company-nord.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.elektro-company-nord.de/

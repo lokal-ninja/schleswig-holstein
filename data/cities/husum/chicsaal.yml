@@ -1,11 +1,11 @@
 id: 257815492
-type: way
+type: node
 latitude: 54.47571
 longitude: 9.04847
 postcode: "25813"
 city: Husum
-street: "Wasserreihe"
-housenumber: 52
+street: Wasserreihe
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

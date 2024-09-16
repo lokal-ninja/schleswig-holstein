@@ -4,8 +4,8 @@ latitude: 53.67705
 longitude: 9.79792
 postcode: "25421"
 city: Pinneberg
-street: "Flensburger Straße"
-housenumber: 20
-phone: "+49 4101 3732245"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.schuhcenter.de/siemes-schuhcenter-pinneberg-flensburger-strasse-20/"
+street: Flensburger Straße
+housenumber: "20"
+phone: +49 4101 3732245
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.schuhcenter.de/siemes-schuhcenter-pinneberg-flensburger-strasse-20/

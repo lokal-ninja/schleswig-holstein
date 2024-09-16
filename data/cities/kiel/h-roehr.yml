@@ -4,8 +4,8 @@ latitude: 54.32104
 longitude: 10.12178
 postcode: "24114"
 city: Kiel
-street: "Hermann-Weigmann-Straße"
-housenumber: 24
-phone: "+49 431 63741"
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-16:00"
-website: "https://www.h-roehr-automobile.de/"
+street: Hermann-Weigmann-Straße
+housenumber: "24"
+phone: +49 431 63741
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-16:00
+website: https://www.h-roehr-automobile.de/

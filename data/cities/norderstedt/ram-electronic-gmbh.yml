@@ -1,11 +1,11 @@
 id: 61240212
-type: way
+type: node
 latitude: 53.69016
 longitude: 9.99189
 postcode: "22850"
 city: Norderstedt
-street: "Lütjenmoor"
-housenumber: 82
-phone: "+49 40 308543-0"
+street: Lütjenmoor
+housenumber: "82"
+phone: +49 40 308543-0
 opening_hours: ""
-website: "https://www.ram-electronic-gmbh.de/"
+website: https://www.ram-electronic-gmbh.de/

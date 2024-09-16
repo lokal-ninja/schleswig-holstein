@@ -1,11 +1,11 @@
 id: 307498546
-type: way
+type: node
 latitude: 54.6011
 longitude: 9.5286
 postcode: "24890"
 city: Stolk
-street: "Westerlücker Straße"
-housenumber: 1
-phone: "+49 4623 1265"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-12:00; PH,Su off"
-website: "https://www.kfz-dienst-asmussen.de/"
+street: Westerlücker Straße
+housenumber: "1"
+phone: +49 4623 1265
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-12:00; PH,Su off
+website: https://www.kfz-dienst-asmussen.de/

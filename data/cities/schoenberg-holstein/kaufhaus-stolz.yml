@@ -1,11 +1,11 @@
 id: 37442256
-type: way
+type: node
 latitude: 54.38901
 longitude: 10.37257
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Bahnhofstraße"
-housenumber: 30
-phone: "+494344 41305 0"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://www.kaufhaus-stolz.com/"
+street: Bahnhofstraße
+housenumber: "30"
+phone: +494344 41305 0
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 11:00-17:00
+website: https://www.kaufhaus-stolz.com/

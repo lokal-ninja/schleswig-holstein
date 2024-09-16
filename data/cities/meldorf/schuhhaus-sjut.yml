@@ -4,8 +4,8 @@ latitude: 54.08976
 longitude: 9.073
 postcode: "25704"
 city: Meldorf
-street: "Spreetstraße"
-housenumber: 4
+street: Spreetstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.schuhhaus-sjut.de/filiale.asp?shoid=85"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://www.schuhhaus-sjut.de/filiale.asp?shoid=85

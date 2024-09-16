@@ -1,11 +1,11 @@
 id: 285628720
-type: way
+type: node
 latitude: 53.78046
 longitude: 9.61975
 postcode: "25368"
 city: Kiebitzreihe
-street: "Ringstraße"
-housenumber: 11
+street: Ringstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 05:30-12:30,14:00-18:30; Sa 05:30-13:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 05:30-12:30,14:00-18:30; Sa 05:30-13:00; Su 08:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 378571774
-type: way
+type: node
 latitude: 53.60923
 longitude: 10.63327
 postcode: "23881"
 city: Breitenfelde
-street: "Kranichweg"
-housenumber: 1
+street: Kranichweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.79136
 longitude: 9.43264
 postcode: "24939"
 city: Flensburg
-street: "Segelmacherstraße"
-housenumber: 13
-phone: "+49 461 66012677"
-opening_hours: "nach telefonischer Vereinbarung"
+street: Segelmacherstraße
+housenumber: "13"
+phone: +49 461 66012677
+opening_hours: '"nach telefonischer Vereinbarung"'
 website: ""

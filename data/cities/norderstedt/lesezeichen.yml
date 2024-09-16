@@ -4,8 +4,9 @@ latitude: 53.71202
 longitude: 9.99995
 postcode: "22846"
 city: Norderstedt
-street: "Ulzburger Straße"
-housenumber: 300
+street: Ulzburger Straße
+housenumber: "300"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa-Su 09:30-18:00; Sommerferien Mittagspause 13:00 bis 15:00 Uhr"
-website: "https://lesezeichen-norderstedt.buchkatalog.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa-Su 09:30-18:00; "Sommerferien Mittagspause 13:00
+    bis 15:00 Uhr"
+website: https://lesezeichen-norderstedt.buchkatalog.de/

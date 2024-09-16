@@ -1,11 +1,11 @@
 id: 123612590
-type: way
+type: node
 latitude: 53.9061
 longitude: 9.48298
 postcode: "25524"
 city: Itzehoe
-street: "Kamper Weg"
-housenumber: 119
+street: Kamper Weg
+housenumber: "119"
 phone: ""
-opening_hours: "Tu-Fr 06:30-12:00,14:00-18:00; Sa 06:30-12:00; Su 06:30-12:00"
+opening_hours: Tu-Fr 06:30-12:00,14:00-18:00; Sa 06:30-12:00; Su 06:30-12:00
 website: ""

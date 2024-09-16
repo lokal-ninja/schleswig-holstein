@@ -4,8 +4,8 @@ latitude: 54.33644
 longitude: 10.13098
 postcode: "24118"
 city: Kiel
-street: "Knooper Weg"
-housenumber: 165
-phone: "+49 431 53033450"
-opening_hours: "Mo-Fr,Su off; Sa 09:00-18:00"
-website: "https://www.velocenter.de/"
+street: Knooper Weg
+housenumber: "165"
+phone: +49 431 53033450
+opening_hours: Mo-Fr,Su off; Sa 09:00-18:00
+website: https://www.velocenter.de/

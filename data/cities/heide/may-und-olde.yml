@@ -1,11 +1,11 @@
 id: 145130679
-type: way
+type: node
 latitude: 54.19827
 longitude: 9.12488
 postcode: "25746"
 city: Heide
-street: "Süderdamm"
-housenumber: 2
+street: Süderdamm
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.mayundolde.de/de/filiale/heide"
+website: https://www.mayundolde.de/de/filiale/heide

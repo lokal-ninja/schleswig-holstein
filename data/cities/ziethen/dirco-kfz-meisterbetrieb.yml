@@ -1,11 +1,11 @@
 id: 629869111
-type: way
+type: node
 latitude: 53.68988
 longitude: 10.80884
 postcode: "23911"
 city: Ziethen
-street: "Elisberg"
-housenumber: 8
+street: Elisberg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-22:00"
+opening_hours: Mo-Fr 08:00-22:00
 website: ""

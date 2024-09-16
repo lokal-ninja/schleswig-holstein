@@ -1,11 +1,11 @@
 id: 196765216
-type: way
+type: node
 latitude: 54.90269
 longitude: 8.3249
 postcode: "25980"
 city: Sylt
-street: "Keitumer Landstraße"
-housenumber: 32
+street: Keitumer Landstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.ipsen-getraenke.de/"
+website: https://www.ipsen-getraenke.de/

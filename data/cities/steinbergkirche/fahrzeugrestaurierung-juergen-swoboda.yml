@@ -1,11 +1,11 @@
 id: 200155843
-type: way
+type: node
 latitude: 54.77999
 longitude: 9.72836
 postcode: "24972"
 city: Steinbergkirche
-street: "Kalleby"
-housenumber: 22
-phone: "+49 4632 1543"
-opening_hours: "Mo-Fr 07:30-16:00; Sa 10:00-15:00; Su,PH off"
-website: "https://www.swoboda-fahrzeugkultur.de/"
+street: Kalleby
+housenumber: "22"
+phone: +49 4632 1543
+opening_hours: Mo-Fr 07:30-16:00; Sa 10:00-15:00; Su,PH off
+website: https://www.swoboda-fahrzeugkultur.de/

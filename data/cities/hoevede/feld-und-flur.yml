@@ -1,11 +1,11 @@
 id: 524464602
-type: way
+type: node
 latitude: 54.24355
 longitude: 9.29328
 postcode: "25782"
 city: Hövede
-street: "Dorfstraße"
-housenumber: 19
-phone: "+49 4838 7058097"
+street: Dorfstraße
+housenumber: "19"
+phone: +49 4838 7058097
 opening_hours: ""
-website: "https://feld-und-flur.jimdofree.com/"
+website: https://feld-und-flur.jimdofree.com/

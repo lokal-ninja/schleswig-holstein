@@ -1,11 +1,11 @@
 id: 110143173
-type: way
+type: node
 latitude: 54.37012
 longitude: 10.20511
 postcode: "24226"
 city: Heikendorf
-street: "Dorfstraße"
-housenumber: 18
+street: Dorfstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00 || on request"
+opening_hours: Mo-Fr 09:00-13:00 || "on request"
 website: ""

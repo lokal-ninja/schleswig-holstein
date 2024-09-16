@@ -4,8 +4,8 @@ latitude: 54.90753
 longitude: 8.30723
 postcode: "25980"
 city: Sylt
-street: "Wilhelmstraße"
-housenumber: 4
+street: Wilhelmstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-16:00; Sa 11:00-14:00"
+opening_hours: Mo-Fr 11:00-16:00; Sa 11:00-14:00
 website: ""

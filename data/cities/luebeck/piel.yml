@@ -4,8 +4,8 @@ latitude: 53.87112
 longitude: 10.74226
 postcode: "23566"
 city: Lübeck
-street: "Im Gleisdreieck"
-housenumber: 2
-phone: "+49 451 63351"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00; Su 10:00-12:00"
+street: Im Gleisdreieck
+housenumber: "2"
+phone: +49 451 63351
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00; Su 10:00-12:00
 website: ""

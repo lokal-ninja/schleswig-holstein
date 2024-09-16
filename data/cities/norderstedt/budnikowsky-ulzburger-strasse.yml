@@ -1,11 +1,11 @@
 id: 60900327
-type: way
+type: node
 latitude: 53.71961
 longitude: 9.99881
 postcode: "22846"
 city: Norderstedt
-street: "Ulzburger Straße"
-housenumber: 360
+street: Ulzburger Straße
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; PH off"
-website: "https://www.budni.de/filialen/22850-ulzburger-str-360?"
+opening_hours: Mo-Sa 08:00-19:00; PH off
+website: https://www.budni.de/filialen/22850-ulzburger-str-360?

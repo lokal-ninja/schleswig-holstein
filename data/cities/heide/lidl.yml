@@ -1,11 +1,11 @@
 id: 145130678
-type: way
+type: node
 latitude: 54.1972
 longitude: 9.13176
 postcode: "25746"
 city: Heide
-street: "Schanzenstraße"
-housenumber: 9
+street: Schanzenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00;Su,PH off"
-website: "https://www.lidl.de/f/heide/schanzenstr-9.html"
+opening_hours: Mo-Sa 07:00-21:00;Su,PH off
+website: https://www.lidl.de/f/heide/schanzenstr-9.html

@@ -1,11 +1,11 @@
 id: 149521026
-type: way
+type: node
 latitude: 53.86567
 longitude: 10.70123
 postcode: "23564"
 city: Lübeck
-street: "Pelzerstraße"
+street: Pelzerstraße
 housenumber: 14b
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
 website: ""

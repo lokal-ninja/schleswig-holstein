@@ -1,11 +1,11 @@
 id: 614436836
-type: way
+type: node
 latitude: 54.10946
 longitude: 10.81664
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Grabenstraße"
-housenumber: 27
+street: Grabenstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.51588
 longitude: 9.55855
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 74
-phone: "+49 4621 989790"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00; Su off"
-website: "https://www.megabike24.de/"
+street: Stadtweg
+housenumber: "74"
+phone: +49 4621 989790
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00; Su off
+website: https://www.megabike24.de/

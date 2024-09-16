@@ -1,11 +1,11 @@
 id: 236398859
-type: way
+type: node
 latitude: 54.51331
 longitude: 9.30895
 postcode: "24896"
 city: Treia
-street: "Treenestraße"
-housenumber: 73
-phone: "+49 4626 345"
+street: Treenestraße
+housenumber: "73"
+phone: +49 4626 345
 opening_hours: ""
-website: "http://www.auto-henken.de"
+website: http://www.auto-henken.de

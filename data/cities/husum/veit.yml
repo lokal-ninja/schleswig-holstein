@@ -1,11 +1,11 @@
 id: 399030820
-type: way
+type: node
 latitude: 54.4772
 longitude: 9.05111
 postcode: "25813"
 city: Husum
-street: "Markt"
-housenumber: 1
+street: Markt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

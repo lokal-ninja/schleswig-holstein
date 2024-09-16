@@ -1,11 +1,11 @@
 id: 307621568
-type: way
+type: node
 latitude: 53.99356
 longitude: 9.11923
 postcode: "25693"
 city: Sankt Michaelisdonn
-street: "Burger Straße"
-housenumber: 24
+street: Burger Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de

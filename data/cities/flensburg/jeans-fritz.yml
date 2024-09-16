@@ -4,8 +4,8 @@ latitude: 54.76082
 longitude: 9.43214
 postcode: "24941"
 city: Flensburg
-street: "Schleswiger Straße"
-housenumber: 130
-phone: "+49 461 98200"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.jeans-fritz.de/"
+street: Schleswiger Straße
+housenumber: "130"
+phone: +49 461 98200
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.jeans-fritz.de/

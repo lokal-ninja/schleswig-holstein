@@ -1,11 +1,11 @@
 id: 813191241
-type: way
+type: node
 latitude: 54.22782
 longitude: 9.66899
 postcode: "24808"
 city: Jevenstedt
-street: "Am Pollhorngraben"
-housenumber: 6
+street: Am Pollhorngraben
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

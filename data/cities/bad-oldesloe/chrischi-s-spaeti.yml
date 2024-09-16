@@ -4,8 +4,8 @@ latitude: 53.79692
 longitude: 10.3402
 postcode: "23843"
 city: Bad Oldesloe
-street: "Sandkamp"
-housenumber: 7
+street: Sandkamp
+housenumber: "7"
 phone: "+491726987949"
-opening_hours: "Fr,Sa 18:00-04:00; Su 16:00-00:00; PH 18:00-04:00"
-website: "https://www.chrischisspaeti.de"
+opening_hours: Fr,Sa 18:00-04:00; Su 16:00-00:00; PH 18:00-04:00
+website: https://www.chrischisspaeti.de

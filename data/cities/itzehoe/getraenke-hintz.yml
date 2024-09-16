@@ -1,11 +1,11 @@
 id: 96351101
-type: way
+type: node
 latitude: 53.90373
 longitude: 9.48981
 postcode: "25524"
 city: Itzehoe
-street: "Ottensstraße"
-housenumber: 9
-phone: "+49 4821 80080"
+street: Ottensstraße
+housenumber: "9"
+phone: +49 4821 80080
 opening_hours: ""
-website: "https://www.getraenkehintz.de/"
+website: https://www.getraenkehintz.de/

@@ -4,8 +4,8 @@ latitude: 53.95644
 longitude: 9.00746
 postcode: "25709"
 city: Marne
-street: "Königstraße"
-housenumber: 63
+street: Königstraße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00"
-website: "https://www.getraenke-hoffmann.de/filialfinder"
+opening_hours: Mo-Fr 08:00-19:00
+website: https://www.getraenke-hoffmann.de/filialfinder

@@ -1,11 +1,11 @@
 id: 172123058
-type: way
+type: node
 latitude: 54.80154
 longitude: 9.44258
 postcode: "24937"
 city: Flensburg
-street: "Kielseng"
-housenumber: 3
+street: Kielseng
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.rudax.de"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.rudax.de

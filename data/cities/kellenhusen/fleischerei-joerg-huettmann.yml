@@ -4,8 +4,8 @@ latitude: 54.18995
 longitude: 11.0608
 postcode: "23746"
 city: Kellenhusen
-street: "Am Ring"
-housenumber: 14
-phone: "+49 4364 368"
-opening_hours: "Mo-Sa 07:00-12:30,15:00-18:00; Su 07:00-12:00"
-website: "http://www.huettmann-kellenhusen.de"
+street: Am Ring
+housenumber: "14"
+phone: +49 4364 368
+opening_hours: Mo-Sa 07:00-12:30,15:00-18:00; Su 07:00-12:00
+website: http://www.huettmann-kellenhusen.de

@@ -4,8 +4,8 @@ latitude: 53.66744
 longitude: 9.66026
 postcode: "25436"
 city: Moorrege
-street: "Klinkerstraße"
-housenumber: 89
+street: Klinkerstraße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00;Sa 07:00-12:30;Su 08:00-11:00"
-website: "https://www.baeckerei-eggers.de/"
+opening_hours: Mo-Fr 06:00-18:00;Sa 07:00-12:30;Su 08:00-11:00
+website: https://www.baeckerei-eggers.de/

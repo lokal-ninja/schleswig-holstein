@@ -1,11 +1,11 @@
 id: 108377880
-type: way
+type: node
 latitude: 54.50684
 longitude: 8.65261
 postcode: ""
 city: Pellworm
-street: "Westertilli"
-housenumber: 14
+street: Westertilli
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

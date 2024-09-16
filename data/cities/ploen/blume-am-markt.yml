@@ -4,8 +4,8 @@ latitude: 54.15873
 longitude: 10.41812
 postcode: "24306"
 city: Plön
-street: "Markt"
-housenumber: 2
+street: Markt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.37923
 longitude: 10.5481
 postcode: "21481"
 city: Lauenburg/Elbe
-street: "Reeperbahn"
-housenumber: 50
-phone: "+49 4153 520 512"
-opening_hours: "Mo-Tu 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00; Th-Fr 09:00-13:00,14:30-18:00"
-website: "https://www.pfote-tatze.de/"
+street: Reeperbahn
+housenumber: "50"
+phone: +49 4153 520 512
+opening_hours: Mo-Tu 09:00-13:00,14:30-18:00; We,Sa 09:00-13:00; Th-Fr 09:00-13:00,14:30-18:00
+website: https://www.pfote-tatze.de/

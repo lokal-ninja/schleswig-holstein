@@ -1,11 +1,11 @@
 id: 385436194
-type: way
+type: node
 latitude: 54.41843
 longitude: 9.52888
 postcode: "24848"
 city: Kropp
-street: "Fabrikstraße"
-housenumber: 1
+street: Fabrikstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

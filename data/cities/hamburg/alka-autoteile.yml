@@ -4,8 +4,8 @@ latitude: 53.51561
 longitude: 10.20818
 postcode: "21031"
 city: Hamburg
-street: "Havighorster Weg"
-housenumber: 14
-phone: "+49 40 78802910"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.alka-autoteile.de/"
+street: Havighorster Weg
+housenumber: "14"
+phone: +49 40 78802910
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.alka-autoteile.de/

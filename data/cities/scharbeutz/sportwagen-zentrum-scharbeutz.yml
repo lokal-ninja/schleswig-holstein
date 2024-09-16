@@ -1,11 +1,11 @@
 id: 1240452344
-type: way
+type: node
 latitude: 54.03623
 longitude: 10.66015
 postcode: "23684"
 city: Scharbeutz
-street: "Dr.-Gildemeister-Straße"
-housenumber: 16
+street: Dr.-Gildemeister-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

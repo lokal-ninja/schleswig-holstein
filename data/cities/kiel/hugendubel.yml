@@ -4,8 +4,8 @@ latitude: 54.31228
 longitude: 10.09813
 postcode: "24113"
 city: Kiel
-street: "Mühlendamm"
-housenumber: 
+street: Mühlendamm
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.hugendubel.de/de/branch?branchId=9866"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.hugendubel.de/de/branch?branchId=9866

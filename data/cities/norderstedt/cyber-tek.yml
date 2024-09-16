@@ -1,11 +1,11 @@
 id: 319243647
-type: way
+type: node
 latitude: 53.69541
 longitude: 9.99371
 postcode: "22850"
 city: Norderstedt
-street: "Ulzburger Straße"
-housenumber: 153
+street: Ulzburger Straße
+housenumber: "153"
 phone: ""
 opening_hours: ""
 website: ""

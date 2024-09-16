@@ -4,8 +4,9 @@ latitude: 54.57978
 longitude: 9.6389
 postcode: "24894"
 city: Tolk
-street: "Alte Dorfstraße"
-housenumber: 14
-phone: "+49 4622 409"
-opening_hours: "Feb-Sep: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Oct-Jan: Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://modemaxhansen.de/"
+street: Alte Dorfstraße
+housenumber: "14"
+phone: +49 4622 409
+opening_hours: 'Feb-Sep: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Oct-Jan: Mo-Fr 10:00-18:00;
+    Sa 10:00-16:00'
+website: https://modemaxhansen.de/

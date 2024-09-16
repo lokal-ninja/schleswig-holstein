@@ -1,11 +1,11 @@
 id: 35424990
-type: way
+type: node
 latitude: 53.74965
 longitude: 9.65087
 postcode: "25336"
 city: Elmshorn
-street: "Westerstraße"
-housenumber: 30
+street: Westerstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.zooroyal.de/maerkte/elmshorn/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.zooroyal.de/maerkte/elmshorn/

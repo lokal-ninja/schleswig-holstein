@@ -4,8 +4,8 @@ latitude: 54.31124
 longitude: 10.12874
 postcode: "24114"
 city: Kiel
-street: "Gablenzstraße"
-housenumber: 5
-phone: "+49 431 665554"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.insound.de/"
+street: Gablenzstraße
+housenumber: "5"
+phone: +49 431 665554
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.insound.de/

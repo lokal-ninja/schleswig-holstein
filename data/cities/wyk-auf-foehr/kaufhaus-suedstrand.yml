@@ -4,8 +4,8 @@ latitude: 54.68115
 longitude: 8.55573
 postcode: "25938"
 city: Wyk auf Föhr
-street: "Osterstraße"
-housenumber: 3
-phone: "+49 4681 580121"
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00, Sa 08:00-13:00"
-website: "https://www.edeka-foehr.de/"
+street: Osterstraße
+housenumber: "3"
+phone: +49 4681 580121
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00, Sa 08:00-13:00
+website: https://www.edeka-foehr.de/

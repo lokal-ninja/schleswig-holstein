@@ -4,8 +4,8 @@ latitude: 53.86157
 longitude: 10.61639
 postcode: "23556"
 city: Lübeck
-street: "Spenglerstraße"
-housenumber: 7
+street: Spenglerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:30 || Sa by appointment"
+opening_hours: Mo-Fr 06:30-17:30 || "Sa by appointment"
 website: ""

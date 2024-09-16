@@ -1,11 +1,11 @@
 id: 128191743
-type: way
+type: node
 latitude: 53.59952
 longitude: 9.85461
 postcode: "22869"
 city: Schenefeld
-street: "Gorch-Fock-Straße"
-housenumber: 14
+street: Gorch-Fock-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

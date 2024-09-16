@@ -1,11 +1,11 @@
 id: 113697438
-type: way
+type: node
 latitude: 54.16494
 longitude: 10.33278
 postcode: "24326"
 city: Dörnick
-street: "An der Schwentine"
-housenumber: 40
+street: An der Schwentine
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

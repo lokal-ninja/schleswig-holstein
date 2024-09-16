@@ -1,11 +1,11 @@
 id: 252913781
-type: way
+type: node
 latitude: 54.604
 longitude: 9.58448
 postcode: "24860"
 city: Böklund
-street: "Schulstraße"
-housenumber: 4
-phone: "+49 4623 18666"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH,Su off"
+street: Schulstraße
+housenumber: "4"
+phone: +49 4623 18666
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00; PH,Su off
 website: ""

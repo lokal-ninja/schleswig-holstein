@@ -4,8 +4,8 @@ latitude: 54.32129
 longitude: 10.1218
 postcode: "24114"
 city: Kiel
-street: "Hermann-Weigmann-Straße"
-housenumber: 18
+street: Hermann-Weigmann-Straße
+housenumber: "18"
 phone: "+494312201860"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "http://www.all-for-bikes.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: http://www.all-for-bikes.de

@@ -1,11 +1,11 @@
 id: 98696528
-type: way
+type: node
 latitude: 54.46306
 longitude: 11.24279
 postcode: "23769"
 city: Fehmarn
-street: "Dorfstraße"
-housenumber: 30
-phone: "+49 4371 879784"
-opening_hours: "Mar-Aug:Mo-Su 7:00-18:00; Sep-Oct:Mo 07:00-12:00; Tu-Su 07:00-18:00"
+street: Dorfstraße
+housenumber: "30"
+phone: +49 4371 879784
+opening_hours: Mar-Aug:Mo-Su 7:00-18:00; Sep-Oct:Mo 07:00-12:00; Tu-Su 07:00-18:00
 website: ""

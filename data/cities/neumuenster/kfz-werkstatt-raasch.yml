@@ -1,11 +1,11 @@
 id: 732437052
-type: way
+type: node
 latitude: 54.12602
 longitude: 9.99669
 postcode: "24536"
 city: Neumünster
-street: "Kieler Straße"
-housenumber: 697
+street: Kieler Straße
+housenumber: "697"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00"
+opening_hours: Mo-Fr 07:30-12:00
 website: ""

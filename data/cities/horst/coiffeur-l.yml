@@ -1,11 +1,11 @@
 id: 233955894
-type: way
+type: node
 latitude: 53.8131
 longitude: 9.61462
 postcode: "25358"
 city: Horst
-street: "Schulstraße"
-housenumber: 22
-phone: "+49 4126 3936117"
-opening_hours: "Tu-Fr 08:00-12:30,14:00-18:00; We 08:00-13:00; PH off"
+street: Schulstraße
+housenumber: "22"
+phone: +49 4126 3936117
+opening_hours: Tu-Fr 08:00-12:30,14:00-18:00; We 08:00-13:00; PH off
 website: ""

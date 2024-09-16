@@ -1,11 +1,11 @@
 id: 592427018
-type: way
+type: node
 latitude: 54.10612
 longitude: 10.80704
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Lienaustraße"
-housenumber: 16
+street: Lienaustraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

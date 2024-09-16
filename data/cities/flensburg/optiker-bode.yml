@@ -4,8 +4,8 @@ latitude: 54.78429
 longitude: 9.43531
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 58
-phone: "+49 461 1404200"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.optiker-bode.de/filiale/flensburg-holm"
+street: Holm
+housenumber: "58"
+phone: +49 461 1404200
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su,PH off
+website: https://www.optiker-bode.de/filiale/flensburg-holm

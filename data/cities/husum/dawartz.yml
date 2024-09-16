@@ -1,11 +1,11 @@
 id: 311365633
-type: way
+type: node
 latitude: 54.47789
 longitude: 9.05701
 postcode: "25813"
 city: Husum
-street: "Plan"
-housenumber: 
+street: Plan
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

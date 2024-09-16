@@ -1,11 +1,11 @@
 id: 364284118
-type: way
+type: node
 latitude: 53.67993
 longitude: 10.25224
 postcode: "22926"
 city: Ahrensburg
-street: "Beimoorweg"
-housenumber: 12
+street: Beimoorweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off
 website: ""

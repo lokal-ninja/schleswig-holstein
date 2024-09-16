@@ -4,8 +4,8 @@ latitude: 54.79052
 longitude: 9.43102
 postcode: "24939"
 city: Flensburg
-street: "Toosbüystraße"
-housenumber: 1
-phone: "+49 461 18284499"
-opening_hours: "Nach Vereinbarung"
-website: "https://die-haarschneiderin.net/"
+street: Toosbüystraße
+housenumber: "1"
+phone: +49 461 18284499
+opening_hours: '"Nach Vereinbarung"'
+website: https://die-haarschneiderin.net/

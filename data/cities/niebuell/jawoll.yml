@@ -1,11 +1,11 @@
 id: 255625553
-type: way
+type: node
 latitude: 54.78346
 longitude: 8.83092
 postcode: "25899"
 city: Niebüll
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
-website: "https://www.jawoll.de/filialsuche/jawoll-filiale-niebuell.html"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00
+website: https://www.jawoll.de/filialsuche/jawoll-filiale-niebuell.html

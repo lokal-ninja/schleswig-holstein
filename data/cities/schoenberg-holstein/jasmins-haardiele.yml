@@ -1,11 +1,11 @@
 id: 752299732
-type: way
+type: node
 latitude: 54.38519
 longitude: 10.37973
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Eichkampredder"
-housenumber: 13
-phone: "+49 4344 4139295"
-opening_hours: "Tu-Fr 08:30-12:30,13:30-18:00; Sa 08:30-14:00; PH off"
+street: Eichkampredder
+housenumber: "13"
+phone: +49 4344 4139295
+opening_hours: Tu-Fr 08:30-12:30,13:30-18:00; Sa 08:30-14:00; PH off
 website: ""

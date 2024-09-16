@@ -1,11 +1,11 @@
 id: 106314392
-type: way
+type: node
 latitude: 53.8685
 longitude: 10.74394
 postcode: "23566"
 city: Lübeck
-street: "Im Gleisdreieck"
+street: Im Gleisdreieck
 housenumber: 19a
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kruemet.de/filialeneinsicht/filiale-luebeck/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kruemet.de/filialeneinsicht/filiale-luebeck/

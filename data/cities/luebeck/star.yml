@@ -1,11 +1,11 @@
 id: 254243541
-type: way
+type: node
 latitude: 53.87855
 longitude: 10.67004
 postcode: "23554"
 city: Lübeck
-street: "Bei der Lohmühle"
-housenumber: 54
+street: Bei der Lohmühle
+housenumber: "54"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

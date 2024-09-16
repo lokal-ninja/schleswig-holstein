@@ -1,11 +1,11 @@
 id: 161762232
-type: way
+type: node
 latitude: 53.92293
 longitude: 9.50954
 postcode: "25524"
 city: Itzehoe
-street: "Rotenbrook"
-housenumber: 4
-phone: "+49 4821 956520"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Rotenbrook
+housenumber: "4"
+phone: +49 4821 956520
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

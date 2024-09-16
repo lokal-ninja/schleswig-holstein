@@ -4,8 +4,8 @@ latitude: 54.74696
 longitude: 9.41072
 postcode: "24976"
 city: Handewitt
-street: "Heideland-Ost"
-housenumber: 3
-phone: "+49 461 93735"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.bosch-neuwerk.de"
+street: Heideland-Ost
+housenumber: "3"
+phone: +49 461 93735
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.bosch-neuwerk.de

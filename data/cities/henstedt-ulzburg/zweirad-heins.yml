@@ -1,11 +1,11 @@
 id: 166698216
-type: way
+type: node
 latitude: 53.79082
 longitude: 9.99891
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Beckersbergstraße"
-housenumber: 78
+street: Beckersbergstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

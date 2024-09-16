@@ -4,8 +4,9 @@ latitude: 54.13736
 longitude: 10.61759
 postcode: "23701"
 city: Eutin
-street: "Kirchplatz"
-housenumber: 5
+street: Kirchplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo 15:00-17:00; Tu 10:00-12:00; We 15:00-17:00; Th 10:00-12:00; Fr 15:00-17:00; Sa 10:00-12:00"
+opening_hours: Mo 15:00-17:00; Tu 10:00-12:00; We 15:00-17:00; Th 10:00-12:00; Fr
+    15:00-17:00; Sa 10:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 627153293
-type: way
+type: node
 latitude: 53.92498
 longitude: 10.30502
 postcode: "23795"
 city: Bad Segeberg
-street: "Kaiser-Lothar-Allee"
-housenumber: 16
+street: Kaiser-Lothar-Allee
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://www.hass-hatje.de/bauzentren/bad-segeberg/mn_5316"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://www.hass-hatje.de/bauzentren/bad-segeberg/mn_5316

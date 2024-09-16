@@ -1,11 +1,11 @@
 id: 308361780
-type: way
+type: node
 latitude: 54.75422
 longitude: 9.52793
 postcode: "24975"
 city: Hürup
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 4634 320"
-opening_hours: "Mo-Sa 06:30-20:00; PH,Su off"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 4634 320
+opening_hours: Mo-Sa 06:30-20:00; PH,Su off
 website: ""

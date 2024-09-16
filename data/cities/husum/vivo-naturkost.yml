@@ -1,11 +1,11 @@
 id: 224662121
-type: way
+type: node
 latitude: 54.47679
 longitude: 9.05711
 postcode: "25813"
 city: Husum
-street: "Süderstraße"
-housenumber: 46
+street: Süderstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

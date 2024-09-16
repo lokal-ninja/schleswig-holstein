@@ -1,11 +1,11 @@
 id: 26308229
-type: way
+type: node
 latitude: 53.54823
 longitude: 10.15594
 postcode: "22113"
 city: Oststeinbek
-street: "Willinghusener Weg"
-housenumber: 1
-phone: "+49 40 7100900"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.sconto.de/oststeinbek"
+street: Willinghusener Weg
+housenumber: "1"
+phone: +49 40 7100900
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.sconto.de/oststeinbek

@@ -1,11 +1,11 @@
 id: 182585386
-type: way
+type: node
 latitude: 54.0432
 longitude: 9.97742
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 8526712"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.woolrich.com/de/de/stores/woolrich-outlet-neum%C3%BCnster-22676_11"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 8526712
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.woolrich.com/de/de/stores/woolrich-outlet-neum%C3%BCnster-22676_11

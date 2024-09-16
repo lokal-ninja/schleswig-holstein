@@ -1,11 +1,11 @@
 id: 128637397
-type: way
+type: node
 latitude: 54.31544
 longitude: 10.12694
 postcode: "24114"
 city: Kiel
-street: "Ringstraße"
-housenumber: 25
+street: Ringstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00"
-website: "https://find.shell.com/de/fuel/10024099-kiel-ringstr/de_DE"
+opening_hours: Mo-Fr 06:00-23:00; Sa,Su 07:00-23:00
+website: https://find.shell.com/de/fuel/10024099-kiel-ringstr/de_DE

@@ -1,11 +1,11 @@
 id: 185056666
-type: way
+type: node
 latitude: 53.43524
 longitude: 10.36964
 postcode: "21502"
 city: Geesthacht
-street: "Bergedorfer Straße"
-housenumber: 48
+street: Bergedorfer Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

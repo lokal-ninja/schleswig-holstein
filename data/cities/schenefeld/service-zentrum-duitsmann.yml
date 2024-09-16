@@ -1,11 +1,11 @@
 id: 770825097
-type: way
+type: node
 latitude: 54.04101
 longitude: 9.48064
 postcode: "25560"
 city: Schenefeld
-street: "Holstenstraße"
-housenumber: 106
+street: Holstenstraße
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 363440083
-type: way
+type: node
 latitude: 54.29586
 longitude: 9.70736
 postcode: "24783"
 city: Osterrönfeld
-street: "Kieler Straße"
+street: Kieler Straße
 housenumber: 21B
 phone: ""
-opening_hours: "PH,Mo-Su 06:00-21:00"
+opening_hours: PH,Mo-Su 06:00-21:00
 website: ""

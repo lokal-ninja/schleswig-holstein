@@ -4,8 +4,8 @@ latitude: 53.68815
 longitude: 9.99661
 postcode: "22850"
 city: Norderstedt
-street: "Wiesenstraße"
-housenumber: 34
-phone: "+49 40 53008786"
-opening_hours: "Mo 12:00-18:00; Tu-Fr 10:00-18:00"
-website: "http://www.fellfit.de/"
+street: Wiesenstraße
+housenumber: "34"
+phone: +49 40 53008786
+opening_hours: Mo 12:00-18:00; Tu-Fr 10:00-18:00
+website: http://www.fellfit.de/

@@ -4,8 +4,8 @@ latitude: 53.68487
 longitude: 9.72912
 postcode: "25436"
 city: Tornesch
-street: "Pinneberger Straße"
-housenumber: 18
-phone: "+49 40 28005730"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
-website: "https://www.bergmann-soehne.de/"
+street: Pinneberger Straße
+housenumber: "18"
+phone: +49 40 28005730
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
+website: https://www.bergmann-soehne.de/

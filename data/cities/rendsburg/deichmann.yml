@@ -4,8 +4,8 @@ latitude: 54.3052
 longitude: 9.66099
 postcode: "24768"
 city: Rendsburg
-street: "Schiffbrückenplatz"
-housenumber: 17
-phone: "+49 4331 8389938"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-17:00"
-website: "https://www.deichmann.com/"
+street: Schiffbrückenplatz
+housenumber: "17"
+phone: +49 4331 8389938
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-17:00
+website: https://www.deichmann.com/

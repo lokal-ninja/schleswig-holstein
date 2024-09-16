@@ -1,11 +1,11 @@
 id: 520541792
-type: way
+type: node
 latitude: 53.6715
 longitude: 9.90355
 postcode: "25474"
 city: Bönningstedt
-street: "Kieler Straße"
-housenumber: 158
-phone: "+49 40 89804961"
+street: Kieler Straße
+housenumber: "158"
+phone: +49 40 89804961
 opening_hours: ""
-website: "http://b4-automobile.de/go.to/modix/now/hauptseite.htm"
+website: http://b4-automobile.de/go.to/modix/now/hauptseite.htm

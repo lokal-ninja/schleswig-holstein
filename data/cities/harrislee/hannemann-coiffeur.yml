@@ -4,8 +4,8 @@ latitude: 54.80263
 longitude: 9.38572
 postcode: "24955"
 city: Harrislee
-street: "Frühlingsbogen"
-housenumber: 1
-phone: "+49 461 71934"
-opening_hours: "Tu-Fr 07:30-18:00; Sa 07:30-13:00; Su,Mo,PH off"
-website: "http://www.friseur-hanemann.de/"
+street: Frühlingsbogen
+housenumber: "1"
+phone: +49 461 71934
+opening_hours: Tu-Fr 07:30-18:00; Sa 07:30-13:00; Su,Mo,PH off
+website: http://www.friseur-hanemann.de/

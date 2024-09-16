@@ -4,8 +4,8 @@ latitude: 54.76005
 longitude: 8.87396
 postcode: "25920"
 city: Risum-Lindholm
-street: "Dorfstraße"
-housenumber: 211
-phone: "+49 4661 5265"
-opening_hours: "Mo,Tu,Th,Fr 06:00-12:00,14:00-18:00; We,Sa 06:00-12:00; Su 07:15-11:00"
-website: "https://baeckerpost.eu/"
+street: Dorfstraße
+housenumber: "211"
+phone: +49 4661 5265
+opening_hours: Mo,Tu,Th,Fr 06:00-12:00,14:00-18:00; We,Sa 06:00-12:00; Su 07:15-11:00
+website: https://baeckerpost.eu/

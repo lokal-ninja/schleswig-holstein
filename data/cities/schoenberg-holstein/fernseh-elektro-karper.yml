@@ -1,11 +1,11 @@
 id: 229403865
-type: way
+type: node
 latitude: 54.38595
 longitude: 10.37662
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Eichkamp"
-housenumber: 14
+street: Eichkamp
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

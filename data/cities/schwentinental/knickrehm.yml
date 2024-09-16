@@ -1,11 +1,11 @@
 id: 364538700
-type: way
+type: node
 latitude: 54.29373
 longitude: 10.22338
 postcode: "24222"
 city: Schwentinental
-street: "Wasserwerksweg"
-housenumber: 5
+street: Wasserwerksweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

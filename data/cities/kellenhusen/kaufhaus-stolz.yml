@@ -1,11 +1,11 @@
 id: 485392873
-type: way
+type: node
 latitude: 54.19213
 longitude: 11.05499
 postcode: "23746"
 city: Kellenhusen
-street: "Kirschenallee"
-housenumber: 2
-phone: "+494364 470993 0"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://unternehmen.kaufhaus-stolz.com/filialen/kellenhusen/"
+street: Kirschenallee
+housenumber: "2"
+phone: +494364 470993 0
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-17:00
+website: https://unternehmen.kaufhaus-stolz.com/filialen/kellenhusen/

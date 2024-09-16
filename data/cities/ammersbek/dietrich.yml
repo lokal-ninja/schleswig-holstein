@@ -1,11 +1,11 @@
 id: 55750736
-type: way
+type: node
 latitude: 53.69295
 longitude: 10.17223
 postcode: "22949"
 city: Ammersbek
-street: "Lübecker Straße"
-housenumber: 30
+street: Lübecker Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00, Fr 08:00-14:00; PH off"
-website: "https://www.autofit-dietrich.de/"
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00, Fr 08:00-14:00; PH off
+website: https://www.autofit-dietrich.de/

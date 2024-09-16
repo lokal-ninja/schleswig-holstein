@@ -4,8 +4,8 @@ latitude: 54.41334
 longitude: 9.5292
 postcode: "24848"
 city: Kropp
-street: "Werkstraße"
-housenumber: 2
-phone: "+49 4624 8045 0"
+street: Werkstraße
+housenumber: "2"
+phone: +49 4624 8045 0
 opening_hours: ""
-website: "https://thomsen-kropp.de/"
+website: https://thomsen-kropp.de/

@@ -4,8 +4,8 @@ latitude: 54.39311
 longitude: 10.17492
 postcode: "24159"
 city: Kiel
-street: "Oldestraße"
-housenumber: 1
-phone: "+49 431 396900"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00"
-website: "https://www.amplifon.de/"
+street: Oldestraße
+housenumber: "1"
+phone: +49 431 396900
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00
+website: https://www.amplifon.de/

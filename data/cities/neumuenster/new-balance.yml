@@ -1,11 +1,11 @@
 id: 383368982
-type: way
+type: node
 latitude: 54.04299
 longitude: 9.98009
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 6963106"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://stores.newbalance.com/shop/184965/new-balance-neumunster"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 6963106
+opening_hours: Mo-Sa 10:00-20:00
+website: https://stores.newbalance.com/shop/184965/new-balance-neumunster

@@ -1,11 +1,11 @@
 id: 346038224
-type: way
+type: node
 latitude: 54.51978
 longitude: 11.08115
 postcode: "23769"
 city: Fehmarn
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: "+494372480"
 opening_hours: ""
-website: "https://www.hofbaeckerei-fehmarn.de/"
+website: https://www.hofbaeckerei-fehmarn.de/

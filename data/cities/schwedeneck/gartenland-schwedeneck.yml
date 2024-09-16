@@ -1,11 +1,11 @@
 id: 331709270
-type: way
+type: node
 latitude: 54.45
 longitude: 10.09667
 postcode: "24229"
 city: Schwedeneck
-street: "Horreck"
-housenumber: 2
-phone: "+49 4308 18343"
+street: Horreck
+housenumber: "2"
+phone: +49 4308 18343
 opening_hours: ""
-website: "https://www.gartenland-schwedeneck.de/startsite.html"
+website: https://www.gartenland-schwedeneck.de/startsite.html

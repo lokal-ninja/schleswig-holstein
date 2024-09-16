@@ -1,11 +1,11 @@
 id: 689045465
-type: way
+type: node
 latitude: 54.10524
 longitude: 9.96777
 postcode: "24537"
 city: Neumünster
-street: "Rendsburger Straße"
-housenumber: 354
+street: Rendsburger Straße
+housenumber: "354"
 phone: ""
 opening_hours: ""
-website: "https://reifenhus-df.de/index.php"
+website: https://reifenhus-df.de/index.php

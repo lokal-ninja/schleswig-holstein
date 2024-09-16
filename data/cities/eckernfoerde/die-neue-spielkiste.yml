@@ -4,8 +4,9 @@ latitude: 54.47357
 longitude: 9.83632
 postcode: "24340"
 city: Eckernförde
-street: "Frau-Clara-Straße"
-housenumber: 14
+street: Frau-Clara-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00; Sa 10:00-18:00; Mar 15-Oct 31 Su 11:00-16:00 open Mitte März - Oktober"
-website: "http://spielkiste-eckernfoerde.de/"
+opening_hours: Mo-Fr 10:00-16:00; Sa 10:00-18:00; Mar 15-Oct 31 Su 11:00-16:00 open
+    "Mitte März - Oktober"
+website: http://spielkiste-eckernfoerde.de/

@@ -4,8 +4,8 @@ latitude: 54.31874
 longitude: 10.1307
 postcode: "24103"
 city: Kiel
-street: "Hopfenstraße"
-housenumber: 71
-phone: "+49 1573 11 65 379"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Hopfenstraße
+housenumber: "71"
+phone: +49 1573 11 65 379
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

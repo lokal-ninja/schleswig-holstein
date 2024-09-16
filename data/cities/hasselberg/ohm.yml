@@ -1,11 +1,11 @@
 id: 225959570
-type: way
+type: node
 latitude: 54.71203
 longitude: 9.9347
 postcode: "24376"
 city: Hasselberg
-street: "Schwackendorf"
-housenumber: 45
+street: Schwackendorf
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 06:00-12:00; Su 07:30-10:00"
+opening_hours: Mo-Sa 06:00-12:00; Su 07:30-10:00
 website: ""

@@ -1,11 +1,11 @@
 id: 80678653
-type: way
+type: node
 latitude: 53.84265
 longitude: 9.40098
 postcode: "25599"
 city: Wewelsfleth
-street: "Am Hafen"
-housenumber: 1
+street: Am Hafen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

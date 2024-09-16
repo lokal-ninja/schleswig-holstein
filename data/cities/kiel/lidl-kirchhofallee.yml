@@ -1,11 +1,11 @@
 id: 26674959
-type: way
+type: node
 latitude: 54.31607
 longitude: 10.11864
 postcode: "24114"
 city: Kiel
-street: "Kirchhofallee"
-housenumber: 68
+street: Kirchhofallee
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

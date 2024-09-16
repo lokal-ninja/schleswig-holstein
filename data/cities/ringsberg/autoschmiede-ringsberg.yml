@@ -1,11 +1,11 @@
 id: 314229818
-type: way
+type: node
 latitude: 54.81003
 longitude: 9.59591
 postcode: "24977"
 city: Ringsberg
-street: "Glücksburger Straße"
-housenumber: 27
-phone: "+49 4636 776"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su,PH off"
+street: Glücksburger Straße
+housenumber: "27"
+phone: +49 4636 776
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

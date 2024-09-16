@@ -4,8 +4,8 @@ latitude: 54.47098
 longitude: 9.83592
 postcode: "24340"
 city: Eckernförde
-street: "Schulweg"
-housenumber: 1
-phone: "+49 4351 8895166"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00; PH,Su off"
-website: "https://www.optik-hallmann.de/"
+street: Schulweg
+housenumber: "1"
+phone: +49 4351 8895166
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00; PH,Su off
+website: https://www.optik-hallmann.de/

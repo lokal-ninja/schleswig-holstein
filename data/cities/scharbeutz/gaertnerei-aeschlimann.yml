@@ -1,11 +1,11 @@
 id: 33791233
-type: way
+type: node
 latitude: 54.03804
 longitude: 10.70606
 postcode: "23684"
 city: Scharbeutz
-street: "Dorfstraße"
+street: Dorfstraße
 housenumber: 2a
-phone: "+49 4524 900200"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-16:00"
+phone: +49 4524 900200
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-16:00
 website: ""

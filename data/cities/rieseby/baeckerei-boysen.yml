@@ -4,8 +4,8 @@ latitude: 54.54272
 longitude: 9.80831
 postcode: "24354"
 city: Rieseby
-street: "Dorfstraße"
-housenumber: 57
-phone: "+49 4355 989796"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su,PH off"
+street: Dorfstraße
+housenumber: "57"
+phone: +49 4355 989796
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.71733
 longitude: 9.66971
 postcode: "24966"
 city: Sörup
-street: "Bahnhofstraße"
-housenumber: 3
-phone: "+49 4635 2945499"
-opening_hours: "Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-18:00, Sa 08:30-13:00; PH,Su off"
+street: Bahnhofstraße
+housenumber: "3"
+phone: +49 4635 2945499
+opening_hours: Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:00-18:00, Sa 08:30-13:00; PH,Su off
 website: ""

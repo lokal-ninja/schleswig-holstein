@@ -4,8 +4,8 @@ latitude: 53.67898
 longitude: 9.90755
 postcode: "25474"
 city: Bönningstedt
-street: "Nordring"
-housenumber: 4
-phone: "+49 40 5566191"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.autoservice-boenningstedt.de/"
+street: Nordring
+housenumber: "4"
+phone: +49 40 5566191
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.autoservice-boenningstedt.de/

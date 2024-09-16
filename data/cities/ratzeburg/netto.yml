@@ -1,11 +1,11 @@
 id: 143065719
-type: way
+type: node
 latitude: 53.69961
 longitude: 10.74437
 postcode: "23909"
 city: Ratzeburg
-street: "Heinrich-Hertz-Straße"
-housenumber: 4
+street: Heinrich-Hertz-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://netto.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://netto.de

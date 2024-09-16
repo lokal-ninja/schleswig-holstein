@@ -4,8 +4,8 @@ latitude: 53.64719
 longitude: 9.90984
 postcode: "22457"
 city: Hamburg
-street: "Roman-Zeller-Platz"
-housenumber: 2
-phone: "+49 40 5594317"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-16:00"
-website: "https://www.baeckerei-kolls.de/filialfinder/#location-387"
+street: Roman-Zeller-Platz
+housenumber: "2"
+phone: +49 40 5594317
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 08:00-16:00
+website: https://www.baeckerei-kolls.de/filialfinder/#location-387

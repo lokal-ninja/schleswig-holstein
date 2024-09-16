@@ -4,8 +4,8 @@ latitude: 54.69112
 longitude: 9.60333
 postcode: "24986"
 city: Mittelangeln
-street: "Schleswiger Straße"
-housenumber: 3
-phone: "+49 4633 1622"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00"
-website: "https://www.kuechenwelt-hansen.de"
+street: Schleswiger Straße
+housenumber: "3"
+phone: +49 4633 1622
+opening_hours: Mo-Fr 09:00-12:00,13:00-18:00; Sa 09:00-12:00
+website: https://www.kuechenwelt-hansen.de

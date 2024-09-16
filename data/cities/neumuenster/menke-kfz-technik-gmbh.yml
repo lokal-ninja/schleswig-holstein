@@ -1,11 +1,11 @@
 id: 184232509
-type: way
+type: node
 latitude: 54.04723
 longitude: 9.98475
 postcode: "24539"
 city: Neumünster
-street: "Saalestraße"
-housenumber: 2
+street: Saalestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

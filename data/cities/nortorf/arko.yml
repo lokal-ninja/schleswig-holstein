@@ -4,8 +4,9 @@ latitude: 54.1686
 longitude: 9.85542
 postcode: "24589"
 city: Nortorf
-street: "Poststraße"
-housenumber: 3
+street: Poststraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, We 14:00-17:00, Sa 08:00-13:00; PH,Su off"
-website: "https://www.arko.de/"
+opening_hours: Mo-Fr 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, We 14:00-17:00, Sa 08:00-13:00;
+    PH,Su off
+website: https://www.arko.de/

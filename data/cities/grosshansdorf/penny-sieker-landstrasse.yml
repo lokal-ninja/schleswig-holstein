@@ -1,11 +1,11 @@
 id: 37959363
-type: way
+type: node
 latitude: 53.65348
 longitude: 10.26084
 postcode: "22927"
 city: Großhansdorf
-street: "Sieker Landstraße"
-housenumber: 118
+street: Sieker Landstraße
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

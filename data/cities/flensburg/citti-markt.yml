@@ -4,8 +4,8 @@ latitude: 54.77421
 longitude: 9.39914
 postcode: "24941"
 city: Flensburg
-street: "Langberger Weg"
-housenumber: 4
-phone: "+49 461 57060"
-opening_hours: "Mo-Sa 09:00-20:00; PH,Su off"
-website: "https://cittimarkt.de/"
+street: Langberger Weg
+housenumber: "4"
+phone: +49 461 57060
+opening_hours: Mo-Sa 09:00-20:00; PH,Su off
+website: https://cittimarkt.de/

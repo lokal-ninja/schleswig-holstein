@@ -4,8 +4,8 @@ latitude: 54.37207
 longitude: 10.97852
 postcode: "23774"
 city: Heiligenhafen
-street: "Mühlenstraße"
-housenumber: 1
-phone: "+49 4362 506637"
-opening_hours: "Mo-Fr 09:00-19:00; Su 11:00-17:00; Sa 09:00-18:30"
-website: "https://www.schuh-armbruster.de"
+street: Mühlenstraße
+housenumber: "1"
+phone: +49 4362 506637
+opening_hours: Mo-Fr 09:00-19:00; Su 11:00-17:00; Sa 09:00-18:30
+website: https://www.schuh-armbruster.de

@@ -1,11 +1,11 @@
 id: 59934876
-type: way
+type: node
 latitude: 54.8073
 longitude: 9.51367
 postcode: "24999"
 city: Wees
-street: "Birkenbogen"
-housenumber: 2
-phone: "+49 4631 313777"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off"
+street: Birkenbogen
+housenumber: "2"
+phone: +49 4631 313777
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su,PH off
 website: ""

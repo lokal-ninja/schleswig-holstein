@@ -1,11 +1,11 @@
 id: 182585447
-type: way
+type: node
 latitude: 54.04225
 longitude: 9.97654
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 4891206"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://stores.soliver.com/neumunster/oderstra%C3%9Fe-10"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 4891206
+opening_hours: Mo-Sa 10:00-20:00
+website: https://stores.soliver.com/neumunster/oderstra%C3%9Fe-10

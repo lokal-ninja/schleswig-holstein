@@ -4,8 +4,9 @@ latitude: 54.3195
 longitude: 9.66922
 postcode: "24782"
 city: Büdelsdorf
-street: "Neue Dorfstraße"
-housenumber: 81
-phone: "+49 4331 34380"
-opening_hours: "Mo-Fr 09:30-18:30; Apr-Sep: Sa 09:30-15:00; Oct-Mar: Sa 09:30-16:00; PH off"
-website: "https://www.moebel-hennings.de/"
+street: Neue Dorfstraße
+housenumber: "81"
+phone: +49 4331 34380
+opening_hours: 'Mo-Fr 09:30-18:30; Apr-Sep: Sa 09:30-15:00; Oct-Mar: Sa 09:30-16:00;
+    PH off'
+website: https://www.moebel-hennings.de/

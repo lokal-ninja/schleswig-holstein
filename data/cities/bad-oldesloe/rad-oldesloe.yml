@@ -4,8 +4,8 @@ latitude: 53.80128
 longitude: 10.34114
 postcode: "23843"
 city: Bad Oldesloe
-street: "Rögen"
-housenumber: 60
+street: Rögen
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-We,Fr 08:00-16:00; Th 08:00-17:00"
-website: "https://www.stormarner-werkstaetten-bad-oldesloe.de/de/angebote/auftrag/144670.html"
+opening_hours: Mo-We,Fr 08:00-16:00; Th 08:00-17:00
+website: https://www.stormarner-werkstaetten-bad-oldesloe.de/de/angebote/auftrag/144670.html

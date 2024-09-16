@@ -4,8 +4,8 @@ latitude: 53.63598
 longitude: 9.84013
 postcode: "25469"
 city: Halstenbek
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 4101 402737"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00"
-website: "https://www.jensen-optik.de/"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 4101 402737
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00
+website: https://www.jensen-optik.de/

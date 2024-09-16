@@ -4,8 +4,8 @@ latitude: 53.63063
 longitude: 10.26238
 postcode: "22962"
 city: Siek
-street: "Dorfstraße"
-housenumber: 52
-phone: "+49 179 4292593"
-opening_hours: "24/7"
-website: "http://www.menzel-meilsdorf.de/"
+street: Dorfstraße
+housenumber: "52"
+phone: +49 179 4292593
+opening_hours: 24/7
+website: http://www.menzel-meilsdorf.de/

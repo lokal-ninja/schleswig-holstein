@@ -1,11 +1,12 @@
 id: 41346952
-type: way
+type: node
 latitude: 54.34859
 longitude: 10.18941
 postcode: "24248"
 city: Mönkeberg
-street: "Heikendorfer Weg"
-housenumber: 18
-phone: "+49 431 231535"
-opening_hours: "Nov 01-Mar 14 Mo-Sa 08:00-20:00, Su,PH off; Mar 15-Oct 31 Su,PH 11:00-17:00, Mo-Sa 08:00-20:00; easter -2 days off"
-website: "https://www.edeka.de/eh/nord/edeka-ristow-am-eksol-18/index.jsp"
+street: Heikendorfer Weg
+housenumber: "18"
+phone: +49 431 231535
+opening_hours: Nov 01-Mar 14 Mo-Sa 08:00-20:00, Su,PH off; Mar 15-Oct 31 Su,PH 11:00-17:00,
+    Mo-Sa 08:00-20:00; easter -2 days off
+website: https://www.edeka.de/eh/nord/edeka-ristow-am-eksol-18/index.jsp

@@ -4,8 +4,8 @@ latitude: 54.90284
 longitude: 8.31315
 postcode: "25980"
 city: Sylt
-street: "Tinnumer Straße"
-housenumber: 11
+street: Tinnumer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.vosssylt.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.vosssylt.de/

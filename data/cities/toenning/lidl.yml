@@ -1,11 +1,11 @@
 id: 181049286
-type: way
+type: node
 latitude: 54.32243
 longitude: 8.95353
 postcode: "25832"
 city: Tönning
-street: "Dithmarscher Straße"
-housenumber: 7
+street: Dithmarscher Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH closed; Mar 15-Oct 31: Su,PH 11:00-17:00"
+opening_hours: 'Mo-Sa 08:00-20:00; PH closed; Mar 15-Oct 31: Su,PH 11:00-17:00'
 website: ""

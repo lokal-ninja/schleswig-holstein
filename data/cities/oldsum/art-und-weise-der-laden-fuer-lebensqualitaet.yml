@@ -5,7 +5,7 @@ longitude: 8.44838
 postcode: "25938"
 city: Oldsum
 street: ""
-housenumber: 56
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.haukenissen.de/"
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.haukenissen.de/

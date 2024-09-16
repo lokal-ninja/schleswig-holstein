@@ -4,8 +4,8 @@ latitude: 54.51622
 longitude: 9.5615
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 45
+street: Stadtweg
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
-website: "https://www.optik-hallmann.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
+website: https://www.optik-hallmann.de/

@@ -4,8 +4,8 @@ latitude: 54.08959
 longitude: 9.07197
 postcode: "25704"
 city: Meldorf
-street: "Roggenstraße"
-housenumber: 2
+street: Roggenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "http://www.buecherstube-meldorf.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: http://www.buecherstube-meldorf.de/

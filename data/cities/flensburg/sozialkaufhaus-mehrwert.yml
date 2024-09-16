@@ -1,11 +1,11 @@
 id: 166755830
-type: way
+type: node
 latitude: 54.80556
 longitude: 9.42545
 postcode: "24939"
 city: Flensburg
-street: "Steinstraße"
-housenumber: 15
-phone: "+49 461 674222-0"
-opening_hours: "Mo-Th 09:00-16:00; Fr 09:00-14:30; PH,Sa,Su off"
-website: "https://www.sozialkaufhaus-mehrwert.de/"
+street: Steinstraße
+housenumber: "15"
+phone: +49 461 674222-0
+opening_hours: Mo-Th 09:00-16:00; Fr 09:00-14:30; PH,Sa,Su off
+website: https://www.sozialkaufhaus-mehrwert.de/

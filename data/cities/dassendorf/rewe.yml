@@ -1,11 +1,11 @@
 id: 218407430
-type: way
+type: node
 latitude: 53.48808
 longitude: 10.36411
 postcode: "21521"
 city: Dassendorf
-street: "August-Siemsen-Straße"
-housenumber: 1
+street: August-Siemsen-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

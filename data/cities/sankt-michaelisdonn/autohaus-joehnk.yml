@@ -1,11 +1,11 @@
 id: 130395336
-type: way
+type: node
 latitude: 53.9885
 longitude: 9.11686
 postcode: "25693"
 city: Sankt Michaelisdonn
-street: "Schwarzer Weg"
-housenumber: 8
+street: Schwarzer Weg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00;Sa 08:00-12:00;PH off"
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00;Sa 08:00-12:00;PH off
 website: ""

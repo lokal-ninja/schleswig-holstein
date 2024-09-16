@@ -1,11 +1,11 @@
 id: 587840426
-type: way
+type: node
 latitude: 53.87384
 longitude: 9.58901
 postcode: "25566"
 city: Rethwisch
-street: "Dorfstraße"
-housenumber: 26
+street: Dorfstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

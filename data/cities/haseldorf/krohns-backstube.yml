@@ -4,8 +4,8 @@ latitude: 53.63463
 longitude: 9.59588
 postcode: "25489"
 city: Haseldorf
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mu-Fr 05:00-14:00; Sa 05:00-13:00; Su 07:00-13:00"
-website: "www.krohn-backstube.de/"
+opening_hours: Mu-Fr 05:00-14:00; Sa 05:00-13:00; Su 07:00-13:00
+website: www.krohn-backstube.de/

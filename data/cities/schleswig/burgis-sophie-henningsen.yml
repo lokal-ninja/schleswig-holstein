@@ -4,8 +4,8 @@ latitude: 54.51792
 longitude: 9.5648
 postcode: "24837"
 city: Schleswig
-street: "Bismarckstraße"
-housenumber: 8
-phone: "+49 4621 23253"
-opening_hours: "Nach Absprache"
-website: "https://burgis-sophie-henningsen.de/"
+street: Bismarckstraße
+housenumber: "8"
+phone: +49 4621 23253
+opening_hours: '"Nach Absprache"'
+website: https://burgis-sophie-henningsen.de/

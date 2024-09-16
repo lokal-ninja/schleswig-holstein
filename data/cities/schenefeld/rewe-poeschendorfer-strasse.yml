@@ -1,11 +1,11 @@
 id: 250846854
-type: way
+type: node
 latitude: 54.04593
 longitude: 9.48448
 postcode: "25560"
 city: Schenefeld
-street: "Pöschendorfer Straße"
-housenumber: 2
-phone: "+49 4892 890470"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/schenefeld/830894/rewe-markt-poeschendorfer-str-2/"
+street: Pöschendorfer Straße
+housenumber: "2"
+phone: +49 4892 890470
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/schenefeld/830894/rewe-markt-poeschendorfer-str-2/

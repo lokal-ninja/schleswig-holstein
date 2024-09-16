@@ -4,8 +4,8 @@ latitude: 54.31124
 longitude: 10.14587
 postcode: "24143"
 city: Kiel
-street: "Elisabethstraße"
-housenumber: 72
-phone: "+49 43116074368"
+street: Elisabethstraße
+housenumber: "72"
+phone: +49 43116074368
 opening_hours: ""
-website: "https://www.kartell43.de/"
+website: https://www.kartell43.de/

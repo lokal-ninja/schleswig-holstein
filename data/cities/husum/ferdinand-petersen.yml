@@ -1,11 +1,11 @@
 id: 313359699
-type: way
+type: node
 latitude: 54.47836
 longitude: 9.05518
 postcode: "25813"
 city: Husum
-street: "Norderstraße"
-housenumber: 37
-phone: "+49 4841 2937"
+street: Norderstraße
+housenumber: "37"
+phone: +49 4841 2937
 opening_hours: ""
-website: "http://www.ferdinand-petersen.de/"
+website: http://www.ferdinand-petersen.de/

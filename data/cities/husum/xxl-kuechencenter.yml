@@ -1,11 +1,11 @@
 id: 129848713
-type: way
+type: node
 latitude: 54.49324
 longitude: 9.07478
 postcode: "25813"
 city: Husum
-street: "Siemensstraße"
-housenumber: 33
+street: Siemensstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

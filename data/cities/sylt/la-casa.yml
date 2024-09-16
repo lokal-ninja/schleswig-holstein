@@ -4,8 +4,8 @@ latitude: 54.90743
 longitude: 8.30315
 postcode: "25980"
 city: Sylt
-street: "Bismarckstraße"
-housenumber: 1
+street: Bismarckstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 12:00-17:30; Sa 11:30-15:00"
-website: "https://boutiquelacasa.de/"
+opening_hours: Mo-Fr 12:00-17:30; Sa 11:30-15:00
+website: https://boutiquelacasa.de/

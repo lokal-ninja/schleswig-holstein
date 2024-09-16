@@ -1,11 +1,11 @@
 id: 87406043
-type: way
+type: node
 latitude: 54.63452
 longitude: 9.77274
 postcode: "24392"
 city: Süderbrarup
-street: "Große Straße"
-housenumber: 10
+street: Große Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; PH,Su closed"
+opening_hours: Mo-Sa 08:00-22:00; PH,Su closed
 website: ""

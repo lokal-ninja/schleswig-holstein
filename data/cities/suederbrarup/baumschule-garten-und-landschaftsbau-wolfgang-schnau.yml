@@ -1,11 +1,11 @@
 id: 231630395
-type: way
+type: node
 latitude: 54.63979
 longitude: 9.73809
 postcode: "24392"
 city: Süderbrarup
-street: "Ruruper Straße"
-housenumber: 1
+street: Ruruper Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

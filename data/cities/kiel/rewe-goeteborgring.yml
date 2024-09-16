@@ -1,11 +1,11 @@
 id: 118053553
-type: way
+type: node
 latitude: 54.32005
 longitude: 10.06329
 postcode: "24109"
 city: Kiel
-street: "Göteborgring"
-housenumber: 3
+street: Göteborgring
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

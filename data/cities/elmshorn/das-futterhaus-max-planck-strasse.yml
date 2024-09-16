@@ -1,11 +1,11 @@
 id: 264282296
-type: way
+type: node
 latitude: 53.7767
 longitude: 9.65761
 postcode: ""
 city: Elmshorn
-street: "Max-Planck-Straße"
-housenumber: 8
+street: Max-Planck-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
 website: ""

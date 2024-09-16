@@ -1,11 +1,11 @@
 id: 204908417
-type: way
+type: node
 latitude: 54.54108
 longitude: 9.58617
 postcode: "24837"
 city: Schleswig
-street: "Heinrich-Hertz-Straße"
-housenumber: 44
-phone: "+49 4621 306330"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.automobile-simsek.de/"
+street: Heinrich-Hertz-Straße
+housenumber: "44"
+phone: +49 4621 306330
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.automobile-simsek.de/

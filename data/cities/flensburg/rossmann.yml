@@ -4,8 +4,8 @@ latitude: 54.80105
 longitude: 9.45409
 postcode: "24943"
 city: Flensburg
-street: "Mürwiker Straße"
-housenumber: 89
-phone: "+49 461 6799134"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"
-website: "https://www.rossmann.de"
+street: Mürwiker Straße
+housenumber: "89"
+phone: +49 461 6799134
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off
+website: https://www.rossmann.de

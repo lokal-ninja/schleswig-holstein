@@ -1,11 +1,11 @@
 id: 184079996
-type: way
+type: node
 latitude: 54.04652
 longitude: 9.97335
 postcode: "24539"
 city: Neumünster
-street: "Spreestraße"
-housenumber: 4
+street: Spreestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

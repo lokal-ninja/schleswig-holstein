@@ -1,11 +1,11 @@
 id: 184781538
-type: way
+type: node
 latitude: 54.06367
 longitude: 9.98431
 postcode: "24539"
 city: Neumünster
-street: "Holsatenring"
-housenumber: 38
+street: Holsatenring
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

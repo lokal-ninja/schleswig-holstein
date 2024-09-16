@@ -4,8 +4,8 @@ latitude: 53.88697
 longitude: 10.80091
 postcode: "23568"
 city: Lübeck
-street: "Mecklenburger Straße"
-housenumber: 38
-phone: "+49-451-4007907"
+street: Mecklenburger Straße
+housenumber: "38"
+phone: +49-451-4007907
 opening_hours: ""
-website: "https://www.barra24.de/"
+website: https://www.barra24.de/

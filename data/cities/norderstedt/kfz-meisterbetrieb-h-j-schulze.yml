@@ -1,11 +1,11 @@
 id: 409321924
-type: way
+type: node
 latitude: 53.67975
 longitude: 9.96807
 postcode: "22848"
 city: Norderstedt
-street: "Friedrichsgaber Weg"
-housenumber: 7
+street: Friedrichsgaber Weg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

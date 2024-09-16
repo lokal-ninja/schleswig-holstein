@@ -4,8 +4,8 @@ latitude: 54.40947
 longitude: 9.97477
 postcode: "24214"
 city: Gettorf
-street: "Herrenstraße"
-housenumber: 1
-phone: "+49 4346 3287"
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-14:30; Sa,Su,PH off"
-website: "https://www.missfeldt.com/"
+street: Herrenstraße
+housenumber: "1"
+phone: +49 4346 3287
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-14:30; Sa,Su,PH off
+website: https://www.missfeldt.com/

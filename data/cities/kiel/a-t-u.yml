@@ -1,11 +1,11 @@
 id: 127682268
-type: way
+type: node
 latitude: 54.34964
 longitude: 10.09165
 postcode: "24107"
 city: Kiel
-street: "Suchskrug"
-housenumber: 10
+street: Suchskrug
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00
+website: https://www.atu.de/

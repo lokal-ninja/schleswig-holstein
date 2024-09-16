@@ -1,11 +1,11 @@
 id: 572306959
-type: way
+type: node
 latitude: 54.4109
 longitude: 9.50951
 postcode: "24848"
 city: Kropp
-street: "Hauptstraße"
-housenumber: 4
-phone: "+49 4624 451576"
+street: Hauptstraße
+housenumber: "4"
+phone: +49 4624 451576
 opening_hours: ""
-website: "https://kropperbuch.buchkatalog.de/"
+website: https://kropperbuch.buchkatalog.de/

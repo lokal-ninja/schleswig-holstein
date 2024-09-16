@@ -1,11 +1,11 @@
 id: 208886685
-type: way
+type: node
 latitude: 54.03936
 longitude: 10.69632
 postcode: "23684"
 city: Scharbeutz
-street: "Scharbeutzer Straße"
-housenumber: 17
+street: Scharbeutzer Straße
+housenumber: "17"
 phone: "+494524900180"
-opening_hours: "Mo-Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://www.gartenstudio-poenitz-am-see.de"
+opening_hours: Mo-Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.gartenstudio-poenitz-am-see.de

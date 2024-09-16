@@ -4,8 +4,9 @@ latitude: 54.17308
 longitude: 10.5571
 postcode: ""
 city: Malente
-street: "Bahnhofstraße"
-housenumber: 48
+street: Bahnhofstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Di 10:00-13:00, 15:00-18:00, Do-Fr 10:00-13:00, 15:00-18:00, Mi off, Sa off"
+opening_hours: Mo-Di 10:00-13:00, 15:00-18:00, Do-Fr 10:00-13:00, 15:00-18:00, Mi
+    off, Sa off
 website: ""

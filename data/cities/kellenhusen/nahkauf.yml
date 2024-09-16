@@ -1,11 +1,11 @@
 id: 485392872
-type: way
+type: node
 latitude: 54.19192
 longitude: 11.05466
 postcode: "23746"
 city: Kellenhusen
-street: "Kirschenallee"
+street: Kirschenallee
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 07:00-20:00; Su 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 255527744
-type: way
+type: node
 latitude: 53.89607
 longitude: 9.13601
 postcode: "25541"
 city: Brunsbüttel
-street: "Schulstraße"
-housenumber: 38
+street: Schulstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.galerie-rusch.com"
+website: https://www.galerie-rusch.com

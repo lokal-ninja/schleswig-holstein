@@ -4,8 +4,8 @@ latitude: 53.66242
 longitude: 9.79629
 postcode: "25421"
 city: Pinneberg
-street: "Bismarckstraße"
-housenumber: 13
-phone: "+49 4101 3693930"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-2503/pinneberg/bismarckstrasse-13"
+street: Bismarckstraße
+housenumber: "13"
+phone: +49 4101 3693930
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-2503/pinneberg/bismarckstrasse-13

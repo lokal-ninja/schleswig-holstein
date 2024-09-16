@@ -1,11 +1,11 @@
 id: 127068045
-type: way
+type: node
 latitude: 53.92141
 longitude: 9.5175
 postcode: "25524"
 city: Itzehoe
-street: "Breitenburger Straße"
-housenumber: 2
+street: Breitenburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.39679
 longitude: 10.17226
 postcode: "24159"
 city: Kiel
-street: "Friedrichsorter Straße"
-housenumber: 12
-phone: "+49 431 2601591"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:00-17:00"
-website: "https://www.baeckerei-roennau.de/kiel-friedrichsort/"
+street: Friedrichsorter Straße
+housenumber: "12"
+phone: +49 431 2601591
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-17:00; Su 07:00-17:00
+website: https://www.baeckerei-roennau.de/kiel-friedrichsort/

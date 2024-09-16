@@ -4,8 +4,8 @@ latitude: 53.97731
 longitude: 9.73306
 postcode: "25548"
 city: Rosdorf
-street: "Störweg"
-housenumber: 2
+street: Störweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.gutes-vom-hof.sh/einkaufen-erleben/hof/stoertaler/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.gutes-vom-hof.sh/einkaufen-erleben/hof/stoertaler/

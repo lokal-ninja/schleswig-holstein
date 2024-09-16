@@ -1,11 +1,11 @@
 id: 155269744
-type: way
+type: node
 latitude: 54.76128
 longitude: 9.39622
 postcode: "24941"
 city: Flensburg
-street: "Ochsenweg"
-housenumber: 75
-phone: "+49 461 8405741"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.fahrrad-station.de/"
+street: Ochsenweg
+housenumber: "75"
+phone: +49 461 8405741
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off
+website: https://www.fahrrad-station.de/

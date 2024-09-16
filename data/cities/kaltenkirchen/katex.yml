@@ -1,11 +1,11 @@
 id: 39249774
-type: way
+type: node
 latitude: 53.8412
 longitude: 9.94804
 postcode: "24568"
 city: Kaltenkirchen
-street: "Kieler Straße"
-housenumber: 42
+street: Kieler Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

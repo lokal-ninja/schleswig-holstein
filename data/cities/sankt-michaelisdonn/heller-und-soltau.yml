@@ -1,11 +1,11 @@
 id: 144066810
-type: way
+type: node
 latitude: 53.98936
 longitude: 9.11156
 postcode: "25693"
 city: Sankt Michaelisdonn
-street: "Johannßenstraße"
-housenumber: 37
+street: Johannßenstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://heller-soltau.com/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; PH off
+website: https://heller-soltau.com/

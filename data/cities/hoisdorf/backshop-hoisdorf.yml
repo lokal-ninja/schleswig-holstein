@@ -1,11 +1,11 @@
 id: 308865435
-type: way
+type: node
 latitude: 53.66318
 longitude: 10.31143
 postcode: ""
 city: Hoisdorf
-street: "Waldstraße"
-housenumber: 18
+street: Waldstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Fr 06:30-09:30; Sa 06:30-10:30; Su 07:00-10:00"
+opening_hours: Fr 06:30-09:30; Sa 06:30-10:30; Su 07:00-10:00
 website: ""

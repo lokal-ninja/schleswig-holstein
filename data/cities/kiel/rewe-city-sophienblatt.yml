@@ -1,11 +1,11 @@
 id: 718842430
-type: way
+type: node
 latitude: 54.31553
 longitude: 10.13232
 postcode: "24114"
 city: Kiel
-street: "Sophienblatt"
-housenumber: 25
+street: Sophienblatt
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su,PH 07:00-23:00"
+opening_hours: Mo-Sa 06:00-23:00; Su,PH 07:00-23:00
 website: ""

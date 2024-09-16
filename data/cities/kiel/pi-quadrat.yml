@@ -4,8 +4,8 @@ latitude: 54.32524
 longitude: 10.11458
 postcode: "24116"
 city: Kiel
-street: "Westring"
-housenumber: 248
-phone: "+49 431 1499979"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+street: Westring
+housenumber: "248"
+phone: +49 431 1499979
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

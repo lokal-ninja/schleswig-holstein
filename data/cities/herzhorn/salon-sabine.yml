@@ -1,11 +1,12 @@
 id: 119011721
-type: way
+type: node
 latitude: 53.78675
 longitude: 9.48472
 postcode: "25379"
 city: Herzhorn
-street: "Am Markt"
-housenumber: 7
-phone: "+49 4124 76 79"
-opening_hours: "Tu 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-18:00; Sa[2] 08:00-14:00"
-website: "https://friseur-schargus.de/"
+street: Am Markt
+housenumber: "7"
+phone: +49 4124 76 79
+opening_hours: Tu 09:00-13:00,14:00-18:00; Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-18:00;
+    Sa[2] 08:00-14:00
+website: https://friseur-schargus.de/

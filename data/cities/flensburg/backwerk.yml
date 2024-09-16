@@ -4,8 +4,8 @@ latitude: 54.78394
 longitude: 9.43565
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 68
-phone: "+49 461 80729840"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-18:00"
-website: "https://www.back-werk.de/"
+street: Holm
+housenumber: "68"
+phone: +49 461 80729840
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-18:00
+website: https://www.back-werk.de/

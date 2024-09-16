@@ -1,11 +1,11 @@
 id: 150069908
-type: way
+type: node
 latitude: 53.92774
 longitude: 9.51168
 postcode: "25524"
 city: Itzehoe
-street: "Lindenstraße"
-housenumber: 5
+street: Lindenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
 website: ""

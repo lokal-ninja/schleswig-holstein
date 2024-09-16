@@ -1,11 +1,11 @@
 id: 145529255
-type: way
+type: node
 latitude: 53.95645
 longitude: 9.00679
 postcode: "25709"
 city: Marne
-street: "Königstraße"
-housenumber: 59
+street: Königstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

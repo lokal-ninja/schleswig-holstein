@@ -1,11 +1,11 @@
 id: 279100558
-type: way
+type: node
 latitude: 53.89394
 longitude: 9.48106
 postcode: "25569"
 city: Kremperheide
-street: "Dorfstraße"
-housenumber: 113
-phone: "+49 4821 82681"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-18:00; We off; Sa 09:00-12:00;PH off"
+street: Dorfstraße
+housenumber: "113"
+phone: +49 4821 82681
+opening_hours: Tu-Fr 09:00-12:00,14:00-18:00; We off; Sa 09:00-12:00;PH off
 website: ""

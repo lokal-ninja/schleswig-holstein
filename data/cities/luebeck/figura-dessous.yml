@@ -4,8 +4,8 @@ latitude: 53.86567
 longitude: 10.68917
 postcode: "23552"
 city: Lübeck
-street: "Hüxstraße"
-housenumber: 54
+street: Hüxstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.figuradessous.com/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.figuradessous.com/

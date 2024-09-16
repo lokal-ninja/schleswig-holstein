@@ -1,11 +1,11 @@
 id: 194965498
-type: way
+type: node
 latitude: 54.01859
 longitude: 9.28746
 postcode: "25712"
 city: Hochdonn
-street: "Burger Straße"
-housenumber: 12
+street: Burger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

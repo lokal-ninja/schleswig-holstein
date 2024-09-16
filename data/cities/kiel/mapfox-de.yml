@@ -4,8 +4,8 @@ latitude: 54.30376
 longitude: 10.12783
 postcode: "24113"
 city: Kiel
-street: "Lauenburger Straße"
-housenumber: 2
-phone: "+49 431-6667599"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.mapfox.de"
+street: Lauenburger Straße
+housenumber: "2"
+phone: +49 431-6667599
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.mapfox.de

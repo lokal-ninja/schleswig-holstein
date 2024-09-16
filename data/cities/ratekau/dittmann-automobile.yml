@@ -1,11 +1,11 @@
 id: 155774274
-type: way
+type: node
 latitude: 53.94767
 longitude: 10.73768
 postcode: "23626"
 city: Ratekau
-street: "Bäderstraße"
-housenumber: 9
+street: Bäderstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

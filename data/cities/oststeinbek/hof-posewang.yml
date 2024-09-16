@@ -4,8 +4,8 @@ latitude: 53.54407
 longitude: 10.18737
 postcode: "22113"
 city: Oststeinbek
-street: "Heidstücken"
-housenumber: 1
-phone: "+49 40 7111675"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:30,14:00-18:00; We,Sa 08:00-12:30"
-website: "https://www.hof-posewang.de/"
+street: Heidstücken
+housenumber: "1"
+phone: +49 40 7111675
+opening_hours: Mo,Tu,Th,Fr 08:00-12:30,14:00-18:00; We,Sa 08:00-12:30
+website: https://www.hof-posewang.de/

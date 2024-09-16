@@ -4,8 +4,8 @@ latitude: 54.79009
 longitude: 9.43141
 postcode: "24939"
 city: Flensburg
-street: "Norderstraße"
-housenumber: 9
-phone: "+49 461 43091785"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su 08:00-14:00"
+street: Norderstraße
+housenumber: "9"
+phone: +49 461 43091785
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su 08:00-14:00
 website: ""

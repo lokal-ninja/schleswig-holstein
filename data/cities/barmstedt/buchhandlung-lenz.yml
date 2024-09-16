@@ -1,11 +1,11 @@
 id: 329030930
-type: way
+type: node
 latitude: 53.78945
 longitude: 9.77315
 postcode: "25355"
 city: Barmstedt
-street: "Reichenstraße"
-housenumber: 8
+street: Reichenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-12:30"
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-12:30
 website: ""

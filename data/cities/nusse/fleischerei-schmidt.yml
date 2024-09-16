@@ -1,11 +1,11 @@
 id: 1224733578
-type: way
+type: node
 latitude: 53.65762
 longitude: 10.5805
 postcode: "23896"
 city: Nusse
-street: "Hauptstraße"
-housenumber: 18
+street: Hauptstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 218877587
-type: way
+type: node
 latitude: 54.33751
 longitude: 10.07684
 postcode: "24119"
 city: Kronshagen
-street: "Suchsdorfer Weg"
-housenumber: 7
-phone: "+49 431 2375690"
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
+street: Suchsdorfer Weg
+housenumber: "7"
+phone: +49 431 2375690
+opening_hours: Mo-Sa 07:00-22:00; PH closed
 website: ""

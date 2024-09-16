@@ -4,8 +4,8 @@ latitude: 53.76259
 longitude: 9.84285
 postcode: "25485"
 city: Hemdingen
-street: "Am Sportplatz"
-housenumber: 8
-phone: "+49 4123 2769"
-opening_hours: "Tu-Th 08:00-12:00,14:00-18:00; Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.bthies.de/"
+street: Am Sportplatz
+housenumber: "8"
+phone: +49 4123 2769
+opening_hours: Tu-Th 08:00-12:00,14:00-18:00; Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.bthies.de/

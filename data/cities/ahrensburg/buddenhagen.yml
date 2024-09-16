@@ -4,8 +4,8 @@ latitude: 53.66868
 longitude: 10.23115
 postcode: "22926"
 city: Ahrensburg
-street: "Hamburger Straße"
-housenumber: 57
-phone: "+49 4102 52744"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.buddenhagen.de/"
+street: Hamburger Straße
+housenumber: "57"
+phone: +49 4102 52744
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.buddenhagen.de/

@@ -4,8 +4,9 @@ latitude: 54.44051
 longitude: 11.19724
 postcode: "23769"
 city: Fehmarn
-street: "Niendorfer Straße"
-housenumber: 4
+street: Niendorfer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Jun-Aug: Mo-Sa 08:00-18:30; Sep-May: Mo-Sa 08:00-13:00; Sep-May: Mo-Fr 15:00-18:00"
-website: "https://naturkost-fehmarn.de/"
+opening_hours: 'Jun-Aug: Mo-Sa 08:00-18:30; Sep-May: Mo-Sa 08:00-13:00; Sep-May: Mo-Fr
+    15:00-18:00'
+website: https://naturkost-fehmarn.de/

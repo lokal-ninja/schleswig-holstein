@@ -1,11 +1,11 @@
 id: 203257416
-type: way
+type: node
 latitude: 54.12698
 longitude: 10.88615
 postcode: "23730"
 city: Schashagen
-street: "Eichwerder"
-housenumber: 1
+street: Eichwerder
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:00, Mo-Fr 15:00-18:00"
+opening_hours: Mo-Sa 10:00-12:00, Mo-Fr 15:00-18:00
 website: ""

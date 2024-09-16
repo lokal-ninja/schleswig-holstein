@@ -1,11 +1,11 @@
 id: 425429995
-type: way
+type: node
 latitude: 54.51803
 longitude: 9.38527
 postcode: "24887"
 city: Silberstedt
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

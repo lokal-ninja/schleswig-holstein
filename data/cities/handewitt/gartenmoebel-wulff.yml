@@ -1,11 +1,11 @@
 id: 199829120
-type: way
+type: node
 latitude: 54.77101
 longitude: 9.32395
 postcode: "24983"
 city: Handewitt
-street: "Raiffeisenstraße"
-housenumber: 10
-phone: "+49 4608 366"
-opening_hours: "Mo-Fr 10:00-12:30,14:30-18:00; Sa 10:00-13:00; Su off"
-website: "https://gartenmoebel-wulff.de/"
+street: Raiffeisenstraße
+housenumber: "10"
+phone: +49 4608 366
+opening_hours: Mo-Fr 10:00-12:30,14:30-18:00; Sa 10:00-13:00; Su off
+website: https://gartenmoebel-wulff.de/

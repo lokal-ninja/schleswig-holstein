@@ -1,11 +1,11 @@
 id: 190401841
-type: way
+type: node
 latitude: 54.66148
 longitude: 9.39683
 postcode: "24963"
 city: Tarp
-street: "Stapelholmer Weg"
-housenumber: 18
+street: Stapelholmer Weg
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 572306961
-type: way
+type: node
 latitude: 54.41047
 longitude: 9.50928
 postcode: "24848"
 city: Kropp
-street: "Theodor-Storm-Allee"
-housenumber: 3
+street: Theodor-Storm-Allee
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

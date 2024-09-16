@@ -1,11 +1,11 @@
 id: 287847569
-type: way
+type: node
 latitude: 53.88041
 longitude: 10.77873
 postcode: "23568"
 city: Lübeck
-street: "Wesloer Straße"
-housenumber: 113
+street: Wesloer Straße
+housenumber: "113"
 phone: ""
 opening_hours: ""
 website: ""

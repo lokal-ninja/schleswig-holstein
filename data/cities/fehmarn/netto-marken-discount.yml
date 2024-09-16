@@ -1,11 +1,11 @@
 id: 501809854
-type: way
+type: node
 latitude: 54.44326
 longitude: 11.18374
 postcode: "23769"
 city: Fehmarn
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 06:00-22:00; Su 11:00-17:00
 website: ""

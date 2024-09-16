@@ -1,11 +1,11 @@
 id: 60900330
-type: way
+type: node
 latitude: 53.72001
 longitude: 9.99853
 postcode: "22846"
 city: Norderstedt
-street: "Ulzburger Straße"
+street: Ulzburger Straße
 housenumber: 362-364
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.elektro-alster-nord.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.elektro-alster-nord.de/

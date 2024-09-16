@@ -1,11 +1,11 @@
 id: 106455743
-type: way
+type: node
 latitude: 53.91773
 longitude: 10.7346
 postcode: "23611"
 city: Ratekau
-street: "Zollweg"
-housenumber: 3
+street: Zollweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

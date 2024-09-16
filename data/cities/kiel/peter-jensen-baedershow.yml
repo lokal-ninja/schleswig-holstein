@@ -1,11 +1,11 @@
 id: 75464597
-type: way
+type: node
 latitude: 54.30197
 longitude: 10.12869
 postcode: "24113"
 city: Kiel
-street: "Tonberg"
-housenumber: 25
+street: Tonberg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:30-14:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:30-14:00; Su 11:00-18:00
 website: ""

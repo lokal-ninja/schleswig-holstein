@@ -1,11 +1,11 @@
 id: 398967761
-type: way
+type: node
 latitude: 54.89288
 longitude: 8.37511
 postcode: "25980"
 city: Sylt
-street: "Am Tipkenhoog"
-housenumber: 2
+street: Am Tipkenhoog
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

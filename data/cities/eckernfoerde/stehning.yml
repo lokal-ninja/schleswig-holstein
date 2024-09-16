@@ -1,11 +1,11 @@
 id: 43376074
-type: way
+type: node
 latitude: 54.46506
 longitude: 9.83505
 postcode: "24340"
 city: Eckernförde
-street: "Flensburger Straße"
-housenumber: 1
+street: Flensburger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

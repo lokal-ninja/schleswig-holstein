@@ -1,11 +1,11 @@
 id: 182585399
-type: way
+type: node
 latitude: 54.04352
 longitude: 9.97726
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
+street: Oderstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

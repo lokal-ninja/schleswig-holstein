@@ -1,11 +1,11 @@
 id: 1175326702
-type: way
+type: node
 latitude: 54.13806
 longitude: 10.61607
 postcode: "23701"
 city: Eutin
-street: "Am Rosengarten"
-housenumber: 4
+street: Am Rosengarten
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

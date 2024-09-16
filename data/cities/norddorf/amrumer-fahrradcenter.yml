@@ -4,8 +4,8 @@ latitude: 54.68002
 longitude: 8.33287
 postcode: "25946"
 city: Norddorf
-street: "Lunstruat"
-housenumber: 3
-phone: "+49 4682 96271"
-opening_hours: "Mo-Sa 10:00-12:30; 14:30-18:00; Su 10:00-12:30"
-website: "https://www.amrumer-fahrradcenter.de/"
+street: Lunstruat
+housenumber: "3"
+phone: +49 4682 96271
+opening_hours: Mo-Sa 10:00-12:30; 14:30-18:00; Su 10:00-12:30
+website: https://www.amrumer-fahrradcenter.de/

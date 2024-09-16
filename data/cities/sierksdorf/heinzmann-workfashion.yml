@@ -4,8 +4,8 @@ latitude: 54.09496
 longitude: 10.78397
 postcode: "23730"
 city: Sierksdorf
-street: "Wagrienring"
-housenumber: 4
-phone: "+49 4561 5253880"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.heinzmann-workfashion.de/"
+street: Wagrienring
+housenumber: "4"
+phone: +49 4561 5253880
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.heinzmann-workfashion.de/

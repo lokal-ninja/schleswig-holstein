@@ -1,11 +1,11 @@
 id: 532395913
-type: way
+type: node
 latitude: 54.10591
 longitude: 10.812
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Fischerstraße"
-housenumber: 23
+street: Fischerstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

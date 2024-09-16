@@ -1,11 +1,11 @@
 id: 233138517
-type: way
+type: node
 latitude: 53.81124
 longitude: 9.6172
 postcode: "25358"
 city: Horst
-street: "Am Markt"
-housenumber: 3
+street: Am Markt
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

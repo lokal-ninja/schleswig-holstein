@@ -1,11 +1,11 @@
 id: 179262993
-type: way
+type: node
 latitude: 53.91718
 longitude: 9.3789
 postcode: "25554"
 city: Wilster
-street: "Mühlenstraße"
-housenumber: 6
+street: Mühlenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

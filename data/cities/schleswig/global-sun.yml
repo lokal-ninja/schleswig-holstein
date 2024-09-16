@@ -4,8 +4,8 @@ latitude: 54.51479
 longitude: 9.56203
 postcode: "24837"
 city: Schleswig
-street: "Königstraße"
-housenumber: 24
-phone: "+49 4621 485605"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.global-sun.de/"
+street: Königstraße
+housenumber: "24"
+phone: +49 4621 485605
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.global-sun.de/

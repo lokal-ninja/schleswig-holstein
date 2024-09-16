@@ -1,11 +1,11 @@
 id: 311549063
-type: way
+type: node
 latitude: 54.13778
 longitude: 10.33446
 postcode: "24326"
 city: Ascheberg
 street: ""
-housenumber: 
-phone: "+49 4526 339818"
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.fischereilasner.de/"
+housenumber: ""
+phone: +49 4526 339818
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.fischereilasner.de/

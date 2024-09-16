@@ -4,8 +4,8 @@ latitude: 54.75223
 longitude: 9.47207
 postcode: "24975"
 city: Hürup
-street: "Tastrupfeld"
-housenumber: 20
+street: Tastrupfeld
+housenumber: "20"
 phone: "01711233463"
-opening_hours: "Mo-Su 07:00-19:00"
-website: "https://www.hofladen-tastrupfeld.de/"
+opening_hours: Mo-Su 07:00-19:00
+website: https://www.hofladen-tastrupfeld.de/

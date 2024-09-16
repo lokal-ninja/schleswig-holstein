@@ -1,11 +1,11 @@
 id: 182139788
-type: way
+type: node
 latitude: 54.16494
 longitude: 9.8582
 postcode: "24589"
 city: Nortorf
-street: "Lohkamp"
-housenumber: 33
-phone: "+49800 4353361"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/"
+street: Lohkamp
+housenumber: "33"
+phone: +49800 4353361
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/

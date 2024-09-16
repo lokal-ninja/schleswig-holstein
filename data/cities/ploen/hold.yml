@@ -4,8 +4,8 @@ latitude: 54.15822
 longitude: 10.41645
 postcode: "24306"
 city: Plön
-street: "Markt"
-housenumber: 14
-phone: "+49 4522 7984193"
-opening_hours: "Mo-Fr 09:00-18:00,13:30-18:30; Sa 10:00-16:00"
-website: "https://www.hold.de/"
+street: Markt
+housenumber: "14"
+phone: +49 4522 7984193
+opening_hours: Mo-Fr 09:00-18:00,13:30-18:30; Sa 10:00-16:00
+website: https://www.hold.de/

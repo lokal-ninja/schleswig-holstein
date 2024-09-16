@@ -4,8 +4,8 @@ latitude: 54.35305
 longitude: 10.09138
 postcode: "24107"
 city: Kiel
-street: "Steekberg"
-housenumber: 3
+street: Steekberg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00 Nur nach telefonischer Vereinbarung!"
-website: "http://wiff-fellpflege.de/"
+opening_hours: Mo-Fr 10:00-18:00 "Nur nach telefonischer Vereinbarung!"
+website: http://wiff-fellpflege.de/

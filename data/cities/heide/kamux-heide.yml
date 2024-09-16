@@ -4,8 +4,8 @@ latitude: 54.19255
 longitude: 9.12407
 postcode: "25746"
 city: Heide
-street: "Lise-Meitner-Straße"
-housenumber: 2
-phone: "+49 481 1237840"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.kamux.de/kamux-heide"
+street: Lise-Meitner-Straße
+housenumber: "2"
+phone: +49 481 1237840
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.kamux.de/kamux-heide

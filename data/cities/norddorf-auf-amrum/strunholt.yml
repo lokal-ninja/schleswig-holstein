@@ -4,8 +4,8 @@ latitude: 54.68044
 longitude: 8.33258
 postcode: "25946"
 city: Norddorf auf Amrum
-street: "Strunwai"
-housenumber: 3
+street: Strunwai
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:30-17:00; Sa 10:00-12:00"
-website: "https://www.strunholt.de"
+opening_hours: Mo-Fr 10:00-12:00,14:30-17:00; Sa 10:00-12:00
+website: https://www.strunholt.de

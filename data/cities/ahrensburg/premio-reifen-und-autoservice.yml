@@ -1,11 +1,11 @@
 id: 96957113
-type: way
+type: node
 latitude: 53.68005
 longitude: 10.24949
 postcode: "22926"
 city: Ahrensburg
-street: "Gänseberg"
-housenumber: 1
-phone: "+49 4102 42333"
+street: Gänseberg
+housenumber: "1"
+phone: +49 4102 42333
 opening_hours: ""
 website: ""

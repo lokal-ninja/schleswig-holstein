@@ -1,11 +1,11 @@
 id: 238029895
-type: way
+type: node
 latitude: 54.69202
 longitude: 9.42603
 postcode: "24988"
 city: Oeversee
-street: "Stapelholmer Weg"
-housenumber: 74
-phone: "+49 4638 8081570"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:00; PH,Su off"
-website: "http://www.nahkauf-oeversee.de"
+street: Stapelholmer Weg
+housenumber: "74"
+phone: +49 4638 8081570
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-13:00; PH,Su off
+website: http://www.nahkauf-oeversee.de

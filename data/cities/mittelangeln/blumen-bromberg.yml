@@ -1,11 +1,11 @@
 id: 240319617
-type: way
+type: node
 latitude: 54.69012
 longitude: 9.60368
 postcode: "24986"
 city: Mittelangeln
-street: "Schleswiger Straße"
-housenumber: 14
-phone: "+49 4633 290"
+street: Schleswiger Straße
+housenumber: "14"
+phone: +49 4633 290
 opening_hours: ""
 website: ""

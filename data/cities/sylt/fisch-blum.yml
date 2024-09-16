@@ -4,8 +4,8 @@ latitude: 54.90794
 longitude: 8.30277
 postcode: "25980"
 city: Sylt
-street: "Neue Straße"
-housenumber: 2
+street: Neue Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.sylter-fisch.de/index.php/oeffnungszeiten"
+website: https://www.sylter-fisch.de/index.php/oeffnungszeiten

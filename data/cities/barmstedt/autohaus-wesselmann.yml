@@ -1,11 +1,11 @@
 id: 412184751
-type: way
+type: node
 latitude: 53.79017
 longitude: 9.76906
 postcode: "25355"
 city: Barmstedt
-street: "Kuhberg"
-housenumber: 12
+street: Kuhberg
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.autowerkstatt-barmstedt.de"
+website: https://www.autowerkstatt-barmstedt.de

@@ -1,11 +1,11 @@
 id: 184280422
-type: way
+type: node
 latitude: 53.92288
 longitude: 9.37553
 postcode: "25554"
 city: Wilster
-street: "Kohlmarkt"
-housenumber: 1
+street: Kohlmarkt
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

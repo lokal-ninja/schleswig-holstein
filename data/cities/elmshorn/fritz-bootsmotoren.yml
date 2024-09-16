@@ -1,11 +1,11 @@
 id: 294089892
-type: way
+type: node
 latitude: 53.77872
 longitude: 9.64774
 postcode: "25335"
 city: Elmshorn
-street: "Robert-Bosch-Straße"
-housenumber: 1
+street: Robert-Bosch-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.3565
 longitude: 10.13081
 postcode: "24106"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 342
+street: Holtenauer Straße
+housenumber: "342"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.waschsalon.de/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.waschsalon.de/

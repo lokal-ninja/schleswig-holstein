@@ -4,8 +4,10 @@ latitude: 54.74336
 longitude: 9.8762
 postcode: "24395"
 city: Gelting
-street: "Lehbek"
-housenumber: 31
-phone: "+49 4643 2480"
-opening_hours: "May 01-Oct 23: Mo-Fr,PH 10:00-13:00,15:00-18:00, May 01-Oct 23: Sa,PH 10:00-14:00, May 01-Oct 23: Su,PH 10:00-12:00; Oct 24-Apr 30: Mo-Fr 15:00-18:00, Oct 24-Apr 30: Sa 10:00-14:00; Oct 24-Apr 30 PH off"
-website: "http://www.bootsmann-baum.de"
+street: Lehbek
+housenumber: "31"
+phone: +49 4643 2480
+opening_hours: 'May 01-Oct 23: Mo-Fr,PH 10:00-13:00,15:00-18:00, May 01-Oct 23: Sa,PH
+    10:00-14:00, May 01-Oct 23: Su,PH 10:00-12:00; Oct 24-Apr 30: Mo-Fr 15:00-18:00,
+    Oct 24-Apr 30: Sa 10:00-14:00; Oct 24-Apr 30 PH off'
+website: http://www.bootsmann-baum.de

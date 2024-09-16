@@ -1,11 +1,11 @@
 id: 162946177
-type: way
+type: node
 latitude: 53.95578
 longitude: 9.01447
 postcode: "25709"
 city: Marne
-street: "Feldstraße"
-housenumber: 33
+street: Feldstraße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://eskildsen.sh/marne.php"
+website: https://eskildsen.sh/marne.php

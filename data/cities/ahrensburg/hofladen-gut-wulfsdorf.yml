@@ -1,11 +1,11 @@
 id: 24469272
-type: way
+type: node
 latitude: 53.65959
 longitude: 10.19044
 postcode: "22926"
 city: Ahrensburg
-street: "Bornkampsweg"
-housenumber: 39
-phone: "+49 4102 32587"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-16:00"
-website: "https://gutwulfsdorf.de/einkaufen/hofladen.html"
+street: Bornkampsweg
+housenumber: "39"
+phone: +49 4102 32587
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-16:00
+website: https://gutwulfsdorf.de/einkaufen/hofladen.html

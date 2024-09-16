@@ -1,11 +1,11 @@
 id: 87438961
-type: way
+type: node
 latitude: 54.53233
 longitude: 9.57275
 postcode: "24837"
 city: Schleswig
-street: "Sankt-Jürgener-Straße"
-housenumber: 53
+street: Sankt-Jürgener-Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Sa 08:00-18:00; Fr 08:00-20:00"
+opening_hours: Mo-Th 08:00-20:00; Sa 08:00-18:00; Fr 08:00-20:00
 website: ""

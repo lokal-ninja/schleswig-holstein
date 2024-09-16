@@ -4,8 +4,8 @@ latitude: 54.00911
 longitude: 10.56329
 postcode: "23623"
 city: Ahrensbök
-street: "Am Piepenbrook"
-housenumber: 20
-phone: "+49 172 4117647"
-opening_hours: "nach Vereinbarung"
-website: "https://www.meissner-caravan.com/"
+street: Am Piepenbrook
+housenumber: "20"
+phone: +49 172 4117647
+opening_hours: '"nach Vereinbarung"'
+website: https://www.meissner-caravan.com/

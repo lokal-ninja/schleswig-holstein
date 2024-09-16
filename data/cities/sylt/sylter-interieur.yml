@@ -4,8 +4,8 @@ latitude: 54.90548
 longitude: 8.31533
 postcode: "25980"
 city: Sylt
-street: "Keitumer Chaussee"
-housenumber: 24
+street: Keitumer Chaussee
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 10:00-15:00; Sa,Su,PH off"
-website: "https://www.sylter-interieur.de/"
+opening_hours: Mo-Fr 10:00-15:00; Sa,Su,PH off
+website: https://www.sylter-interieur.de/

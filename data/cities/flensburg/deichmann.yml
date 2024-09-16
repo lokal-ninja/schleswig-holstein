@@ -4,8 +4,8 @@ latitude: 54.7854
 longitude: 9.43482
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 11
-phone: "+49 461 12316"
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
-website: "https://stores.deichmann.com/schleswig-holstein/flensburg/holm-11.html"
+street: Holm
+housenumber: "11"
+phone: +49 461 12316
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
+website: https://stores.deichmann.com/schleswig-holstein/flensburg/holm-11.html

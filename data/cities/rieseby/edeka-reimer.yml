@@ -1,11 +1,11 @@
 id: 746323963
-type: way
+type: node
 latitude: 54.54334
 longitude: 9.80839
 postcode: "24354"
 city: Rieseby
-street: "Dorfstraße"
-housenumber: 57
-phone: "+49 4355 999513"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su,PH off"
+street: Dorfstraße
+housenumber: "57"
+phone: +49 4355 999513
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00; Su,PH off
 website: ""

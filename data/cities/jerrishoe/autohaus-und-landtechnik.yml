@@ -1,11 +1,11 @@
 id: 544664392
-type: way
+type: node
 latitude: 54.65825
 longitude: 9.37107
 postcode: "24963"
 city: Jerrishoe
-street: "Norderreihe"
-housenumber: 2
-phone: "+49 4638 7699"
+street: Norderreihe
+housenumber: "2"
+phone: +49 4638 7699
 opening_hours: ""
 website: ""

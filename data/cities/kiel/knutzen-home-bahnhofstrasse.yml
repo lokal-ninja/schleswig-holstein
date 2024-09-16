@@ -1,11 +1,11 @@
 id: 249671164
-type: way
+type: node
 latitude: 54.30409
 longitude: 10.13679
 postcode: "24143"
 city: Kiel
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; PH off"
-website: "https://knutzen-home.de/filialen/kiel/moebelmarkt"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; PH off
+website: https://knutzen-home.de/filialen/kiel/moebelmarkt

@@ -4,8 +4,8 @@ latitude: 54.81386
 longitude: 9.42142
 postcode: "24939"
 city: Flensburg
-street: "Mads-Clausen-Straße"
-housenumber: 5
-phone: "+49 461 8401400"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"
-website: "https://www.dansk-vinlager.dk/"
+street: Mads-Clausen-Straße
+housenumber: "5"
+phone: +49 461 8401400
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off
+website: https://www.dansk-vinlager.dk/

@@ -1,11 +1,11 @@
 id: 178208508
-type: way
+type: node
 latitude: 53.66995
 longitude: 9.79449
 postcode: "25421"
 city: Pinneberg
-street: "Elmshorner Straße"
-housenumber: 68
-phone: "+49 4101 3709752"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-19:00"
-website: "https://www.denns-biomarkt.de/pinneberg-elmshorner-str-68-72/marktseite/"
+street: Elmshorner Straße
+housenumber: "68"
+phone: +49 4101 3709752
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-19:00
+website: https://www.denns-biomarkt.de/pinneberg-elmshorner-str-68-72/marktseite/

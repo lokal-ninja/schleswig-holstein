@@ -4,8 +4,8 @@ latitude: 54.78632
 longitude: 9.43528
 postcode: "24937"
 city: Flensburg
-street: "Rathausstraße"
-housenumber: 9
-phone: "+49 461 40717035"
-opening_hours: "Mo-Fr 11:00-14:00,15:00-18:00; Sa 10:00-16:00; Su,PH off"
-website: "https://phoneglass-flensburg.de/"
+street: Rathausstraße
+housenumber: "9"
+phone: +49 461 40717035
+opening_hours: Mo-Fr 11:00-14:00,15:00-18:00; Sa 10:00-16:00; Su,PH off
+website: https://phoneglass-flensburg.de/

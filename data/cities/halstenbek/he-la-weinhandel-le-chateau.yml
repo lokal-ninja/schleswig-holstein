@@ -4,8 +4,8 @@ latitude: 53.63542
 longitude: 9.84007
 postcode: "25469"
 city: Halstenbek
-street: "Hauptstraße"
-housenumber: 32
-phone: "+49 4101 40880"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00; Su,PH off"
-website: "https://he-la-weinhandel.de/"
+street: Hauptstraße
+housenumber: "32"
+phone: +49 4101 40880
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-16:00; Su,PH off
+website: https://he-la-weinhandel.de/

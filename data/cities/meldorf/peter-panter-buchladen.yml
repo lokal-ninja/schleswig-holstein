@@ -4,8 +4,8 @@ latitude: 54.08949
 longitude: 9.07515
 postcode: "25704"
 city: Meldorf
-street: "Zingelstraße"
-housenumber: 12
-phone: "+49 4832 4104"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "http://peter-panter.de"
+street: Zingelstraße
+housenumber: "12"
+phone: +49 4832 4104
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: http://peter-panter.de

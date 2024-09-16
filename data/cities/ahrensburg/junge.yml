@@ -4,8 +4,8 @@ latitude: 53.67302
 longitude: 10.23956
 postcode: "22926"
 city: Ahrensburg
-street: "Rondeel"
-housenumber: 5
-phone: "+49 4102 777592"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00; PH off"
-website: "https://www.jb.de"
+street: Rondeel
+housenumber: "5"
+phone: +49 4102 777592
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 08:00-17:00; PH off
+website: https://www.jb.de

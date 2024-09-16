@@ -4,8 +4,8 @@ latitude: 53.83806
 longitude: 9.96283
 postcode: "24568"
 city: Kaltenkirchen
-street: "Am Markt"
-housenumber: 6
+street: Am Markt
+housenumber: "6"
 phone: ""
-opening_hours: "Th 09:00-20:00; Sa 08:00-14:00; Tu,We,Fr 09:00-18:00"
-website: "http://www.jederzeit-winter.de"
+opening_hours: Th 09:00-20:00; Sa 08:00-14:00; Tu,We,Fr 09:00-18:00
+website: http://www.jederzeit-winter.de

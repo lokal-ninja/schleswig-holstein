@@ -4,8 +4,8 @@ latitude: 53.68185
 longitude: 9.99698
 postcode: "22848"
 city: Norderstedt
-street: "Ohechaussee"
-housenumber: 11
-phone: "+49 40 88366333"
-opening_hours: "Mo-Fr 09:00-18:30"
-website: "https://ms.cutsandshaves.de"
+street: Ohechaussee
+housenumber: "11"
+phone: +49 40 88366333
+opening_hours: Mo-Fr 09:00-18:30
+website: https://ms.cutsandshaves.de

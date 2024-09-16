@@ -1,11 +1,11 @@
 id: 379393857
-type: way
+type: node
 latitude: 53.98966
 longitude: 9.52529
 postcode: "25582"
 city: Hohenaspe
-street: "Drosselweg"
-housenumber: 2
+street: Drosselweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.78976
 longitude: 9.97901
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Hamburger Straße"
-housenumber: 2
-phone: "+49 4193 998141"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/henstedt-ulzburg/540619/rewe-markt-hamburger-str-schulstr-2/"
+street: Hamburger Straße
+housenumber: "2"
+phone: +49 4193 998141
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/henstedt-ulzburg/540619/rewe-markt-hamburger-str-schulstr-2/

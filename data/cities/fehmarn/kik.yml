@@ -1,11 +1,11 @@
 id: 288791946
-type: way
+type: node
 latitude: 54.43961
 longitude: 11.19739
 postcode: "23769"
 city: Fehmarn
-street: "Am Markt"
-housenumber: 22
-phone: "+49 173 8619014"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-17:00; PH closed"
+street: Am Markt
+housenumber: "22"
+phone: +49 173 8619014
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-17:00; PH closed
 website: ""

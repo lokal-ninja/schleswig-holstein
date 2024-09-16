@@ -1,11 +1,11 @@
 id: 131771544
-type: way
+type: node
 latitude: 53.74949
 longitude: 9.65987
 postcode: "25336"
 city: Elmshorn
-street: "Reichenstraße"
-housenumber: 23
+street: Reichenstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

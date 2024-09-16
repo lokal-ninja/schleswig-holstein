@@ -1,11 +1,11 @@
 id: 36820008
-type: way
+type: node
 latitude: 54.38368
 longitude: 10.38104
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Ratjendorfer Weg"
-housenumber: 13
-phone: "+49 4344 413100"
-opening_hours: "Mo-Fr 07:00-16:00"
+street: Ratjendorfer Weg
+housenumber: "13"
+phone: +49 4344 413100
+opening_hours: Mo-Fr 07:00-16:00
 website: ""

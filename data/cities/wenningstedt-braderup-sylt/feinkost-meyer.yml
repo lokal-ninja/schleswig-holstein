@@ -1,11 +1,11 @@
 id: 128323286
-type: way
+type: node
 latitude: 54.93519
 longitude: 8.33032
 postcode: "25996"
 city: Wenningstedt-Braderup (Sylt)
-street: "Osterweg"
+street: Osterweg
 housenumber: 1-5
-phone: "+49 4651 4821"
-opening_hours: "Mo-Sa 08:30-18:00"
+phone: +49 4651 4821
+opening_hours: Mo-Sa 08:30-18:00
 website: ""

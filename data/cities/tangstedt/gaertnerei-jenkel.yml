@@ -4,8 +4,8 @@ latitude: 53.75241
 longitude: 10.06109
 postcode: "22889"
 city: Tangstedt
-street: "Henstedter Weg"
-housenumber: 33
-phone: "+49 4109 2527 0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00; Su 10:00-12:00"
-website: "https://www.gaertnerei-jenkel.de"
+street: Henstedter Weg
+housenumber: "33"
+phone: +49 4109 2527 0
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00; Su 10:00-12:00
+website: https://www.gaertnerei-jenkel.de

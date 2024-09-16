@@ -1,11 +1,11 @@
 id: 217628164
-type: way
+type: node
 latitude: 54.639
 longitude: 9.75667
 postcode: "24392"
 city: Süderbrarup
-street: "Gewerbestraße"
-housenumber: 17
-phone: "+49 4641 2323"
+street: Gewerbestraße
+housenumber: "17"
+phone: +49 4641 2323
 opening_hours: ""
 website: ""

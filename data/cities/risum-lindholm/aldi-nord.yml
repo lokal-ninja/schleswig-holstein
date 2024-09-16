@@ -1,11 +1,11 @@
 id: 284446838
-type: way
+type: node
 latitude: 54.76221
 longitude: 8.87668
 postcode: "25920"
 city: Risum-Lindholm
-street: "Dorfstraße"
-housenumber: 226
+street: Dorfstraße
+housenumber: "226"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/risum-lindholm/dorfstr-226.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/risum-lindholm/dorfstr-226.html

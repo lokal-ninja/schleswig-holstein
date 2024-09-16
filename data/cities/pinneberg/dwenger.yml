@@ -4,8 +4,8 @@ latitude: 53.66068
 longitude: 9.80082
 postcode: "25421"
 city: Pinneberg
-street: "Fahltskamp"
-housenumber: 7
-phone: "+49 4101 858191"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://baeckerei-dwenger.de/filialen/fahltskamp/"
+street: Fahltskamp
+housenumber: "7"
+phone: +49 4101 858191
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://baeckerei-dwenger.de/filialen/fahltskamp/

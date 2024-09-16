@@ -1,11 +1,11 @@
 id: 167368598
-type: way
+type: node
 latitude: 54.1912
 longitude: 9.09814
 postcode: "25746"
 city: Heide
-street: "Feldstraße"
-housenumber: 21
+street: Feldstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.raumausstatter-heide.de/"
+website: https://www.raumausstatter-heide.de/

@@ -1,11 +1,11 @@
 id: 151351142
-type: way
+type: node
 latitude: 54.28886
 longitude: 10.22037
 postcode: "24223"
 city: Schwentinental
-street: "Mergenthalerstraße"
-housenumber: 24
+street: Mergenthalerstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

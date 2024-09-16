@@ -4,8 +4,8 @@ latitude: 54.0176
 longitude: 10.57191
 postcode: "23623"
 city: Ahrensbök
-street: "Plöner Straße"
-housenumber: 86
-phone: "+49 4525 1428"
-opening_hours: "Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00; Su 10:00-12:00; PH off"
-website: "http://www.gärtnereiklüss.de"
+street: Plöner Straße
+housenumber: "86"
+phone: +49 4525 1428
+opening_hours: Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00; Su 10:00-12:00; PH off
+website: http://www.gärtnereiklüss.de

@@ -1,11 +1,11 @@
 id: 579049775
-type: way
+type: node
 latitude: 53.85133
 longitude: 10.12003
 postcode: "24641"
 city: Stuvenborn
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00; Sa 09:00-12:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 239880399
-type: way
+type: node
 latitude: 53.80877
 longitude: 9.62167
 postcode: "25358"
 city: Horst
-street: "Elmshorner Straße"
-housenumber: 23
-phone: "+49 4126 1250"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://www.autoservice-horst.de/"
+street: Elmshorner Straße
+housenumber: "23"
+phone: +49 4126 1250
+opening_hours: Mo-Fr 07:30-18:00
+website: https://www.autoservice-horst.de/

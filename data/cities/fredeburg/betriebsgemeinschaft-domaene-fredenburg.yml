@@ -4,8 +4,8 @@ latitude: 53.6743
 longitude: 10.72614
 postcode: "23909"
 city: Fredeburg
-street: "Domänenweg"
-housenumber: 1
+street: Domänenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

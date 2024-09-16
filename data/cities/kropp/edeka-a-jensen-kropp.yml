@@ -4,8 +4,8 @@ latitude: 54.41275
 longitude: 9.52106
 postcode: "24848"
 city: Kropp
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 4624 457007"
-opening_hours: "Mo-Sa 06:30-20:00"
-website: "https://www.edeka-jensen.de/kropp"
+street: Industriestraße
+housenumber: "1"
+phone: +49 4624 457007
+opening_hours: Mo-Sa 06:30-20:00
+website: https://www.edeka-jensen.de/kropp

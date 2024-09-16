@@ -1,11 +1,11 @@
 id: 664693339
-type: way
+type: node
 latitude: 53.73365
 longitude: 9.90034
 postcode: "25451"
 city: Quickborn
-street: "Ellerauer Straße"
-housenumber: 29
+street: Ellerauer Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.01724
 longitude: 10.39081
 postcode: "23813"
 city: Nehms
-street: "Hohlegrufter Straße"
-housenumber: 4
-phone: "+49 4555 424"
-opening_hours: "Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://www.hof-hohlegruft.de"
+street: Hohlegrufter Straße
+housenumber: "4"
+phone: +49 4555 424
+opening_hours: Fr 09:00-19:00; Sa 09:00-13:00
+website: https://www.hof-hohlegruft.de

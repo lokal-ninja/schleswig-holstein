@@ -1,11 +1,11 @@
 id: 1105482881
-type: way
+type: node
 latitude: 53.72562
 longitude: 9.91701
 postcode: "25451"
 city: Quickborn
-street: "Harksheider Weg"
-housenumber: 120
+street: Harksheider Weg
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

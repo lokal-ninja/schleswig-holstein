@@ -1,11 +1,11 @@
 id: 61808776
-type: way
+type: node
 latitude: 53.62979
 longitude: 9.88678
 postcode: "25462"
 city: Rellingen
-street: "Siemensstraße"
-housenumber: 43
-phone: "+49 410130500"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.stockhausen-spezialitaeten.de/"
+street: Siemensstraße
+housenumber: "43"
+phone: +49 410130500
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.stockhausen-spezialitaeten.de/

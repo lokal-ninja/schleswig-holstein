@@ -1,11 +1,11 @@
 id: 182585476
-type: way
+type: node
 latitude: 54.04307
 longitude: 9.97917
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 9819216"
-opening_hours: "Mo 10:00-20:00; Tu-Th 09:00-20:00; Fr-Sa 09:00-21:00"
-website: "https://storelocator.hackett.com/hackett-london-outlet-neumunster-a7be366dcf17"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 9819216
+opening_hours: Mo 10:00-20:00; Tu-Th 09:00-20:00; Fr-Sa 09:00-21:00
+website: https://storelocator.hackett.com/hackett-london-outlet-neumunster-a7be366dcf17

@@ -4,8 +4,8 @@ latitude: 54.48415
 longitude: 8.84925
 postcode: "25845"
 city: Nordstrand
-street: "Süden"
-housenumber: 44
+street: Süden
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa-Su 12:00-18:00"
-website: "https://www.nordstrander-toepferei.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa-Su 12:00-18:00
+website: https://www.nordstrander-toepferei.de/

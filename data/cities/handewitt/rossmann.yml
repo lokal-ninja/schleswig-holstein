@@ -4,8 +4,8 @@ latitude: 54.77117
 longitude: 9.32177
 postcode: "24983"
 city: Handewitt
-street: "Wiesharder Markt"
-housenumber: 13
-phone: "+49 4608 970044"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
-website: "https://www.rossmann.de"
+street: Wiesharder Markt
+housenumber: "13"
+phone: +49 4608 970044
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
+website: https://www.rossmann.de

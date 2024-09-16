@@ -1,11 +1,11 @@
 id: 129095297
-type: way
+type: node
 latitude: 54.09763
 longitude: 9.06267
 postcode: "25704"
 city: Meldorf
-street: "Altentreptower Straße"
-housenumber: 1
+street: Altentreptower Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00, Sa[1] 09:00-16:00;PH off"
-website: "https://moebel-rommel.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00, Sa[1] 09:00-16:00;PH off
+website: https://moebel-rommel.de/

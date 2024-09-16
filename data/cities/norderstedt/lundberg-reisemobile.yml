@@ -1,11 +1,11 @@
 id: 305717434
-type: way
+type: node
 latitude: 53.66799
 longitude: 9.97761
 postcode: "22848"
 city: Norderstedt
-street: "Ohechaussee"
-housenumber: 214
+street: Ohechaussee
+housenumber: "214"
 phone: ""
 opening_hours: ""
 website: ""

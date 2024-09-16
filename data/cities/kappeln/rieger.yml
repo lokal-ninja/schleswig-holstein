@@ -4,8 +4,9 @@ latitude: 54.66022
 longitude: 9.93212
 postcode: "24376"
 city: Kappeln
-street: "Mühlenstraße"
+street: Mühlenstraße
 housenumber: 20-22
-phone: "+49 4642 1022"
-opening_hours: "Mo,Tu,Th 08:00-13:00,14:00-17:00; We,Fr 08:00-13:00; Sa 09:00-12:00; Su,PH off"
-website: "https://www.optik-rieger.de/"
+phone: +49 4642 1022
+opening_hours: Mo,Tu,Th 08:00-13:00,14:00-17:00; We,Fr 08:00-13:00; Sa 09:00-12:00;
+    Su,PH off
+website: https://www.optik-rieger.de/

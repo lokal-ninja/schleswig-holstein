@@ -1,11 +1,11 @@
 id: 193292337
-type: way
+type: node
 latitude: 54.80095
 longitude: 9.3964
 postcode: "24955"
 city: Harrislee
-street: "Musbeker Weg"
-housenumber: 1
+street: Musbeker Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

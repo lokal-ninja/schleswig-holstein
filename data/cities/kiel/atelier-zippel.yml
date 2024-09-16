@@ -4,8 +4,8 @@ latitude: 54.32169
 longitude: 10.13997
 postcode: "24103"
 city: Kiel
-street: "Eggerstedtstraße"
-housenumber: 1
-phone: "+49 431 2400184"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "http://www.maritimshop.eu"
+street: Eggerstedtstraße
+housenumber: "1"
+phone: +49 431 2400184
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: http://www.maritimshop.eu

@@ -1,11 +1,11 @@
 id: 199382571
-type: way
+type: node
 latitude: 54.47712
 longitude: 9.0481
 postcode: "25813"
 city: Husum
-street: "Neustadt"
-housenumber: 7
+street: Neustadt
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

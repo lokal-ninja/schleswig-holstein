@@ -1,11 +1,11 @@
 id: 167244533
-type: way
+type: node
 latitude: 53.74833
 longitude: 9.95897
 postcode: "25451"
 city: Quickborn
-street: "Ulzburger Landstraße"
-housenumber: 406
+street: Ulzburger Landstraße
+housenumber: "406"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

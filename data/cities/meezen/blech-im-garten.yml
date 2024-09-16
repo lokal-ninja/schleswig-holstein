@@ -4,8 +4,8 @@ latitude: 54.05278
 longitude: 9.7035
 postcode: "24594"
 city: Meezen
-street: "Dorfstraße"
-housenumber: 4
+street: Dorfstraße
+housenumber: "4"
 phone: "+491731549040"
-opening_hours: "Th,Fr 10:00-16:00; Sa 10:00-14:00"
-website: "https://www.blechimgarten.de/"
+opening_hours: Th,Fr 10:00-16:00; Sa 10:00-14:00
+website: https://www.blechimgarten.de/

@@ -1,11 +1,11 @@
 id: 35815751
-type: way
+type: node
 latitude: 53.74935
 longitude: 9.66269
 postcode: "25337"
 city: Elmshorn
-street: "Steindamm"
-housenumber: 6
+street: Steindamm
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

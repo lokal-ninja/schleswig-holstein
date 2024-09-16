@@ -4,8 +4,8 @@ latitude: 54.29409
 longitude: 10.22273
 postcode: "24222"
 city: Schwentinental
-street: "Wasserwerksweg"
-housenumber: 16
-phone: "+49 431 79602"
-opening_hours: "Mo-Fr 09:00-17:00; Sa,Su off"
-website: "https://www.autohof-klausdorf.de/"
+street: Wasserwerksweg
+housenumber: "16"
+phone: +49 431 79602
+opening_hours: Mo-Fr 09:00-17:00; Sa,Su off
+website: https://www.autohof-klausdorf.de/

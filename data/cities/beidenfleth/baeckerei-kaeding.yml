@@ -1,11 +1,11 @@
 id: 314114772
-type: way
+type: node
 latitude: 53.87958
 longitude: 9.41314
 postcode: "25573"
 city: Beidenfleth
-street: "Unteres Dorf"
-housenumber: 2
+street: Unteres Dorf
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

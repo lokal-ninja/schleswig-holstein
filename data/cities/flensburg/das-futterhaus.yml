@@ -4,8 +4,8 @@ latitude: 54.77272
 longitude: 9.43478
 postcode: "24941"
 city: Flensburg
-street: "Schleswiger Straße"
-housenumber: 48
-phone: "+49 461 98989"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/flensburg-schleswigerstrasse/"
+street: Schleswiger Straße
+housenumber: "48"
+phone: +49 461 98989
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; Su,PH off
+website: https://www.futterhaus.de/mein-futterhaus/filialen/flensburg-schleswigerstrasse/

@@ -1,11 +1,11 @@
 id: 383368992
-type: way
+type: node
 latitude: 54.04257
 longitude: 9.98014
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 6024899"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.cinque.de/outlet-neumuenster"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 6024899
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.cinque.de/outlet-neumuenster

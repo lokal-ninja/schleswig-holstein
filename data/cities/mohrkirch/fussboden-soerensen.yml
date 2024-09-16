@@ -1,11 +1,11 @@
 id: 87365061
-type: way
+type: node
 latitude: 54.67632
 longitude: 9.69314
 postcode: "24405"
 city: Mohrkirch
-street: "Krämersteen"
+street: Krämersteen
 housenumber: 9a
-phone: "+49 4646 255"
+phone: +49 4646 255
 opening_hours: ""
-website: "https://fussbodensoerensen.de/"
+website: https://fussbodensoerensen.de/

@@ -1,11 +1,11 @@
 id: 267503472
-type: way
+type: node
 latitude: 54.66636
 longitude: 9.93261
 postcode: "24376"
 city: Kappeln
-street: "Wassermühlenstraße"
-housenumber: 31
+street: Wassermühlenstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "http://nutzfahrzeuge-service-kappeln.de/"
+website: http://nutzfahrzeuge-service-kappeln.de/

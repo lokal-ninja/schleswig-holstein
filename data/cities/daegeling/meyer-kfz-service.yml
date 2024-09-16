@@ -1,11 +1,11 @@
 id: 542789688
-type: way
+type: node
 latitude: 53.87567
 longitude: 9.52907
 postcode: "25578"
 city: Dägeling
-street: "Itzehoer Straße"
-housenumber: 3
+street: Itzehoer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.kfzservicemeyer.de/"
+website: https://www.kfzservicemeyer.de/

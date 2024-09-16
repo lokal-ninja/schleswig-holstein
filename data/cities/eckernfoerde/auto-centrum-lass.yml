@@ -1,11 +1,11 @@
 id: 38289690
-type: way
+type: node
 latitude: 54.45008
 longitude: 9.83714
 postcode: "24340"
 city: Eckernförde
-street: "Sauerstraße"
-housenumber: 15
+street: Sauerstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241076829
-type: way
+type: node
 latitude: 53.9079
 longitude: 9.88431
 postcode: "24576"
 city: Bad Bramstedt
-street: "Hamburger Straße"
-housenumber: 53
+street: Hamburger Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

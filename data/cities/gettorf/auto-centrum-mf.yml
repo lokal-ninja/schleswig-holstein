@@ -1,11 +1,11 @@
 id: 176951056
-type: way
+type: node
 latitude: 54.40825
 longitude: 9.98454
 postcode: "24214"
 city: Gettorf
-street: "Kieler Chaussee"
-housenumber: 27
+street: Kieler Chaussee
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

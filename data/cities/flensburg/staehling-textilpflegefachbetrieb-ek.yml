@@ -1,11 +1,11 @@
 id: 176625146
-type: way
+type: node
 latitude: 54.79266
 longitude: 9.46606
 postcode: "24943"
 city: Flensburg
-street: "Engelsbyer Straße"
-housenumber: 5
-phone: "+49 461 62555"
+street: Engelsbyer Straße
+housenumber: "5"
+phone: +49 461 62555
 opening_hours: ""
-website: "http://www.staehling-textilpflege.de"
+website: http://www.staehling-textilpflege.de

@@ -4,8 +4,8 @@ latitude: 54.36045
 longitude: 10.11888
 postcode: "24106"
 city: Kiel
-street: "Manrade"
-housenumber: 55
+street: Manrade
+housenumber: "55"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.guenter-zorn.de"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.guenter-zorn.de

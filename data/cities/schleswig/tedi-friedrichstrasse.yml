@@ -1,11 +1,11 @@
 id: 99743608
-type: way
+type: node
 latitude: 54.50474
 longitude: 9.54136
 postcode: "24837"
 city: Schleswig
-street: "Friedrichstraße"
-housenumber: 22
+street: Friedrichstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
 website: ""

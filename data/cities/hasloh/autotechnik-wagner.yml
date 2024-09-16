@@ -1,11 +1,11 @@
 id: 763453487
-type: way
+type: node
 latitude: 53.69877
 longitude: 9.91045
 postcode: "25474"
 city: Hasloh
-street: "Alte Landstraße"
+street: Alte Landstraße
 housenumber: 1a
-phone: "+49 4106 1242958"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.autotechnik-wagner.de/"
+phone: +49 4106 1242958
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.autotechnik-wagner.de/

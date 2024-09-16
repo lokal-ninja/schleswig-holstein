@@ -1,11 +1,11 @@
 id: 196358417
-type: way
+type: node
 latitude: 54.87759
 longitude: 8.90932
 postcode: "25923"
 city: Süderlügum
-street: "Gewerbestraße"
-housenumber: 1
+street: Gewerbestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.landundfreizeit.de/standorte/suederluegum/"
+website: https://www.landundfreizeit.de/standorte/suederluegum/

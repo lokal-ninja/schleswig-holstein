@@ -1,11 +1,11 @@
 id: 315015227
-type: way
+type: node
 latitude: 54.18212
 longitude: 7.88798
 postcode: "27498"
 city: Helgoland
-street: "Bremer Straße"
-housenumber: 234
+street: Bremer Straße
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

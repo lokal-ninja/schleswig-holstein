@@ -1,11 +1,11 @@
 id: 182585393
-type: way
+type: node
 latitude: 54.04324
 longitude: 9.97696
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 8516142"
-opening_hours: "Mo-Tu 10:00-20:00; We-Th 09:00-20:00; Fr-Sa 09:00-21:00"
-website: "https://locations.crocs.de/shop/211695/neum%C3%BCnster-neum%C3%BCnster-156296"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 8516142
+opening_hours: Mo-Tu 10:00-20:00; We-Th 09:00-20:00; Fr-Sa 09:00-21:00
+website: https://locations.crocs.de/shop/211695/neum%C3%BCnster-neum%C3%BCnster-156296

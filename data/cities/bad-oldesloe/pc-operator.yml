@@ -4,8 +4,8 @@ latitude: 53.80808
 longitude: 10.38058
 postcode: "23843"
 city: Bad Oldesloe
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: "+4945318965905"
-opening_hours: "Mo,We,Fr 10:00-13:00, 14:00-16:30 || Nach Vereinbarung"
-website: "http://www.pc-operator.de"
+opening_hours: Mo,We,Fr 10:00-13:00, 14:00-16:30 || "Nach Vereinbarung"
+website: http://www.pc-operator.de

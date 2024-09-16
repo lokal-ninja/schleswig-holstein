@@ -1,11 +1,11 @@
 id: 108940544
-type: way
+type: node
 latitude: 53.90943
 longitude: 9.50434
 postcode: "25524"
 city: Itzehoe
-street: "Kremper Weg"
-housenumber: 13
+street: Kremper Weg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

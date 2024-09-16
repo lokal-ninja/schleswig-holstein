@@ -4,8 +4,8 @@ latitude: 54.47142
 longitude: 9.83683
 postcode: "24340"
 city: Eckernförde
-street: "Kieler Straße"
-housenumber: 20
-phone: "+49 4351 767027"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:00-17:00"
-website: "https://scandic-shop.de/flash/"
+street: Kieler Straße
+housenumber: "20"
+phone: +49 4351 767027
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-18:00; Su 11:00-17:00
+website: https://scandic-shop.de/flash/

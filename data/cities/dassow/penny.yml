@@ -1,11 +1,11 @@
 id: 207421795
-type: way
+type: node
 latitude: 53.91041
 longitude: 10.97059
 postcode: "23942"
 city: Dassow
-street: "An der B 105"
-housenumber: 1
+street: An der B 105
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

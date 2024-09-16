@@ -1,11 +1,11 @@
 id: 112995651
-type: way
+type: node
 latitude: 54.49392
 longitude: 9.08291
 postcode: "25813"
 city: Husum
-street: "Andreas-Clausen-Straße"
-housenumber: 5
-phone: "+49 4841 83530"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.emilfrey.de/kuestengarage/husum"
+street: Andreas-Clausen-Straße
+housenumber: "5"
+phone: +49 4841 83530
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.emilfrey.de/kuestengarage/husum

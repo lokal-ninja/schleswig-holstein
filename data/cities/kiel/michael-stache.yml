@@ -4,8 +4,8 @@ latitude: 54.32504
 longitude: 10.12013
 postcode: "24116"
 city: Kiel
-street: "Wilhelmplatz"
-housenumber: 2
-phone: "+49 431 332448"
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-14:00; Sa nach Vereinbarung; PH off"
-website: "https://www.meister-stache.de"
+street: Wilhelmplatz
+housenumber: "2"
+phone: +49 431 332448
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-14:00; Sa "nach Vereinbarung"; PH off
+website: https://www.meister-stache.de

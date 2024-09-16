@@ -1,11 +1,11 @@
 id: 52823916
-type: way
+type: node
 latitude: 53.85464
 longitude: 10.63334
 postcode: "23556"
 city: Lübeck
-street: "Ziegelstraße"
-housenumber: 232
+street: Ziegelstraße
+housenumber: "232"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 08:00-22:00; PH,Su off
 website: ""

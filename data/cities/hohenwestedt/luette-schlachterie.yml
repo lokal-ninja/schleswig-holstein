@@ -1,11 +1,11 @@
 id: 203626846
-type: way
+type: node
 latitude: 54.09195
 longitude: 9.64966
 postcode: "24594"
 city: Hohenwestedt
-street: "Friedrichstraße"
-housenumber: 1
+street: Friedrichstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

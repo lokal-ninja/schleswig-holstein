@@ -4,8 +4,8 @@ latitude: 53.61669
 longitude: 9.86701
 postcode: "25469"
 city: Halstenbek
-street: "Seestraße"
-housenumber: 250
-phone: "+49 4101 40 40 10"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-13:00; PH off"
-website: "https://www.data-voss.de/"
+street: Seestraße
+housenumber: "250"
+phone: +49 4101 40 40 10
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 10:00-13:00; PH off
+website: https://www.data-voss.de/

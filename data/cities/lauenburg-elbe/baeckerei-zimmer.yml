@@ -4,8 +4,8 @@ latitude: 53.38358
 longitude: 10.54296
 postcode: "21481"
 city: Lauenburg/Elbe
-street: "Mecklenburger Straße"
-housenumber: 1
+street: Mecklenburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:30"
-website: "https://baeckerei-zimmer.de/filialen/"
+opening_hours: Mo-Sa 07:00-19:30
+website: https://baeckerei-zimmer.de/filialen/

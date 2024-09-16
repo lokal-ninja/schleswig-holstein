@@ -1,11 +1,11 @@
 id: 284890313
-type: way
+type: node
 latitude: 53.74885
 longitude: 9.66002
 postcode: "25336"
 city: Elmshorn
-street: "An der Bahn"
-housenumber: 1
+street: An der Bahn
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.76588
 longitude: 9.43307
 postcode: "24941"
 city: Flensburg
-street: "Liebigstraße"
-housenumber: 22
-phone: "+49 461 12624"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00; Su,PH off"
-website: "https://www.flensburger-kuechenetage.de/"
+street: Liebigstraße
+housenumber: "22"
+phone: +49 461 12624
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00; Su,PH off
+website: https://www.flensburger-kuechenetage.de/

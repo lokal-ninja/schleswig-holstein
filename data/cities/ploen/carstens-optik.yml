@@ -4,8 +4,8 @@ latitude: 54.15839
 longitude: 10.41724
 postcode: "24306"
 city: Plön
-street: "Markt"
-housenumber: 9
-phone: "+49 4522 3511"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.carstens-optic.de/"
+street: Markt
+housenumber: "9"
+phone: +49 4522 3511
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.carstens-optic.de/

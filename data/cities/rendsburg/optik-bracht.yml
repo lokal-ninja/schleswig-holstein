@@ -4,8 +4,8 @@ latitude: 54.30334
 longitude: 9.66626
 postcode: "24768"
 city: Rendsburg
-street: "Am Gymnasium"
-housenumber: 3
-phone: "+49 4331 23700"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; Su off"
-website: "https://www.optik-bracht.de/"
+street: Am Gymnasium
+housenumber: "3"
+phone: +49 4331 23700
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00; Su off
+website: https://www.optik-bracht.de/

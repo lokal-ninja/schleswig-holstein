@@ -1,11 +1,11 @@
 id: 241958352
-type: way
+type: node
 latitude: 54.63247
 longitude: 9.59244
 postcode: "24860"
 city: Uelsby
-street: "Dorfstraße"
-housenumber: 1
-phone: "+49 4623 402"
+street: Dorfstraße
+housenumber: "1"
+phone: +49 4623 402
 opening_hours: ""
-website: "https://www.carstensen-bus.de/"
+website: https://www.carstensen-bus.de/

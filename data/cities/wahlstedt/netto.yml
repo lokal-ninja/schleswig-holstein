@@ -1,11 +1,11 @@
 id: 519366409
-type: way
+type: node
 latitude: 53.95328
 longitude: 10.21377
 postcode: "23812"
 city: Wahlstedt
-street: "Segeberger Straße"
+street: Segeberger Straße
 housenumber: 5-7
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto.de

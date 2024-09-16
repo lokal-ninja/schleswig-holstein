@@ -4,8 +4,8 @@ latitude: 54.31583
 longitude: 10.13042
 postcode: "24103"
 city: Kiel
-street: "Sophienblatt"
-housenumber: 20
-phone: "+49221 22243333"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/kiel-sophienhof-1250"
+street: Sophienblatt
+housenumber: "20"
+phone: +49221 22243333
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/kiel-sophienhof-1250

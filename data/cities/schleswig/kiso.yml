@@ -1,11 +1,11 @@
 id: 87439029
-type: way
+type: node
 latitude: 54.5313
 longitude: 9.52785
 postcode: "24837"
 city: Schleswig
-street: "Lattenkamp"
-housenumber: 5
-phone: "+49 4621 981111"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-12:00"
-website: "https://www.volvocars-haendler.de/kiso"
+street: Lattenkamp
+housenumber: "5"
+phone: +49 4621 981111
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-12:00
+website: https://www.volvocars-haendler.de/kiso

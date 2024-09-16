@@ -1,11 +1,11 @@
 id: 35678157
-type: way
+type: node
 latitude: 54.08373
 longitude: 9.78755
 postcode: "24613"
 city: Aukrug
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 10a
-phone: "+49 4873 90060"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.markant-online.de/markt/aukrug/"
+phone: +49 4873 90060
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.markant-online.de/markt/aukrug/

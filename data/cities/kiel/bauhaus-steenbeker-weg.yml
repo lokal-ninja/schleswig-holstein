@@ -1,11 +1,11 @@
 id: 54856134
-type: way
+type: node
 latitude: 54.35387
 longitude: 10.09151
 postcode: "24107"
 city: Kiel
-street: "Steenbeker Weg"
-housenumber: 215
-phone: "+49 431 301130"
-opening_hours: "Mo-Sa 08:00-20:00; Dec 24 08:00-14:00; Dec 31 08:00-14:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-kiel-suchsdorf/fc/571"
+street: Steenbeker Weg
+housenumber: "215"
+phone: +49 431 301130
+opening_hours: Mo-Sa 08:00-20:00; Dec 24 08:00-14:00; Dec 31 08:00-14:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-kiel-suchsdorf/fc/571

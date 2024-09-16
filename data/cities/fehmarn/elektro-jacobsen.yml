@@ -4,8 +4,9 @@ latitude: 54.4526
 longitude: 11.1455
 postcode: "23769"
 city: Fehmarn
-street: "Hauptstraße"
-housenumber: 51
-phone: "+49 4371 6781"
-opening_hours: "Mo-Tu 8:00-12:00, 14:00-17:00; We 8:00-12:00; Th-Fr 8:00-12:00; Sa 9:00-12:00"
-website: "https://www.elektro-fernseh-jacobsen.de/"
+street: Hauptstraße
+housenumber: "51"
+phone: +49 4371 6781
+opening_hours: Mo-Tu 8:00-12:00, 14:00-17:00; We 8:00-12:00; Th-Fr 8:00-12:00; Sa
+    9:00-12:00
+website: https://www.elektro-fernseh-jacobsen.de/

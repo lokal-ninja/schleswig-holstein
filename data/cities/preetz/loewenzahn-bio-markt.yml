@@ -4,8 +4,8 @@ latitude: 54.23532
 longitude: 10.28315
 postcode: "24211"
 city: Preetz
-street: "Lange Brückstraße"
-housenumber: 5
-phone: "+49 4342 5759"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://www.loewenzahn-preetz.de"
+street: Lange Brückstraße
+housenumber: "5"
+phone: +49 4342 5759
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://www.loewenzahn-preetz.de

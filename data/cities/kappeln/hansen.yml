@@ -1,11 +1,11 @@
 id: 255635394
-type: way
+type: node
 latitude: 54.66981
 longitude: 9.93226
 postcode: "24376"
 city: Kappeln
-street: "Wassermühlenstraße"
-housenumber: 55
-phone: "+49 4642 1069"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.ford-hansen.de/"
+street: Wassermühlenstraße
+housenumber: "55"
+phone: +49 4642 1069
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.ford-hansen.de/

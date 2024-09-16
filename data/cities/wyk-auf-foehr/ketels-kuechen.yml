@@ -1,11 +1,11 @@
 id: 182006413
-type: way
+type: node
 latitude: 54.69166
 longitude: 8.5634
 postcode: "25938"
 city: Wyk auf Föhr
-street: "Gartenstraße"
-housenumber: 1
+street: Gartenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, Mo,Tu,Fr 14:30-18:00"
+opening_hours: Mo-Fr 09:00-12:00, Mo,Tu,Fr 14:30-18:00
 website: ""

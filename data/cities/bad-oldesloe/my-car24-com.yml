@@ -1,11 +1,11 @@
 id: 136119902
-type: way
+type: node
 latitude: 53.80061
 longitude: 10.34058
 postcode: "23843"
 city: Bad Oldesloe
-street: "Rögen"
-housenumber: 7
+street: Rögen
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.my-car24.com/"
+website: https://www.my-car24.com/

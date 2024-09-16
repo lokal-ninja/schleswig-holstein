@@ -1,11 +1,11 @@
 id: 240257902
-type: way
+type: node
 latitude: 53.95275
 longitude: 9.15667
 postcode: "25715"
 city: Eddelak
-street: "Theeberg"
-housenumber: 8
-phone: "+49 4855 9623920"
-opening_hours: "Mo-Sa 06:00-20:00; PH off"
-website: "https://www.nahkauf.de/maerkte/eddelak-41611923-hauschildt-supermarkt-gmbh-theeberg-8"
+street: Theeberg
+housenumber: "8"
+phone: +49 4855 9623920
+opening_hours: Mo-Sa 06:00-20:00; PH off
+website: https://www.nahkauf.de/maerkte/eddelak-41611923-hauschildt-supermarkt-gmbh-theeberg-8

@@ -1,11 +1,11 @@
 id: 167772196
-type: way
+type: node
 latitude: 54.78382
 longitude: 9.42184
 postcode: "24937"
 city: Flensburg
-street: "Mathildenstraße"
-housenumber: 37
+street: Mathildenstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30"
+opening_hours: Mo-Fr 08:00-16:30
 website: ""

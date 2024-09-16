@@ -4,8 +4,8 @@ latitude: 54.6377
 longitude: 9.46378
 postcode: "24885"
 city: Sieverstedt
-street: "Schleswiger Straße"
-housenumber: 9
-phone: "+49 4603 4279993"
-opening_hours: "Mo-Fr 08:00-17:00; PH,Sa,Su off"
-website: "https://www.fahrzeugtechnik-janzen.de/"
+street: Schleswiger Straße
+housenumber: "9"
+phone: +49 4603 4279993
+opening_hours: Mo-Fr 08:00-17:00; PH,Sa,Su off
+website: https://www.fahrzeugtechnik-janzen.de/

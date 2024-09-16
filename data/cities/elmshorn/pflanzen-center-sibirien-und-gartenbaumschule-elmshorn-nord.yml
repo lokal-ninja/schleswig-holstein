@@ -1,11 +1,12 @@
 id: 25970397
-type: way
+type: node
 latitude: 53.77795
 longitude: 9.65857
 postcode: "25335"
 city: Elmshorn
-street: "Sibirien"
-housenumber: 8
+street: Sibirien
+housenumber: "8"
 phone: ""
-opening_hours: "Jan-Feb: Mo-Fr 13:00-17:00, Sa 09:00-13:00; Mar-Dec: Mo-Fr 09:00-18:00, Sa 09:00-14:00; Dec 04-17: Su 10:00-17:00"
+opening_hours: 'Jan-Feb: Mo-Fr 13:00-17:00, Sa 09:00-13:00; Mar-Dec: Mo-Fr 09:00-18:00,
+    Sa 09:00-14:00; Dec 04-17: Su 10:00-17:00'
 website: ""

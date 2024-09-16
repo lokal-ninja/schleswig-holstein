@@ -1,11 +1,11 @@
 id: 761835756
-type: way
+type: node
 latitude: 54.12533
 longitude: 9.41649
 postcode: "25557"
 city: Hanerau-Hademarschen
-street: "Theodor-Storm-Straße"
-housenumber: 11
+street: Theodor-Storm-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

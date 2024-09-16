@@ -1,11 +1,11 @@
 id: 121419552
-type: way
+type: node
 latitude: 54.30065
 longitude: 10.14258
 postcode: "24143"
 city: Kiel
-street: "Theodor-Heuss-Ring"
-housenumber: 136
+street: Theodor-Heuss-Ring
+housenumber: "136"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

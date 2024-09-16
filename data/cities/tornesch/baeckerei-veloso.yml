@@ -4,8 +4,8 @@ latitude: 53.69439
 longitude: 9.72634
 postcode: "25436"
 city: Tornesch
-street: "Lindenweg"
-housenumber: 76
+street: Lindenweg
+housenumber: "76"
 phone: ""
-opening_hours: "06:00-14:00"
-website: "http://www.cafe-veloso.eu"
+opening_hours: 06:00-14:00
+website: http://www.cafe-veloso.eu

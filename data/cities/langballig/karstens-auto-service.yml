@@ -1,11 +1,11 @@
 id: 240618940
-type: way
+type: node
 latitude: 54.79768
 longitude: 9.63487
 postcode: "24977"
 city: Langballig
-street: "Poststraße"
-housenumber: 5
-phone: "+49 4636 95000"
-opening_hours: "Mo-Fr 07:30-17:00; Sa,Su,PH off"
-website: "https://www.karstens-auto-service.de/"
+street: Poststraße
+housenumber: "5"
+phone: +49 4636 95000
+opening_hours: Mo-Fr 07:30-17:00; Sa,Su,PH off
+website: https://www.karstens-auto-service.de/

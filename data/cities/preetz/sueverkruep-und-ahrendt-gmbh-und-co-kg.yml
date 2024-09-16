@@ -1,11 +1,11 @@
 id: 197829683
-type: way
+type: node
 latitude: 54.24276
 longitude: 10.27685
 postcode: "24211"
 city: Preetz
-street: "Kieler Straße"
-housenumber: 27
+street: Kieler Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

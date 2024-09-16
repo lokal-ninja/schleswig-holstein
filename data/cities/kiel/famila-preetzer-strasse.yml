@@ -1,11 +1,11 @@
 id: 128290974
-type: way
+type: node
 latitude: 54.29894
 longitude: 10.16795
 postcode: "24147"
 city: Kiel
-street: "Preetzer Straße"
-housenumber: 298
+street: Preetzer Straße
+housenumber: "298"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.famila-nordost.de/wqwarenhaus/kiel-elmschenhagen/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.famila-nordost.de/wqwarenhaus/kiel-elmschenhagen/

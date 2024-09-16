@@ -4,8 +4,8 @@ latitude: 54.32319
 longitude: 10.13189
 postcode: "24103"
 city: Kiel
-street: "Rathausstraße"
-housenumber: 2
-phone: "+49 431 93112"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
-website: "https://www.zippels.de/"
+street: Rathausstraße
+housenumber: "2"
+phone: +49 431 93112
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
+website: https://www.zippels.de/

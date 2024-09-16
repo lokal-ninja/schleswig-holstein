@@ -1,11 +1,11 @@
 id: 241778836
-type: way
+type: node
 latitude: 53.94311
 longitude: 9.01374
 postcode: "25709"
 city: Marne
-street: "Hafenstraße"
-housenumber: 78
+street: Hafenstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

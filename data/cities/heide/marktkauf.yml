@@ -1,11 +1,11 @@
 id: 167288323
-type: way
+type: node
 latitude: 54.19092
 longitude: 9.09186
 postcode: "25746"
 city: Heide
-street: "Hafenstraße"
-housenumber: 2
+street: Hafenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "PH off; Mo-Sa 07:00-20:00"
+opening_hours: PH off; Mo-Sa 07:00-20:00
 website: ""

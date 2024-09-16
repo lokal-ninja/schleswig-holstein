@@ -1,11 +1,11 @@
 id: 377130398
-type: way
+type: node
 latitude: 54.17687
 longitude: 10.55909
 postcode: "23714"
 city: Malente
-street: "Lütjenburger Straße"
-housenumber: 1
+street: Lütjenburger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

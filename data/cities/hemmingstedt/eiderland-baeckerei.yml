@@ -1,11 +1,11 @@
 id: 170206985
-type: way
+type: node
 latitude: 54.14599
 longitude: 9.07067
 postcode: "25770"
 city: Hemmingstedt
-street: "Meldorfer Straße"
-housenumber: 11
+street: Meldorfer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

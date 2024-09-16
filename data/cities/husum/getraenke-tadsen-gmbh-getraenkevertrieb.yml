@@ -1,11 +1,11 @@
 id: 148505393
-type: way
+type: node
 latitude: 54.49052
 longitude: 9.07492
 postcode: "25813"
 city: Husum
-street: "Gutenbergstraße"
-housenumber: 24
+street: Gutenbergstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.getränke-tadsen.de/"
+website: https://www.getränke-tadsen.de/

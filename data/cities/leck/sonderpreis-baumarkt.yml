@@ -1,11 +1,11 @@
 id: 146285757
-type: way
+type: node
 latitude: 54.77847
 longitude: 8.98072
 postcode: "25917"
 city: Leck
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
-phone: "+49 4662 8911414"
+street: Rudolf-Diesel-Straße
+housenumber: "1"
+phone: +49 4662 8911414
 opening_hours: ""
 website: ""

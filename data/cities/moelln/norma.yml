@@ -1,11 +1,11 @@
 id: 79518773
-type: way
+type: node
 latitude: 53.61577
 longitude: 10.69049
 postcode: "23879"
 city: Mölln
-street: "Wasserkrüger Weg"
-housenumber: 127
+street: Wasserkrüger Weg
+housenumber: "127"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

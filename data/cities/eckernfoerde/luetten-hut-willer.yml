@@ -4,8 +4,8 @@ latitude: 54.47327
 longitude: 9.83584
 postcode: "24340"
 city: Eckernförde
-street: "Ochsenkopf"
-housenumber: 14
-phone: "+49 4351 7230730"
-opening_hours: "Licht an = offen, Licht aus = geschlossen"
+street: Ochsenkopf
+housenumber: "14"
+phone: +49 4351 7230730
+opening_hours: '"Licht an = offen, Licht aus = geschlossen"'
 website: ""

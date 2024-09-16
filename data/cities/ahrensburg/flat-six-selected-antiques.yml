@@ -1,11 +1,11 @@
 id: 49772407
-type: way
+type: node
 latitude: 53.68093
 longitude: 10.24294
 postcode: "22926"
 city: Ahrensburg
-street: "Lübecker Straße"
-housenumber: 6
+street: Lübecker Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off"
-website: "https://www.flatsix.hamburg/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; PH off
+website: https://www.flatsix.hamburg/

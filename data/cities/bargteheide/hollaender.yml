@@ -1,11 +1,11 @@
 id: 658913291
-type: way
+type: node
 latitude: 53.72476
 longitude: 10.27206
 postcode: "22941"
 city: Bargteheide
-street: "Hammoorer Weg"
-housenumber: 21
-phone: "+49 4532 20380"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
-website: "https://www.hollaender.org/"
+street: Hammoorer Weg
+housenumber: "21"
+phone: +49 4532 20380
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
+website: https://www.hollaender.org/

@@ -4,8 +4,8 @@ latitude: 54.78514
 longitude: 9.43507
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 17
-phone: "+49 461 3132879"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-14:00; Mo,Su,PH off"
-website: "https://www.friseur-flensburg.de/"
+street: Holm
+housenumber: "17"
+phone: +49 461 3132879
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-14:00; Mo,Su,PH off
+website: https://www.friseur-flensburg.de/

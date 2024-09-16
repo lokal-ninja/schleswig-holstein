@@ -1,11 +1,11 @@
 id: 196780646
-type: way
+type: node
 latitude: 54.90044
 longitude: 8.33926
 postcode: "25980"
 city: Sylt
-street: "Mittelweg"
-housenumber: 5
+street: Mittelweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.vinovin-sylt.de/"
+website: https://www.vinovin-sylt.de/

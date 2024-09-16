@@ -1,11 +1,11 @@
 id: 380654713
-type: way
+type: node
 latitude: 53.92181
 longitude: 9.87787
 postcode: "24576"
 city: Bad Bramstedt
-street: "Maienbeeck"
-housenumber: 29
-phone: "+49 41922230"
+street: Maienbeeck
+housenumber: "29"
+phone: +49 41922230
 opening_hours: ""
-website: "https://elektro-foelster.de/"
+website: https://elektro-foelster.de/

@@ -4,8 +4,8 @@ latitude: 54.90955
 longitude: 8.29996
 postcode: "25980"
 city: Sylt
-street: "Strandstraße"
-housenumber: 32
+street: Strandstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://www.insel-sylt.de/e-mobility/"
+website: https://www.insel-sylt.de/e-mobility/

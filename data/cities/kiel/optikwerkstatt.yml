@@ -4,8 +4,8 @@ latitude: 54.35461
 longitude: 10.1313
 postcode: "24106"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 320
-phone: "+49 431 336662"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.optik-werkstatt.de/"
+street: Holtenauer Straße
+housenumber: "320"
+phone: +49 431 336662
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.optik-werkstatt.de/

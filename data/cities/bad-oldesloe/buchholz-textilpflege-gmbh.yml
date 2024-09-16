@@ -1,11 +1,11 @@
 id: 136119886
-type: way
+type: node
 latitude: 53.80031
 longitude: 10.33901
 postcode: "23843"
 city: Bad Oldesloe
-street: "Rögen"
-housenumber: 11
+street: Rögen
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

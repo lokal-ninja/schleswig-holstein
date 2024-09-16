@@ -4,8 +4,8 @@ latitude: 54.47039
 longitude: 9.83379
 postcode: "24340"
 city: Eckernförde
-street: "Schulweg"
-housenumber: 7
+street: Schulweg
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr,Sa 09:00-20:00; PH,Su off"
-website: "https://www.andronaco.info/"
+opening_hours: Mo-Th 09:00-19:00; Fr,Sa 09:00-20:00; PH,Su off
+website: https://www.andronaco.info/

@@ -4,8 +4,8 @@ latitude: 54.31635
 longitude: 10.12739
 postcode: "24103"
 city: Kiel
-street: "Königsweg"
-housenumber: 25
+street: Königsweg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-20:00; We 08:00-20:00; Sa 10:00-16:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-20:00; We 08:00-20:00; Sa 10:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.68764
 longitude: 10.03978
 postcode: "22851"
 city: Norderstedt
-street: "Mittelstraße"
-housenumber: 62
-phone: "+49 40 94361336"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 07:00-13:00"
-website: "https://www.baeckerei-nitt.de/filialen/norderstedt/"
+street: Mittelstraße
+housenumber: "62"
+phone: +49 40 94361336
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 07:00-13:00
+website: https://www.baeckerei-nitt.de/filialen/norderstedt/

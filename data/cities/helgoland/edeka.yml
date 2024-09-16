@@ -4,8 +4,8 @@ latitude: 54.18177
 longitude: 7.88871
 postcode: "27498"
 city: Helgoland
-street: "J.-A.-Siemens-Terrasse"
-housenumber: 170
-phone: "+49 4725 1400"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH off"
-website: "https://www.edeka.de/eh/nord/inselmarkt-meinhardt-siemensterrasse-170/index.jsp"
+street: J.-A.-Siemens-Terrasse
+housenumber: "170"
+phone: +49 4725 1400
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su,PH off
+website: https://www.edeka.de/eh/nord/inselmarkt-meinhardt-siemensterrasse-170/index.jsp

@@ -1,11 +1,11 @@
 id: 231111040
-type: way
+type: node
 latitude: 53.83443
 longitude: 9.96647
 postcode: "24568"
 city: Kaltenkirchen
-street: "Hamburger Straße"
+street: Hamburger Straße
 housenumber: 53-59
-phone: "+49 4191 507100"
-opening_hours: "Mo-Sa 06:00-22:00; PH closed"
-website: "https://www.rewe.de/angebote/kaltenkirchen/565677/rewe-markt-hamburger-str-53-59/"
+phone: +49 4191 507100
+opening_hours: Mo-Sa 06:00-22:00; PH closed
+website: https://www.rewe.de/angebote/kaltenkirchen/565677/rewe-markt-hamburger-str-53-59/

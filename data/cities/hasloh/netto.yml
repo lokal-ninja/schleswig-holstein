@@ -1,11 +1,11 @@
 id: 75602069
-type: way
+type: node
 latitude: 53.69149
 longitude: 9.90978
 postcode: "25474"
 city: Hasloh
-street: "Kieler Straße"
-housenumber: 17
+street: Kieler Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://netto.de/geschaefte/hasloh/kieler-strasse-17/fe3d918ac1014847a76e554361e6f410/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://netto.de/geschaefte/hasloh/kieler-strasse-17/fe3d918ac1014847a76e554361e6f410/

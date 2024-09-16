@@ -1,11 +1,11 @@
 id: 511477826
-type: way
+type: node
 latitude: 54.3203
 longitude: 9.39978
 postcode: "24799"
 city: Meggerdorf
-street: "Dörpstraat"
-housenumber: 5
-phone: "+49 4339 1011"
-opening_hours: "Mo-Sa 07:30-12:00; Mo,Tu,Th,Fr 13:00-18:00"
-website: "https://www.hanskoll.com/"
+street: Dörpstraat
+housenumber: "5"
+phone: +49 4339 1011
+opening_hours: Mo-Sa 07:30-12:00; Mo,Tu,Th,Fr 13:00-18:00
+website: https://www.hanskoll.com/

@@ -1,11 +1,11 @@
 id: 182585470
-type: way
+type: node
 latitude: 54.04344
 longitude: 9.97756
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
+street: Oderstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://de.opus-fashion.com/de/outlet-neumuenster"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://de.opus-fashion.com/de/outlet-neumuenster

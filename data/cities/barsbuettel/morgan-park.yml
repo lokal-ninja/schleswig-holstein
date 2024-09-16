@@ -1,11 +1,11 @@
 id: 183664167
-type: way
+type: node
 latitude: 53.57872
 longitude: 10.18833
 postcode: "22885"
 city: Barsbüttel
-street: "Hanskampring"
-housenumber: 23
+street: Hanskampring
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

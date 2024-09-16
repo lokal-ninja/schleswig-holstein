@@ -4,8 +4,8 @@ latitude: 53.92104
 longitude: 9.88217
 postcode: "24576"
 city: Bad Bramstedt
-street: "Landweg"
-housenumber: 5
+street: Landweg
+housenumber: "5"
 phone: ""
-opening_hours: "Sa 09:00-13:00; Mo,Tu,Th,Fr 09:00-18:00"
+opening_hours: Sa 09:00-13:00; Mo,Tu,Th,Fr 09:00-18:00
 website: ""

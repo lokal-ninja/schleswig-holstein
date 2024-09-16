@@ -1,11 +1,11 @@
 id: 123328276
-type: way
+type: node
 latitude: 54.3706
 longitude: 8.72761
 postcode: "25836"
 city: Poppenbüll
-street: "Nickelswarft"
-housenumber: 2
+street: Nickelswarft
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.handweberei-spinnwebkate.de/"
+website: https://www.handweberei-spinnwebkate.de/

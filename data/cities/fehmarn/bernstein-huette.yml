@@ -4,8 +4,8 @@ latitude: 54.43776
 longitude: 11.19758
 postcode: "23769"
 city: Fehmarn
-street: "Breite Straße"
-housenumber: 19
+street: Breite Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Su 11:00-17:00;PH closed"
-website: "https://www.bernsteinhuette.de/"
+opening_hours: Mo-Su 11:00-17:00;PH closed
+website: https://www.bernsteinhuette.de/

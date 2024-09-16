@@ -1,11 +1,11 @@
 id: 173742012
-type: way
+type: node
 latitude: 53.43372
 longitude: 10.35212
 postcode: "21502"
 city: Geesthacht
-street: "Düneberger Straße"
-housenumber: 117
+street: Düneberger Straße
+housenumber: "117"
 phone: ""
 opening_hours: ""
-website: "http://www.heibing.de/"
+website: http://www.heibing.de/

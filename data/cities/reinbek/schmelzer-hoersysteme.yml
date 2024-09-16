@@ -4,8 +4,8 @@ latitude: 53.51107
 longitude: 10.25125
 postcode: "21465"
 city: Reinbek
-street: "Bergstraße"
-housenumber: 3
-phone: "+49 40 700 118 13"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://schmelzer-hoersysteme.de/"
+street: Bergstraße
+housenumber: "3"
+phone: +49 40 700 118 13
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://schmelzer-hoersysteme.de/

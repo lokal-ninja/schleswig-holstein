@@ -4,8 +4,8 @@ latitude: 54.78419
 longitude: 9.43538
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 62
+street: Holm
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off"
-website: "https://www.top-parfuemerie.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off
+website: https://www.top-parfuemerie.de/

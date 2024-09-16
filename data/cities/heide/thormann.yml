@@ -4,8 +4,8 @@ latitude: 54.19414
 longitude: 9.08915
 postcode: "25746"
 city: Heide
-street: "Große Westerstraße"
-housenumber: 15
+street: Große Westerstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off"
-website: "http://www.sanitaetshaus-thormann.de"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00; PH off
+website: http://www.sanitaetshaus-thormann.de

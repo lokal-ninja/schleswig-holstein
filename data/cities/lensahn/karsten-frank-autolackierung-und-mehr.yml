@@ -4,8 +4,8 @@ latitude: 54.2063
 longitude: 10.87871
 postcode: "23738"
 city: Lensahn
-street: "Redder"
-housenumber: 2
+street: Redder
+housenumber: "2"
 phone: ""
-opening_hours: "nach Termin"
+opening_hours: '"nach Termin"'
 website: ""

@@ -1,11 +1,11 @@
 id: 538121282
-type: way
+type: node
 latitude: 53.70795
 longitude: 9.91054
 postcode: "25474"
 city: Hasloh
-street: "Kieler Straße"
-housenumber: 137
-phone: "+49 4106 3025"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://www.olaf-ramcke.de/"
+street: Kieler Straße
+housenumber: "137"
+phone: +49 4106 3025
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://www.olaf-ramcke.de/

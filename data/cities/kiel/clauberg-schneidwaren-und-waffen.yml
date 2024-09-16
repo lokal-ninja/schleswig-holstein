@@ -4,8 +4,8 @@ latitude: 54.32209
 longitude: 10.13523
 postcode: "24103"
 city: Kiel
-street: "Willestraße"
-housenumber: 12
-phone: "+49 431 93397"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.clauberg-kiel.de"
+street: Willestraße
+housenumber: "12"
+phone: +49 431 93397
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://www.clauberg-kiel.de

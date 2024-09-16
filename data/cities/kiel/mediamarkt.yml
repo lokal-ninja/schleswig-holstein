@@ -4,8 +4,8 @@ latitude: 54.31355
 longitude: 10.0976
 postcode: "24113"
 city: Kiel
-street: "Mühlendamm"
-housenumber: 5
+street: Mühlendamm
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "https://www.mediamarkt.de/de/store/kiel-441"
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: https://www.mediamarkt.de/de/store/kiel-441

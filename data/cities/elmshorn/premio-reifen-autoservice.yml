@@ -1,11 +1,11 @@
 id: 184720946
-type: way
+type: node
 latitude: 53.75179
 longitude: 9.66501
 postcode: "25337"
 city: Elmshorn
-street: "Steindamm"
-housenumber: 43
+street: Steindamm
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; PH,Sa,Su off"
-website: "https://www.premio.de/"
+opening_hours: Mo-Fr 08:00-17:00; PH,Sa,Su off
+website: https://www.premio.de/

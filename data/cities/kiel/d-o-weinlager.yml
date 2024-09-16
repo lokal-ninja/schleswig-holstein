@@ -4,8 +4,8 @@ latitude: 54.35805
 longitude: 10.13106
 postcode: "24106"
 city: Kiel
-street: "Knorrstraße"
-housenumber: 3
+street: Knorrstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Sa 15:00-22:00"
-website: "https://do-weinlager.de/"
+opening_hours: Sa 15:00-22:00
+website: https://do-weinlager.de/

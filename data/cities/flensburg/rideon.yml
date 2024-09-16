@@ -4,8 +4,8 @@ latitude: 54.79768
 longitude: 9.42619
 postcode: "24939"
 city: Flensburg
-street: "Neustadt"
-housenumber: 41
+street: Neustadt
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00; Sa 10:00-14:00; Su off"
-website: "https://rideonbmx.de/"
+opening_hours: Mo-Fr 12:00-18:00; Sa 10:00-14:00; Su off
+website: https://rideonbmx.de/

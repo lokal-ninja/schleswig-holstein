@@ -4,8 +4,8 @@ latitude: 54.43655
 longitude: 11.19685
 postcode: "23769"
 city: Fehmarn
-street: "Breite Straße"
-housenumber: 43
+street: Breite Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00;Su 11:00-16:00;PH closed"
+opening_hours: Mo-Sa 10:00-18:00;Su 11:00-16:00;PH closed
 website: ""

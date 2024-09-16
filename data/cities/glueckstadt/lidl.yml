@@ -1,11 +1,11 @@
 id: 44822892
-type: way
+type: node
 latitude: 53.78344
 longitude: 9.42926
 postcode: "25348"
 city: Glückstadt
-street: "Nordmarkstraße"
-housenumber: 12
+street: Nordmarkstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Apr-Oct Su[1] 13:00-17:00"
+opening_hours: Mo-Sa 07:00-21:00; Apr-Oct Su[1] 13:00-17:00
 website: ""

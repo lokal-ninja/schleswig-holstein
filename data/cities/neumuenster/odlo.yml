@@ -1,11 +1,11 @@
 id: 182585401
-type: way
+type: node
 latitude: 54.04315
 longitude: 9.97691
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 9522523"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 9522523
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

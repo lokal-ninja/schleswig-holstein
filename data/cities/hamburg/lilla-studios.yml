@@ -4,8 +4,8 @@ latitude: 53.69029
 longitude: 10.14533
 postcode: "22397"
 city: Hamburg
-street: "Wölprie"
-housenumber: 16
+street: Wölprie
+housenumber: "16"
 phone: ""
-opening_hours: "24/7"
-website: "http://lillsstudios.com"
+opening_hours: 24/7
+website: http://lillsstudios.com

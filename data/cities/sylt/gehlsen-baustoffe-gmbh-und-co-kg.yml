@@ -1,11 +1,11 @@
 id: 196836492
-type: way
+type: node
 latitude: 54.90287
 longitude: 8.31661
 postcode: "25980"
 city: Sylt
-street: "Silwai"
-housenumber: 5
+street: Silwai
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.gehlsen-sylt.de/"
+website: https://www.gehlsen-sylt.de/

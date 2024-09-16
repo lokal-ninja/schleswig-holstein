@@ -1,11 +1,11 @@
 id: 751800927
-type: way
+type: node
 latitude: 54.04372
 longitude: 10.66823
 postcode: "23684"
 city: Scharbeutz
-street: "Ahrensböker Straße"
-housenumber: 7
+street: Ahrensböker Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su, PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su, PH off
 website: ""

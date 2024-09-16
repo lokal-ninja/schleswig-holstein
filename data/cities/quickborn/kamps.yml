@@ -4,8 +4,8 @@ latitude: 53.75009
 longitude: 9.93434
 postcode: "25451"
 city: Quickborn
-street: "Friedrichsgaber Straße"
-housenumber: 19
-phone: "+49 4106 71137"
-opening_hours: "Mo-Su 05:00-22:00"
-website: "https://kamps.de/standort/kamps-baeckerei-shell-tankstelle-quickborn-friedrichsgaber-str-19"
+street: Friedrichsgaber Straße
+housenumber: "19"
+phone: +49 4106 71137
+opening_hours: Mo-Su 05:00-22:00
+website: https://kamps.de/standort/kamps-baeckerei-shell-tankstelle-quickborn-friedrichsgaber-str-19

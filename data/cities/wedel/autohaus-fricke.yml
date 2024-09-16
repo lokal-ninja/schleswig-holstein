@@ -1,11 +1,11 @@
 id: 30419269
-type: way
+type: node
 latitude: 53.58266
 longitude: 9.72899
 postcode: "22880"
 city: Wedel
-street: "Kronskamp"
-housenumber: 115
+street: Kronskamp
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://www.ford-fricke-wedel.de"
+website: https://www.ford-fricke-wedel.de

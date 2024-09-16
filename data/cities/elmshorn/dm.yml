@@ -1,11 +1,11 @@
 id: 231320999
-type: way
+type: node
 latitude: 53.76074
 longitude: 9.65774
 postcode: "25335"
 city: Elmshorn
-street: "An der Ost-West-Brücke"
-housenumber: 2
+street: An der Ost-West-Brücke
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

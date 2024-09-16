@@ -1,11 +1,11 @@
 id: 49300980
-type: way
+type: node
 latitude: 54.23591
 longitude: 10.28334
 postcode: "24211"
 city: Preetz
-street: "Garnkorb"
-housenumber: 8
+street: Garnkorb
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://netto.de"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://netto.de

@@ -1,11 +1,11 @@
 id: 28868640
-type: way
+type: node
 latitude: 53.84599
 longitude: 10.7065
 postcode: "23562"
 city: Lübeck
-street: "Krummeck"
-housenumber: 13
+street: Krummeck
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
+opening_hours: Mo-Sa 07:00-22:00; PH closed
 website: ""

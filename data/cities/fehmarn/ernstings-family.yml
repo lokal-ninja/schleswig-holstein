@@ -1,11 +1,11 @@
 id: 288791960
-type: way
+type: node
 latitude: 54.43818
 longitude: 11.198
 postcode: "23769"
 city: Fehmarn
-street: "Breite Straße"
-housenumber: 14
+street: Breite Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00;Su 11:00-16:00;PH closed"
+opening_hours: Mo-Sa 09:00-18:00;Su 11:00-16:00;PH closed
 website: ""

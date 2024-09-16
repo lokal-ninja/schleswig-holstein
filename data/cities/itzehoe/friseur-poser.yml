@@ -1,11 +1,11 @@
 id: 132656118
-type: way
+type: node
 latitude: 53.92677
 longitude: 9.53549
 postcode: "25524"
 city: Itzehoe
-street: "Oelixdorfer Straße"
-housenumber: 47
+street: Oelixdorfer Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:30-12:30"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:30-12:30
 website: ""

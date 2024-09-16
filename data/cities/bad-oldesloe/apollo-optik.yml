@@ -4,8 +4,8 @@ latitude: 53.80978
 longitude: 10.37472
 postcode: "23843"
 city: Bad Oldesloe
-street: "Hindenburgstraße"
-housenumber: 50
+street: Hindenburgstraße
+housenumber: "50"
 phone: "+4945318040971"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
-website: "https://www.apollo.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00
+website: https://www.apollo.de/

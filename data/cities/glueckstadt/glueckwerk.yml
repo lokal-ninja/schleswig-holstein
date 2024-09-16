@@ -4,8 +4,8 @@ latitude: 53.78943
 longitude: 9.42636
 postcode: "25348"
 city: Glückstadt
-street: "Große Kremper Straße"
-housenumber: 1
-phone: "+49 4124 603900"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.glueckwerk.de/"
+street: Große Kremper Straße
+housenumber: "1"
+phone: +49 4124 603900
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.glueckwerk.de/

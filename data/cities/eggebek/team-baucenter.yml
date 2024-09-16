@@ -1,11 +1,11 @@
 id: 433104771
-type: way
+type: node
 latitude: 54.62012
 longitude: 9.3757
 postcode: "24852"
 city: Eggebek
-street: "Hauptstraße"
-housenumber: 21
+street: Hauptstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH off
 website: ""

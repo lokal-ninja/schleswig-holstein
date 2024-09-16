@@ -1,11 +1,11 @@
 id: 188115841
-type: way
+type: node
 latitude: 53.66345
 longitude: 9.90975
 postcode: "25474"
 city: Bönningstedt
-street: "Bahnhofstraße"
-housenumber: 28
+street: Bahnhofstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

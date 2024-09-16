@@ -4,8 +4,8 @@ latitude: 53.86223
 longitude: 10.62853
 postcode: "23556"
 city: Lübeck
-street: "Lohgerberstraße"
-housenumber: 3
-phone: "+49 451 29057862"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://von-allwoerden.de/"
+street: Lohgerberstraße
+housenumber: "3"
+phone: +49 451 29057862
+opening_hours: Mo-Sa 08:00-20:00
+website: https://von-allwoerden.de/

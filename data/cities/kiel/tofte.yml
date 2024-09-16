@@ -4,8 +4,8 @@ latitude: 54.33376
 longitude: 10.13275
 postcode: "24105"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 65
+street: Holtenauer Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-15:30; Su,PH off"
-website: "https://tofte-kiel.de/"
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:30-15:30; Su,PH off
+website: https://tofte-kiel.de/

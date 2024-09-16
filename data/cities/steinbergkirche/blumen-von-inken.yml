@@ -1,11 +1,11 @@
 id: 217875132
-type: way
+type: node
 latitude: 54.75293
 longitude: 9.71878
 postcode: "24972"
 city: Steinbergkirche
-street: "Groß-Quern"
-housenumber: 36
-phone: "+49 4632 1452"
-opening_hours: "Th-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su-We off"
-website: "http://www.blumen-von-inken.de"
+street: Groß-Quern
+housenumber: "36"
+phone: +49 4632 1452
+opening_hours: Th-Fr 09:00-12:00,14:00-18:00; Sa 09:00-13:00; Su-We off
+website: http://www.blumen-von-inken.de

@@ -1,11 +1,11 @@
 id: 243669318
-type: way
+type: node
 latitude: 53.70768
 longitude: 10.0197
 postcode: "22844"
 city: Norderstedt
-street: "Langenharmer Weg"
-housenumber: 207
-phone: "+49 40 3259090 9"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-14:00"
-website: "http://www.durstberater.de/"
+street: Langenharmer Weg
+housenumber: "207"
+phone: +49 40 3259090 9
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-14:00
+website: http://www.durstberater.de/

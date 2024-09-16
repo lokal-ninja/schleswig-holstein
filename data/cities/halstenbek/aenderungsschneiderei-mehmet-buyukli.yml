@@ -4,8 +4,8 @@ latitude: 53.63687
 longitude: 9.84034
 postcode: "25469"
 city: Halstenbek
-street: "Hauptstraße"
-housenumber: 55
-phone: "+49 4101 403024"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
+street: Hauptstraße
+housenumber: "55"
+phone: +49 4101 403024
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
 website: ""

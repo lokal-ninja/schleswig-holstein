@@ -1,11 +1,11 @@
 id: 176882165
-type: way
+type: node
 latitude: 54.10302
 longitude: 10.80156
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Eutiner Straße"
-housenumber: 33
+street: Eutiner Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:30; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:30; PH off
 website: ""

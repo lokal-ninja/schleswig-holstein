@@ -1,11 +1,11 @@
 id: 36332932
-type: way
+type: node
 latitude: 53.79034
 longitude: 10.06076
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Götzberger Straße"
-housenumber: 65
+street: Götzberger Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 08:00-13:00"
-website: "https://gaertnerei-schmuck.de/"
+opening_hours: Mo-Fr 08:00-18:00;Sa 08:00-13:00
+website: https://gaertnerei-schmuck.de/

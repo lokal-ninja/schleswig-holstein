@@ -1,11 +1,11 @@
 id: 478680992
-type: way
+type: node
 latitude: 53.84364
 longitude: 9.94247
 postcode: "24568"
 city: Kaltenkirchen
-street: "Küsterland"
-housenumber: 5
+street: Küsterland
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-20:00; PH off"
-website: "https://www.snickers-conceptstore.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-20:00; PH off
+website: https://www.snickers-conceptstore.de/

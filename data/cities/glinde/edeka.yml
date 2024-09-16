@@ -4,8 +4,8 @@ latitude: 53.54329
 longitude: 10.21406
 postcode: "21509"
 city: Glinde
-street: "Möllner Landstraße"
-housenumber: 119
-phone: "+49 40 7112320"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.edeka-junius.de/"
+street: Möllner Landstraße
+housenumber: "119"
+phone: +49 40 7112320
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.edeka-junius.de/

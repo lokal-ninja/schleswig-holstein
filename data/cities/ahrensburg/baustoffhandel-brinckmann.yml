@@ -1,11 +1,11 @@
 id: 41172960
-type: way
+type: node
 latitude: 53.66442
 longitude: 10.22449
 postcode: "22926"
 city: Ahrensburg
-street: "Bogenstraße"
-housenumber: 46
-phone: "+49 4102 46663"
+street: Bogenstraße
+housenumber: "46"
+phone: +49 4102 46663
 opening_hours: ""
-website: "https://brinckmann24.de"
+website: https://brinckmann24.de

@@ -4,8 +4,8 @@ latitude: 53.71456
 longitude: 10.00014
 postcode: "22846"
 city: Norderstedt
-street: "Ulzburger Straße"
-housenumber: 324
-phone: "+49 40 81972950"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-12:00"
-website: "https://www.baeckerei-nitt.de/filialen/norderstedt/"
+street: Ulzburger Straße
+housenumber: "324"
+phone: +49 40 81972950
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-12:00
+website: https://www.baeckerei-nitt.de/filialen/norderstedt/

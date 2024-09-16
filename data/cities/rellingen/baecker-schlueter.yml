@@ -1,11 +1,11 @@
 id: 214614147
-type: way
+type: node
 latitude: 53.65207
 longitude: 9.82934
 postcode: "25462"
 city: Rellingen
-street: "Hauptstraße"
-housenumber: 53
-phone: "+49 4101 592704"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:30-16:30"
-website: "http://www.baeckerschlueter.de"
+street: Hauptstraße
+housenumber: "53"
+phone: +49 4101 592704
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:30-16:30
+website: http://www.baeckerschlueter.de

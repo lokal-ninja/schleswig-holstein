@@ -1,11 +1,11 @@
 id: 24989298
-type: way
+type: node
 latitude: 53.63593
 longitude: 9.8387
 postcode: "25469"
 city: Halstenbek
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 4101 60080"
-opening_hours: "Mo-Sa 07:00-19:00; Su,PH off"
-website: "https://www.edeka.de/eh/nord/edeka-b%C3%B6ge-hauptstra%C3%9Fe-37-43/index.jsp"
+street: Hauptstraße
+housenumber: "37"
+phone: +49 4101 60080
+opening_hours: Mo-Sa 07:00-19:00; Su,PH off
+website: https://www.edeka.de/eh/nord/edeka-b%C3%B6ge-hauptstra%C3%9Fe-37-43/index.jsp

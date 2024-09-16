@@ -1,11 +1,11 @@
 id: 505100474
-type: way
+type: node
 latitude: 53.67724
 longitude: 9.79288
 postcode: "25421"
 city: Pinneberg
-street: "Elmshorner Straße"
-housenumber: 181
-phone: "+49 176 22122520"
+street: Elmshorner Straße
+housenumber: "181"
+phone: +49 176 22122520
 opening_hours: ""
-website: "https://www.blumen-lafleur.de/"
+website: https://www.blumen-lafleur.de/

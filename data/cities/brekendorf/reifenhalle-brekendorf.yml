@@ -1,11 +1,11 @@
 id: 480819915
-type: way
+type: node
 latitude: 54.42495
 longitude: 9.6465
 postcode: "24811"
 city: Brekendorf
-street: "Am Wald"
-housenumber: 3
+street: Am Wald
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

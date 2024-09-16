@@ -4,8 +4,8 @@ latitude: 53.49251
 longitude: 10.56453
 postcode: "21516"
 city: Müssen
-street: "Raiffeisenstraße"
-housenumber: 5
-phone: "+49 4155 3788"
-opening_hours: "Freitag: 15:00-18:00"
+street: Raiffeisenstraße
+housenumber: "5"
+phone: +49 4155 3788
+opening_hours: 'Freitag: 15:00-18:00'
 website: ""

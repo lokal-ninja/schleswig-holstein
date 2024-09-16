@@ -4,8 +4,8 @@ latitude: 54.47051
 longitude: 9.83705
 postcode: "24340"
 city: Eckernförde
-street: "Kieler Straße"
-housenumber: 42
+street: Kieler Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 11:00-17:00"
-website: "https://www.baecker-steiskal.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 11:00-17:00
+website: https://www.baecker-steiskal.de/

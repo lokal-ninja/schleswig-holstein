@@ -1,11 +1,11 @@
 id: 1036657871
-type: way
+type: node
 latitude: 53.67956
 longitude: 10.26131
 postcode: "22926"
 city: Ahrensburg
-street: "Carl-Backhaus-Straße"
-housenumber: 42
+street: Carl-Backhaus-Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

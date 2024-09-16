@@ -1,11 +1,11 @@
 id: 129848676
-type: way
+type: node
 latitude: 54.49548
 longitude: 9.06985
 postcode: "25813"
 city: Husum
-street: "Siemensstraße"
+street: Siemensstraße
 housenumber: 7-9
-phone: "+49 4841 78715"
+phone: +49 4841 78715
 opening_hours: ""
-website: "https://www.reisebuero-grunert.de/"
+website: https://www.reisebuero-grunert.de/

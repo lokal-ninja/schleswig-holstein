@@ -1,11 +1,11 @@
 id: 74424230
-type: way
+type: node
 latitude: 53.68466
 longitude: 10.01598
 postcode: "22850"
 city: Norderstedt
-street: "Segeberger Chaussee"
-housenumber: 93
+street: Segeberger Chaussee
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

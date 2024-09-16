@@ -4,8 +4,8 @@ latitude: 54.90879
 longitude: 8.30363
 postcode: "25980"
 city: Sylt
-street: "Strandstraße"
-housenumber: 13
-phone: "+49 4651 944122"
-opening_hours: "Mo-Su 09:00-19:00"
-website: "https://cafe-wien-sylt.de/"
+street: Strandstraße
+housenumber: "13"
+phone: +49 4651 944122
+opening_hours: Mo-Su 09:00-19:00
+website: https://cafe-wien-sylt.de/

@@ -4,8 +4,8 @@ latitude: 54.79048
 longitude: 9.44452
 postcode: "24943"
 city: Flensburg
-street: "Bachstraße"
-housenumber: 7
-phone: "+49 461 9093021"
-opening_hours: "Mo-Fr 06:00-12:00,15:00-18:00; Sa 06:30-12:00; Su 07:30-11:00"
+street: Bachstraße
+housenumber: "7"
+phone: +49 461 9093021
+opening_hours: Mo-Fr 06:00-12:00,15:00-18:00; Sa 06:30-12:00; Su 07:30-11:00
 website: ""

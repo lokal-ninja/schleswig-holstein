@@ -1,11 +1,11 @@
 id: 51749431
-type: way
+type: node
 latitude: 53.80371
 longitude: 9.97837
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Gutenbergstraße"
-housenumber: 9
+street: Gutenbergstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 579052856
-type: way
+type: node
 latitude: 54.10309
 longitude: 9.98589
 postcode: "24536"
 city: Neumünster
-street: "Friedrich-Wöhler-Straße"
-housenumber: 40
+street: Friedrich-Wöhler-Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

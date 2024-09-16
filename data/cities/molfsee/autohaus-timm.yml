@@ -1,11 +1,11 @@
 id: 107544890
-type: way
+type: node
 latitude: 54.261
 longitude: 10.06424
 postcode: "24113"
 city: Molfsee
-street: "Hamburger Chaussee"
-housenumber: 12
+street: Hamburger Chaussee
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

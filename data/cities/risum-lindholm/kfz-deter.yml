@@ -4,8 +4,8 @@ latitude: 54.76541
 longitude: 8.87956
 postcode: "25920"
 city: Risum-Lindholm
-street: "Dorfstraße"
-housenumber: 251
-phone: "+49 4661 942272"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.kfz-deter.de/"
+street: Dorfstraße
+housenumber: "251"
+phone: +49 4661 942272
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.kfz-deter.de/

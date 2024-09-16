@@ -1,11 +1,11 @@
 id: 340570331
-type: way
+type: node
 latitude: 54.53329
 longitude: 9.55525
 postcode: "24837"
 city: Schleswig
-street: "Ratsteich"
-housenumber: 3
+street: Ratsteich
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.ap-zentrum.de/"
+website: https://www.ap-zentrum.de/

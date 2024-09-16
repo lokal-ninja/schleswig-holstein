@@ -4,8 +4,8 @@ latitude: 53.62827
 longitude: 10.68836
 postcode: "23879"
 city: Mölln
-street: "Hauptstraße"
-housenumber: 51
-phone: "+49 4542 855878"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
+street: Hauptstraße
+housenumber: "51"
+phone: +49 4542 855878
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

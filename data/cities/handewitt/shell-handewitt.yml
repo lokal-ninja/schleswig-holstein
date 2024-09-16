@@ -1,11 +1,11 @@
 id: 222770023
-type: way
+type: node
 latitude: 54.77792
 longitude: 9.3251
 postcode: "24983"
 city: Handewitt
-street: "Lecker Chaussee"
+street: Lecker Chaussee
 housenumber: 32a
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa-Su 06:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa-Su 06:00-22:00
 website: ""

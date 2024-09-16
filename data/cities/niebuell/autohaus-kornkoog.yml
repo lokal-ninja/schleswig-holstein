@@ -1,11 +1,11 @@
 id: 255625555
-type: way
+type: node
 latitude: 54.7841
 longitude: 8.8317
 postcode: "25899"
 city: Niebüll
-street: "Bahnhofstraße"
-housenumber: 28
+street: Bahnhofstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.kornkoog.de"
+website: https://www.kornkoog.de

@@ -4,8 +4,8 @@ latitude: 54.32884
 longitude: 10.13417
 postcode: "24105"
 city: Kiel
-street: "Dreiecksplatz"
-housenumber: 5
+street: Dreiecksplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-16:00"
-website: "http://www.lily-nails.de"
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-16:00
+website: http://www.lily-nails.de

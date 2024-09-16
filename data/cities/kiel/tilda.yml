@@ -4,8 +4,8 @@ latitude: 54.33084
 longitude: 10.13176
 postcode: ""
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 31
+street: Holtenauer Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.arkaden-kiel.de/shop/tilda/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.arkaden-kiel.de/shop/tilda/

@@ -1,11 +1,11 @@
 id: 336945350
-type: way
+type: node
 latitude: 53.69046
 longitude: 9.72355
 postcode: "25436"
 city: Tornesch
-street: "Esinger Straße"
-housenumber: 71
+street: Esinger Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.kuechencentrum-potschien.de/"
+website: https://www.kuechencentrum-potschien.de/

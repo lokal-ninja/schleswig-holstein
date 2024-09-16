@@ -1,11 +1,11 @@
 id: 238947042
-type: way
+type: node
 latitude: 53.81259
 longitude: 9.6249
 postcode: "25358"
 city: Horst
-street: "Bahnhofstraße"
-housenumber: 35
-phone: "+49 4126 394619"
+street: Bahnhofstraße
+housenumber: "35"
+phone: +49 4126 394619
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.32393
 longitude: 9.62732
 postcode: "24768"
 city: Rendsburg
-street: "Friedrichstädter Straße"
-housenumber: 81
-phone: "04331 20 10 191"
-opening_hours: "Di-Fr 10:00-18:00, Sa 10:00-16:00"
-website: "https://ebike-gebrauchtzentrum.de/"
+street: Friedrichstädter Straße
+housenumber: "81"
+phone: 04331 20 10 191
+opening_hours: Di-Fr 10:00-18:00, Sa 10:00-16:00
+website: https://ebike-gebrauchtzentrum.de/

@@ -1,11 +1,11 @@
 id: 284965155
-type: way
+type: node
 latitude: 53.72824
 longitude: 9.5785
 postcode: "25335"
 city: Neuendorf bei Elmshorn
-street: "Bauerweg"
-housenumber: 40
+street: Bauerweg
+housenumber: "40"
 phone: "+49412124658"
 opening_hours: ""
 website: ""

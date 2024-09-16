@@ -1,11 +1,11 @@
 id: 142379215
-type: way
+type: node
 latitude: 54.13773
 longitude: 8.87245
 postcode: "25761"
 city: Büsum
-street: "Heider Straße"
-housenumber: 6
+street: Heider Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00;PH closed; Dec 17-Jan 08,Mar 15-Oct 31 Su,PH 11:30-17:30"
-website: "https://www.lidl.de/filialen/buesum/heider-str-6.html"
+opening_hours: Mo-Sa 07:00-21:00;PH closed; Dec 17-Jan 08,Mar 15-Oct 31 Su,PH 11:30-17:30
+website: https://www.lidl.de/filialen/buesum/heider-str-6.html

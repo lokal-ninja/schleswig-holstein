@@ -1,11 +1,11 @@
 id: 403025888
-type: way
+type: node
 latitude: 53.37392
 longitude: 10.55238
 postcode: "21481"
 city: Lauenburg/Elbe
-street: "Hamburger Straße"
-housenumber: 18
+street: Hamburger Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.ines-nadelei.de/"
+website: https://www.ines-nadelei.de/

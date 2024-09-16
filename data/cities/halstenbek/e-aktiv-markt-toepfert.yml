@@ -1,11 +1,11 @@
 id: 176923412
-type: way
+type: node
 latitude: 53.61697
 longitude: 9.86786
 postcode: "25469"
 city: Halstenbek
-street: "Seestraße"
-housenumber: 161
+street: Seestraße
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

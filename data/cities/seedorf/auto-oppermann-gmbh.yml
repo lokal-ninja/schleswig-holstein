@@ -1,11 +1,11 @@
 id: 205829648
-type: way
+type: node
 latitude: 54.03571
 longitude: 10.44746
 postcode: "23823"
 city: Seedorf
-street: "Potsdamer Straße"
-housenumber: 1
-phone: "+49 4555 267"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:00"
+street: Potsdamer Straße
+housenumber: "1"
+phone: +49 4555 267
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-12:00
 website: ""

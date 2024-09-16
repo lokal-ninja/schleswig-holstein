@@ -1,11 +1,11 @@
 id: 184079981
-type: way
+type: node
 latitude: 54.04669
 longitude: 9.97346
 postcode: "24539"
 city: Neumünster
-street: "Havelstraße"
-housenumber: 2
+street: Havelstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

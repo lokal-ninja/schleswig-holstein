@@ -1,11 +1,11 @@
 id: 61419935
-type: way
+type: node
 latitude: 53.62549
 longitude: 9.68355
 postcode: "25488"
 city: Holm
-street: "Wreedenschlag"
-housenumber: 7
+street: Wreedenschlag
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://w-z-b.de/"
+website: https://w-z-b.de/

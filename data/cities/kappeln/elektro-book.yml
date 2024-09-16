@@ -1,11 +1,11 @@
 id: 232004519
-type: way
+type: node
 latitude: 54.65469
 longitude: 9.94956
 postcode: "24376"
 city: Kappeln
-street: "Bernard-Liening-Straße"
+street: Bernard-Liening-Straße
 housenumber: 8-10
-phone: "+49 4642 985017"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-17:00, Sa 09:00-12:30; PH,Su,We off"
-website: "https://www.elektro-book.de/"
+phone: +49 4642 985017
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-17:00, Sa 09:00-12:30; PH,Su,We off
+website: https://www.elektro-book.de/

@@ -4,8 +4,8 @@ latitude: 53.96295
 longitude: 9.27921
 postcode: "25572"
 city: Ecklak
-street: "Hauptstraße"
-housenumber: 42
+street: Hauptstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:30; PH off"
-website: "http://www.auto-hanson.de"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-16:30; PH off
+website: http://www.auto-hanson.de

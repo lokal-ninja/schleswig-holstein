@@ -4,8 +4,8 @@ latitude: 54.22809
 longitude: 8.87442
 postcode: "25764"
 city: Hillgroven
-street: "Dorfstraße"
-housenumber: 9
-phone: "+49 4833 429070"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.autoverwertung-wieben.de/"
+street: Dorfstraße
+housenumber: "9"
+phone: +49 4833 429070
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.autoverwertung-wieben.de/

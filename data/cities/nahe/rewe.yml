@@ -1,11 +1,11 @@
 id: 77694210
-type: way
+type: node
 latitude: 53.79731
 longitude: 10.14399
 postcode: "23866"
 city: Nahe
-street: "Segeberger Straße"
-housenumber: 26
-phone: "+49 4535 510380"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+street: Segeberger Straße
+housenumber: "26"
+phone: +49 4535 510380
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

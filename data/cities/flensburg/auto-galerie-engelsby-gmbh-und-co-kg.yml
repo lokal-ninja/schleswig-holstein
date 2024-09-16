@@ -1,11 +1,11 @@
 id: 169307916
-type: way
+type: node
 latitude: 54.79207
 longitude: 9.46613
 postcode: "24943"
 city: Flensburg
-street: "Engelsbyer Straße"
-housenumber: 3
-phone: "+49 461 679067"
+street: Engelsbyer Straße
+housenumber: "3"
+phone: +49 461 679067
 opening_hours: ""
 website: ""

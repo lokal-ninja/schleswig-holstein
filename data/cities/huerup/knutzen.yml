@@ -1,11 +1,11 @@
 id: 101155378
-type: way
+type: node
 latitude: 54.74469
 longitude: 9.5287
 postcode: "24975"
 city: Hürup
-street: "Hauptstraße"
-housenumber: 57
+street: Hauptstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00; PH,Su off"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00; PH,Su off
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.68039
 longitude: 8.33309
 postcode: "25946"
 city: Norddorf
-street: "Strunwai"
-housenumber: 2
-phone: "+49 4682 2386"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:59; Su 11:00-12:30"
-website: "https://jansjannen.de/"
+street: Strunwai
+housenumber: "2"
+phone: +49 4682 2386
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:59; Su 11:00-12:30
+website: https://jansjannen.de/

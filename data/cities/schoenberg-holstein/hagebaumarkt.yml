@@ -1,11 +1,11 @@
 id: 37442255
-type: way
+type: node
 latitude: 54.38807
 longitude: 10.37285
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
-opening_hours: "mo-fr 08:00-19:00;sa 08:00-16:00"
+opening_hours: mo-fr 08:00-19:00;sa 08:00-16:00
 website: ""

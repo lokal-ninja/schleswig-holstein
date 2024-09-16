@@ -1,11 +1,11 @@
 id: 1023564592
-type: way
+type: node
 latitude: 54.10727
 longitude: 10.81224
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Brückstraße"
-housenumber: 20
+street: Brückstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 223565104
-type: way
+type: node
 latitude: 54.4733
 longitude: 9.04449
 postcode: "25813"
 city: Husum
-street: "Rödemishallig"
-housenumber: 9
-phone: "+49 4841 640722"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 11:00-16:00"
-website: "http://www.krabben-und-fisch.de/start/index.html"
+street: Rödemishallig
+housenumber: "9"
+phone: +49 4841 640722
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 11:00-16:00
+website: http://www.krabben-und-fisch.de/start/index.html

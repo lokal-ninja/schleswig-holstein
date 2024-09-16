@@ -4,8 +4,8 @@ latitude: 53.85834
 longitude: 10.62872
 postcode: "23556"
 city: Lübeck
-street: "Herrenholz"
-housenumber: 
+street: Herrenholz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 09:00-20:00; Th 09:00-22:00"
+opening_hours: Mo-We,Fr,Sa 09:00-20:00; Th 09:00-22:00
 website: ""

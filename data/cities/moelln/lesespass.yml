@@ -4,8 +4,8 @@ latitude: 53.62694
 longitude: 10.68551
 postcode: "23879"
 city: Mölln
-street: "Hauptstraße"
-housenumber: 7
-phone: "+49 4542 8276722"
-opening_hours: "Mo-Th 09:00-13:00,14:00-18:00; Fr,Sa 09:00-13:00; Su,PH off"
-website: "https://www.genialokal.de/buchhandlung/moelln/lesespass-moelln/"
+street: Hauptstraße
+housenumber: "7"
+phone: +49 4542 8276722
+opening_hours: Mo-Th 09:00-13:00,14:00-18:00; Fr,Sa 09:00-13:00; Su,PH off
+website: https://www.genialokal.de/buchhandlung/moelln/lesespass-moelln/

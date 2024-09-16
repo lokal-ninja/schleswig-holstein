@@ -4,8 +4,8 @@ latitude: 54.61571
 longitude: 9.79725
 postcode: "24392"
 city: Boren
-street: "Güderott"
-housenumber: 36
-phone: "+49 173 7139469"
-opening_hours: "Apr-Oct: Fr 12:00-18:00"
+street: Güderott
+housenumber: "36"
+phone: +49 173 7139469
+opening_hours: 'Apr-Oct: Fr 12:00-18:00'
 website: ""

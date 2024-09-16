@@ -4,8 +4,8 @@ latitude: 54.20969
 longitude: 9.07885
 postcode: "25746"
 city: Wesseln
-street: "Wischweg"
-housenumber: 6
+street: Wischweg
+housenumber: "6"
 phone: ""
-opening_hours: "Fr 10:00-18:00||Termine nach Vereinbarung"
-website: "https://www.elke-reuter.de/"
+opening_hours: Fr 10:00-18:00||"Termine nach Vereinbarung"
+website: https://www.elke-reuter.de/

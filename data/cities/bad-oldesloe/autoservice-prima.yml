@@ -4,8 +4,8 @@ latitude: 53.80216
 longitude: 10.38436
 postcode: "23843"
 city: Bad Oldesloe
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: "+4945318806019"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-14:00"
-website: "https://autoserviceprima.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-14:00
+website: https://autoserviceprima.de/

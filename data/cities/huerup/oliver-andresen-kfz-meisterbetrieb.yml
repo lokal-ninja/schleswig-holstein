@@ -4,8 +4,9 @@ latitude: 54.75564
 longitude: 9.46453
 postcode: "24975"
 city: Hürup
-street: "Hummelroi"
-housenumber: 62
-phone: "+49 461 98283"
-opening_hours: "Mo-Th 08:00-12:00,12:45-17:00; Fr 08:00-12:00,12:45-16:00; PH,Sa,Su off"
-website: "https://www.kfz-tastrup.de/"
+street: Hummelroi
+housenumber: "62"
+phone: +49 461 98283
+opening_hours: Mo-Th 08:00-12:00,12:45-17:00; Fr 08:00-12:00,12:45-16:00; PH,Sa,Su
+    off
+website: https://www.kfz-tastrup.de/

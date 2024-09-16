@@ -4,8 +4,8 @@ latitude: 53.59942
 longitude: 10.69225
 postcode: "23879"
 city: Mölln
-street: "Kolberger Straße"
-housenumber: 12
-phone: "+49 4542 2358"
-opening_hours: "Tu,Th,Fr 07:30-18:00; We 07:30-13:00"
-website: "https://fleischerei-marks.de/"
+street: Kolberger Straße
+housenumber: "12"
+phone: +49 4542 2358
+opening_hours: Tu,Th,Fr 07:30-18:00; We 07:30-13:00
+website: https://fleischerei-marks.de/

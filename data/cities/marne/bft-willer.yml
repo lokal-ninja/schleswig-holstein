@@ -4,8 +4,8 @@ latitude: 53.94904
 longitude: 9.00892
 postcode: "25709"
 city: Marne
-street: "Hafenstraße"
-housenumber: 20
-phone: "+49 4851 552"
-opening_hours: "Mo-Fr 05:00-21:00; Sa,Su 07:00-21:00"
-website: "https://www.antonwiller.de/index.php/marne.html"
+street: Hafenstraße
+housenumber: "20"
+phone: +49 4851 552
+opening_hours: Mo-Fr 05:00-21:00; Sa,Su 07:00-21:00
+website: https://www.antonwiller.de/index.php/marne.html

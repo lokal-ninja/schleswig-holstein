@@ -4,8 +4,8 @@ latitude: 54.32617
 longitude: 10.18385
 postcode: "24148"
 city: Kiel
-street: "Schönberger Straße"
-housenumber: 28
-phone: "+49 431 26094637"
-opening_hours: "Sa 06:00-13:00; Mo-Fr 06:30-18:00; Su 07:00-12:00"
-website: "https://www.baeckerei-roennau.de/kiel-wellingdorf/"
+street: Schönberger Straße
+housenumber: "28"
+phone: +49 431 26094637
+opening_hours: Sa 06:00-13:00; Mo-Fr 06:30-18:00; Su 07:00-12:00
+website: https://www.baeckerei-roennau.de/kiel-wellingdorf/

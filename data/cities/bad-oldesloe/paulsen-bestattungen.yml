@@ -1,11 +1,11 @@
 id: 161745824
-type: way
+type: node
 latitude: 53.80127
 longitude: 10.35633
 postcode: "23843"
 city: Bad Oldesloe
-street: "Hamburger Straße"
-housenumber: 145
+street: Hamburger Straße
+housenumber: "145"
 phone: "+4945313031"
 opening_hours: ""
-website: "https://bestattungen-paulsen.de"
+website: https://bestattungen-paulsen.de

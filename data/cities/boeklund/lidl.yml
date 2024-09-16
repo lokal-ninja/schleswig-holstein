@@ -1,11 +1,11 @@
 id: 87987574
-type: way
+type: node
 latitude: 54.6007
 longitude: 9.5889
 postcode: "24860"
 city: Böklund
-street: "Pöttacker"
-housenumber: 2
+street: Pöttacker
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

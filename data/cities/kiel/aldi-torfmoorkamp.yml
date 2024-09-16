@@ -1,11 +1,11 @@
 id: 268374832
-type: way
+type: node
 latitude: 54.35373
 longitude: 10.10462
 postcode: "24106"
 city: Kiel
-street: "Torfmoorkamp"
-housenumber: 10
+street: Torfmoorkamp
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

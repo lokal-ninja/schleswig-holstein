@@ -1,11 +1,11 @@
 id: 25619088
-type: way
+type: node
 latitude: 54.33251
 longitude: 10.11353
 postcode: "24116"
 city: Kiel
-street: "Gutenbergstraße"
-housenumber: 79
+street: Gutenbergstraße
+housenumber: "79"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.08669
 longitude: 9.65051
 postcode: "24594"
 city: Hohenwestedt
-street: "Güterstraße"
-housenumber: 14
-phone: "+49 4871 2199"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-12:30"
-website: "https://www.holst-hohenwestedt.de/"
+street: Güterstraße
+housenumber: "14"
+phone: +49 4871 2199
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-12:30
+website: https://www.holst-hohenwestedt.de/

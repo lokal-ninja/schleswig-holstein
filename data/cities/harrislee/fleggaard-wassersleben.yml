@@ -1,11 +1,12 @@
 id: 258368749
-type: way
+type: node
 latitude: 54.82837
 longitude: 9.41815
 postcode: "24955"
 city: Harrislee
-street: "Wassersleben"
-housenumber: 14
+street: Wassersleben
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:30; Su off; Dec 25-26 off; May 01 off; easter +39 days off; easter +49 days off; easter +50 days off; Dec 31 07:00-14:00; Oct 03 off"
-website: "https://www.fleggaard.dk/info/Wassersleben_2975l1.aspx?locId=724"
+opening_hours: Mo-Sa 07:00-20:30; Su off; Dec 25-26 off; May 01 off; easter +39 days
+    off; easter +49 days off; easter +50 days off; Dec 31 07:00-14:00; Oct 03 off
+website: https://www.fleggaard.dk/info/Wassersleben_2975l1.aspx?locId=724

@@ -4,8 +4,8 @@ latitude: 53.63609
 longitude: 9.84104
 postcode: "25469"
 city: Halstenbek
-street: "Poststraße"
-housenumber: 4
-phone: "+49 4101 41191"
-opening_hours: "Mo-Fr 08:00-12:30,13:00-17:00; Sa 08:00-12:30; Su,PH off"
+street: Poststraße
+housenumber: "4"
+phone: +49 4101 41191
+opening_hours: Mo-Fr 08:00-12:30,13:00-17:00; Sa 08:00-12:30; Su,PH off
 website: ""

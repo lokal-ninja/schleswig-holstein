@@ -1,11 +1,11 @@
 id: 35805910
-type: way
+type: node
 latitude: 53.74177
 longitude: 9.69425
 postcode: ""
 city: Elmshorn
-street: "Ramskamp"
-housenumber: 63
+street: Ramskamp
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

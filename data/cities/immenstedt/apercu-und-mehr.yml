@@ -4,8 +4,8 @@ latitude: 54.53885
 longitude: 9.16309
 postcode: "25885"
 city: Immenstedt
-street: "Dorfstraße"
-housenumber: 26
-phone: "+49 4843 2046180"
-opening_hours: "Mo-Fr 14:00-18:00; Sa 09:00-12:00"
-website: "https://www.apercuexpress.de/"
+street: Dorfstraße
+housenumber: "26"
+phone: +49 4843 2046180
+opening_hours: Mo-Fr 14:00-18:00; Sa 09:00-12:00
+website: https://www.apercuexpress.de/

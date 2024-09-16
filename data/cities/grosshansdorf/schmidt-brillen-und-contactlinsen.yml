@@ -4,8 +4,8 @@ latitude: 53.6625
 longitude: 10.28537
 postcode: "22927"
 city: Großhansdorf
-street: "Eilbergweg"
-housenumber: 9
-phone: "+49 4102 67347"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00"
-website: "https://www.schmidt-brillen.com/"
+street: Eilbergweg
+housenumber: "9"
+phone: +49 4102 67347
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00
+website: https://www.schmidt-brillen.com/

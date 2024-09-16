@@ -1,11 +1,11 @@
 id: 240319628
-type: way
+type: node
 latitude: 54.69109
 longitude: 9.60471
 postcode: "24986"
 city: Mittelangeln
-street: "Mühlenstraße"
-housenumber: 3
+street: Mühlenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 110406688
-type: way
+type: node
 latitude: 54.27777
 longitude: 10.14331
 postcode: "24145"
 city: Kiel
-street: "Braunstraße"
-housenumber: 6
+street: Braunstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

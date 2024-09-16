@@ -1,11 +1,11 @@
 id: 765977267
-type: way
+type: node
 latitude: 53.78174
 longitude: 10.44499
 postcode: "23847"
 city: Rethwisch
-street: "Brückmannskoppel"
-housenumber: 1
+street: Brückmannskoppel
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://motorraum-werkstatt.de/"
+website: https://motorraum-werkstatt.de/

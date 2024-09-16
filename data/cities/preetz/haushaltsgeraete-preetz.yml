@@ -1,11 +1,11 @@
 id: 38317839
-type: way
+type: node
 latitude: 54.2413
 longitude: 10.28861
 postcode: "24211"
 city: Preetz
-street: "Wakendorfer Straße"
-housenumber: 73
+street: Wakendorfer Straße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

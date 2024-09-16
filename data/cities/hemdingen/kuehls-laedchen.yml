@@ -1,11 +1,11 @@
 id: 283828885
-type: way
+type: node
 latitude: 53.76219
 longitude: 9.82377
 postcode: "25485"
 city: Hemdingen
-street: "Heeder Straße"
-housenumber: 5
-phone: "+49 4123 9561583"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 07:30-18:00; Su 07:30-13:00"
+street: Heeder Straße
+housenumber: "5"
+phone: +49 4123 9561583
+opening_hours: Mo-Fr 09:00-18:00; Sa 07:30-18:00; Su 07:30-13:00
 website: ""

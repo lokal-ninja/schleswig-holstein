@@ -4,8 +4,8 @@ latitude: 54.31477
 longitude: 9.6724
 postcode: "24782"
 city: Büdelsdorf
-street: "Parkallee"
-housenumber: 10
-phone: "+49 4331 4408778"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.tanzshopsh.de"
+street: Parkallee
+housenumber: "10"
+phone: +49 4331 4408778
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.tanzshopsh.de

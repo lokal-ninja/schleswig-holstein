@@ -1,11 +1,11 @@
 id: 219534336
-type: way
+type: node
 latitude: 53.61485
 longitude: 10.67855
 postcode: "23879"
 city: Mölln
-street: "Grambeker Weg"
-housenumber: 93
+street: Grambeker Weg
+housenumber: "93"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.budni.de/filialen/23879-grambeker-weg-91-93/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.budni.de/filialen/23879-grambeker-weg-91-93/

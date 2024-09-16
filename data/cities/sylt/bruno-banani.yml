@@ -4,8 +4,8 @@ latitude: 54.90877
 longitude: 8.3031
 postcode: "25980"
 city: Sylt
-street: "Neue Straße"
-housenumber: 12
+street: Neue Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 12:00-16:00; We,Su off; Sa 12:00-15:00"
+opening_hours: Mo-Tu,Th-Fr 12:00-16:00; We,Su off; Sa 12:00-15:00
 website: ""

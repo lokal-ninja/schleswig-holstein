@@ -1,11 +1,11 @@
 id: 120872137
-type: way
+type: node
 latitude: 53.72939
 longitude: 9.99751
 postcode: "22844"
 city: Norderstedt
-street: "Ulzburger Straße"
+street: Ulzburger Straße
 housenumber: 446-454
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/norderstedt/ulzburger-str-446-454.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/norderstedt/ulzburger-str-446-454.html

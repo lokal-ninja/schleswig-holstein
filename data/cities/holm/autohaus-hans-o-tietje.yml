@@ -1,11 +1,11 @@
 id: 269992615
-type: way
+type: node
 latitude: 53.61879
 longitude: 9.67441
 postcode: "25488"
 city: Holm
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "http://www.tietje.mazda-autohaus.de"
+website: http://www.tietje.mazda-autohaus.de

@@ -4,8 +4,9 @@ latitude: 54.93531
 longitude: 8.32997
 postcode: "25996"
 city: Wenningstedt-Braderup (Sylt)
-street: "Osterweg"
-housenumber: 1
+street: Osterweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00 im Winter. Im Sommer längere Öffnungszeiten; Sa 07:30-13:00 im Winter. Im Sommer längere Öffnungszeiten"
-website: "https://www.raffelhueschen-sylt.de"
+opening_hours: Mo-Fr 07:30-18:00 "im Winter. Im Sommer längere Öffnungszeiten"; Sa
+    07:30-13:00 "im Winter. Im Sommer längere Öffnungszeiten"
+website: https://www.raffelhueschen-sylt.de

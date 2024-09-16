@@ -1,11 +1,11 @@
 id: 263006384
-type: way
+type: node
 latitude: 53.95175
 longitude: 9.01409
 postcode: "25709"
 city: Marne
-street: "Süderstraße"
+street: Süderstraße
 housenumber: 3c
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de/filialen/marne/suederstr-3c/2103"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de/filialen/marne/suederstr-3c/2103

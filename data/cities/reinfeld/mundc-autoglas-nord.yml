@@ -4,8 +4,8 @@ latitude: 53.82888
 longitude: 10.50378
 postcode: "23858"
 city: Reinfeld
-street: "Feldstraße"
-housenumber: 8
-phone: "+49 4533 610 39 40"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.mc-autoglas-nord.de"
+street: Feldstraße
+housenumber: "8"
+phone: +49 4533 610 39 40
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.mc-autoglas-nord.de

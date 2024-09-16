@@ -1,11 +1,11 @@
 id: 772457311
-type: way
+type: node
 latitude: 54.09634
 longitude: 9.06546
 postcode: "25704"
 city: Meldorf
-street: "Altentreptower Straße"
-housenumber: 2
+street: Altentreptower Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00;Sa 07:00-20:00;PH off"
-website: "https://www.lidl.de/filialen/meldorf/altentreptower-strasse-2.html"
+opening_hours: Mo-Fr 07:00-21:00;Sa 07:00-20:00;PH off
+website: https://www.lidl.de/filialen/meldorf/altentreptower-strasse-2.html

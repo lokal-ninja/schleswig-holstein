@@ -1,11 +1,11 @@
 id: 733097573
-type: way
+type: node
 latitude: 54.0627
 longitude: 9.98509
 postcode: "24539"
 city: Neumünster
-street: "Holsatenring"
-housenumber: 47
+street: Holsatenring
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

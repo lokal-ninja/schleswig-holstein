@@ -1,11 +1,11 @@
 id: 302193129
-type: way
+type: node
 latitude: 54.40808
 longitude: 11.17248
 postcode: "23769"
 city: Fehmarn
-street: "Wulfener Hals Weg"
-housenumber: 80
+street: Wulfener Hals Weg
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
+opening_hours: Mo-Su 09:00-18:00
 website: ""

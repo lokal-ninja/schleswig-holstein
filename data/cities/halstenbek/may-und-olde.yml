@@ -1,11 +1,11 @@
 id: 83339191
-type: way
+type: node
 latitude: 53.64337
 longitude: 9.83369
 postcode: "25469"
 city: Halstenbek
-street: "Stawedder"
-housenumber: 14
+street: Stawedder
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

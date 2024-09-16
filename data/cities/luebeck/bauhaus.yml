@@ -4,8 +4,8 @@ latitude: 53.86245
 longitude: 10.62803
 postcode: "23556"
 city: Lübeck
-street: "Lohgerberstraße"
-housenumber: 3
-phone: "+49 451 4077400"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-luebeck-moisling/fc/864"
+street: Lohgerberstraße
+housenumber: "3"
+phone: +49 451 4077400
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-luebeck-moisling/fc/864

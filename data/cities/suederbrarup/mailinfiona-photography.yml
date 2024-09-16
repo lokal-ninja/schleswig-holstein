@@ -4,8 +4,8 @@ latitude: 54.63552
 longitude: 9.77471
 postcode: "24392"
 city: Süderbrarup
-street: "Große Straße"
-housenumber: 23
+street: Große Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo 09:00-12:00; Tu 15:00-18:00; PH off"
-website: "https://www.mailinfiona-photography.de/"
+opening_hours: Mo 09:00-12:00; Tu 15:00-18:00; PH off
+website: https://www.mailinfiona-photography.de/

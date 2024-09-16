@@ -1,11 +1,11 @@
 id: 46507335
-type: way
+type: node
 latitude: 53.64006
 longitude: 10.28205
 postcode: "22962"
 city: Siek
-street: "Bültbek"
-housenumber: 32
+street: Bültbek
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

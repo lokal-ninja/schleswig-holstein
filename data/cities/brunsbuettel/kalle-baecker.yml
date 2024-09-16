@@ -4,8 +4,8 @@ latitude: 53.89815
 longitude: 9.1274
 postcode: "25541"
 city: Brunsbüttel
-street: "Röntgenstraße"
-housenumber: 2
+street: Röntgenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-13:00"
-website: "https://www.kallebaecker.de/"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-13:00
+website: https://www.kallebaecker.de/

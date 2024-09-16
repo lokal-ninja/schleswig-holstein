@@ -4,8 +4,8 @@ latitude: 54.33922
 longitude: 10.13978
 postcode: "24105"
 city: Kiel
-street: "Feldstraße"
-housenumber: 81
-phone: "+49 431 805505"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:00-11:00"
-website: "https://www.baecker-steiskal.de/"
+street: Feldstraße
+housenumber: "81"
+phone: +49 431 805505
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:00-11:00
+website: https://www.baecker-steiskal.de/

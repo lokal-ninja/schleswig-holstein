@@ -1,11 +1,11 @@
 id: 42031149
-type: way
+type: node
 latitude: 53.66663
 longitude: 10.23123
 postcode: "22926"
 city: Ahrensburg
-street: "Bogenstraße"
-housenumber: 30
+street: Bogenstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 186176780
-type: way
+type: node
 latitude: 54.72951
 longitude: 8.69654
 postcode: "25899"
 city: Dagebüll
-street: "Nordseestraße"
-housenumber: 12
+street: Nordseestraße
+housenumber: "12"
 phone: ""
-opening_hours: "PH,Mo-Su 07:30-19:30"
+opening_hours: PH,Mo-Su 07:30-19:30
 website: ""

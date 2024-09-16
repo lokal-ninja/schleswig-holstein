@@ -1,11 +1,11 @@
 id: 237994164
-type: way
+type: node
 latitude: 53.95375
 longitude: 10.21199
 postcode: "23812"
 city: Wahlstedt
-street: "Neumünsterstraße"
-housenumber: 2
+street: Neumünsterstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/wahlstedt/neumuensterstr-2/7174"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/wahlstedt/neumuensterstr-2/7174

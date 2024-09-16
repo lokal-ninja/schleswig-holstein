@@ -1,11 +1,11 @@
 id: 37487028
-type: way
+type: node
 latitude: 53.61941
 longitude: 10.67575
 postcode: "23879"
 city: Mölln
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 4542 85920"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.marktkauf-center.de/moelln/"
+street: Industriestraße
+housenumber: "1"
+phone: +49 4542 85920
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.marktkauf-center.de/moelln/

@@ -4,8 +4,8 @@ latitude: 54.78645
 longitude: 9.43373
 postcode: "24937"
 city: Flensburg
-street: "Große Straße"
-housenumber: 3
-phone: "+49 461 14684139"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; Su,PH off"
-website: "https://www.teegschwendner.de/"
+street: Große Straße
+housenumber: "3"
+phone: +49 461 14684139
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00; Su,PH off
+website: https://www.teegschwendner.de/

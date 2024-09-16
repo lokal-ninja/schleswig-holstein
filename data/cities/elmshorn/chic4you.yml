@@ -4,8 +4,8 @@ latitude: 53.75305
 longitude: 9.65112
 postcode: "25335"
 city: Elmshorn
-street: "Marktstraße"
-housenumber: 13
-phone: "+49 4121 1031565"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-16:00"
+street: Marktstraße
+housenumber: "13"
+phone: +49 4121 1031565
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-16:00
 website: ""

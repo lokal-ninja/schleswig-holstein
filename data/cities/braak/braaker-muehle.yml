@@ -1,11 +1,11 @@
 id: 369958328
-type: way
+type: node
 latitude: 53.61819
 longitude: 10.23967
 postcode: "22145"
 city: Braak
-street: "Braaker Bogen"
-housenumber: 33
-phone: "+49 40 18024177"
-opening_hours: "Mo-Fr 05:33-19:03; Sa-Su 06:33-17:03"
-website: "http://www.braaker-muehle.com/index.php/standorte/filialen/schleswig-holstein/43-braak"
+street: Braaker Bogen
+housenumber: "33"
+phone: +49 40 18024177
+opening_hours: Mo-Fr 05:33-19:03; Sa-Su 06:33-17:03
+website: http://www.braaker-muehle.com/index.php/standorte/filialen/schleswig-holstein/43-braak

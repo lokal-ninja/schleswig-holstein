@@ -4,8 +4,8 @@ latitude: 54.51771
 longitude: 9.37872
 postcode: "24887"
 city: Silberstedt
-street: "Hauptstraße"
-housenumber: 24
-phone: "+49 4626 214"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:30"
-website: "https://www.baeckerei-silberstedt.de/"
+street: Hauptstraße
+housenumber: "24"
+phone: +49 4626 214
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-11:30
+website: https://www.baeckerei-silberstedt.de/

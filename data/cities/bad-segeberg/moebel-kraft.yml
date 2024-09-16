@@ -1,11 +1,11 @@
 id: 32781278
-type: way
+type: node
 latitude: 53.93929
 longitude: 10.29662
 postcode: "23795"
 city: Bad Segeberg
-street: "Ziegelstraße"
-housenumber: 1
-phone: "+494551 50 1"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.moebel-kraft.de/standorte/bad-segeberg/"
+street: Ziegelstraße
+housenumber: "1"
+phone: +494551 50 1
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.moebel-kraft.de/standorte/bad-segeberg/

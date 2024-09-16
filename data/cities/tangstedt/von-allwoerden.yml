@@ -4,8 +4,8 @@ latitude: 53.73307
 longitude: 10.08679
 postcode: "22889"
 city: Tangstedt
-street: "Hauptstraße"
-housenumber: 89
-phone: "+49 4109 9249"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-12:00"
+street: Hauptstraße
+housenumber: "89"
+phone: +49 4109 9249
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-12:00
 website: ""

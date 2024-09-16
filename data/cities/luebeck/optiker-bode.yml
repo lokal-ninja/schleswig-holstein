@@ -4,8 +4,8 @@ latitude: 53.86625
 longitude: 10.68713
 postcode: "23552"
 city: Lübeck
-street: "Königstraße"
-housenumber: 75
-phone: "+49 451 3977081"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.optiker-bode.de"
+street: Königstraße
+housenumber: "75"
+phone: +49 451 3977081
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.optiker-bode.de

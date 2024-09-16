@@ -4,8 +4,8 @@ latitude: 53.79494
 longitude: 9.97924
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Kirchweg"
-housenumber: 32
+street: Kirchweg
+housenumber: "32"
 phone: ""
-opening_hours: "Tag- und Nachtruf"
+opening_hours: '"Tag- und Nachtruf"'
 website: ""

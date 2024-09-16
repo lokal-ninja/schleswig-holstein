@@ -1,11 +1,11 @@
 id: 152592119
-type: way
+type: node
 latitude: 53.54377
 longitude: 10.15085
 postcode: "22117"
 city: Hamburg
-street: "Glinder Straße"
-housenumber: 1
-phone: "+49 40 713090"
-opening_hours: "Mo-Fr 06:00-22:00, Sa 07:00-20:00"
-website: "https://www.selgros.de/maerkte/hamburg-oejendorf"
+street: Glinder Straße
+housenumber: "1"
+phone: +49 40 713090
+opening_hours: Mo-Fr 06:00-22:00, Sa 07:00-20:00
+website: https://www.selgros.de/maerkte/hamburg-oejendorf

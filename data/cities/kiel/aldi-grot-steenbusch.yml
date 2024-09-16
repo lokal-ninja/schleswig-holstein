@@ -1,11 +1,11 @@
 id: 36001865
-type: way
+type: node
 latitude: 54.28258
 longitude: 10.13267
 postcode: "24145"
 city: Kiel
-street: "Grot Steenbusch"
-housenumber: 35
+street: Grot Steenbusch
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

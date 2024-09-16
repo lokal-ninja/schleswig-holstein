@@ -4,8 +4,8 @@ latitude: 54.54608
 longitude: 9.63854
 postcode: "24882"
 city: Schaalby
-street: "Mühlenstraße"
-housenumber: 11
-phone: "+49 4622 550"
-opening_hours: "Tu,Th-Fr 08:30-13:00,14:00-18:00; We,Sa 08:30-13:00; Su,Mo,PH off"
+street: Mühlenstraße
+housenumber: "11"
+phone: +49 4622 550
+opening_hours: Tu,Th-Fr 08:30-13:00,14:00-18:00; We,Sa 08:30-13:00; Su,Mo,PH off
 website: ""

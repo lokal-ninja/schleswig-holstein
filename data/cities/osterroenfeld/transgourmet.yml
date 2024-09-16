@@ -1,11 +1,11 @@
 id: 127212578
-type: way
+type: node
 latitude: 54.28409
 longitude: 9.68123
 postcode: "24783"
 city: Osterrönfeld
-street: "Walter-Zeidler-Straße"
-housenumber: 21
-phone: "+49 800 1722722"
+street: Walter-Zeidler-Straße
+housenumber: "21"
+phone: +49 800 1722722
 opening_hours: ""
-website: "https://www.transgourmet.de/"
+website: https://www.transgourmet.de/

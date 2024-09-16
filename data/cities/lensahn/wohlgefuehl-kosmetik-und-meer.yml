@@ -4,8 +4,8 @@ latitude: 54.21991
 longitude: 10.88796
 postcode: "23738"
 city: Lensahn
-street: "Bäderstraße"
-housenumber: 9
+street: Bäderstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Nach telefonischer Vereinbarung"
+opening_hours: '"Nach telefonischer Vereinbarung"'
 website: ""

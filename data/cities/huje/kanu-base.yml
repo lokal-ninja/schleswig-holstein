@@ -1,11 +1,11 @@
 id: 112509177
-type: way
+type: node
 latitude: 53.9764
 longitude: 9.43204
 postcode: "25588"
 city: Huje
-street: "Bekende"
-housenumber: 14
+street: Bekende
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://www.kanu-base.de/"
+website: http://www.kanu-base.de/

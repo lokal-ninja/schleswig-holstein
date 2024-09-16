@@ -1,11 +1,11 @@
 id: 124387378
-type: way
+type: node
 latitude: 54.00601
 longitude: 9.24999
 postcode: "25712"
 city: Burg (Dithmarschen)
-street: "Bahnhofstraße"
-housenumber: 114
+street: Bahnhofstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00; PH off
 website: ""

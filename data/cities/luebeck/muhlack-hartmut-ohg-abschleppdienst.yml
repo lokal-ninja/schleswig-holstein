@@ -1,11 +1,11 @@
 id: 172701926
-type: way
+type: node
 latitude: 53.83378
 longitude: 10.65121
 postcode: "23560"
 city: Lübeck
-street: "Novgorodstraße"
-housenumber: 16
+street: Novgorodstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

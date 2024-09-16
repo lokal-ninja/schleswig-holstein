@@ -4,8 +4,8 @@ latitude: 53.88712
 longitude: 10.79463
 postcode: "23568"
 city: Lübeck
-street: "Wesloer Straße"
-housenumber: 11
-phone: "+49-451-691555"
-opening_hours: "Mo,Tu,Th 10:00-12:00,15:00-18:00; We 10:00-12:00"
-website: "https://www.raumausstatter-trage.de/"
+street: Wesloer Straße
+housenumber: "11"
+phone: +49-451-691555
+opening_hours: Mo,Tu,Th 10:00-12:00,15:00-18:00; We 10:00-12:00
+website: https://www.raumausstatter-trage.de/

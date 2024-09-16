@@ -1,11 +1,11 @@
 id: 170332414
-type: way
+type: node
 latitude: 54.76555
 longitude: 9.42631
 postcode: "24941"
 city: Flensburg
-street: "Liebigstraße"
+street: Liebigstraße
 housenumber: 14a
-phone: "+49 461 903800"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00; Su off"
+phone: +49 461 903800
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00; Su off
 website: ""

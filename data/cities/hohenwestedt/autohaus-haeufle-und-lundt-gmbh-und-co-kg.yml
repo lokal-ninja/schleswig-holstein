@@ -1,11 +1,11 @@
 id: 186450566
-type: way
+type: node
 latitude: 54.08333
 longitude: 9.6506
 postcode: "24594"
 city: Hohenwestedt
-street: "Itzehoer Straße"
-housenumber: 52
+street: Itzehoer Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

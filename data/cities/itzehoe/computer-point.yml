@@ -4,8 +4,8 @@ latitude: 53.92141
 longitude: 9.51695
 postcode: "25524"
 city: Itzehoe
-street: "Breite Straße"
-housenumber: 54
-phone: "+49 4821 9578182"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-13:00"
-website: "https://www.izcom.de/"
+street: Breite Straße
+housenumber: "54"
+phone: +49 4821 9578182
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-13:00
+website: https://www.izcom.de/

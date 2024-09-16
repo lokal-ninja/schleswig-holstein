@@ -1,11 +1,11 @@
 id: 161231268
-type: way
+type: node
 latitude: 53.66303
 longitude: 9.78474
 postcode: "25421"
 city: Pinneberg
-street: "Am Hafen"
-housenumber: 7
+street: Am Hafen
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.gc-gruppe.de/unternehmen/arens-stitz-kg"
+website: https://www.gc-gruppe.de/unternehmen/arens-stitz-kg

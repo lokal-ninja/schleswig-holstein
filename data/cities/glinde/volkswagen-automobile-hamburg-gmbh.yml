@@ -1,11 +1,11 @@
 id: 101528131
-type: way
+type: node
 latitude: 53.52453
 longitude: 10.22581
 postcode: "21509"
 city: Glinde
-street: "Glinder Weg"
-housenumber: 2
-phone: "+49(0)40/727792-0"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
+street: Glinder Weg
+housenumber: "2"
+phone: +49(0)40/727792-0
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
 website: ""

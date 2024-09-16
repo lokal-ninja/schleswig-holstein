@@ -1,11 +1,11 @@
 id: 398479435
-type: way
+type: node
 latitude: 54.80763
 longitude: 9.50953
 postcode: "24999"
 city: Wees
-street: "Birkland"
-housenumber: 10
-phone: "+49 4631 442409"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/wees/"
+street: Birkland
+housenumber: "10"
+phone: +49 4631 442409
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su,PH off
+website: https://www.futterhaus.de/mein-futterhaus/filialen/wees/

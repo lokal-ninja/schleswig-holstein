@@ -1,11 +1,11 @@
 id: 222672830
-type: way
+type: node
 latitude: 54.48469
 longitude: 9.70907
 postcode: "24357"
 city: Fleckeby
-street: "Dorfstraße"
-housenumber: 1
-phone: "+49 4354 8009860"
-opening_hours: "Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 10:00-14:00"
-website: "http://www.wil-cars.de/"
+street: Dorfstraße
+housenumber: "1"
+phone: +49 4354 8009860
+opening_hours: Mo 07:30-19:00; Tu-Fr 07:30-18:00; Sa 10:00-14:00
+website: http://www.wil-cars.de/

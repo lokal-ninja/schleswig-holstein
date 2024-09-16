@@ -1,11 +1,11 @@
 id: 161302518
-type: way
+type: node
 latitude: 54.3069
 longitude: 10.13688
 postcode: "24143"
 city: Kiel
-street: "Schwedendamm"
-housenumber: 20
+street: Schwedendamm
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

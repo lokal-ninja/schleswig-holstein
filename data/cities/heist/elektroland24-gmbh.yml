@@ -1,11 +1,11 @@
 id: 388682802
-type: way
+type: node
 latitude: 53.64905
 longitude: 9.66817
 postcode: "25492"
 city: Heist
-street: "Kreuzweg"
-housenumber: 45
-phone: "+49 4122 9 53 71 0"
-opening_hours: "Mo-Th 09:00-18:00, Fr 09:00-16:00"
-website: "https://www.elektroland24.de/"
+street: Kreuzweg
+housenumber: "45"
+phone: +49 4122 9 53 71 0
+opening_hours: Mo-Th 09:00-18:00, Fr 09:00-16:00
+website: https://www.elektroland24.de/

@@ -1,11 +1,11 @@
 id: 146410830
-type: way
+type: node
 latitude: 54.77058
 longitude: 9.43305
 postcode: "24941"
 city: Flensburg
-street: "Zur Bleiche"
-housenumber: 1
-phone: "+49 461 90351-0"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://jysk.de/"
+street: Zur Bleiche
+housenumber: "1"
+phone: +49 461 90351-0
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00; Su,PH off
+website: https://jysk.de/

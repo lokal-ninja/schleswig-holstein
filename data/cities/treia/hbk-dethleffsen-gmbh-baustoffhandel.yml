@@ -4,8 +4,8 @@ latitude: 54.5144
 longitude: 9.32113
 postcode: "24896"
 city: Treia
-street: "Treenestraße"
-housenumber: 27
-phone: "+49 4626 18300"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "https://www.hbk-dethleffsen.de/"
+street: Treenestraße
+housenumber: "27"
+phone: +49 4626 18300
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: https://www.hbk-dethleffsen.de/

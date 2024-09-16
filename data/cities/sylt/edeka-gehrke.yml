@@ -4,8 +4,8 @@ latitude: 54.90955
 longitude: 8.30819
 postcode: "25980"
 city: Sylt
-street: "Andreas-Nielsen-Straße"
-housenumber: 3
-phone: "+49 4651 22618"
-opening_hours: "Mo-Sa 07:00-19:00; Su 11:00-17:00"
-website: "https://www.edeka.de/eh/nord/e-aktiv-markt-gehrke-andreas-nielsen-str.3/index.jsp"
+street: Andreas-Nielsen-Straße
+housenumber: "3"
+phone: +49 4651 22618
+opening_hours: Mo-Sa 07:00-19:00; Su 11:00-17:00
+website: https://www.edeka.de/eh/nord/e-aktiv-markt-gehrke-andreas-nielsen-str.3/index.jsp

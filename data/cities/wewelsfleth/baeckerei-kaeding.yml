@@ -1,11 +1,12 @@
 id: 80678747
-type: way
+type: node
 latitude: 53.84305
 longitude: 9.40071
 postcode: "25599"
 city: Wewelsfleth
-street: "Dorfstraße"
-housenumber: 9
+street: Dorfstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 05:45-11:00; Mo, We-Fr 14:30-17:30; Sa 05:45-11:30; Su 07:45-09:30; PH off"
+opening_hours: Mo-Fr 05:45-11:00; Mo, We-Fr 14:30-17:30; Sa 05:45-11:30; Su 07:45-09:30;
+    PH off
 website: ""

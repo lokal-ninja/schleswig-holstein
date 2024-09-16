@@ -4,8 +4,8 @@ latitude: 53.73115
 longitude: 9.8992
 postcode: "25451"
 city: Quickborn
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://theolino-spiel.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://theolino-spiel.de/

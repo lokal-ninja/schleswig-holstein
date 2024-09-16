@@ -4,8 +4,8 @@ latitude: 54.78477
 longitude: 9.43498
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 40
-phone: "+49 461 1682145"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off"
-website: "https://www.apollo.de/"
+street: Holm
+housenumber: "40"
+phone: +49 461 1682145
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off
+website: https://www.apollo.de/

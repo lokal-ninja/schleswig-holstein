@@ -4,8 +4,8 @@ latitude: 54.47162
 longitude: 9.83562
 postcode: "24340"
 city: Eckernförde
-street: "Sankt-Nicolai-Straße"
-housenumber: 5
-phone: "+49 4351 712555"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su off"
-website: "http://www.photoprien.de/"
+street: Sankt-Nicolai-Straße
+housenumber: "5"
+phone: +49 4351 712555
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH,Su off
+website: http://www.photoprien.de/

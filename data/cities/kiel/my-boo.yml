@@ -4,8 +4,8 @@ latitude: 54.34329
 longitude: 10.12264
 postcode: "24118"
 city: Kiel
-street: "Neufeldtstraße"
-housenumber: 7
-phone: "+49 431 88997204"
-opening_hours: "Mo-Fr 09:00-19:00; Sa,Su,PH off"
-website: "https://www.my-boo.de/"
+street: Neufeldtstraße
+housenumber: "7"
+phone: +49 431 88997204
+opening_hours: Mo-Fr 09:00-19:00; Sa,Su,PH off
+website: https://www.my-boo.de/

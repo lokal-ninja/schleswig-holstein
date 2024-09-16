@@ -1,11 +1,11 @@
 id: 1164539103
-type: way
+type: node
 latitude: 53.60987
 longitude: 9.64377
 postcode: "25491"
 city: Hetlingen
-street: "Klaus-Groth-Straße"
-housenumber: 1
+street: Klaus-Groth-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

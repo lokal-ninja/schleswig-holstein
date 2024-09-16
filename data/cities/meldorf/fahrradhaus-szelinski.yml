@@ -1,11 +1,11 @@
 id: 193492484
-type: way
+type: node
 latitude: 54.08846
 longitude: 9.07462
 postcode: "25704"
 city: Meldorf
-street: "Grabenstraße"
-housenumber: 1
+street: Grabenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30;PH off"
+opening_hours: Mo-Fr 09:00-18:30;PH off
 website: ""

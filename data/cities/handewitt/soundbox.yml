@@ -1,11 +1,11 @@
 id: 232804244
-type: way
+type: node
 latitude: 54.77901
 longitude: 9.33576
 postcode: "24983"
 city: Handewitt
-street: "Scandinavian Park"
-housenumber: 12
-phone: "+49 4608 971690"
-opening_hours: "Mo-Fr 09:30-17:00;Sa,Su,PH off"
-website: "https://soundbox.de/"
+street: Scandinavian Park
+housenumber: "12"
+phone: +49 4608 971690
+opening_hours: Mo-Fr 09:30-17:00;Sa,Su,PH off
+website: https://soundbox.de/

@@ -4,8 +4,9 @@ latitude: 54.21964
 longitude: 9.29689
 postcode: "25782"
 city: Tellingstedt
-street: "Rendsburger Straße"
-housenumber: 51
-phone: "+49 4838 800"
-opening_hours: "Dec 27-Jul 31 Mo-Fr 09:00-18:00, Sa 09:00-16:00; Aug 01-Nov 30 Mo,Tu off, We-Fr 09:00-18:00, Sa 09:00-16:00; Su,PH off; Dec 01-Dec 26 off Betriebsferien"
-website: "https://www.laue-festmoden.de/"
+street: Rendsburger Straße
+housenumber: "51"
+phone: +49 4838 800
+opening_hours: Dec 27-Jul 31 Mo-Fr 09:00-18:00, Sa 09:00-16:00; Aug 01-Nov 30 Mo,Tu
+    off, We-Fr 09:00-18:00, Sa 09:00-16:00; Su,PH off; Dec 01-Dec 26 off "Betriebsferien"
+website: https://www.laue-festmoden.de/

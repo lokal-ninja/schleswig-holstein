@@ -4,8 +4,8 @@ latitude: 54.51569
 longitude: 9.55896
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 59
-phone: "+49 4621 9779930"
-opening_hours: "Mo-Fr 08:00-17:00; Sa,Su,PH off"
-website: "https://www.hoerhaus-schleswig.de/"
+street: Stadtweg
+housenumber: "59"
+phone: +49 4621 9779930
+opening_hours: Mo-Fr 08:00-17:00; Sa,Su,PH off
+website: https://www.hoerhaus-schleswig.de/

@@ -1,11 +1,11 @@
 id: 1310947229
-type: way
+type: node
 latitude: 54.04346
 longitude: 9.978
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 5571700"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00"
-website: "https://outlet.g-star.com/de_de/stores/de/g-star-outlet-neum%C3%BCnster"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 5571700
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00
+website: https://outlet.g-star.com/de_de/stores/de/g-star-outlet-neum%C3%BCnster

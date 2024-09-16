@@ -1,11 +1,11 @@
 id: 484074863
-type: way
+type: node
 latitude: 53.6787
 longitude: 9.99255
 postcode: "22848"
 city: Norderstedt
-street: "Ohechaussee"
-housenumber: 61
-phone: "+49 40 18122393"
-opening_hours: "Mo-Fr 09:00-17:00"
+street: Ohechaussee
+housenumber: "61"
+phone: +49 40 18122393
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

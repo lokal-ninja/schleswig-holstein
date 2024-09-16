@@ -1,11 +1,11 @@
 id: 235890901
-type: way
+type: node
 latitude: 54.30698
 longitude: 9.60276
 postcode: "24787"
 city: Fockbek
-street: "Rendsburger Straße"
-housenumber: 44
-phone: "+49 4331 62800"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-16:00"
-website: "https://www.baecker-steiskal.de/"
+street: Rendsburger Straße
+housenumber: "44"
+phone: +49 4331 62800
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-16:00
+website: https://www.baecker-steiskal.de/

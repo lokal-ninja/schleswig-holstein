@@ -4,8 +4,8 @@ latitude: 54.90758
 longitude: 8.3036
 postcode: "25980"
 city: Sylt
-street: "Friedrichstraße"
-housenumber: 19
+street: Friedrichstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00, Su 11:00-17:00"
-website: "https://www.depot-online.com"
+opening_hours: Mo-Sa 09:00-18:00, Su 11:00-17:00
+website: https://www.depot-online.com

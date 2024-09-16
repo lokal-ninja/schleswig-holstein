@@ -1,11 +1,11 @@
 id: 115345933
-type: way
+type: node
 latitude: 54.3304
 longitude: 10.11169
 postcode: "24116"
 city: Kiel
-street: "Eichkamp"
-housenumber: 24
+street: Eichkamp
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

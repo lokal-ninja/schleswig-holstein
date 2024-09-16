@@ -1,11 +1,11 @@
 id: 103522077
-type: way
+type: node
 latitude: 54.22212
 longitude: 10.88162
 postcode: "23738"
 city: Lensahn
-street: "Lübecker Straße"
-housenumber: 
-phone: "+49 800 - 43 53 361"
-opening_hours: "Mo-Sa 07:00-20:00; 2024 May 19,20 off; Ph off"
+street: Lübecker Straße
+housenumber: ""
+phone: +49 800 - 43 53 361
+opening_hours: Mo-Sa 07:00-20:00; 2024 May 19,20 off; Ph off
 website: ""

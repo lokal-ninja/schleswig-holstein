@@ -1,11 +1,11 @@
 id: 867074102
-type: way
+type: node
 latitude: 54.36491
 longitude: 10.29622
 postcode: "24253"
 city: Probsteierhagen
-street: "Rethsahl"
-housenumber: 2
+street: Rethsahl
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

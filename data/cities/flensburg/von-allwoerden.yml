@@ -4,8 +4,8 @@ latitude: 54.78262
 longitude: 9.43685
 postcode: "24937"
 city: Flensburg
-street: "Südermarkt"
-housenumber: 4
+street: Südermarkt
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 07:00-18:00"
-website: "https://www.von-allwoerden.de/"
+opening_hours: Mo-Su 07:00-18:00
+website: https://www.von-allwoerden.de/

@@ -4,8 +4,8 @@ latitude: 54.90937
 longitude: 8.30094
 postcode: "25980"
 city: Sylt
-street: "Strandstraße"
-housenumber: 28
-phone: "+49 4651 299811"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00; Su off"
-website: "https://www.teehaus-janssen.de/"
+street: Strandstraße
+housenumber: "28"
+phone: +49 4651 299811
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00; Su off
+website: https://www.teehaus-janssen.de/

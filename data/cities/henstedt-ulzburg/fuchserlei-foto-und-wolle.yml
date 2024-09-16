@@ -4,8 +4,8 @@ latitude: 53.79626
 longitude: 9.98592
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Clara-Schumann-Straße"
-housenumber: 3
-phone: "+49 4193 8803292"
-opening_hours: "Tu-Th 10:00-14:00,15:00-18:00"
-website: "https://www.fuchserlei.de/"
+street: Clara-Schumann-Straße
+housenumber: "3"
+phone: +49 4193 8803292
+opening_hours: Tu-Th 10:00-14:00,15:00-18:00
+website: https://www.fuchserlei.de/

@@ -1,11 +1,11 @@
 id: 621803550
-type: way
+type: node
 latitude: 54.10119
 longitude: 10.82093
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Sandberger Weg"
-housenumber: 44
+street: Sandberger Weg
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

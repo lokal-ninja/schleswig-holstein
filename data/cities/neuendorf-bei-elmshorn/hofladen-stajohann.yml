@@ -4,8 +4,8 @@ latitude: 53.74196
 longitude: 9.53289
 postcode: "25335"
 city: Neuendorf bei Elmshorn
-street: "Dorfreihe"
-housenumber: 16
+street: Dorfreihe
+housenumber: "16"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.hofladen-stajohann.de/eierautomat/"
+opening_hours: 24/7
+website: https://www.hofladen-stajohann.de/eierautomat/

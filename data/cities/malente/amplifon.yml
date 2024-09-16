@@ -4,8 +4,8 @@ latitude: 54.17163
 longitude: 10.55525
 postcode: "23714"
 city: Malente
-street: "Bahnhofstraße"
-housenumber: 35
-phone: "+49 4523 201470"
-opening_hours: "Mo,Tu,Th 08:00-13:00,14:00-18:00; We 08:00-14:00; Fr 08:00-14:00"
-website: "https://www.amplifon.com/"
+street: Bahnhofstraße
+housenumber: "35"
+phone: +49 4523 201470
+opening_hours: Mo,Tu,Th 08:00-13:00,14:00-18:00; We 08:00-14:00; Fr 08:00-14:00
+website: https://www.amplifon.com/

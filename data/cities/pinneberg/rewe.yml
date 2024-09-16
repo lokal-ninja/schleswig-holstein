@@ -1,11 +1,11 @@
 id: 35907217
-type: way
+type: node
 latitude: 53.64552
 longitude: 9.80912
 postcode: "25421"
 city: Pinneberg
-street: "Kleiner Reitweg"
-housenumber: 30
-phone: "+49 4101 692131"
-opening_hours: "Mo-Sa 07:00-22:00; Su off"
-website: "https://www.rewe.de/marktseite/pinneberg/540533/rewe-markt-kleiner-reitweg-30"
+street: Kleiner Reitweg
+housenumber: "30"
+phone: +49 4101 692131
+opening_hours: Mo-Sa 07:00-22:00; Su off
+website: https://www.rewe.de/marktseite/pinneberg/540533/rewe-markt-kleiner-reitweg-30

@@ -4,8 +4,8 @@ latitude: 54.4694
 longitude: 9.83716
 postcode: "24340"
 city: Eckernförde
-street: "Kieler Straße"
-housenumber: 62
-phone: "+49 4351 726561"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH,Su off"
-website: "https://www.depot-online.de/"
+street: Kieler Straße
+housenumber: "62"
+phone: +49 4351 726561
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH,Su off
+website: https://www.depot-online.de/

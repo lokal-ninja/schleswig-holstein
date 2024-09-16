@@ -4,8 +4,8 @@ latitude: 54.70858
 longitude: 8.53343
 postcode: "25938"
 city: Oevenum
-street: "Wohlackerum"
-housenumber: 2
+street: Wohlackerum
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa,Su 11:00-14:00"
-website: "https://www.foehrersnupkroom.de"
+opening_hours: Mo-Fr 10:00-17:00; Sa,Su 11:00-14:00
+website: https://www.foehrersnupkroom.de

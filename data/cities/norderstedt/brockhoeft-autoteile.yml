@@ -1,11 +1,11 @@
 id: 51498426
-type: way
+type: node
 latitude: 53.69053
 longitude: 10.0512
 postcode: "22851"
 city: Norderstedt
-street: "Hans-Böckler-Ring"
-housenumber: 14
+street: Hans-Böckler-Ring
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

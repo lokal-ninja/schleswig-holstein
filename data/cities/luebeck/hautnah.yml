@@ -4,8 +4,8 @@ latitude: 53.8694
 longitude: 10.69537
 postcode: "23552"
 city: Lübeck
-street: "Kanalstraße"
-housenumber: 70
-phone: "+49 451 7063535"
-opening_hours: "Sa 09:00-15:00; Su,PH off; Mo-Fr 09:00-18:00"
-website: "https://www.hautnah-naturwaren.de/"
+street: Kanalstraße
+housenumber: "70"
+phone: +49 451 7063535
+opening_hours: Sa 09:00-15:00; Su,PH off; Mo-Fr 09:00-18:00
+website: https://www.hautnah-naturwaren.de/

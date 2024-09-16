@@ -1,11 +1,11 @@
 id: 183747636
-type: way
+type: node
 latitude: 53.92433
 longitude: 9.38174
 postcode: "25554"
 city: Wilster
-street: "Steindamm"
-housenumber: 8
+street: Steindamm
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.elektroholler.de/"
+website: http://www.elektroholler.de/

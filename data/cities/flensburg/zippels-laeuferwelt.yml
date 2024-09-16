@@ -4,8 +4,8 @@ latitude: 54.78221
 longitude: 9.41643
 postcode: "24937"
 city: Flensburg
-street: "Marienallee"
-housenumber: 8
-phone: "+49 461 5008303"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.zippels.de/"
+street: Marienallee
+housenumber: "8"
+phone: +49 461 5008303
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.zippels.de/

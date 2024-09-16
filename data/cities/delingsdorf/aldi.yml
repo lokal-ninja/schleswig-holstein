@@ -1,11 +1,11 @@
 id: 37516125
-type: way
+type: node
 latitude: 53.70004
 longitude: 10.24714
 postcode: "22941"
 city: Delingsdorf
-street: "Poggensiek"
-housenumber: 2
+street: Poggensiek
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

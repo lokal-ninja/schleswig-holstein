@@ -4,8 +4,8 @@ latitude: 53.86581
 longitude: 10.68868
 postcode: "23552"
 city: Lübeck
-street: "Hüxstraße"
-housenumber: 44
+street: Hüxstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-19:00; PH off"
-website: "https://luicellas.de/"
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-19:00; PH off
+website: https://luicellas.de/

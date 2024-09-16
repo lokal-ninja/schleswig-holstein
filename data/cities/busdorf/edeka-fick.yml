@@ -1,11 +1,11 @@
 id: 208690821
-type: way
+type: node
 latitude: 54.49973
 longitude: 9.55154
 postcode: "24866"
 city: Busdorf
-street: "Haddebyer Chaussee"
-housenumber: 1
+street: Haddebyer Chaussee
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00"
-website: "https://www.edeka-fick.de"
+opening_hours: Mo-Sa 06:00-21:00
+website: https://www.edeka-fick.de

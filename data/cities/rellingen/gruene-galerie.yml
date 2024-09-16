@@ -1,11 +1,11 @@
 id: 64224282
-type: way
+type: node
 latitude: 53.64869
 longitude: 9.86339
 postcode: "25462"
 city: Rellingen
-street: "Pinneberger Straße"
-housenumber: 80
+street: Pinneberger Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.gruene-galerie.eu/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.gruene-galerie.eu/

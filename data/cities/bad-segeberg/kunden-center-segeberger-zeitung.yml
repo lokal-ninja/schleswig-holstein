@@ -1,11 +1,11 @@
 id: 32781302
-type: way
+type: node
 latitude: 53.93641
 longitude: 10.30446
 postcode: "23795"
 city: Bad Segeberg
-street: "Hamburger Straße"
-housenumber: 26
+street: Hamburger Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

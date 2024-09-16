@@ -4,8 +4,8 @@ latitude: 54.10006
 longitude: 9.97679
 postcode: "24536"
 city: Neumünster
-street: "Baeyerstraße"
-housenumber: 1
-phone: "+49 4321 95 24916"
-opening_hours: "Mo-We 08:00-20:00; Th-Sa 08:00-21:00"
-website: "http://dallmeyers.de/unsere-filialen/"
+street: Baeyerstraße
+housenumber: "1"
+phone: +49 4321 95 24916
+opening_hours: Mo-We 08:00-20:00; Th-Sa 08:00-21:00
+website: http://dallmeyers.de/unsere-filialen/

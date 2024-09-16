@@ -4,8 +4,8 @@ latitude: 54.75609
 longitude: 9.40212
 postcode: "24941"
 city: Flensburg
-street: "Ochsenweg"
-housenumber: 16
+street: Ochsenweg
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-15:00; Su,PH off"
-website: "https://www.audio-mobile-lab.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-15:00; Su,PH off
+website: https://www.audio-mobile-lab.de

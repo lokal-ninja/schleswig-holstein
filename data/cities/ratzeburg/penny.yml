@@ -1,11 +1,11 @@
 id: 839632453
-type: way
+type: node
 latitude: 53.69134
 longitude: 10.79364
 postcode: "23909"
 city: Ratzeburg
-street: "Zittschower Weg"
-housenumber: 
+street: Zittschower Weg
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

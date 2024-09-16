@@ -4,8 +4,8 @@ latitude: 54.9023
 longitude: 8.33362
 postcode: "25980"
 city: Sylt
-street: "Zur Kratzmühle"
-housenumber: 4
-phone: "+49 4651 43007"
-opening_hours: "Mo-Sa 09:00-17:30"
-website: "https://www.sylter-teehaus.de/"
+street: Zur Kratzmühle
+housenumber: "4"
+phone: +49 4651 43007
+opening_hours: Mo-Sa 09:00-17:30
+website: https://www.sylter-teehaus.de/

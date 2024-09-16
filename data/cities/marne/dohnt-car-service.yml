@@ -1,11 +1,11 @@
 id: 265818238
-type: way
+type: node
 latitude: 53.95638
 longitude: 9.01289
 postcode: "25709"
 city: Marne
-street: "Wulf-Isebrand-Straße"
-housenumber: 17
+street: Wulf-Isebrand-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

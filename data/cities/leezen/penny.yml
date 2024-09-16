@@ -1,11 +1,11 @@
 id: 26006474
-type: way
+type: node
 latitude: 53.8644
 longitude: 10.25149
 postcode: "23816"
 city: Leezen
-street: "Hamburger Straße"
-housenumber: 41
+street: Hamburger Straße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 184939294
-type: way
+type: node
 latitude: 53.9314
 longitude: 9.36439
 postcode: "25554"
 city: Nortorf
-street: "Am Wasserlauf"
-housenumber: 13
+street: Am Wasserlauf
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

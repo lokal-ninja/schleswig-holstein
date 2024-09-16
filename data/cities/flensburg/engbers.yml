@@ -4,8 +4,8 @@ latitude: 54.78546
 longitude: 9.4344
 postcode: "24937"
 city: Flensburg
-street: "Holm"
-housenumber: 18
-phone: "+49 461 48083636"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off"
-website: "https://www.engbers.com/"
+street: Holm
+housenumber: "18"
+phone: +49 461 48083636
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-18:00; Su,PH off
+website: https://www.engbers.com/

@@ -4,8 +4,8 @@ latitude: 54.07505
 longitude: 9.98313
 postcode: "24534"
 city: Neumünster
-street: "Kuhberg"
-housenumber: 25
-phone: "+49 4321 755 57 00"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; PH off"
+street: Kuhberg
+housenumber: "25"
+phone: +49 4321 755 57 00
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; PH off
 website: ""

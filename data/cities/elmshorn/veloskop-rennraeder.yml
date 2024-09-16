@@ -1,11 +1,11 @@
 id: 406141656
-type: way
+type: node
 latitude: 53.76207
 longitude: 9.66343
 postcode: "25335"
 city: Elmshorn
-street: "Friedensallee"
-housenumber: 44
+street: Friedensallee
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.veloskop.info/"
+website: https://www.veloskop.info/

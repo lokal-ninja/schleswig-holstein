@@ -4,8 +4,8 @@ latitude: 53.77131
 longitude: 9.99536
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Reiherstieg"
-housenumber: 1
-phone: "+49 4193 4219"
-opening_hours: "Th-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://hof-reiherstieg.de/"
+street: Reiherstieg
+housenumber: "1"
+phone: +49 4193 4219
+opening_hours: Th-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://hof-reiherstieg.de/

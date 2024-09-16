@@ -4,8 +4,8 @@ latitude: 53.62904
 longitude: 9.88655
 postcode: "25462"
 city: Rellingen
-street: "Siemensstraße"
-housenumber: 43
+street: Siemensstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.stockhausen-spezialitaeten.de/"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.stockhausen-spezialitaeten.de/

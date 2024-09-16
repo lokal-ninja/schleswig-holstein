@@ -1,11 +1,11 @@
 id: 148310072
-type: way
+type: node
 latitude: 54.51532
 longitude: 9.56091
 postcode: "24837"
 city: Schleswig
-street: "Schwarzer Weg"
-housenumber: 
-phone: "+49 4621 855949"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH,Su off"
-website: "https://www.schlei-center.de/"
+street: Schwarzer Weg
+housenumber: ""
+phone: +49 4621 855949
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH,Su off
+website: https://www.schlei-center.de/

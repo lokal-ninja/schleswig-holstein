@@ -1,11 +1,11 @@
 id: 169441655
-type: way
+type: node
 latitude: 54.77133
 longitude: 9.43305
 postcode: "24941"
 city: Flensburg
-street: "Zur Bleiche"
-housenumber: 4
+street: Zur Bleiche
+housenumber: "4"
 phone: ""
-opening_hours: "PH,Su off; Mo-Sa 07:00-21:00"
+opening_hours: PH,Su off; Mo-Sa 07:00-21:00
 website: ""

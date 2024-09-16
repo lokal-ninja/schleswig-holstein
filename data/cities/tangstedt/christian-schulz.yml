@@ -1,11 +1,11 @@
 id: 369392049
-type: way
+type: node
 latitude: 53.7526
 longitude: 10.06265
 postcode: "22889"
 city: Tangstedt
-street: "Henstedter Weg"
-housenumber: 28
+street: Henstedter Weg
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 117633931
-type: way
+type: node
 latitude: 54.15849
 longitude: 10.41385
 postcode: "24306"
 city: Plön
-street: "Stadtgrabenstraße"
-housenumber: 5
-phone: "+49 4522 7469710"
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-16:00"
-website: "https://kuestenrad-ploen.de/"
+street: Stadtgrabenstraße
+housenumber: "5"
+phone: +49 4522 7469710
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-16:00
+website: https://kuestenrad-ploen.de/

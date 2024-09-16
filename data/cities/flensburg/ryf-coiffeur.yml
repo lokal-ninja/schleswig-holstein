@@ -4,8 +4,8 @@ latitude: 54.79849
 longitude: 9.47517
 postcode: "24944"
 city: Flensburg
-street: "Schottweg"
-housenumber: 94
-phone: "+49 461 37812"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
-website: "https://www.ryf.de/"
+street: Schottweg
+housenumber: "94"
+phone: +49 461 37812
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00
+website: https://www.ryf.de/

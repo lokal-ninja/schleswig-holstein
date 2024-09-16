@@ -1,11 +1,11 @@
 id: 141046505
-type: way
+type: node
 latitude: 54.69472
 longitude: 9.60467
 postcode: "24986"
 city: Mittelangeln
-street: "Glücksburger Straße"
-housenumber: 9
-phone: "+49-4633-360"
+street: Glücksburger Straße
+housenumber: "9"
+phone: +49-4633-360
 opening_hours: ""
-website: "https://www.optik-marquardsen.de"
+website: https://www.optik-marquardsen.de

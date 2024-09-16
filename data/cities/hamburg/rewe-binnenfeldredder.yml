@@ -1,11 +1,11 @@
 id: 203635357
-type: way
+type: node
 latitude: 53.50396
 longitude: 10.21352
 postcode: "21031"
 city: Hamburg
-street: "Binnenfeldredder"
-housenumber: 38
+street: Binnenfeldredder
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/hamburg-lohbruegge/540672/rewe-markt-am-beckerkamp-31/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/hamburg-lohbruegge/540672/rewe-markt-am-beckerkamp-31/

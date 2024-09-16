@@ -1,11 +1,11 @@
 id: 398929887
-type: way
+type: node
 latitude: 53.72186
 longitude: 9.75939
 postcode: "25436"
 city: Tornesch
-street: "Oha"
-housenumber: 2
+street: Oha
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

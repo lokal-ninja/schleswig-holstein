@@ -1,11 +1,11 @@
 id: 137678079
-type: way
+type: node
 latitude: 53.92098
 longitude: 9.50705
 postcode: "25524"
 city: Itzehoe
-street: "Otto-Hahn-Straße"
-housenumber: 2
+street: Otto-Hahn-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

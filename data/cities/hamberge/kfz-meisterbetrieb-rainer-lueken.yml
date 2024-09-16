@@ -1,11 +1,11 @@
 id: 440220739
-type: way
+type: node
 latitude: 53.83964
 longitude: 10.59082
 postcode: "23619"
 city: Hamberge
-street: "Stormarnstraße"
-housenumber: 4
+street: Stormarnstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

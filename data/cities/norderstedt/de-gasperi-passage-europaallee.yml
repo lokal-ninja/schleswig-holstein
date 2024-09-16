@@ -1,11 +1,11 @@
 id: 318784869
-type: way
+type: node
 latitude: 53.68306
 longitude: 9.98631
 postcode: "22850"
 city: Norderstedt
-street: "Europaallee"
-housenumber: 6
+street: Europaallee
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 127068039
-type: way
+type: node
 latitude: 53.92143
 longitude: 9.51727
 postcode: "25524"
 city: Itzehoe
-street: "Breite Straße"
-housenumber: 47
+street: Breite Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 30419260
-type: way
+type: node
 latitude: 53.58277
 longitude: 9.73023
 postcode: "22880"
 city: Wedel
-street: "Kronskamp"
-housenumber: 125
+street: Kronskamp
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 148631944
-type: way
+type: node
 latitude: 53.91451
 longitude: 10.80667
 postcode: "23569"
 city: Lübeck
-street: "Solmitzstraße"
-housenumber: 26
+street: Solmitzstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

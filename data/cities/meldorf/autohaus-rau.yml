@@ -1,11 +1,11 @@
 id: 124324972
-type: way
+type: node
 latitude: 54.09047
 longitude: 9.07949
 postcode: "25704"
 city: Meldorf
-street: "Raiffeisenplatz"
-housenumber: 12
+street: Raiffeisenplatz
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00;PH off"
-website: "https://www.opel-rau.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00;PH off
+website: https://www.opel-rau.de/

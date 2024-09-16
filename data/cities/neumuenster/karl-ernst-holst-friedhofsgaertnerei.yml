@@ -1,11 +1,11 @@
 id: 656128073
-type: way
+type: node
 latitude: 54.074
 longitude: 9.99819
 postcode: "24536"
 city: Neumünster
-street: "Brachenfelder Straße"
-housenumber: 84
-phone: "+49 4321 22294"
-opening_hours: "Mo 09:00-13:00; Th 09:00-13:00"
-website: "https://www.friedhofsgaertnerei-holst.de/"
+street: Brachenfelder Straße
+housenumber: "84"
+phone: +49 4321 22294
+opening_hours: Mo 09:00-13:00; Th 09:00-13:00
+website: https://www.friedhofsgaertnerei-holst.de/

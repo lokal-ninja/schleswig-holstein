@@ -4,8 +4,8 @@ latitude: 54.08937
 longitude: 9.65117
 postcode: "24594"
 city: Hohenwestedt
-street: "Am Markt"
-housenumber: 13
-phone: "+49 4871 708728"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off; PH off"
-website: "https://www.rossmann.de/de/filialen/schleswig-holstein/hohenwestedt/am-markt-13.html"
+street: Am Markt
+housenumber: "13"
+phone: +49 4871 708728
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off; PH off
+website: https://www.rossmann.de/de/filialen/schleswig-holstein/hohenwestedt/am-markt-13.html

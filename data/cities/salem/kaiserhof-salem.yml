@@ -1,11 +1,11 @@
 id: 123463568
-type: way
+type: node
 latitude: 53.65342
 longitude: 10.83315
 postcode: "23911"
 city: Salem
-street: "Seestraße"
-housenumber: 58
+street: Seestraße
+housenumber: "58"
 phone: ""
-opening_hours: "Tu-Su 08:00-18:00"
-website: "https://www.kaiserhof-salem.de/"
+opening_hours: Tu-Su 08:00-18:00
+website: https://www.kaiserhof-salem.de/

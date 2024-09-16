@@ -4,8 +4,8 @@ latitude: 54.78817
 longitude: 9.43216
 postcode: "24937"
 city: Flensburg
-street: "Große Straße"
-housenumber: 57
-phone: "+49 461 79458311"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00; PH,Su off"
-website: "https://dr-ali.de/"
+street: Große Straße
+housenumber: "57"
+phone: +49 461 79458311
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00; PH,Su off
+website: https://dr-ali.de/

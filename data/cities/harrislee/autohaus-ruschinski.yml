@@ -1,11 +1,11 @@
 id: 292523994
-type: way
+type: node
 latitude: 54.80245
 longitude: 9.37551
 postcode: "24955"
 city: Harrislee
-street: "Pattburger Bogen"
-housenumber: 31
-phone: "+49 461 74343"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off"
-website: "https://www.autohaus-ruschinski.de/"
+street: Pattburger Bogen
+housenumber: "31"
+phone: +49 461 74343
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off
+website: https://www.autohaus-ruschinski.de/

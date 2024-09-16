@@ -1,11 +1,11 @@
 id: 128548947
-type: way
+type: node
 latitude: 53.92276
 longitude: 9.52043
 postcode: "25524"
 city: Itzehoe
-street: "Kleine Paaschburg"
-housenumber: 18
+street: Kleine Paaschburg
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

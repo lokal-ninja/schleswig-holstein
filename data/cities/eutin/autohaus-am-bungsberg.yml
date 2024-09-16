@@ -4,8 +4,8 @@ latitude: 54.12679
 longitude: 10.62105
 postcode: "23701"
 city: Eutin
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: "+494521790190"
 opening_hours: ""
-website: "https://ambungsberg.de/"
+website: https://ambungsberg.de/

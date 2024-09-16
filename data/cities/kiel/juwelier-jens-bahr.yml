@@ -4,8 +4,8 @@ latitude: 54.34654
 longitude: 10.13385
 postcode: "24106"
 city: Kiel
-street: "Belvedere"
-housenumber: 1
-phone: "+49 431 3003080"
-opening_hours: "Tu-Fr 10:00-13:00"
-website: "https://www.juwelier-bahr.de/"
+street: Belvedere
+housenumber: "1"
+phone: +49 431 3003080
+opening_hours: Tu-Fr 10:00-13:00
+website: https://www.juwelier-bahr.de/

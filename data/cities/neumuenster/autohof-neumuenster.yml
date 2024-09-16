@@ -1,11 +1,11 @@
 id: 356093325
-type: way
+type: node
 latitude: 54.04026
 longitude: 10.00498
 postcode: "24539"
 city: Neumünster
-street: "Leinestraße"
-housenumber: 38
+street: Leinestraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

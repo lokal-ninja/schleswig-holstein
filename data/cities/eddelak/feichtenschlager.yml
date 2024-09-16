@@ -1,11 +1,11 @@
 id: 147112599
-type: way
+type: node
 latitude: 53.94743
 longitude: 9.136
 postcode: "25715"
 city: Eddelak
-street: "Norderstraße"
-housenumber: 14
+street: Norderstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

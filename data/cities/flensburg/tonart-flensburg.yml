@@ -4,8 +4,8 @@ latitude: 54.79395
 longitude: 9.43006
 postcode: "24939"
 city: Flensburg
-street: "Schloßstraße"
-housenumber: 16
+street: Schloßstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu-Su 15:00-18:00"
-website: "https://www.tonart-flensburg.de/"
+opening_hours: Tu-Su 15:00-18:00
+website: https://www.tonart-flensburg.de/

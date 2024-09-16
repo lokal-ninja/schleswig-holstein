@@ -1,11 +1,11 @@
 id: 148762872
-type: way
+type: node
 latitude: 54.28429
 longitude: 10.22397
 postcode: "24223"
 city: Schwentinental
-street: "Gutenbergstraße"
-housenumber: 18
+street: Gutenbergstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "http://www.neuwagen-nord.de/"
+website: http://www.neuwagen-nord.de/

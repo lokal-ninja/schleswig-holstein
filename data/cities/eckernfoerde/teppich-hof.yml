@@ -1,11 +1,11 @@
 id: 96845821
-type: way
+type: node
 latitude: 54.45161
 longitude: 9.82968
 postcode: "24340"
 city: Eckernförde
-street: "Rendsburger Straße"
-housenumber: 122
+street: Rendsburger Straße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.47193
 longitude: 9.83543
 postcode: "24340"
 city: Eckernförde
-street: "Sankt-Nicolai-Straße"
-housenumber: 13
+street: Sankt-Nicolai-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH,Su off"
-website: "https://www.goldschmiedepollaschek.de"
+opening_hours: Tu-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; PH,Su off
+website: https://www.goldschmiedepollaschek.de

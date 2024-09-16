@@ -1,11 +1,11 @@
 id: 904502190
-type: way
+type: node
 latitude: 54.1
 longitude: 9.97965
 postcode: "24536"
 city: Neumünster
-street: "Stoverweg"
-housenumber: 40
+street: Stoverweg
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 151631315
-type: way
+type: node
 latitude: 54.09897
 longitude: 10.79333
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Sierksdorfer Straße"
-housenumber: 1
+street: Sierksdorfer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.36343
 longitude: 10.13608
 postcode: "24106"
 city: Kiel
-street: "Am Kiel-Kanal"
-housenumber: 34
-phone: "+49 431 2209510"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.wiker-reifendienst.de"
+street: Am Kiel-Kanal
+housenumber: "34"
+phone: +49 431 2209510
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.wiker-reifendienst.de

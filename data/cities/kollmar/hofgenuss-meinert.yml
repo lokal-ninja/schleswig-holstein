@@ -4,8 +4,8 @@ latitude: 53.73233
 longitude: 9.49623
 postcode: "25377"
 city: Kollmar
-street: "Kleine Kirchreihe"
-housenumber: 1
+street: Kleine Kirchreihe
+housenumber: "1"
 phone: ""
-opening_hours: "09:00-12:30,15:00-18:00; We,Su,PH off"
-website: "https://hofgenuss-meinert.de/"
+opening_hours: 09:00-12:30,15:00-18:00; We,Su,PH off
+website: https://hofgenuss-meinert.de/

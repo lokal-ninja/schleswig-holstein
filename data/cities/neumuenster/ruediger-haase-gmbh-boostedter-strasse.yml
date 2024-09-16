@@ -1,11 +1,11 @@
 id: 151717881
-type: way
+type: node
 latitude: 54.03866
 longitude: 10.01185
 postcode: ""
 city: Neumünster
-street: "Boostedter Straße"
-housenumber: 372
+street: Boostedter Straße
+housenumber: "372"
 phone: ""
 opening_hours: ""
 website: ""

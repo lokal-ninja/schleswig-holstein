@@ -4,8 +4,8 @@ latitude: 54.32374
 longitude: 10.12341
 postcode: "24103"
 city: Kiel
-street: "Sternstraße"
-housenumber: 19
+street: Sternstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 14:00-18:00, Mo,Tu,Th,Fr 09:00-12:00, We 09:00-14:00"
-website: "https://www.leder-flach.de/"
+opening_hours: Mo-Fr 14:00-18:00, Mo,Tu,Th,Fr 09:00-12:00, We 09:00-14:00
+website: https://www.leder-flach.de/

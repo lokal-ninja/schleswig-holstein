@@ -1,11 +1,11 @@
 id: 261836067
-type: way
+type: node
 latitude: 53.73271
 longitude: 9.49684
 postcode: "25377"
 city: Kollmar
-street: "Kleine Kirchreihe"
-housenumber: 4
-phone: "+49 4128 941990"
+street: Kleine Kirchreihe
+housenumber: "4"
+phone: +49 4128 941990
 opening_hours: ""
-website: "https://www.autoscheune-kollmar.de/"
+website: https://www.autoscheune-kollmar.de/

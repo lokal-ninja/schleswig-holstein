@@ -1,11 +1,11 @@
 id: 612406907
-type: way
+type: node
 latitude: 54.10615
 longitude: 10.81166
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Schiffbrücke"
-housenumber: 9
+street: Schiffbrücke
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

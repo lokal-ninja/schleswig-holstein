@@ -4,8 +4,8 @@ latitude: 53.80343
 longitude: 10.38181
 postcode: "23843"
 city: Bad Oldesloe
-street: "Turmstraße"
-housenumber: 49
+street: Turmstraße
+housenumber: "49"
 phone: "+4945318978899"
-opening_hours: "We-Fr 10:00-18:00, Sa 9:00-13:00"
-website: "https://www.ehrenberger.green/"
+opening_hours: We-Fr 10:00-18:00, Sa 9:00-13:00
+website: https://www.ehrenberger.green/

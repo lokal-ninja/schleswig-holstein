@@ -1,11 +1,11 @@
 id: 122991708
-type: way
+type: node
 latitude: 54.53102
 longitude: 9.58476
 postcode: "24837"
 city: Schleswig
-street: "Heinrich-Hertz-Straße"
-housenumber: 2
-phone: "+49 4621 95810"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH off"
-website: "https://www.team.de/bau/standorte/schleswig-holstein/schleswig/standort.html"
+street: Heinrich-Hertz-Straße
+housenumber: "2"
+phone: +49 4621 95810
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH off
+website: https://www.team.de/bau/standorte/schleswig-holstein/schleswig/standort.html

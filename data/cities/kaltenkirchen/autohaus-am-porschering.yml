@@ -1,11 +1,11 @@
 id: 173140806
-type: way
+type: node
 latitude: 53.82933
 longitude: 9.97179
 postcode: "24568"
 city: Kaltenkirchen
-street: "Porschering"
-housenumber: 9
+street: Porschering
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

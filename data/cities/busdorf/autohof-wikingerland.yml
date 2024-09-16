@@ -1,11 +1,11 @@
 id: 355647362
-type: way
+type: node
 latitude: 54.47804
 longitude: 9.54309
 postcode: "24866"
 city: Busdorf
-street: "Wittgenstein"
-housenumber: 2
+street: Wittgenstein
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

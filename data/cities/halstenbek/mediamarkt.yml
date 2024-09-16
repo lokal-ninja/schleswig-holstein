@@ -1,11 +1,11 @@
 id: 25530427
-type: way
+type: node
 latitude: 53.62939
 longitude: 9.86703
 postcode: "25469"
 city: Halstenbek
-street: "Gärtnerstraße"
-housenumber: 169
-phone: "+49 221 22243333"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/halstenbek-498"
+street: Gärtnerstraße
+housenumber: "169"
+phone: +49 221 22243333
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/halstenbek-498

@@ -4,8 +4,8 @@ latitude: 54.57928
 longitude: 9.68959
 postcode: "24893"
 city: Taarstedt
-street: "Hauptstraße"
-housenumber: 42
-phone: "+49 4622 2616"
-opening_hours: "Mo-Fr 07:45-18:00; Sa,Su,PH off"
-website: "https://www.automobile-jochimsen.de/"
+street: Hauptstraße
+housenumber: "42"
+phone: +49 4622 2616
+opening_hours: Mo-Fr 07:45-18:00; Sa,Su,PH off
+website: https://www.automobile-jochimsen.de/

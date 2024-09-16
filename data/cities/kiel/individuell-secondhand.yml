@@ -4,8 +4,8 @@ latitude: 54.3381
 longitude: 10.1313
 postcode: "24118"
 city: Kiel
-street: "Bremerstraße"
-housenumber: 9
+street: Bremerstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00, Sa 11:00-15:00; Mo,Su,PH off"
-website: "https://individuell-look.de/"
+opening_hours: Tu-Fr 11:00-18:00, Sa 11:00-15:00; Mo,Su,PH off
+website: https://individuell-look.de/

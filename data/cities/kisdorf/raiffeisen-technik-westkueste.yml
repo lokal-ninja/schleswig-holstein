@@ -1,11 +1,11 @@
 id: 123913830
-type: way
+type: node
 latitude: 53.80436
 longitude: 10.00668
 postcode: "24629"
 city: Kisdorf
-street: "Raiffeisenstraße"
-housenumber: 1
+street: Raiffeisenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.rt-westkueste.de/standorte/#c7118"
+website: http://www.rt-westkueste.de/standorte/#c7118

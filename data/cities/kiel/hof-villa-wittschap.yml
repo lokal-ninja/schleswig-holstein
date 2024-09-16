@@ -1,11 +1,11 @@
 id: 136306278
-type: way
+type: node
 latitude: 54.30356
 longitude: 10.04705
 postcode: "24111"
 city: Kiel
-street: "Rendsburger Landstraße"
-housenumber: 510
+street: Rendsburger Landstraße
+housenumber: "510"
 phone: ""
-opening_hours: "Fr 15:00-18:00; Sa 10:00-13:00"
+opening_hours: Fr 15:00-18:00; Sa 10:00-13:00
 website: ""

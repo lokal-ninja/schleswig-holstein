@@ -1,11 +1,11 @@
 id: 103194807
-type: way
+type: node
 latitude: 54.31282
 longitude: 10.14196
 postcode: "24143"
 city: Kiel
-street: "Werftstraße"
-housenumber: 197
+street: Werftstraße
+housenumber: "197"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

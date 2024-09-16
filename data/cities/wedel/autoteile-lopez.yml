@@ -1,11 +1,11 @@
 id: 149415467
-type: way
+type: node
 latitude: 53.57678
 longitude: 9.70603
 postcode: "22880"
 city: Wedel
-street: "Bahnhofstraße"
-housenumber: 47
+street: Bahnhofstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.99275
 longitude: 10.82652
 postcode: "23669"
 city: Timmendorfer Strand
-street: "Strandstraße"
-housenumber: 120
+street: Strandstraße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,13:30-18:00; Sa 12:00-18:00"
-website: "https://www.hansemuehle.de/"
+opening_hours: Mo-Fr 09:00-13:00,13:30-18:00; Sa 12:00-18:00
+website: https://www.hansemuehle.de/

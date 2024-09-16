@@ -1,11 +1,11 @@
 id: 112168011
-type: way
+type: node
 latitude: 53.81832
 longitude: 9.73145
 postcode: "25355"
 city: Groß Offenseth-Aspern
-street: "Dorfstraße"
-housenumber: 2
+street: Dorfstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.77793
 longitude: 9.41081
 postcode: "24937"
 city: Flensburg
-street: "Robert-Koch-Straße"
-housenumber: 56
-phone: "+49 461 59410"
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa,Su off"
-website: "https://sanitaetshaus-schiebler.de/"
+street: Robert-Koch-Straße
+housenumber: "56"
+phone: +49 461 59410
+opening_hours: Mo-Fr 09:00-18:00; PH,Sa,Su off
+website: https://sanitaetshaus-schiebler.de/

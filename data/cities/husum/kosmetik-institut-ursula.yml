@@ -4,8 +4,8 @@ latitude: 54.478
 longitude: 9.05067
 postcode: "25813"
 city: Husum
-street: "Alter Brauereiplatz"
-housenumber: 7
-phone: "+49 4841 4433"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off"
-website: "https://www.kosmetik-husum.de/"
+street: Alter Brauereiplatz
+housenumber: "7"
+phone: +49 4841 4433
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su off
+website: https://www.kosmetik-husum.de/

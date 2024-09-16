@@ -4,8 +4,8 @@ latitude: 54.85781
 longitude: 8.30365
 postcode: "25980"
 city: Sylt
-street: "Hafenstraße"
-housenumber: 9
-phone: "+49 178 2743893"
-opening_hours: "PH,Mo-Su 11:00-17:00"
-website: "https://www.kaffeeroesterei-sylt.com/"
+street: Hafenstraße
+housenumber: "9"
+phone: +49 178 2743893
+opening_hours: PH,Mo-Su 11:00-17:00
+website: https://www.kaffeeroesterei-sylt.com/

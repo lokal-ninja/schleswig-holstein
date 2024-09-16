@@ -1,11 +1,11 @@
 id: 124711606
-type: way
+type: node
 latitude: 53.85642
 longitude: 10.66592
 postcode: "23558"
 city: Lübeck
-street: "Hansering"
+street: Hansering
 housenumber: 9-19
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-21:00"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

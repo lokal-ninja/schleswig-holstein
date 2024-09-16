@@ -4,8 +4,8 @@ latitude: 54.19471
 longitude: 9.09544
 postcode: "25746"
 city: Heide
-street: "Friedrichstraße"
-housenumber: 5
+street: Friedrichstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30"
-website: "https://www.arko.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:30
+website: https://www.arko.de/

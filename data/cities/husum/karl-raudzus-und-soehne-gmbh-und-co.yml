@@ -1,11 +1,11 @@
 id: 223456533
-type: way
+type: node
 latitude: 54.48734
 longitude: 9.04609
 postcode: "25813"
 city: Husum
-street: "Bredstedter Straße"
-housenumber: 2
-phone: "+49 4841 89890"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 08:00-16:00;PH off"
-website: "https://www.raudzus.de/"
+street: Bredstedter Straße
+housenumber: "2"
+phone: +49 4841 89890
+opening_hours: Mo-Fr 07:30-18:00, Sa 08:00-16:00;PH off
+website: https://www.raudzus.de/

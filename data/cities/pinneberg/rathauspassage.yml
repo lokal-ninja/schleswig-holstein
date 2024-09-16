@@ -1,11 +1,11 @@
 id: 25408263
-type: way
+type: node
 latitude: 53.66255
 longitude: 9.79667
 postcode: "25421"
 city: Pinneberg
-street: "Friedrich-Ebert-Straße"
-housenumber: 31
-phone: "+49 4101 3788922"
+street: Friedrich-Ebert-Straße
+housenumber: "31"
+phone: +49 4101 3788922
 opening_hours: ""
-website: "https://www.rathauspassage-pinneberg.de/"
+website: https://www.rathauspassage-pinneberg.de/

@@ -1,11 +1,11 @@
 id: 199341029
-type: way
+type: node
 latitude: 54.47713
 longitude: 9.05073
 postcode: "25813"
 city: Husum
-street: "Großstraße"
-housenumber: 25
+street: Großstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

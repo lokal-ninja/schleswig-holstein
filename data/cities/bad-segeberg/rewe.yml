@@ -1,11 +1,11 @@
 id: 33645534
-type: way
+type: node
 latitude: 53.93854
 longitude: 10.30536
 postcode: "23795"
 city: Bad Segeberg
-street: "Kurhausstraße"
-housenumber: 22
+street: Kurhausstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;PH closed"
+opening_hours: Mo-Sa 07:00-22:00;PH closed
 website: ""

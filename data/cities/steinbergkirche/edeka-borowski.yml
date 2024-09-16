@@ -1,11 +1,11 @@
 id: 697526056
-type: way
+type: node
 latitude: 54.75743
 longitude: 9.75637
 postcode: "24972"
 city: Steinbergkirche
-street: "Meiereistraße"
-housenumber: 10
+street: Meiereistraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; So 12:00-18:00"
+opening_hours: Mo-Sa 07:00-20:00; So 12:00-18:00
 website: ""

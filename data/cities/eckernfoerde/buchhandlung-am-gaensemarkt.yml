@@ -4,8 +4,8 @@ latitude: 54.46983
 longitude: 9.83787
 postcode: "24340"
 city: Eckernförde
-street: "Gänsemarkt"
-housenumber: 5
-phone: "+49 4351 3607"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://buchgaensemarkt.buchhandlung.de/shop/"
+street: Gänsemarkt
+housenumber: "5"
+phone: +49 4351 3607
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://buchgaensemarkt.buchhandlung.de/shop/

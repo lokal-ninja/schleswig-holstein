@@ -4,8 +4,8 @@ latitude: 54.834
 longitude: 9.54722
 postcode: "24960"
 city: Glücksburg
-street: "Schlossallee"
-housenumber: 1
-phone: "+49 4631 622657"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:30-12:30; PH,Su off"
-website: "https://www.juwelier-buerkle.de/"
+street: Schlossallee
+housenumber: "1"
+phone: +49 4631 622657
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; Sa 09:30-12:30; PH,Su off
+website: https://www.juwelier-buerkle.de/

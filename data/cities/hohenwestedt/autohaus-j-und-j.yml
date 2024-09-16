@@ -4,8 +4,8 @@ latitude: 54.08415
 longitude: 9.66321
 postcode: "24594"
 city: Hohenwestedt
-street: "Parkstraße"
-housenumber: 35
+street: Parkstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://www.autohaus-jj.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://www.autohaus-jj.de/

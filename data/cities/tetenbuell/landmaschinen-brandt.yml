@@ -1,11 +1,11 @@
 id: 154472708
-type: way
+type: node
 latitude: 54.40308
 longitude: 8.81143
 postcode: "25882"
 city: Tetenbüll
-street: "Norderheverkoogstraße"
-housenumber: 30
+street: Norderheverkoogstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

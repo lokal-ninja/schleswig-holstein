@@ -1,11 +1,11 @@
 id: 242514500
-type: way
+type: node
 latitude: 53.80642
 longitude: 9.62296
 postcode: "25358"
 city: Horst
-street: "Horster Viereck"
-housenumber: 4
+street: Horster Viereck
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.baeckerei-balzer.de/"
+website: https://www.baeckerei-balzer.de/

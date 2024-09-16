@@ -1,11 +1,11 @@
 id: 173167787
-type: way
+type: node
 latitude: 54.23905
 longitude: 10.06414
 postcode: "24220"
 city: Flintbek
-street: "Rosenberg"
-housenumber: 10
+street: Rosenberg
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

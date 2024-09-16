@@ -1,11 +1,11 @@
 id: 250233655
-type: way
+type: node
 latitude: 53.81941
 longitude: 9.97972
 postcode: "24568"
 city: Kaltenkirchen
-street: "Carl-Zeiss-Straße"
-housenumber: 7
+street: Carl-Zeiss-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:30-13:00; PH off"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:30-13:00; PH off
 website: ""

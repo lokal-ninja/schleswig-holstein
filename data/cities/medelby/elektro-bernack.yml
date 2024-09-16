@@ -4,8 +4,8 @@ latitude: 54.81108
 longitude: 9.17874
 postcode: "24994"
 city: Medelby
-street: "Hauptstraße"
-housenumber: 58
-phone: "+49 4605 407"
-opening_hours: "Mo-Fr 09:00-12:00; Sa,Su,PH off"
-website: "https://www.elektro-bernack-medelby.de/"
+street: Hauptstraße
+housenumber: "58"
+phone: +49 4605 407
+opening_hours: Mo-Fr 09:00-12:00; Sa,Su,PH off
+website: https://www.elektro-bernack-medelby.de/

@@ -1,11 +1,11 @@
 id: 142379211
-type: way
+type: node
 latitude: 54.13844
 longitude: 8.8728
 postcode: "25761"
 city: Büsum
-street: "Heider Straße"
+street: Heider Straße
 housenumber: 2a
-phone: "+49 4834 936200"
-opening_hours: "Mo-Sa 06:30-20:00; PH closed; Dec 17-Jan 08,Mar 15-Oct 31 Su,PH 11:30-17:30"
-website: "https://www.edeka-jensen.de/b%C3%BCsum-heider-str"
+phone: +49 4834 936200
+opening_hours: Mo-Sa 06:30-20:00; PH closed; Dec 17-Jan 08,Mar 15-Oct 31 Su,PH 11:30-17:30
+website: https://www.edeka-jensen.de/b%C3%BCsum-heider-str

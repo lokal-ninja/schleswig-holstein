@@ -1,11 +1,11 @@
 id: 419634989
-type: way
+type: node
 latitude: 54.40624
 longitude: 10.12339
 postcode: "24161"
 city: Altenholz
-street: "Klausdorfer Straße"
-housenumber: 121
+street: Klausdorfer Straße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 54.7766
 longitude: 9.23557
 postcode: "24980"
 city: Wallsbüll
-street: "Hauptstraße"
-housenumber: 27
+street: Hauptstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo off; Tu-Th 06:30-12:00,15:00-17:30; Fr 06:30-12:00; Sa 07:30-12:00; Su 07:30-11:00"
+opening_hours: Mo off; Tu-Th 06:30-12:00,15:00-17:30; Fr 06:30-12:00; Sa 07:30-12:00;
+    Su 07:30-11:00
 website: ""

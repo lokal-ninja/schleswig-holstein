@@ -4,8 +4,8 @@ latitude: 54.31596
 longitude: 10.12385
 postcode: "24114"
 city: Kiel
-street: "Papenkamp"
-housenumber: 14
-phone: "+49 431 6610676"
-opening_hours: "nach Vereinbarung"
-website: "https://kurda.de/"
+street: Papenkamp
+housenumber: "14"
+phone: +49 431 6610676
+opening_hours: '"nach Vereinbarung"'
+website: https://kurda.de/

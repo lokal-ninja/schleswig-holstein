@@ -1,11 +1,11 @@
 id: 110119533
-type: way
+type: node
 latitude: 54.38054
 longitude: 10.21166
 postcode: "24226"
 city: Heikendorf
-street: "Korügen"
-housenumber: 7
+street: Korügen
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

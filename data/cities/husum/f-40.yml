@@ -1,11 +1,11 @@
 id: 257815467
-type: way
+type: node
 latitude: 54.47546
 longitude: 9.04884
 postcode: "25813"
 city: Husum
-street: "Hafenstraße"
-housenumber: 25
-phone: "+49 4841 6639700"
+street: Hafenstraße
+housenumber: "25"
+phone: +49 4841 6639700
 opening_hours: ""
 website: ""

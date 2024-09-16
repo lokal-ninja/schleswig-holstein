@@ -1,11 +1,11 @@
 id: 193492530
-type: way
+type: node
 latitude: 54.0895
 longitude: 9.07289
 postcode: "25704"
 city: Meldorf
-street: "Roggenstraße"
-housenumber: 10
+street: Roggenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 08:30-18:00; Sa 09:00-13:00;PH off"
-website: "https://www.warns-meldorf.de/"
+opening_hours: Mo-Th 09:00-18:00; Fr 08:30-18:00; Sa 09:00-13:00;PH off
+website: https://www.warns-meldorf.de/

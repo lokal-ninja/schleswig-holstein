@@ -1,11 +1,11 @@
 id: 147691686
-type: way
+type: node
 latitude: 53.94886
 longitude: 10.30433
 postcode: "23795"
 city: Bad Segeberg
-street: "Dorfstraße"
-housenumber: 24
+street: Dorfstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00
 website: ""

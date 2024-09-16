@@ -1,11 +1,11 @@
 id: 405473378
-type: way
+type: node
 latitude: 54.41577
 longitude: 9.97595
 postcode: "24214"
 city: Gettorf
-street: "Ravensberg"
-housenumber: 21
+street: Ravensberg
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

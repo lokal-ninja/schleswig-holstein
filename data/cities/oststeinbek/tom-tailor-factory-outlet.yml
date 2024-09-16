@@ -1,11 +1,11 @@
 id: 24853987
-type: way
+type: node
 latitude: 53.54936
 longitude: 10.1529
 postcode: "22113"
 city: Oststeinbek
-street: "Im Hegen"
-housenumber: 1
-phone: "+49 40 8197570"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://www.tom-tailor.de/"
+street: Im Hegen
+housenumber: "1"
+phone: +49 40 8197570
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://www.tom-tailor.de/

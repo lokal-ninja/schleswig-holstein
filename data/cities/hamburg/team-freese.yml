@@ -4,8 +4,8 @@ latitude: 53.62996
 longitude: 9.89314
 postcode: "22457"
 city: Hamburg
-street: "Kalvslohtwiete"
-housenumber: 2
-phone: "+49 40 70703041"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-12:00"
-website: "http://www.team-freese.de/"
+street: Kalvslohtwiete
+housenumber: "2"
+phone: +49 40 70703041
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:30-12:00
+website: http://www.team-freese.de/

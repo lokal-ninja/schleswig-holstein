@@ -1,11 +1,11 @@
 id: 285467441
-type: way
+type: node
 latitude: 54.37333
 longitude: 10.97828
 postcode: "23774"
 city: Heiligenhafen
-street: "Am Strande"
+street: Am Strande
 housenumber: 7b
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;PH closed;Mar 15-Oct 31: Su,PH 11:00-17:00"
+opening_hours: 'Mo-Sa 07:00-22:00;PH closed;Mar 15-Oct 31: Su,PH 11:00-17:00'
 website: ""

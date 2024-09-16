@@ -1,11 +1,11 @@
 id: 122858310
-type: way
+type: node
 latitude: 54.37954
 longitude: 9.0742
 postcode: "25840"
 city: Friedrichstadt
-street: "Witzworter Straße"
-housenumber: 1
-phone: "+49 4881 9060"
+street: Witzworter Straße
+housenumber: "1"
+phone: +49 4881 9060
 opening_hours: ""
-website: "https://www.pjclaussen.de/"
+website: https://www.pjclaussen.de/

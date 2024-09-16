@@ -4,8 +4,8 @@ latitude: 54.09054
 longitude: 9.65176
 postcode: "24594"
 city: Hohenwestedt
-street: "Lindenstraße"
-housenumber: 17
-phone: "+49 4871 490005"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-18:00; Sa 08:30-12:00"
-website: "https://www.arko.de"
+street: Lindenstraße
+housenumber: "17"
+phone: +49 4871 490005
+opening_hours: Mo-Fr 09:30-12:00,14:00-18:00; Sa 08:30-12:00
+website: https://www.arko.de

@@ -4,8 +4,8 @@ latitude: 53.80358
 longitude: 10.22577
 postcode: "23867"
 city: Sülfeld
-street: "Neuer Weg"
-housenumber: 14
-phone: "+49 4537 701470"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/nord/edeka-wittorf-neuer-weg-14/index.jsp"
+street: Neuer Weg
+housenumber: "14"
+phone: +49 4537 701470
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/nord/edeka-wittorf-neuer-weg-14/index.jsp

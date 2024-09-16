@@ -1,11 +1,11 @@
 id: 207855014
-type: way
+type: node
 latitude: 53.4848
 longitude: 10.61652
 postcode: "21514"
 city: Büchen
-street: "Möllner Straße"
+street: Möllner Straße
 housenumber: 22a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/buechen/moellner-strasse-22-a.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/buechen/moellner-strasse-22-a.html

@@ -4,8 +4,8 @@ latitude: 54.07607
 longitude: 9.98156
 postcode: "24534"
 city: Neumünster
-street: "Kuhberg"
-housenumber: 9
+street: Kuhberg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "http://www.buchclement.de"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: http://www.buchclement.de

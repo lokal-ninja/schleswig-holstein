@@ -1,11 +1,11 @@
 id: 203416988
-type: way
+type: node
 latitude: 54.32192
 longitude: 9.69846
 postcode: "24782"
 city: Büdelsdorf
-street: "An den Reesenbetten"
-housenumber: 1
+street: An den Reesenbetten
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
 website: ""

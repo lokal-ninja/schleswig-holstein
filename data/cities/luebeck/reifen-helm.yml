@@ -1,11 +1,11 @@
 id: 142456210
-type: way
+type: node
 latitude: 53.84198
 longitude: 10.70756
 postcode: "23562"
 city: Lübeck
-street: "Ratzeburger Allee"
+street: Ratzeburger Allee
 housenumber: 108a
-phone: "+49 451 791071"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.reifenhelm.de/"
+phone: +49 451 791071
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.reifenhelm.de/

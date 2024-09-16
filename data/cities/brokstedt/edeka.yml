@@ -1,11 +1,11 @@
 id: 307695677
-type: way
+type: node
 latitude: 53.99025
 longitude: 9.82103
 postcode: "24616"
 city: Brokstedt
-street: "Dörnbek"
-housenumber: 5
+street: Dörnbek
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-16:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 682566031
-type: way
+type: node
 latitude: 53.64799
 longitude: 9.77119
 postcode: "25421"
 city: Pinneberg
-street: "Westring"
-housenumber: 10
+street: Westring
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.39543
 longitude: 10.17572
 postcode: "24159"
 city: Kiel
-street: "Brauner Berg"
-housenumber: 4
-phone: "+49 431 397753"
-opening_hours: "Mo-Fr 13:00-18:00"
-website: "https://www.huepferli-segel.de/"
+street: Brauner Berg
+housenumber: "4"
+phone: +49 431 397753
+opening_hours: Mo-Fr 13:00-18:00
+website: https://www.huepferli-segel.de/

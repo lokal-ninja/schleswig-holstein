@@ -1,11 +1,11 @@
 id: 129848688
-type: way
+type: node
 latitude: 54.47568
 longitude: 9.04159
 postcode: "25813"
 city: Husum
-street: "Ladestraße"
-housenumber: 3
+street: Ladestraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

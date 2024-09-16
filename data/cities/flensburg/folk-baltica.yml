@@ -4,8 +4,8 @@ latitude: 54.79281
 longitude: 9.43116
 postcode: "24939"
 city: Flensburg
-street: "Norderstraße"
-housenumber: 89
-phone: "+49 461 18293616"
-opening_hours: "Mo 09:00-13:00; We 12:00-15:00; Tu,Th-Su,PH off"
-website: "https://www.folkbaltica.de/"
+street: Norderstraße
+housenumber: "89"
+phone: +49 461 18293616
+opening_hours: Mo 09:00-13:00; We 12:00-15:00; Tu,Th-Su,PH off
+website: https://www.folkbaltica.de/

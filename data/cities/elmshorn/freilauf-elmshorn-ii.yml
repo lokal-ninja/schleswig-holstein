@@ -4,8 +4,8 @@ latitude: 53.75648
 longitude: 9.65955
 postcode: "25335"
 city: Elmshorn
-street: "Bauerweg"
-housenumber: 3
+street: Bauerweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30, Mo,Tu,Th,Fr 14:00-16:00"
+opening_hours: Mo-Fr 10:00-12:30, Mo,Tu,Th,Fr 14:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 144904873
-type: way
+type: node
 latitude: 54.7976
 longitude: 9.48667
 postcode: "24943"
 city: Flensburg
-street: "Kauslundlücke"
-housenumber: 43
-phone: "+49 461 4307957"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.mbk-bustouristik.de/"
+street: Kauslundlücke
+housenumber: "43"
+phone: +49 461 4307957
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.mbk-bustouristik.de/

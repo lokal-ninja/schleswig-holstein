@@ -4,8 +4,8 @@ latitude: 54.90779
 longitude: 8.30511
 postcode: "25980"
 city: Sylt
-street: "Friedrichstraße"
-housenumber: 12
+street: Friedrichstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00; Sa 11:00-15:00; Su off"
-website: "https://www.wellensteyn.com"
+opening_hours: Mo-Fr 11:00-17:00; Sa 11:00-15:00; Su off
+website: https://www.wellensteyn.com

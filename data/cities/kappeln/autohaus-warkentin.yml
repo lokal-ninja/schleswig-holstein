@@ -1,11 +1,11 @@
 id: 255188896
-type: way
+type: node
 latitude: 54.66122
 longitude: 9.94319
 postcode: "24376"
 city: Kappeln
-street: "Ellenberger Straße"
-housenumber: 10
-phone: "+49 4642 98490"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-12:30; Su,PH off"
-website: "https://www.toyota-kappeln.de/"
+street: Ellenberger Straße
+housenumber: "10"
+phone: +49 4642 98490
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 09:00-12:30; Su,PH off
+website: https://www.toyota-kappeln.de/

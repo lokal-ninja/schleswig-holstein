@@ -4,8 +4,8 @@ latitude: 54.77288
 longitude: 9.43475
 postcode: "24941"
 city: Flensburg
-street: "Schleswiger Straße"
-housenumber: 48
-phone: "+49 461 9402875"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-15:00; Su,PH off"
-website: "https://www.pferdesport-flensburg.de/"
+street: Schleswiger Straße
+housenumber: "48"
+phone: +49 461 9402875
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-15:00; Su,PH off
+website: https://www.pferdesport-flensburg.de/

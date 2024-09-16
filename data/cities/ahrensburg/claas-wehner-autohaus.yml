@@ -1,11 +1,11 @@
 id: 48121320
-type: way
+type: node
 latitude: 53.68521
 longitude: 10.26186
 postcode: "22926"
 city: Ahrensburg
-street: "Kurt-Fischer-Straße"
-housenumber: 26
+street: Kurt-Fischer-Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-wehner.de/"
+website: https://www.autohaus-wehner.de/

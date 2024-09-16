@@ -4,8 +4,8 @@ latitude: 54.89615
 longitude: 8.36372
 postcode: "25980"
 city: Sylt
-street: "Gurtstig"
-housenumber: 2
+street: Gurtstig
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00; Su off"
-website: "https://www.johannesking.de/"
+opening_hours: Mo-Sa 11:00-20:00; Su off
+website: https://www.johannesking.de/

@@ -1,11 +1,11 @@
 id: 182585479
-type: way
+type: node
 latitude: 54.04336
 longitude: 9.97908
 postcode: "24539"
 city: Neumünster
-street: "Oderstraße"
-housenumber: 10
-phone: "+49 4321 6950100"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ralphlauren.de/de/locations/DE/Neum%C3%BCnster/3525"
+street: Oderstraße
+housenumber: "10"
+phone: +49 4321 6950100
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ralphlauren.de/de/locations/DE/Neum%C3%BCnster/3525

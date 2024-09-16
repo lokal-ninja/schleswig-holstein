@@ -4,8 +4,8 @@ latitude: 54.69648
 longitude: 8.55558
 postcode: "25938"
 city: Wyk auf Föhr
-street: "Holm"
-housenumber: 12
-phone: "+49 4681 5562"
-opening_hours: "Mo-Fr 11:00-13:30"
-website: "https://www.buth-foehr.de"
+street: Holm
+housenumber: "12"
+phone: +49 4681 5562
+opening_hours: Mo-Fr 11:00-13:30
+website: https://www.buth-foehr.de

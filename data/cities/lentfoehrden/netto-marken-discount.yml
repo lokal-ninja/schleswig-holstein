@@ -1,11 +1,11 @@
 id: 1026801939
-type: way
+type: node
 latitude: 53.87919
 longitude: 9.88697
 postcode: "24632"
 city: Lentföhrden
-street: "Schmalfelder Straße"
-housenumber: 62
+street: Schmalfelder Straße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

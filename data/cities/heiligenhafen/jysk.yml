@@ -1,11 +1,11 @@
 id: 285277678
-type: way
+type: node
 latitude: 54.36691
 longitude: 11.00545
 postcode: "23774"
 city: Heiligenhafen
-street: "Tollbrettkoppel"
-housenumber: 12
+street: Tollbrettkoppel
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-16:00
 website: ""

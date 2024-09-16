@@ -1,11 +1,11 @@
 id: 179262990
-type: way
+type: node
 latitude: 53.92464
 longitude: 9.37959
 postcode: "25554"
 city: Wilster
-street: "Klosterhof"
-housenumber: 27
+street: Klosterhof
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

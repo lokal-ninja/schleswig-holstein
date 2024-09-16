@@ -1,11 +1,11 @@
 id: 333136861
-type: way
+type: node
 latitude: 54.33846
 longitude: 10.13316
 postcode: "24118"
 city: Kiel
-street: "Knooper Weg"
-housenumber: 191
+street: Knooper Weg
+housenumber: "191"
 phone: ""
-opening_hours: "Tu-Th 09:00-18:30; Sa 09:00-16:00; PH,Mo off; Fr 09:00-13:00,15:00-19:00"
+opening_hours: Tu-Th 09:00-18:30; Sa 09:00-16:00; PH,Mo off; Fr 09:00-13:00,15:00-19:00
 website: ""

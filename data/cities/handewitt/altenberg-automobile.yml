@@ -1,11 +1,11 @@
 id: 335706868
-type: way
+type: node
 latitude: 54.77305
 longitude: 9.32517
 postcode: "24983"
 city: Handewitt
-street: "Am Bahnhof"
-housenumber: 8
+street: Am Bahnhof
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

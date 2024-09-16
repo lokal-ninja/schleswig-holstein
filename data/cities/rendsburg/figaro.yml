@@ -4,8 +4,8 @@ latitude: 54.30433
 longitude: 9.66621
 postcode: "24768"
 city: Rendsburg
-street: "Nienstadtstraße"
-housenumber: 17
-phone: "+49 4331 129830"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00; Su,Mo off"
-website: "https://www.salon-figaro-rendsburg.de/"
+street: Nienstadtstraße
+housenumber: "17"
+phone: +49 4331 129830
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-14:00; Su,Mo off
+website: https://www.salon-figaro-rendsburg.de/

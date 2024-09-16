@@ -1,11 +1,11 @@
 id: 608545148
-type: way
+type: node
 latitude: 54.5328
 longitude: 9.57512
 postcode: "24837"
 city: Schleswig
-street: "Sankt-Jürgener-Straße"
-housenumber: 56
-phone: "+49 4621 306094-0"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa,Su,PH off"
+street: Sankt-Jürgener-Straße
+housenumber: "56"
+phone: +49 4621 306094-0
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00; Sa,Su,PH off
 website: ""

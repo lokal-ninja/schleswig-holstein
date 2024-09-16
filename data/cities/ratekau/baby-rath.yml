@@ -1,11 +1,11 @@
 id: 242499579
-type: way
+type: node
 latitude: 53.98274
 longitude: 10.71332
 postcode: "23689"
 city: Ratekau
-street: "Eutiner Straße"
-housenumber: 34
+street: Eutiner Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

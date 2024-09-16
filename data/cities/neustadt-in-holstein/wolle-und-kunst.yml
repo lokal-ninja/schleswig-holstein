@@ -1,11 +1,11 @@
 id: 592449111
-type: way
+type: node
 latitude: 54.10709
 longitude: 10.81486
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Waschgrabenstraße"
-housenumber: 1
+street: Waschgrabenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

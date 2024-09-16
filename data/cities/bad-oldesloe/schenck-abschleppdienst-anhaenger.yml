@@ -1,11 +1,11 @@
 id: 256208682
-type: way
+type: node
 latitude: 53.80729
 longitude: 10.38771
 postcode: "23843"
 city: Bad Oldesloe
-street: "Ratzeburger Straße"
-housenumber: 14
+street: Ratzeburger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

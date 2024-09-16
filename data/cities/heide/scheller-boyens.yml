@@ -4,8 +4,8 @@ latitude: 54.19448
 longitude: 9.09517
 postcode: "25746"
 city: Heide
-street: "Friedrichstraße"
-housenumber: 4
+street: Friedrichstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://scheller-buch.buchhandlung.de/"
+website: https://scheller-buch.buchhandlung.de/

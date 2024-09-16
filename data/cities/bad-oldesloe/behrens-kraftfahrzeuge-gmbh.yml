@@ -1,11 +1,11 @@
 id: 29351351
-type: way
+type: node
 latitude: 53.7983
 longitude: 10.4061
 postcode: "23843"
 city: Bad Oldesloe
-street: "Lily-Braun-Straße"
-housenumber: 13
+street: Lily-Braun-Straße
+housenumber: "13"
 phone: "+49453117410"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-14:00"
-website: "https://autohaus.toyota.de/behrens/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-14:00
+website: https://autohaus.toyota.de/behrens/

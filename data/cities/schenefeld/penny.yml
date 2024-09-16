@@ -1,11 +1,11 @@
 id: 22788358
-type: way
+type: node
 latitude: 53.60876
 longitude: 9.844
 postcode: "22869"
 city: Schenefeld
-street: "Friedrich-Ebert-Allee"
-housenumber: 29
+street: Friedrich-Ebert-Allee
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

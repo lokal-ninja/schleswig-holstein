@@ -1,11 +1,11 @@
 id: 26308224
-type: way
+type: node
 latitude: 53.54566
 longitude: 10.15347
 postcode: "22113"
 city: Oststeinbek
-street: "Willinghusener Weg"
-housenumber: 1
-phone: "+49 40 71146121"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.ostkreuz-center.de/"
+street: Willinghusener Weg
+housenumber: "1"
+phone: +49 40 71146121
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.ostkreuz-center.de/

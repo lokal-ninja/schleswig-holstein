@@ -1,11 +1,11 @@
 id: 185215491
-type: way
+type: node
 latitude: 54.70876
 longitude: 8.53321
 postcode: "25938"
 city: Oevenum
-street: "Wohlackerum"
-housenumber: 1
+street: Wohlackerum
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00"
+opening_hours: Mo-Fr 07:30-18:00
 website: ""

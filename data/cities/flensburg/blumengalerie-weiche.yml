@@ -4,8 +4,8 @@ latitude: 54.75714
 longitude: 9.40089
 postcode: "24941"
 city: Flensburg
-street: "Ochsenweg"
-housenumber: 28
-phone: "+49 461 91020"
-opening_hours: "Mo-Th 09:00-13:00,14:30-18:00; Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-12:00"
+street: Ochsenweg
+housenumber: "28"
+phone: +49 461 91020
+opening_hours: Mo-Th 09:00-13:00,14:30-18:00; Fr 09:00-18:00; Sa 09:00-13:00; Su 10:00-12:00
 website: ""

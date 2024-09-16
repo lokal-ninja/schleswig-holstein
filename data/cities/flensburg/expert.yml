@@ -4,8 +4,8 @@ latitude: 54.75991
 longitude: 9.43224
 postcode: "24941"
 city: Flensburg
-street: "Schleswiger Straße"
-housenumber: 130
-phone: "+49 461 90440"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.expert.de/"
+street: Schleswiger Straße
+housenumber: "130"
+phone: +49 461 90440
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.expert.de/

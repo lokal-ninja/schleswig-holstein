@@ -1,11 +1,11 @@
 id: 167039516
-type: way
+type: node
 latitude: 54.1944
 longitude: 9.09577
 postcode: "25746"
 city: Heide
-street: "Friedrichstraße"
+street: Friedrichstraße
 housenumber: 8-12
-phone: "+49 481 683770"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00;PH off"
-website: "https://www.kaufhaus-stolz.com/"
+phone: +49 481 683770
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00;PH off
+website: https://www.kaufhaus-stolz.com/

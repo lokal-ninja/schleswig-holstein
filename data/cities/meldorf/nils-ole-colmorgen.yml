@@ -1,11 +1,11 @@
 id: 193492639
-type: way
+type: node
 latitude: 54.08937
 longitude: 9.07633
 postcode: "25704"
 city: Meldorf
-street: "Zingelstraße"
-housenumber: 20
-phone: "+49 4832 1488"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00;PH off"
-website: "https://www.fleischerei-colmorgen.de/"
+street: Zingelstraße
+housenumber: "20"
+phone: +49 4832 1488
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00;PH off
+website: https://www.fleischerei-colmorgen.de/

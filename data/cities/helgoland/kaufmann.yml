@@ -1,11 +1,11 @@
 id: 255098636
-type: way
+type: node
 latitude: 54.1814
 longitude: 7.8882
 postcode: "27498"
 city: Helgoland
-street: "J.-A.-Siemens-Terrasse"
-housenumber: 162
+street: J.-A.-Siemens-Terrasse
+housenumber: "162"
 phone: ""
-opening_hours: "PH,Su 11:00-16:00; Mo-Fr 10:00-16:00; Sa 10:00-17:00"
+opening_hours: PH,Su 11:00-16:00; Mo-Fr 10:00-16:00; Sa 10:00-17:00
 website: ""

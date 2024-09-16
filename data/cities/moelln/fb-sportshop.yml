@@ -4,8 +4,8 @@ latitude: 53.62799
 longitude: 10.68948
 postcode: "23879"
 city: Mölln
-street: "Wallstraße"
-housenumber: 6
-phone: "+49 4542 9878875"
-opening_hours: "Tu-Th 09:00-18:00; Sa 10:00-13:00; PH,Su,Mo off; Fr 09:00-17:00"
-website: "https://www.fb-sportshop.de/"
+street: Wallstraße
+housenumber: "6"
+phone: +49 4542 9878875
+opening_hours: Tu-Th 09:00-18:00; Sa 10:00-13:00; PH,Su,Mo off; Fr 09:00-17:00
+website: https://www.fb-sportshop.de/

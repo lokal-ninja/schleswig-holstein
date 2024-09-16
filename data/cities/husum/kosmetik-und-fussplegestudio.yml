@@ -1,11 +1,11 @@
 id: 311365232
-type: way
+type: node
 latitude: 54.47809
 longitude: 9.05564
 postcode: "25813"
 city: Husum
-street: "Norderstraße"
-housenumber: 38
+street: Norderstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

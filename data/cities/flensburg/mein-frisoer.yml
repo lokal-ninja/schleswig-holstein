@@ -4,8 +4,8 @@ latitude: 54.78143
 longitude: 9.42919
 postcode: "24937"
 city: Flensburg
-street: "Schützenkuhle"
-housenumber: 33
-phone: "+49 461 54555"
-opening_hours: "Mo-Th 08:30-18:00; Fr 08:00-18:30; Sa 08:00-13:30; Su,PH off"
-website: "https://www.mein-frisoer.com/"
+street: Schützenkuhle
+housenumber: "33"
+phone: +49 461 54555
+opening_hours: Mo-Th 08:30-18:00; Fr 08:00-18:30; Sa 08:00-13:30; Su,PH off
+website: https://www.mein-frisoer.com/

@@ -1,11 +1,11 @@
 id: 560334056
-type: way
+type: node
 latitude: 53.931
 longitude: 9.75039
 postcode: "25563"
 city: Wrist
-street: "Hauptstraße"
-housenumber: 15
-phone: "+49 4822 6777"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.breide.de/"
+street: Hauptstraße
+housenumber: "15"
+phone: +49 4822 6777
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00; Su,PH off
+website: https://www.breide.de/

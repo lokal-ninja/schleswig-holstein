@@ -1,11 +1,11 @@
 id: 195771288
-type: way
+type: node
 latitude: 54.06729
 longitude: 9.17875
 postcode: "25727"
 city: Krumstedt
-street: "Hauptstraße"
-housenumber: 36
+street: Hauptstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

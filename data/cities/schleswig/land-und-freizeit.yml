@@ -1,11 +1,11 @@
 id: 88002865
-type: way
+type: node
 latitude: 54.4991
 longitude: 9.55268
 postcode: "24837"
 city: Schleswig
-street: "Busdorfer Straße"
-housenumber: 23
-phone: "+49 4621 30 14 123"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH Off"
-website: "https://www.landundfreizeit.de/standorte/schleswig/"
+street: Busdorfer Straße
+housenumber: "23"
+phone: +49 4621 30 14 123
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH Off
+website: https://www.landundfreizeit.de/standorte/schleswig/

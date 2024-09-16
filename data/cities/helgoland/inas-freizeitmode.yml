@@ -1,11 +1,11 @@
 id: 116947734
-type: way
+type: node
 latitude: 54.18177
 longitude: 7.88956
 postcode: "27498"
 city: Helgoland
-street: "Lung Wai"
-housenumber: 54
+street: Lung Wai
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00; PH,Su 11:00-16:00"
+opening_hours: Mo-Sa 10:00-17:00; PH,Su 11:00-16:00
 website: ""

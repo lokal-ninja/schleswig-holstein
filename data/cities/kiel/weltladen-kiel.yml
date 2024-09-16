@@ -4,8 +4,8 @@ latitude: 54.32672
 longitude: 10.12819
 postcode: "24103"
 city: Kiel
-street: "Wilhelminenstraße"
-housenumber: 51
-phone: "+49 431 90889938"
-opening_hours: "Mo-Fr 11:00-18:30; Sa 10:00-14:00"
-website: "https://weltlaeden.de/kiel/"
+street: Wilhelminenstraße
+housenumber: "51"
+phone: +49 431 90889938
+opening_hours: Mo-Fr 11:00-18:30; Sa 10:00-14:00
+website: https://weltlaeden.de/kiel/

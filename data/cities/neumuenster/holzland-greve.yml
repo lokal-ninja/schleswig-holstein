@@ -1,11 +1,11 @@
 id: 126565032
-type: way
+type: node
 latitude: 54.06937
 longitude: 9.93617
 postcode: "24537"
 city: Neumünster
-street: "Freesenburg"
-housenumber: 1
+street: Freesenburg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

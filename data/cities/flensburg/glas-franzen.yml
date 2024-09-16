@@ -1,11 +1,11 @@
 id: 177984305
-type: way
+type: node
 latitude: 54.80137
 longitude: 9.48664
 postcode: "24943"
 city: Flensburg
-street: "Kauslundhof"
-housenumber: 10
-phone: "+49 461 61863"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-15:00; Sa,Su,PH off"
-website: "http://www.glas-franzen.de/"
+street: Kauslundhof
+housenumber: "10"
+phone: +49 461 61863
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-15:00; Sa,Su,PH off
+website: http://www.glas-franzen.de/

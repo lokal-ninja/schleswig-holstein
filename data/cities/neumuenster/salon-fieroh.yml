@@ -1,11 +1,11 @@
 id: 607663625
-type: way
+type: node
 latitude: 54.05562
 longitude: 10.01859
 postcode: "24539"
 city: Neumünster
-street: "Segeberger Straße"
-housenumber: 31
+street: Segeberger Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

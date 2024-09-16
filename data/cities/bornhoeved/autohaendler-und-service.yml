@@ -1,11 +1,11 @@
 id: 203380615
-type: way
+type: node
 latitude: 54.05459
 longitude: 10.23066
 postcode: "24619"
 city: Bornhöved
-street: "Segeberger Landstraße"
-housenumber: 65
+street: Segeberger Landstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:15"
-website: "https://honda-eisenacher.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:15
+website: https://honda-eisenacher.de/

@@ -1,11 +1,11 @@
 id: 198435505
-type: way
+type: node
 latitude: 54.08991
 longitude: 9.07263
 postcode: "25704"
 city: Meldorf
-street: "Spreetstraße"
+street: Spreetstraße
 housenumber: 2a
-phone: "+49 4832 6029385"
-opening_hours: "Mo 9:00-18:00; We,Fr 18:00- 21:00;PH closed"
-website: "https://www.families-cut.de/old-school-barbierellas/"
+phone: +49 4832 6029385
+opening_hours: Mo 9:00-18:00; We,Fr 18:00- 21:00;PH closed
+website: https://www.families-cut.de/old-school-barbierellas/

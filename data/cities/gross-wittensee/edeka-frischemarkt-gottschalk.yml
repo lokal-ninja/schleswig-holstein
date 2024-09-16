@@ -1,11 +1,11 @@
 id: 200371142
-type: way
+type: node
 latitude: 54.40534
 longitude: 9.76928
 postcode: "24361"
 city: Groß Wittensee
-street: "Dorfstraße"
-housenumber: 34
+street: Dorfstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/NORD/EH/frischemarkt_Gottschalk_GrossWittensee_188360/Homepage.html"
+website: https://www.edeka.de/NORD/EH/frischemarkt_Gottschalk_GrossWittensee_188360/Homepage.html

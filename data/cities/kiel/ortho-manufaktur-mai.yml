@@ -4,8 +4,8 @@ latitude: 54.35141
 longitude: 10.12299
 postcode: "24106"
 city: Kiel
-street: "Projensdorfer Straße"
-housenumber: 97
-phone: "+49 431 5444210"
-opening_hours: "Mo-Fr 08:00-13:00, 14:00-17:00"
-website: "https://www.kowsky.com/filiale-kiel/"
+street: Projensdorfer Straße
+housenumber: "97"
+phone: +49 431 5444210
+opening_hours: Mo-Fr 08:00-13:00, 14:00-17:00
+website: https://www.kowsky.com/filiale-kiel/

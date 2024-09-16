@@ -4,8 +4,8 @@ latitude: 53.85745
 longitude: 10.63612
 postcode: "23556"
 city: Lübeck
-street: "Schwertfegerstraße"
-housenumber: 5
+street: Schwertfegerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

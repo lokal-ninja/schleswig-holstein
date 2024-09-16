@@ -4,8 +4,8 @@ latitude: 54.49961
 longitude: 9.55585
 postcode: "24866"
 city: Busdorf
-street: "Riesberg"
-housenumber: 1
-phone: "+49 4621 32516"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Riesberg
+housenumber: "1"
+phone: +49 4621 32516
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

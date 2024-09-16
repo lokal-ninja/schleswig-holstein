@@ -1,11 +1,11 @@
 id: 51864462
-type: way
+type: node
 latitude: 54.79599
 longitude: 9.4777
 postcode: "24943"
 city: Flensburg
-street: "Merkurstraße"
-housenumber: 24
+street: Merkurstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

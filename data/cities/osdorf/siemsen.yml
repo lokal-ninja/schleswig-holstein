@@ -1,11 +1,12 @@
 id: 309982748
-type: way
+type: node
 latitude: 54.4277
 longitude: 10.01546
 postcode: "24251"
 city: Osdorf
-street: "Hauptstraße"
-housenumber: 2
+street: Hauptstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo,Tu,Th 06:30-18:30; We 06:30-13:30; Fr 06:00-18:00; Sa 06:00-13:00; Su,PH off"
-website: "https://www.siemsen-osdorf.de/"
+opening_hours: Mo,Tu,Th 06:30-18:30; We 06:30-13:30; Fr 06:00-18:00; Sa 06:00-13:00;
+    Su,PH off
+website: https://www.siemsen-osdorf.de/

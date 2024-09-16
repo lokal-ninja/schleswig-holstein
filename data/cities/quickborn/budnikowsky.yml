@@ -4,8 +4,8 @@ latitude: 53.73133
 longitude: 9.90396
 postcode: "25451"
 city: Quickborn
-street: "Bahnhofstraße"
-housenumber: 104
-phone: "+49 40 80603030"
-opening_hours: "Mo-Sa 08:30-19:00; PH 08:30-14:00"
-website: "https://www.budni.de/filialen/25451-bahnhofstrasse-104?"
+street: Bahnhofstraße
+housenumber: "104"
+phone: +49 40 80603030
+opening_hours: Mo-Sa 08:30-19:00; PH 08:30-14:00
+website: https://www.budni.de/filialen/25451-bahnhofstrasse-104?

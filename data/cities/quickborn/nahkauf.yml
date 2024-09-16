@@ -1,11 +1,11 @@
 id: 100505015
-type: way
+type: node
 latitude: 53.7267
 longitude: 9.91514
 postcode: "25451"
 city: Quickborn
-street: "Harksheider Weg"
-housenumber: 107
-phone: "+49 4106 126325"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.nahkauf.de/maerkte/quickborn-41611337-yasar-seyrek-harksheiderweg-107"
+street: Harksheider Weg
+housenumber: "107"
+phone: +49 4106 126325
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.nahkauf.de/maerkte/quickborn-41611337-yasar-seyrek-harksheiderweg-107

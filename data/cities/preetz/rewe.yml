@@ -1,11 +1,11 @@
 id: 48680111
-type: way
+type: node
 latitude: 54.23651
 longitude: 10.27418
 postcode: "24211"
 city: Preetz
-street: "Hufenweg"
-housenumber: 24
+street: Hufenweg
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
+opening_hours: Mo-Sa 07:00-22:00; PH closed
 website: ""

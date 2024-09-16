@@ -1,11 +1,11 @@
 id: 316211187
-type: way
+type: node
 latitude: 53.76098
 longitude: 9.64381
 postcode: "25335"
 city: Elmshorn
-street: "Flamweg"
-housenumber: 138
+street: Flamweg
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

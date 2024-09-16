@@ -1,11 +1,11 @@
 id: 43129616
-type: way
+type: node
 latitude: 54.45157
 longitude: 9.83281
 postcode: "24340"
 city: Eckernförde
-street: "Hörst"
-housenumber: 1
-phone: "+49 4351 475263"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su 11:00-17:00; PH 11:00-17:00"
-website: "https://www.rossmann.de"
+street: Hörst
+housenumber: "1"
+phone: +49 4351 475263
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su 11:00-17:00; PH 11:00-17:00
+website: https://www.rossmann.de

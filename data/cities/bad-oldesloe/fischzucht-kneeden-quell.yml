@@ -1,11 +1,11 @@
 id: 306666133
-type: way
+type: node
 latitude: 53.81508
 longitude: 10.42436
 postcode: "23843"
 city: Bad Oldesloe
 street: ""
-housenumber: 8
+housenumber: "8"
 phone: ""
-opening_hours: "Mo off; Tu 09:00-18:00; We 09:00-15:00; Th-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo off; Tu 09:00-18:00; We 09:00-15:00; Th-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

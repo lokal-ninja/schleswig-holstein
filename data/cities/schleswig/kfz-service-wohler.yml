@@ -1,11 +1,11 @@
 id: 94405506
-type: way
+type: node
 latitude: 54.49757
 longitude: 9.53828
 postcode: "24837"
 city: Schleswig
-street: "Husumer Baum"
-housenumber: 48
-phone: "+49 4621 977915"
+street: Husumer Baum
+housenumber: "48"
+phone: +49 4621 977915
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 306368830
-type: way
+type: node
 latitude: 53.67245
 longitude: 9.96823
 postcode: "22848"
 city: Norderstedt
-street: "Niendorfer Straße"
-housenumber: 50
+street: Niendorfer Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220363123
-type: way
+type: node
 latitude: 54.51348
 longitude: 9.57352
 postcode: "24837"
 city: Schleswig
-street: "Fischbrückstraße"
-housenumber: 26
+street: Fischbrückstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 54.19033
 longitude: 9.35354
 postcode: "25767"
 city: Osterrade
-street: "Albersdorfer Straße"
-housenumber: 
+street: Albersdorfer Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mar-May Mo-Fr 09:00-18:00; Mar-May Sa 09:00-15:00; May-Sep Mo-Fr 08:00-19:00; May-Sep Sa 08:00-15:00"
+opening_hours: Mar-May Mo-Fr 09:00-18:00; Mar-May Sa 09:00-15:00; May-Sep Mo-Fr 08:00-19:00;
+    May-Sep Sa 08:00-15:00
 website: ""

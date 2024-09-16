@@ -1,11 +1,11 @@
 id: 136341208
-type: way
+type: node
 latitude: 54.29884
 longitude: 10.09172
 postcode: "24113"
 city: Kiel
-street: "Speckenbeker Weg"
-housenumber: 162
+street: Speckenbeker Weg
+housenumber: "162"
 phone: ""
 opening_hours: ""
 website: ""

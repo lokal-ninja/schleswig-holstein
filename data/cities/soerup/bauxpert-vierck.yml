@@ -1,11 +1,11 @@
 id: 109852472
-type: way
+type: node
 latitude: 54.72119
 longitude: 9.68097
 postcode: "24966"
 city: Sörup
-street: "Bahnhofstraße"
-housenumber: 53
-phone: "+49-4635-2929-0"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "https://www.vierck.de/"
+street: Bahnhofstraße
+housenumber: "53"
+phone: +49-4635-2929-0
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
+website: https://www.vierck.de/

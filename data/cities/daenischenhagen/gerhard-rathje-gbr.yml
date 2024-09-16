@@ -1,11 +1,11 @@
 id: 328309558
-type: way
+type: node
 latitude: 54.437
 longitude: 10.12741
 postcode: "24229"
 city: Dänischenhagen
-street: "Möhlenbarg"
-housenumber: 3
+street: Möhlenbarg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

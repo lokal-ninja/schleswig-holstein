@@ -1,11 +1,11 @@
 id: 229195645
-type: way
+type: node
 latitude: 53.99141
 longitude: 10.66783
 postcode: "23629"
 city: Scharbeutz
-street: "Am Teich"
-housenumber: 1
-phone: "+49 4504 67119"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-12:30"
+street: Am Teich
+housenumber: "1"
+phone: +49 4504 67119
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 137678054
-type: way
+type: node
 latitude: 53.91942
 longitude: 9.51029
 postcode: "25524"
 city: Itzehoe
-street: "Rudolf-Diesel-Straße"
-housenumber: 5
-phone: "+49 48213376"
+street: Rudolf-Diesel-Straße
+housenumber: "5"
+phone: +49 48213376
 opening_hours: ""
-website: "https://www.lesezirkel-krumbeck.de/"
+website: https://www.lesezirkel-krumbeck.de/

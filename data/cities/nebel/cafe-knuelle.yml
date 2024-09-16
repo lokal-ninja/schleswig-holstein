@@ -5,7 +5,7 @@ longitude: 8.32181
 postcode: "25946"
 city: Nebel
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Jun-Sep: Mo-Su 09:00-sunset || bei gutem Wetter"
+opening_hours: 'Jun-Sep: Mo-Su 09:00-sunset || "bei gutem Wetter"'
 website: ""

@@ -1,11 +1,11 @@
 id: 292697283
-type: way
+type: node
 latitude: 54.29017
 longitude: 9.6956
 postcode: "24783"
 city: Osterrönfeld
-street: "Dorfstraße"
-housenumber: 38
-phone: "+49 4331 88058"
+street: Dorfstraße
+housenumber: "38"
+phone: +49 4331 88058
 opening_hours: ""
-website: "http://www.party-service-stocks.de/index.html"
+website: http://www.party-service-stocks.de/index.html

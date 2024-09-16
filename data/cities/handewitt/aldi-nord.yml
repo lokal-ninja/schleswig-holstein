@@ -1,11 +1,11 @@
 id: 199829125
-type: way
+type: node
 latitude: 54.77222
 longitude: 9.32192
 postcode: "24983"
 city: Handewitt
-street: "Wiesharder Markt"
+street: Wiesharder Markt
 housenumber: 14a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/handewitt/wiesharder-markt-14-a.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/schleswig-holstein/handewitt/wiesharder-markt-14-a.html

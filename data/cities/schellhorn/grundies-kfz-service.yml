@@ -1,11 +1,11 @@
 id: 162944660
-type: way
+type: node
 latitude: 54.22318
 longitude: 10.30372
 postcode: "24211"
 city: Schellhorn
-street: "Plöner Landstraße"
-housenumber: 110
+street: Plöner Landstraße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

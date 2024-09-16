@@ -4,8 +4,8 @@ latitude: 53.66491
 longitude: 9.9044
 postcode: "25474"
 city: Bönningstedt
-street: "Kieler Straße"
+street: Kieler Straße
 housenumber: 103-109
-phone: "+49 40 52166636"
-opening_hours: "Mo-Fr: 08:00-18:00; Sa by appointment; Su off"
-website: "https://www.hdz-nord.de/"
+phone: +49 40 52166636
+opening_hours: 'Mo-Fr: 08:00-18:00; Sa "by appointment"; Su off'
+website: https://www.hdz-nord.de/

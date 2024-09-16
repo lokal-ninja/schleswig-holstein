@@ -4,8 +4,8 @@ latitude: 53.85758
 longitude: 10.62673
 postcode: "23556"
 city: Lübeck
-street: "Herrenholz"
-housenumber: 
+street: Herrenholz
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/luebeck-475"
+website: https://www.mediamarkt.de/de/store/luebeck-475

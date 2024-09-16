@@ -1,11 +1,11 @@
 id: 1058390197
-type: way
+type: node
 latitude: 53.66193
 longitude: 9.79878
 postcode: "25421"
 city: Pinneberg
-street: "Friedrich-Ebert-Straße"
-housenumber: 31
+street: Friedrich-Ebert-Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://woolworth.de/kaufhaeuser/kaufhaus/1575-pinneberg-friedrich-ebert-strasse-31/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://woolworth.de/kaufhaeuser/kaufhaus/1575-pinneberg-friedrich-ebert-strasse-31/

@@ -4,8 +4,8 @@ latitude: 53.63341
 longitude: 9.60422
 postcode: "25489"
 city: Haseldorf
-street: "Hauptstraße"
-housenumber: 15
+street: Hauptstraße
+housenumber: "15"
 phone: ""
-opening_hours: "MoFr 07:00-12:00, Mo-Fr 13:00-17:30; Sa 08:00-11:30"
-website: "https://plueschau-baustoffe.de/"
+opening_hours: MoFr 07:00-12:00, Mo-Fr 13:00-17:30; Sa 08:00-11:30
+website: https://plueschau-baustoffe.de/

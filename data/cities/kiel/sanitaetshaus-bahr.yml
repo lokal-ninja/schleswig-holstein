@@ -1,11 +1,11 @@
 id: 803298829
-type: way
+type: node
 latitude: 54.35389
 longitude: 10.11697
 postcode: "24106"
 city: Kiel
-street: "Steenbeker Weg"
-housenumber: 25
-phone: "+49 431 333363"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://www.bahr-gmbh.com/"
+street: Steenbeker Weg
+housenumber: "25"
+phone: +49 431 333363
+opening_hours: Mo-Fr 08:30-17:30
+website: https://www.bahr-gmbh.com/

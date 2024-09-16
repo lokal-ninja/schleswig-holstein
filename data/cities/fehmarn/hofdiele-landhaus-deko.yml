@@ -1,11 +1,11 @@
 id: 447902354
-type: way
+type: node
 latitude: 54.48291
 longitude: 11.06994
 postcode: "23769"
 city: Fehmarn
-street: "Erlengrund"
+street: Erlengrund
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Su 10:00-18:00"
-website: "http://www.hofdiele-fehmarn.de"
+opening_hours: Mo-Su 10:00-18:00
+website: http://www.hofdiele-fehmarn.de

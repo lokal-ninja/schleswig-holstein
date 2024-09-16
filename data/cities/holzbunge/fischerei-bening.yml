@@ -1,11 +1,11 @@
 id: 276148372
-type: way
+type: node
 latitude: 54.38033
 longitude: 9.72308
 postcode: "24361"
 city: Holzbunge
-street: "Sande"
-housenumber: 7
+street: Sande
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

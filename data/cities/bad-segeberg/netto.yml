@@ -1,11 +1,11 @@
 id: 147691674
-type: way
+type: node
 latitude: 53.94774
 longitude: 10.30224
 postcode: "23795"
 city: Bad Segeberg
-street: "Ziegelstraße"
-housenumber: 107
+street: Ziegelstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

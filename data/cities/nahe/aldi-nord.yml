@@ -1,11 +1,11 @@
 id: 543443762
-type: way
+type: node
 latitude: 53.8
 longitude: 10.14472
 postcode: "23866"
 city: Nahe
-street: "Brünskamp"
-housenumber: 1
+street: Brünskamp
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

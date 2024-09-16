@@ -1,11 +1,11 @@
 id: 135162861
-type: way
+type: node
 latitude: 53.9283
 longitude: 9.50887
 postcode: "25524"
 city: Itzehoe
-street: "Helenenstraße"
-housenumber: 19
-phone: "+49 4821 2808"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.sport-schoenbeck.de/"
+street: Helenenstraße
+housenumber: "19"
+phone: +49 4821 2808
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.sport-schoenbeck.de/

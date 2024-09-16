@@ -4,8 +4,8 @@ latitude: 54.79223
 longitude: 9.43148
 postcode: "24939"
 city: Flensburg
-street: "Norderstraße"
-housenumber: 52
-phone: "+49 461 181591"
-opening_hours: "Mo-Fr 10:00-16:30; Sa 10:00-15:00; Su,PH off"
-website: "https://www.antik-krampitz.de/"
+street: Norderstraße
+housenumber: "52"
+phone: +49 461 181591
+opening_hours: Mo-Fr 10:00-16:30; Sa 10:00-15:00; Su,PH off
+website: https://www.antik-krampitz.de/

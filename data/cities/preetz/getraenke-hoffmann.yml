@@ -1,11 +1,11 @@
 id: 38317838
-type: way
+type: node
 latitude: 54.24136
 longitude: 10.28834
 postcode: "24211"
 city: Preetz
-street: "Wakendorfer Straße"
-housenumber: 73
+street: Wakendorfer Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-14:00"
-website: "https://www.getraenke-hoffmann.de/filiale/preetz/wakendorfer-str-73"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-14:00
+website: https://www.getraenke-hoffmann.de/filiale/preetz/wakendorfer-str-73

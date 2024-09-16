@@ -1,11 +1,11 @@
 id: 367133748
-type: way
+type: node
 latitude: 54.30157
 longitude: 8.76627
 postcode: "25836"
 city: Welt
-street: "Westerdeich"
-housenumber: 2
+street: Westerdeich
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

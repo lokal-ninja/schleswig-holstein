@@ -1,11 +1,11 @@
 id: 303665092
-type: way
+type: node
 latitude: 54.25814
 longitude: 8.99289
 postcode: "25792"
 city: Neuenkirchen
-street: "Blankenmoorer Straße"
-housenumber: 23
+street: Blankenmoorer Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
-website: "https://www.gemuesehandel-hagge.de"
+website: https://www.gemuesehandel-hagge.de

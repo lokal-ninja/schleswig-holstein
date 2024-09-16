@@ -1,11 +1,11 @@
 id: 229403870
-type: way
+type: node
 latitude: 54.38479
 longitude: 10.37768
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Kamp"
-housenumber: 6
+street: Kamp
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

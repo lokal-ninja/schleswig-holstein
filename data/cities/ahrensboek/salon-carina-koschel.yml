@@ -4,8 +4,9 @@ latitude: 54.01231
 longitude: 10.57325
 postcode: "23623"
 city: Ahrensbök
-street: "Plöner Straße"
-housenumber: 30
-phone: "+49 4525 1798"
-opening_hours: "Tu-Th 08:00-12:30, 14:30-18:00; Fr 08:00-18:00; Sa 08:00-12:00; PH off"
+street: Plöner Straße
+housenumber: "30"
+phone: +49 4525 1798
+opening_hours: Tu-Th 08:00-12:30, 14:30-18:00; Fr 08:00-18:00; Sa 08:00-12:00; PH
+    off
 website: ""

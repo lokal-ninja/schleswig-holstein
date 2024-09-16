@@ -1,11 +1,11 @@
 id: 150127999
-type: way
+type: node
 latitude: 54.31866
 longitude: 8.93926
 postcode: "25832"
 city: Tönning
-street: "Herzog-Philipp-Allee"
-housenumber: 8
+street: Herzog-Philipp-Allee
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 11:00-17:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; Su 11:00-17:00
+website: https://www.netto-online.de

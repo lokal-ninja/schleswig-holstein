@@ -4,8 +4,8 @@ latitude: 54.74486
 longitude: 9.90031
 postcode: "24395"
 city: Gelting
-street: "Schmidsberg"
-housenumber: 8
-phone: "+49 4643 18288"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"
-website: "https://www.gaertnerei-f-tischler.de/"
+street: Schmidsberg
+housenumber: "8"
+phone: +49 4643 18288
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00; Sa 08:00-13:00; Su 10:00-12:00
+website: https://www.gaertnerei-f-tischler.de/

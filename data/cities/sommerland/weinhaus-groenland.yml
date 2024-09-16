@@ -1,11 +1,11 @@
 id: 233836451
-type: way
+type: node
 latitude: 53.82226
 longitude: 9.58634
 postcode: "25358"
 city: Sommerland
-street: "Grönland"
-housenumber: 13
-phone: "+49 4126 2628"
-opening_hours: "Fr 14:00-19:00; Sa 10:00-13:00; PH off"
+street: Grönland
+housenumber: "13"
+phone: +49 4126 2628
+opening_hours: Fr 14:00-19:00; Sa 10:00-13:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 321367658
-type: way
+type: node
 latitude: 54.33068
 longitude: 8.72124
 postcode: "25881"
 city: Tating
-street: "Osterende"
-housenumber: 8
+street: Osterende
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

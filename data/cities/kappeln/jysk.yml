@@ -1,11 +1,11 @@
 id: 295285031
-type: way
+type: node
 latitude: 54.65352
 longitude: 9.95183
 postcode: "24376"
 city: Kappeln
-street: "Bernard-Liening-Straße"
-housenumber: 14
+street: Bernard-Liening-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

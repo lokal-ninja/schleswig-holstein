@@ -1,11 +1,11 @@
 id: 150069925
-type: way
+type: node
 latitude: 53.92819
 longitude: 9.51124
 postcode: "25524"
 city: Itzehoe
-street: "Lindenstraße"
-housenumber: 13
-phone: "+49 4821 73321"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Lindenstraße
+housenumber: "13"
+phone: +49 4821 73321
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

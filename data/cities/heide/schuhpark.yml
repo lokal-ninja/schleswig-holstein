@@ -4,8 +4,8 @@ latitude: 54.1947
 longitude: 9.09075
 postcode: "25746"
 city: Heide
-street: "Markt"
-housenumber: 44
+street: Markt
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://schuhpark.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://schuhpark.de/

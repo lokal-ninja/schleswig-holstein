@@ -1,11 +1,11 @@
 id: 230316123
-type: way
+type: node
 latitude: 54.72885
 longitude: 9.7368
 postcode: "24996"
 city: Sterup
-street: "Alte Dorfstraße"
-housenumber: 1
-phone: "+49 4637 9637900"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-16:00; PH,Su off"
-website: "https://www.edeka-tarp-sterup.de/markt-team.html"
+street: Alte Dorfstraße
+housenumber: "1"
+phone: +49 4637 9637900
+opening_hours: Mo-Fr 07:00-18:30; Sa 07:00-16:00; PH,Su off
+website: https://www.edeka-tarp-sterup.de/markt-team.html

@@ -4,8 +4,8 @@ latitude: 54.28037
 longitude: 10.15856
 postcode: "24145"
 city: Kiel
-street: "Marie-Curie-Straße"
-housenumber: 5
-phone: "+49 431 5364-9275"
-opening_hours: "Mo-Fr 9:00-16:00"
-website: "http://www.ledtech-group.de"
+street: Marie-Curie-Straße
+housenumber: "5"
+phone: +49 431 5364-9275
+opening_hours: Mo-Fr 9:00-16:00
+website: http://www.ledtech-group.de

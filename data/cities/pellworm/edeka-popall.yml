@@ -1,11 +1,11 @@
 id: 455948106
-type: way
+type: node
 latitude: 54.52321
 longitude: 8.68342
 postcode: "25849"
 city: Pellworm
-street: "Tammensiel"
-housenumber: 20
-phone: "+49 4844 666"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 08:00-12:00;PH closed"
-website: "https://www.edeka.de/eh/nord/edeka-popall-tammensiel-20/index.jsp"
+street: Tammensiel
+housenumber: "20"
+phone: +49 4844 666
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 08:00-12:00;PH closed
+website: https://www.edeka.de/eh/nord/edeka-popall-tammensiel-20/index.jsp

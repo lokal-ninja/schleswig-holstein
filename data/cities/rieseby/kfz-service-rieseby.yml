@@ -1,11 +1,11 @@
 id: 138917490
-type: way
+type: node
 latitude: 54.54362
 longitude: 9.8229
 postcode: "24354"
 city: Rieseby
-street: "Kappelner Landstraße"
-housenumber: 2
+street: Kappelner Landstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

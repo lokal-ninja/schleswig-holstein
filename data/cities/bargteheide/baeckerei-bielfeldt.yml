@@ -1,11 +1,11 @@
 id: 106203635
-type: way
+type: node
 latitude: 53.72972
 longitude: 10.25768
 postcode: "22941"
 city: Bargteheide
-street: "Alte Landstraße"
-housenumber: 43
-phone: "+49 4532 22989"
+street: Alte Landstraße
+housenumber: "43"
+phone: +49 4532 22989
 opening_hours: ""
 website: ""

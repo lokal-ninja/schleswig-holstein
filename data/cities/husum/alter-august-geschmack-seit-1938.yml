@@ -1,11 +1,11 @@
 id: 199382568
-type: way
+type: node
 latitude: 54.47717
 longitude: 9.04807
 postcode: "25813"
 city: Husum
-street: "Neustadt"
-housenumber: 9
-phone: "+49 4841 9397000"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.alteraugust.de/"
+street: Neustadt
+housenumber: "9"
+phone: +49 4841 9397000
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.alteraugust.de/

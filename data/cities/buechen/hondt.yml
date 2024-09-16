@@ -4,8 +4,8 @@ latitude: 53.47827
 longitude: 10.62053
 postcode: "21514"
 city: Büchen
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-11:30;Su,PH 07:30-11:00"
-website: "http://baeckerei-hondt.de/"
+opening_hours: Mo-Sa 06:00-11:30;Su,PH 07:30-11:00
+website: http://baeckerei-hondt.de/

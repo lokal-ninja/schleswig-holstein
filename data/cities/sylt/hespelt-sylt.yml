@@ -4,8 +4,8 @@ latitude: 54.90864
 longitude: 8.30156
 postcode: "25980"
 city: Sylt
-street: "Elisabethstraße"
-housenumber: 1
+street: Elisabethstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Su off; Mo-Fr 11:00-18:00; Sa 11:00-16:00"
+opening_hours: Su off; Mo-Fr 11:00-18:00; Sa 11:00-16:00
 website: ""

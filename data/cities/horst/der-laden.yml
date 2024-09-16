@@ -1,11 +1,11 @@
 id: 234988734
-type: way
+type: node
 latitude: 53.81322
 longitude: 9.6186
 postcode: "25358"
 city: Horst
-street: "Jahnstraße"
-housenumber: 11
+street: Jahnstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,16:00-18:00; Sa[1] 10:00-13:00; PH off"
-website: "https://www.der-bier-laden.de"
+opening_hours: Mo-Fr 10:00-12:00,16:00-18:00; Sa[1] 10:00-13:00; PH off
+website: https://www.der-bier-laden.de

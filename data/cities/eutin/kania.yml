@@ -1,11 +1,11 @@
 id: 216502434
-type: way
+type: node
 latitude: 54.12589
 longitude: 10.62157
 postcode: "23701"
 city: Eutin
-street: "Industriestraße"
-housenumber: 8
+street: Industriestraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.07271
 longitude: 9.0467
 postcode: "25704"
 city: Elpersbüttel
-street: "Hauptstraße"
-housenumber: 10
+street: Hauptstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 05:00-12:00; Su 06:00-11:00"
-website: "https://baeckerei-balzer.de/filialen/elpersbuettel-hauptstrasse/"
+opening_hours: Mo-Sa 05:00-12:00; Su 06:00-11:00
+website: https://baeckerei-balzer.de/filialen/elpersbuettel-hauptstrasse/

@@ -4,8 +4,8 @@ latitude: 54.79399
 longitude: 9.43129
 postcode: "24939"
 city: Flensburg
-street: "Norderstraße"
-housenumber: 125
-phone: "+49 461 21111"
-opening_hours: "Sa 10:00-13:00; PH,Su off; Mo,We,Fr 16:00-18:30"
-website: "http://www.badmintonshop.de/"
+street: Norderstraße
+housenumber: "125"
+phone: +49 461 21111
+opening_hours: Sa 10:00-13:00; PH,Su off; Mo,We,Fr 16:00-18:30
+website: http://www.badmintonshop.de/

@@ -1,11 +1,11 @@
 id: 134215687
-type: way
+type: node
 latitude: 53.67919
 longitude: 10.25377
 postcode: "22926"
 city: Ahrensburg
-street: "Am Hopfenbach"
-housenumber: 8
+street: Am Hopfenbach
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.hermannstitz.de/abex/ahrensburg/"
+website: http://www.hermannstitz.de/abex/ahrensburg/

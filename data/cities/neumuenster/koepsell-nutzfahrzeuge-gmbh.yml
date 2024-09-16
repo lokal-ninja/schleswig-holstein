@@ -1,11 +1,11 @@
 id: 231992368
-type: way
+type: node
 latitude: 54.10566
 longitude: 9.97014
 postcode: "24537"
 city: Neumünster
-street: "Haberstraße"
-housenumber: 36
+street: Haberstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "http://www.koepsell-nutzfahrzeuge.de/"
+website: http://www.koepsell-nutzfahrzeuge.de/

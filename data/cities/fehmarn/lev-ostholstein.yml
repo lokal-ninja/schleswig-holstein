@@ -1,11 +1,11 @@
 id: 367202497
-type: way
+type: node
 latitude: 54.45399
 longitude: 11.14145
 postcode: "23769"
 city: Fehmarn
-street: "Hauptstraße"
-housenumber: 61
-phone: "+49 4371 9647"
-opening_hours: "Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-15:45"
+street: Hauptstraße
+housenumber: "61"
+phone: +49 4371 9647
+opening_hours: Mo-Th 07:30-12:00,13:00-17:00; Fr 07:30-12:00,13:00-15:45
 website: ""

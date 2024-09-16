@@ -1,11 +1,11 @@
 id: 204705703
-type: way
+type: node
 latitude: 54.13498
 longitude: 10.82306
 postcode: "23730"
 city: Altenkrempe
-street: "Milchstraße"
-housenumber: 23
+street: Milchstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

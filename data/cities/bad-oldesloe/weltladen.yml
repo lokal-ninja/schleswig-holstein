@@ -4,8 +4,8 @@ latitude: 53.80825
 longitude: 10.38059
 postcode: "23843"
 city: Bad Oldesloe
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, 15:00-18:00; We, Sa 10:00-13:00; PH off"
-website: "https://www.weltladen.de/oldesloe"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00, 15:00-18:00; We, Sa 10:00-13:00; PH off
+website: https://www.weltladen.de/oldesloe

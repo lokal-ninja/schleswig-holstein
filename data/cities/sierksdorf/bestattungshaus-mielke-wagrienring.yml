@@ -1,11 +1,11 @@
 id: 531826601
-type: way
+type: node
 latitude: 54.09263
 longitude: 10.78186
 postcode: "23730"
 city: Sierksdorf
-street: "Wagrienring"
-housenumber: 46
+street: Wagrienring
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

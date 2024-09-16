@@ -1,11 +1,11 @@
 id: 217516089
-type: way
+type: node
 latitude: 53.43525
 longitude: 10.35824
 postcode: "21502"
 city: Geesthacht
-street: "Steglitzer Straße"
-housenumber: 15
+street: Steglitzer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo,We 15:00-17:00"
-website: "https://www.drk-geesthacht.de/angebote/kleiderkammer.html"
+opening_hours: Mo,We 15:00-17:00
+website: https://www.drk-geesthacht.de/angebote/kleiderkammer.html

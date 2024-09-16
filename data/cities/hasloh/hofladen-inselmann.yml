@@ -1,11 +1,11 @@
 id: 207509515
-type: way
+type: node
 latitude: 53.69775
 longitude: 9.91106
 postcode: "25474"
 city: Hasloh
-street: "Kieler Straße"
-housenumber: 61
-phone: "+49 4106 2363"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Kieler Straße
+housenumber: "61"
+phone: +49 4106 2363
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

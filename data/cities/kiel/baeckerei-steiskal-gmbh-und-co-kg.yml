@@ -4,8 +4,8 @@ latitude: 54.39633
 longitude: 10.17278
 postcode: "24159"
 city: Kiel
-street: "Friedrichsorter Straße"
-housenumber: 6
-phone: "+49 431 393671"
-opening_hours: "Mo-Fr 06:30-18:00;Sa 6:30-13:00;Su 07:00-17:00"
-website: "https://www.baecker-steiskal.de/"
+street: Friedrichsorter Straße
+housenumber: "6"
+phone: +49 431 393671
+opening_hours: Mo-Fr 06:30-18:00;Sa 6:30-13:00;Su 07:00-17:00
+website: https://www.baecker-steiskal.de/

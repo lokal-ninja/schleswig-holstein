@@ -4,8 +4,8 @@ latitude: 54.74589
 longitude: 9.89196
 postcode: "24395"
 city: Gelting
-street: "Nordstraße"
-housenumber: 2
-phone: "+49 4643 2933"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH,Su,Mo off"
+street: Nordstraße
+housenumber: "2"
+phone: +49 4643 2933
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH,Su,Mo off
 website: ""

@@ -1,11 +1,11 @@
 id: 223456541
-type: way
+type: node
 latitude: 54.48989
 longitude: 9.03626
 postcode: "25813"
 city: Husum
-street: "Schobüller Straße"
-housenumber: 49
+street: Schobüller Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

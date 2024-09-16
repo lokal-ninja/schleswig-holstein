@@ -1,11 +1,11 @@
 id: 144411988
-type: way
+type: node
 latitude: 54.45034
 longitude: 9.8347
 postcode: "24340"
 city: Eckernförde
-street: "Sauerstraße"
-housenumber: 5
+street: Sauerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-fraeter.de/"
+website: https://www.autohaus-fraeter.de/

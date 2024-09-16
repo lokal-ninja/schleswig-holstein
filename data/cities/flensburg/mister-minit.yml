@@ -4,8 +4,8 @@ latitude: 54.76222
 longitude: 9.43251
 postcode: "24941"
 city: Flensburg
-street: "Schleswiger Straße"
-housenumber: 130
-phone: "+49 461 9955828"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://misterminit.eu/"
+street: Schleswiger Straße
+housenumber: "130"
+phone: +49 461 9955828
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://misterminit.eu/

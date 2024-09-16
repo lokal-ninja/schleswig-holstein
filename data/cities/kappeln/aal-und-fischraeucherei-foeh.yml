@@ -4,8 +4,8 @@ latitude: 54.66248
 longitude: 9.9339
 postcode: "24376"
 city: Kappeln
-street: "Dehnthof"
-housenumber: 26
-phone: "+49 4642 2274"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su off"
-website: "https://www.foeh.de"
+street: Dehnthof
+housenumber: "26"
+phone: +49 4642 2274
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su off
+website: https://www.foeh.de

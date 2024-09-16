@@ -1,11 +1,11 @@
 id: 155269782
-type: way
+type: node
 latitude: 54.75973
 longitude: 9.39777
 postcode: "24941"
 city: Flensburg
-street: "Ochsenweg"
-housenumber: 69
-phone: "+49 461 500894330"
-opening_hours: "Mo-Sa 07:00-22:00;PH off"
+street: Ochsenweg
+housenumber: "69"
+phone: +49 461 500894330
+opening_hours: Mo-Sa 07:00-22:00;PH off
 website: ""

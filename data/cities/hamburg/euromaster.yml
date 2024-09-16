@@ -1,11 +1,11 @@
 id: 338303363
-type: way
+type: node
 latitude: 53.51375
 longitude: 10.21254
 postcode: "21031"
 city: Hamburg
-street: "Reinbeker Redder"
-housenumber: 295
+street: Reinbeker Redder
+housenumber: "295"
 phone: ""
 opening_hours: ""
 website: ""

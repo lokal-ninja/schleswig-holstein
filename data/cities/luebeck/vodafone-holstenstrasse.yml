@@ -4,8 +4,8 @@ latitude: 53.86642
 longitude: 10.68375
 postcode: "23552"
 city: Lübeck
-street: "Holstenstraße"
-housenumber: 2
+street: Holstenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-17:00"
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-17:00
 website: ""

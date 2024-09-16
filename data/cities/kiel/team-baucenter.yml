@@ -1,11 +1,11 @@
 id: 122194202
-type: way
+type: node
 latitude: 54.32687
 longitude: 10.08086
 postcode: "24109"
 city: Kiel
-street: "Wittland"
-housenumber: 12
+street: Wittland
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 06:00-17:00; Fr 06:00-14:00"
+opening_hours: Mo-Th 06:00-17:00; Fr 06:00-14:00
 website: ""

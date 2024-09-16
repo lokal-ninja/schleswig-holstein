@@ -4,8 +4,8 @@ latitude: 53.838
 longitude: 9.96567
 postcode: "24568"
 city: Kaltenkirchen
-street: "Schützenstraße"
-housenumber: 15
+street: Schützenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Nach Vereinbarung"
-website: "https://su-zauberhaft.business.site/"
+opening_hours: '"Nach Vereinbarung"'
+website: https://su-zauberhaft.business.site/

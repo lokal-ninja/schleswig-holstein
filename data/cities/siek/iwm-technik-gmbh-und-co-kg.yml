@@ -1,11 +1,11 @@
 id: 1217477380
-type: way
+type: node
 latitude: 53.64634
 longitude: 10.29075
 postcode: "22962"
 city: Siek
-street: "Jacobsrade"
-housenumber: 72
-phone: "+49410733996-0"
-opening_hours: "Mo-Fr 09:00-16:00"
+street: Jacobsrade
+housenumber: "72"
+phone: +49410733996-0
+opening_hours: Mo-Fr 09:00-16:00
 website: ""

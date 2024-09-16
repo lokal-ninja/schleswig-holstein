@@ -4,8 +4,8 @@ latitude: 54.34227
 longitude: 10.13307
 postcode: "24118"
 city: Kiel
-street: "Hardenbergstraße"
-housenumber: 21
+street: Hardenbergstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://www.my-boo.de/"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00
+website: https://www.my-boo.de/

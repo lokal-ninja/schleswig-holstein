@@ -4,8 +4,8 @@ latitude: 54.77904
 longitude: 9.43612
 postcode: "24937"
 city: Flensburg
-street: "Munketoft"
-housenumber: 12
-phone: "+49 461 8630"
-opening_hours: "Mo-Fr 13:00-18:00; Sa 13:30-18:30; PH,Su off"
-website: "https://www.plop-shop.de/"
+street: Munketoft
+housenumber: "12"
+phone: +49 461 8630
+opening_hours: Mo-Fr 13:00-18:00; Sa 13:30-18:30; PH,Su off
+website: https://www.plop-shop.de/

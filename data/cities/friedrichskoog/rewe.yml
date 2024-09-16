@@ -1,11 +1,12 @@
 id: 119749849
-type: way
+type: node
 latitude: 54.01492
 longitude: 8.89742
 postcode: "25718"
 city: Friedrichskoog
-street: "Koogstraße"
-housenumber: 67
+street: Koogstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00;PH off;Dec 17-Jan 08,Mar 15-Oct 31 Mo-Sa 11:00-22:00;Dec 17-Jan 08,Mar 15-Oct 31 Su,PH 11:00-17:00"
-website: "https://www.rewe.de/marktseite/friedrichskoog/830892/rewe-markt-koogstr-67/"
+opening_hours: Mo-Sa 07:00-20:00;PH off;Dec 17-Jan 08,Mar 15-Oct 31 Mo-Sa 11:00-22:00;Dec
+    17-Jan 08,Mar 15-Oct 31 Su,PH 11:00-17:00
+website: https://www.rewe.de/marktseite/friedrichskoog/830892/rewe-markt-koogstr-67/

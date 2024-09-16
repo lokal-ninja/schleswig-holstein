@@ -1,11 +1,11 @@
 id: 103484453
-type: way
+type: node
 latitude: 53.86087
 longitude: 10.62543
 postcode: "23556"
 city: Lübeck
-street: "Herrenholz"
-housenumber: 3
+street: Herrenholz
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 285095632
-type: way
+type: node
 latitude: 54.44393
 longitude: 11.18081
 postcode: "23769"
 city: Fehmarn
-street: "Gertrudenthaler Straße"
-housenumber: 1
+street: Gertrudenthaler Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://windsport.de/"
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-17:00
+website: https://windsport.de/

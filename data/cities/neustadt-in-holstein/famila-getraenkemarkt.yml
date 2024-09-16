@@ -1,11 +1,11 @@
 id: 204261737
-type: way
+type: node
 latitude: 54.10466
 longitude: 10.83337
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Rettiner Weg"
-housenumber: 77
+street: Rettiner Weg
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

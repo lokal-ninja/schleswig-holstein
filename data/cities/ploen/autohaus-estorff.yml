@@ -1,11 +1,11 @@
 id: 89925029
-type: way
+type: node
 latitude: 54.15762
 longitude: 10.44072
 postcode: "24306"
 city: Plön
-street: "Rautenbergstraße"
-housenumber: 38
+street: Rautenbergstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

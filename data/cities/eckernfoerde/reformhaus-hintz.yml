@@ -4,8 +4,8 @@ latitude: 54.47106
 longitude: 9.83652
 postcode: "24340"
 city: Eckernförde
-street: "Rathausmarkt"
-housenumber: 2
-phone: "+49 4351 2007"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; PH closed"
+street: Rathausmarkt
+housenumber: "2"
+phone: +49 4351 2007
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00; PH closed
 website: ""

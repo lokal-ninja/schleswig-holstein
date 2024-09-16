@@ -4,8 +4,8 @@ latitude: 54.83613
 longitude: 8.8904
 postcode: "25923"
 city: Braderup
-street: "An der B 5"
-housenumber: 12
-phone: "+49 4663 187900"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.autowerkstatt-hans.de"
+street: An der B 5
+housenumber: "12"
+phone: +49 4663 187900
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.autowerkstatt-hans.de

@@ -1,11 +1,11 @@
 id: 288798613
-type: way
+type: node
 latitude: 54.42224
 longitude: 11.19177
 postcode: "23769"
 city: Fehmarn
-street: "Burgstaaken"
-housenumber: 50
+street: Burgstaaken
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 54.35552
 longitude: 10.13042
 postcode: "24106"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 303
+street: Holtenauer Straße
+housenumber: "303"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Th 07:00-20:00, Fr-Sa 07:00-24:00; Nov-Mar: Mo-Th 07:00-20:00, Fr-Sa 07:00-20:00"
+opening_hours: 'Mar-Oct: Mo-Th 07:00-20:00, Fr-Sa 07:00-24:00; Nov-Mar: Mo-Th 07:00-20:00,
+    Fr-Sa 07:00-20:00'
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.50191
 longitude: 9.8424
 postcode: "24360"
 city: Barkelsby
-street: "Dorfstraße"
-housenumber: 34
-phone: "+49 4351 879998"
-opening_hours: "Su 07:30-10:30; Mo-Sa 06:30-11:00"
-website: "https://www.baeckerei-boysen.de/"
+street: Dorfstraße
+housenumber: "34"
+phone: +49 4351 879998
+opening_hours: Su 07:30-10:30; Mo-Sa 06:30-11:00
+website: https://www.baeckerei-boysen.de/

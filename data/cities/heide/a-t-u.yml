@@ -1,11 +1,11 @@
 id: 145158439
-type: way
+type: node
 latitude: 54.18441
 longitude: 9.10715
 postcode: "25746"
 city: Heide
-street: "Vogelweide"
+street: Vogelweide
 housenumber: 6a
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off"
-website: "https://www.atu.de/filiale-heide-401.html"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00; PH off
+website: https://www.atu.de/filiale-heide-401.html

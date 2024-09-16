@@ -1,11 +1,11 @@
 id: 107214383
-type: way
+type: node
 latitude: 53.68278
 longitude: 10.00474
 postcode: "22850"
 city: Norderstedt
-street: "Segeberger Chaussee"
-housenumber: 33
+street: Segeberger Chaussee
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00,14:30-18:00; Sa 10:00-13:00"
+opening_hours: Mo-Fr 09:30-12:00,14:30-18:00; Sa 10:00-13:00
 website: ""

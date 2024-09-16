@@ -4,8 +4,8 @@ latitude: 54.17903
 longitude: 7.88805
 postcode: "27498"
 city: Helgoland
-street: "Hafenstraße"
-housenumber: 1011
-phone: "+49 4725 640991"
-opening_hours: "10:00-17:00"
-website: "https://www.bude31-helgoland.de/"
+street: Hafenstraße
+housenumber: "1011"
+phone: +49 4725 640991
+opening_hours: 10:00-17:00
+website: https://www.bude31-helgoland.de/

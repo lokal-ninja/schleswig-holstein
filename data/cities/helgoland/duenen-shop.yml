@@ -4,8 +4,8 @@ latitude: 54.18706
 longitude: 7.91477
 postcode: "27498"
 city: Helgoland
-street: "Düne"
-housenumber: 13
+street: Düne
+housenumber: "13"
 phone: ""
-opening_hours: "09:00-18:00"
-website: "http://www.flughafen-helgoland.de/flugplatzrestaurant-helgoland-duene.html"
+opening_hours: 09:00-18:00
+website: http://www.flughafen-helgoland.de/flugplatzrestaurant-helgoland-duene.html

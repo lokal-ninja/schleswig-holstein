@@ -1,11 +1,11 @@
 id: 172859522
-type: way
+type: node
 latitude: 54.38032
 longitude: 9.07322
 postcode: "25840"
 city: Friedrichstadt
-street: "Witzworter Straße"
-housenumber: 2
+street: Witzworter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;PH closed;Mar 15-Oct 31:Su,PH 11:00-17:00"
+opening_hours: Mo-Sa 07:00-22:00;PH closed;Mar 15-Oct 31:Su,PH 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 55825945
-type: way
+type: node
 latitude: 53.75291
 longitude: 9.99726
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Norderstedter Straße"
-housenumber: 2
+street: Norderstedter Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:30-16:30"
-website: "https://baeckerei-nitt.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-16:30; Su 07:30-16:30
+website: https://baeckerei-nitt.de/

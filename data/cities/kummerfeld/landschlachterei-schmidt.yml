@@ -4,8 +4,9 @@ latitude: 53.68716
 longitude: 9.79211
 postcode: "25495"
 city: Kummerfeld
-street: "Bundesstraße"
-housenumber: 34
+street: Bundesstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Montag 	Geschlossen, Dienstag - Freitag 07.00 - 13.30 Uhr und 14.30 - 18.00 Uhr, Samstag 07.00 - 12.00 Uhr"
-website: "https://www.landschlachterei-schmidt.com/"
+opening_hours: "Montag \tGeschlossen, Dienstag - Freitag 07.00 - 13.30 Uhr und 14.30
+    - 18.00 Uhr, Samstag 07.00 - 12.00 Uhr"
+website: https://www.landschlachterei-schmidt.com/

@@ -4,8 +4,8 @@ latitude: 54.81402
 longitude: 9.58497
 postcode: "24960"
 city: Munkbrarup
-street: "Svensteen"
-housenumber: 8
-phone: "+49 4631 5476366"
-opening_hours: "Mo-Su 08:30-19:00"
-website: "https://www.biohof-svensteen.de/hofladen"
+street: Svensteen
+housenumber: "8"
+phone: +49 4631 5476366
+opening_hours: Mo-Su 08:30-19:00
+website: https://www.biohof-svensteen.de/hofladen

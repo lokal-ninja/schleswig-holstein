@@ -1,11 +1,11 @@
 id: 95402454
-type: way
+type: node
 latitude: 53.8363
 longitude: 9.48757
 postcode: "25361"
 city: Krempe
-street: "Breite Straße"
-housenumber: 58
-phone: "+49 4824 300 4299"
+street: Breite Straße
+housenumber: "58"
+phone: +49 4824 300 4299
 opening_hours: ""
 website: ""

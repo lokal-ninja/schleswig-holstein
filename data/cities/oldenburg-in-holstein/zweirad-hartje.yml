@@ -4,8 +4,9 @@ latitude: 54.28688
 longitude: 10.88075
 postcode: "23758"
 city: Oldenburg in Holstein
-street: "Schuhstraße"
-housenumber: 99
+street: Schuhstraße
+housenumber: "99"
 phone: ""
-opening_hours: "Mar-Sep Mo-Fr 08:00-12:00,14:00-18:00;Sa 08:00-12:00; Oct-Feb Mo,Tu,Th,Fr 08:00-12:00,14:00-18:00; We, Sa 08:00-12:00"
+opening_hours: Mar-Sep Mo-Fr 08:00-12:00,14:00-18:00;Sa 08:00-12:00; Oct-Feb Mo,Tu,Th,Fr
+    08:00-12:00,14:00-18:00; We, Sa 08:00-12:00
 website: ""

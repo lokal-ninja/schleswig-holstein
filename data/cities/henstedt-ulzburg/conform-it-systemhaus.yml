@@ -1,11 +1,11 @@
 id: 76945768
-type: way
+type: node
 latitude: 53.80462
 longitude: 9.97739
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Gutenbergstraße"
-housenumber: 8
+street: Gutenbergstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.conform.de/"
+website: https://www.conform.de/

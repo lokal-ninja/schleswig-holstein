@@ -1,11 +1,11 @@
 id: 183720287
-type: way
+type: node
 latitude: 53.92148
 longitude: 9.38214
 postcode: "25554"
 city: Wilster
-street: "Johann-Meyer-Straße"
-housenumber: 32
+street: Johann-Meyer-Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

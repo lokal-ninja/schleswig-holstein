@@ -1,11 +1,11 @@
 id: 151632748
-type: way
+type: node
 latitude: 54.13314
 longitude: 10.61527
 postcode: "23701"
 city: Eutin
-street: "Freischützstraße"
-housenumber: 4
+street: Freischützstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

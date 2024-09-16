@@ -4,8 +4,8 @@ latitude: 54.32888
 longitude: 10.13563
 postcode: "24105"
 city: Kiel
-street: "Brunswiker Straße"
-housenumber: 50
+street: Brunswiker Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30"
-website: "https://www.elke-haarersatz.de/"
+opening_hours: Mo-Fr 09:00-17:30
+website: https://www.elke-haarersatz.de/

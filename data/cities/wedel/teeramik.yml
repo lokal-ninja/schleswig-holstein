@@ -4,8 +4,8 @@ latitude: 53.57578
 longitude: 9.70626
 postcode: "22880"
 city: Wedel
-street: "Bahnhofstraße"
-housenumber: 57
+street: Bahnhofstraße
+housenumber: "57"
 phone: "+49410315493"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:30"
-website: "https://www.teeramik.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:30
+website: https://www.teeramik.de/

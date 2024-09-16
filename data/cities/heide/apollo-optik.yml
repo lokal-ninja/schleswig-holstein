@@ -4,8 +4,8 @@ latitude: 54.19473
 longitude: 9.09557
 postcode: "25746"
 city: Heide
-street: "Friedrichstraße"
-housenumber: 7
+street: Friedrichstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.apollo.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.apollo.de

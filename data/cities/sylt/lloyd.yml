@@ -4,8 +4,8 @@ latitude: 54.90754
 longitude: 8.30388
 postcode: "25980"
 city: Sylt
-street: "Friedrichstraße"
-housenumber: 17
+street: Friedrichstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 11:00-17:00"
-website: "https://www.lloyd.com/"
+opening_hours: Mo-Sa 11:00-17:00
+website: https://www.lloyd.com/

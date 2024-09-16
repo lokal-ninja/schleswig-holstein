@@ -1,11 +1,11 @@
 id: 138246303
-type: way
+type: node
 latitude: 53.92503
 longitude: 9.50186
 postcode: "25524"
 city: Itzehoe
-street: "Hafenstraße"
-housenumber: 23
-phone: "+49 1765750600"
+street: Hafenstraße
+housenumber: "23"
+phone: +49 1765750600
 opening_hours: ""
 website: ""

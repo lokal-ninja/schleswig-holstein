@@ -4,8 +4,8 @@ latitude: 53.91889
 longitude: 10.69677
 postcode: "23611"
 city: Bad Schwartau
-street: "Markttwiete"
-housenumber: 4
+street: Markttwiete
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.tabak-goetze.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.tabak-goetze.de/

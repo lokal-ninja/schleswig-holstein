@@ -1,11 +1,11 @@
 id: 255875005
-type: way
+type: node
 latitude: 53.75203
 longitude: 9.64764
 postcode: "25335"
 city: Elmshorn
-street: "Wedenkamp"
-housenumber: 9
-phone: "+49 4121 233900"
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-18:00; PH off"
-website: "https://www.daenischesbettenlager.de/"
+street: Wedenkamp
+housenumber: "9"
+phone: +49 4121 233900
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-18:00; PH off
+website: https://www.daenischesbettenlager.de/

@@ -1,11 +1,11 @@
 id: 52349718
-type: way
+type: node
 latitude: 54.87087
 longitude: 8.90519
 postcode: "25923"
 city: Süderlügum
-street: "Westerstraße"
-housenumber: 1
+street: Westerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 11:00-19:00"
-website: "https://zentralmarkt.dk/"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 11:00-19:00
+website: https://zentralmarkt.dk/

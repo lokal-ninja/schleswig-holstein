@@ -4,8 +4,8 @@ latitude: 53.79111
 longitude: 10.00959
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Op'n Ellerhoop"
-housenumber: 6
-phone: "+49 172 4568604"
-opening_hours: "24/7"
-website: "https://www.trauerheimat.de"
+street: Op'n Ellerhoop
+housenumber: "6"
+phone: +49 172 4568604
+opening_hours: 24/7
+website: https://www.trauerheimat.de

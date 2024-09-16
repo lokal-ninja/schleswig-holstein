@@ -1,11 +1,11 @@
 id: 209445690
-type: way
+type: node
 latitude: 53.71652
 longitude: 10.29155
 postcode: "22941"
 city: Bargteheide
-street: "Langenhorst"
-housenumber: 3
-phone: "+49 4532 2800964"
+street: Langenhorst
+housenumber: "3"
+phone: +49 4532 2800964
 opening_hours: ""
-website: "https://tramor.de/"
+website: https://tramor.de/

@@ -4,8 +4,8 @@ latitude: 53.87037
 longitude: 10.68833
 postcode: "23552"
 city: Lübeck
-street: "Breite Straße"
-housenumber: 7
+street: Breite Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 07:00-18:00"
-website: "https://www.jb.de/"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 07:00-18:00
+website: https://www.jb.de/

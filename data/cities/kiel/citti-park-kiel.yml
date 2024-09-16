@@ -1,11 +1,11 @@
 id: 25922585
-type: way
+type: node
 latitude: 54.31357
 longitude: 10.09826
 postcode: "24113"
 city: Kiel
-street: "Mühlendamm"
-housenumber: 1
+street: Mühlendamm
+housenumber: "1"
 phone: ""
-opening_hours: "Fr-Sa 07:00-20:00; Su off; Th 07:00-22:00; Mo-We 07:00-20:00"
-website: "https://www.citti-park-kiel.de/"
+opening_hours: Fr-Sa 07:00-20:00; Su off; Th 07:00-22:00; Mo-We 07:00-20:00
+website: https://www.citti-park-kiel.de/

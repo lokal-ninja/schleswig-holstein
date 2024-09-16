@@ -4,8 +4,8 @@ latitude: 54.90367
 longitude: 8.31189
 postcode: "25980"
 city: Sylt
-street: "Industrieweg"
-housenumber: 1
+street: Industrieweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off; Su 11:00-17:00"
+opening_hours: Mo-Sa 08:00-21:00; PH off; Su 11:00-17:00
 website: ""

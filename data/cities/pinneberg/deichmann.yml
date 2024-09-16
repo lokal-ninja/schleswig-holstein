@@ -1,11 +1,11 @@
 id: 1058390193
-type: way
+type: node
 latitude: 53.66258
 longitude: 9.79817
 postcode: "25421"
 city: Pinneberg
-street: "Friedrich-Ebert-Straße"
-housenumber: 31
-phone: "+49 4101 375367"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
-website: "https://www.deichmann.com/"
+street: Friedrich-Ebert-Straße
+housenumber: "31"
+phone: +49 4101 375367
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
+website: https://www.deichmann.com/

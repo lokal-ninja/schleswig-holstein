@@ -1,11 +1,11 @@
 id: 130125240
-type: way
+type: node
 latitude: 54.35559
 longitude: 10.12117
 postcode: "24106"
 city: Kiel
-street: "Projensdorfer Straße"
-housenumber: 148
-phone: "+49 431 3390301"
-opening_hours: "Mo-Sa 07:00-23:00"
+street: Projensdorfer Straße
+housenumber: "148"
+phone: +49 431 3390301
+opening_hours: Mo-Sa 07:00-23:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.31987
 longitude: 10.1283
 postcode: "24103"
 city: Kiel
-street: "Schülperbaum"
-housenumber: 2
-phone: "+49 431 3644936"
-opening_hours: "Mo-Fr 13:00-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://derheimathafen.net/"
+street: Schülperbaum
+housenumber: "2"
+phone: +49 431 3644936
+opening_hours: Mo-Fr 13:00-18:00; Sa 10:00-13:00; Su,PH off
+website: https://derheimathafen.net/

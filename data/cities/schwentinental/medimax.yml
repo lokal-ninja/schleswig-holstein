@@ -4,8 +4,8 @@ latitude: 54.28891
 longitude: 10.22081
 postcode: "24223"
 city: Schwentinental
-street: "Mergenthalerstraße"
-housenumber: 24
+street: Mergenthalerstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://www.medimax.de/store/schwentinental"
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://www.medimax.de/store/schwentinental

@@ -4,8 +4,8 @@ latitude: 54.47176
 longitude: 9.83572
 postcode: "24340"
 city: Eckernförde
-street: "Sankt-Nicolai-Straße"
-housenumber: 6
-phone: "+49 4351 8998710"
-opening_hours: "Mo-Fr 11:00-17:00; Sa 10:30-14:00; PH,Su off"
-website: "https://www.waldraeuber.de/"
+street: Sankt-Nicolai-Straße
+housenumber: "6"
+phone: +49 4351 8998710
+opening_hours: Mo-Fr 11:00-17:00; Sa 10:30-14:00; PH,Su off
+website: https://www.waldraeuber.de/

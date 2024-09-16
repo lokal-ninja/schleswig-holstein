@@ -1,11 +1,11 @@
 id: 295643245
-type: way
+type: node
 latitude: 54.51854
 longitude: 9.38965
 postcode: "24887"
 city: Silberstedt
-street: "Tükeslih"
-housenumber: 2
+street: Tükeslih
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

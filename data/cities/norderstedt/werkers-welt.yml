@@ -1,11 +1,11 @@
 id: 130058202
-type: way
+type: node
 latitude: 53.69854
 longitude: 10.05249
 postcode: "22851"
 city: Norderstedt
-street: "Segeberger Chaussee"
-housenumber: 308
+street: Segeberger Chaussee
+housenumber: "308"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.22165
 longitude: 11.08565
 postcode: "23747"
 city: Dahme
-street: "Seestraße"
-housenumber: 29
+street: Seestraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:30,15:00-18:00; We,Sa 08:00-12:30,07:00-08:00"
+opening_hours: Mo,Tu,Th,Fr 08:00-12:30,15:00-18:00; We,Sa 08:00-12:30,07:00-08:00
 website: ""

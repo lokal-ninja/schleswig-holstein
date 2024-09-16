@@ -1,11 +1,11 @@
 id: 197254207
-type: way
+type: node
 latitude: 54.06086
 longitude: 9.97119
 postcode: "24539"
 city: Neumünster
-street: "Fehmarnstraße"
-housenumber: 13
+street: Fehmarnstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

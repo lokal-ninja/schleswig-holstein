@@ -4,8 +4,8 @@ latitude: 54.47274
 longitude: 9.83464
 postcode: "24340"
 city: Eckernförde
-street: "Langebrückstraße"
-housenumber: 22
-phone: "+49 152 06155059"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-15:00"
-website: "https://www.brautsalon-lydia.de/"
+street: Langebrückstraße
+housenumber: "22"
+phone: +49 152 06155059
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 11:00-15:00
+website: https://www.brautsalon-lydia.de/

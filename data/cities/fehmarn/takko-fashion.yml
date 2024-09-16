@@ -1,11 +1,11 @@
 id: 129775100
-type: way
+type: node
 latitude: 54.44204
 longitude: 11.18388
 postcode: "23769"
 city: Fehmarn
-street: "Landkirchener Weg"
-housenumber: 32
+street: Landkirchener Weg
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 122991788
-type: way
+type: node
 latitude: 54.53869
 longitude: 9.58639
 postcode: "24837"
 city: Schleswig
-street: "Heinrich-Hertz-Straße"
-housenumber: 30
-phone: "+49 4621 9581-0"
+street: Heinrich-Hertz-Straße
+housenumber: "30"
+phone: +49 4621 9581-0
 opening_hours: ""
-website: "https://www.hwhbaustoffhandel.de/"
+website: https://www.hwhbaustoffhandel.de/

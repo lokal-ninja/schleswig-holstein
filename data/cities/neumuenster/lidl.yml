@@ -1,11 +1,11 @@
 id: 126463994
-type: way
+type: node
 latitude: 54.06824
 longitude: 9.94144
 postcode: "24537"
 city: Neumünster
-street: "Wasbeker Straße"
-housenumber: 335
+street: Wasbeker Straße
+housenumber: "335"
 phone: ""
 opening_hours: ""
 website: ""

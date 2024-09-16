@@ -1,11 +1,11 @@
 id: 126398632
-type: way
+type: node
 latitude: 54.27721
 longitude: 10.16616
 postcode: "24145"
 city: Kiel
-street: "Clara-Immerwahr-Straße"
-housenumber: 1
+street: Clara-Immerwahr-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

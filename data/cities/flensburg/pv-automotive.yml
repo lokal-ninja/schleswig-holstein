@@ -1,11 +1,11 @@
 id: 170339066
-type: way
+type: node
 latitude: 54.76599
 longitude: 9.42928
 postcode: "24941"
 city: Flensburg
-street: "Liebigstraße"
-housenumber: 16
+street: Liebigstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

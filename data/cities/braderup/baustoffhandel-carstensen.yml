@@ -4,8 +4,9 @@ latitude: 54.83493
 longitude: 8.89642
 postcode: "25923"
 city: Braderup
-street: "Dorfstraße"
-housenumber: 46
-phone: "+49 4663 371"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00, Fr 08:00-12:00,13:00-16:00; Sa,Su,PH off"
-website: "https://www.trapezblech-onlineshop.de"
+street: Dorfstraße
+housenumber: "46"
+phone: +49 4663 371
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00, Fr 08:00-12:00,13:00-16:00; Sa,Su,PH
+    off
+website: https://www.trapezblech-onlineshop.de

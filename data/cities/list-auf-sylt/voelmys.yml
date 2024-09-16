@@ -1,11 +1,11 @@
 id: 254815191
-type: way
+type: node
 latitude: 55.01586
 longitude: 8.42827
 postcode: "25992"
 city: List auf Sylt
-street: "Listlandstraße"
-housenumber: 14
+street: Listlandstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.voelmys.de/"
+website: https://www.voelmys.de/

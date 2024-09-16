@@ -4,8 +4,8 @@ latitude: 53.65235
 longitude: 9.79163
 postcode: "25421"
 city: Pinneberg
-street: "Richard-Köhn-Straße"
-housenumber: 1
+street: Richard-Köhn-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.budni.de/filialen/25421-richard-koehn-str-1?"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.budni.de/filialen/25421-richard-koehn-str-1?

@@ -1,11 +1,11 @@
 id: 647778929
-type: way
+type: node
 latitude: 54.01399
 longitude: 10.02078
 postcode: "24598"
 city: Boostedt
-street: "Bahnhofstraße"
-housenumber: 50
-phone: "+49 4393 610"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://find.shell.com/de/fuel/10025063-boostedt-bahnhofstrasse-50"
+street: Bahnhofstraße
+housenumber: "50"
+phone: +49 4393 610
+opening_hours: Mo-Su 06:00-22:00
+website: https://find.shell.com/de/fuel/10025063-boostedt-bahnhofstrasse-50

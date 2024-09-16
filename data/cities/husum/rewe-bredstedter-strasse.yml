@@ -1,11 +1,11 @@
 id: 223456535
-type: way
+type: node
 latitude: 54.48907
 longitude: 9.04429
 postcode: "25813"
 city: Husum
-street: "Bredstedter Straße"
-housenumber: 39
+street: Bredstedter Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.33218
 longitude: 10.07383
 postcode: "24119"
 city: Kronshagen
-street: "Heischberg"
-housenumber: 2
-phone: "+49 431 58 29 82"
-opening_hours: "Mo-Sa 08:00-18:00"
+street: Heischberg
+housenumber: "2"
+phone: +49 431 58 29 82
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

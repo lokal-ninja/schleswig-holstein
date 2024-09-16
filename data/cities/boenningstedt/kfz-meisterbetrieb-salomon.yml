@@ -1,11 +1,11 @@
 id: 124806799
-type: way
+type: node
 latitude: 53.66031
 longitude: 9.90727
 postcode: "25474"
 city: Bönningstedt
-street: "Kieler Straße"
-housenumber: 58
-phone: "+49 40 570064780"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kfz-meisterbetrieb-salomon.de/"
+street: Kieler Straße
+housenumber: "58"
+phone: +49 40 570064780
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kfz-meisterbetrieb-salomon.de/

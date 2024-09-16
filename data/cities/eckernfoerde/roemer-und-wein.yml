@@ -4,8 +4,8 @@ latitude: 54.47412
 longitude: 9.83628
 postcode: "24340"
 city: Eckernförde
-street: "Frau-Clara-Straße"
-housenumber: 17
-phone: "+49 4351 475044"
-opening_hours: "Mo-Tu 17:00-22:00; We-Sa 11:00-23:00"
-website: "https://www.roemerundwein.de/"
+street: Frau-Clara-Straße
+housenumber: "17"
+phone: +49 4351 475044
+opening_hours: Mo-Tu 17:00-22:00; We-Sa 11:00-23:00
+website: https://www.roemerundwein.de/

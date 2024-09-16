@@ -4,8 +4,8 @@ latitude: 54.78202
 longitude: 9.43712
 postcode: "24937"
 city: Flensburg
-street: "Doktor-Todsen-Straße"
-housenumber: 3
-phone: "+49 461 22583"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; Mo off"
+street: Doktor-Todsen-Straße
+housenumber: "3"
+phone: +49 461 22583
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00; Mo off
 website: ""

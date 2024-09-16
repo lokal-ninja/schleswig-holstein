@@ -1,11 +1,11 @@
 id: 118051389
-type: way
+type: node
 latitude: 54.14626
 longitude: 10.45686
 postcode: "24306"
 city: Bösdorf
-street: "An der B 76"
-housenumber: 4
+street: An der B 76
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

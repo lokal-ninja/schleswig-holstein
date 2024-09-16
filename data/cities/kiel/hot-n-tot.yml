@@ -4,8 +4,8 @@ latitude: 54.32249
 longitude: 10.12552
 postcode: "24103"
 city: Kiel
-street: "Möllingstraße"
-housenumber: 9
-phone: "+49 431 9710014"
-opening_hours: "Tu-Fr 10:00-18:00, Mo,Sa open nach Absprache"
-website: "http://www.hotntot.de/"
+street: Möllingstraße
+housenumber: "9"
+phone: +49 431 9710014
+opening_hours: Tu-Fr 10:00-18:00, Mo,Sa open "nach Absprache"
+website: http://www.hotntot.de/

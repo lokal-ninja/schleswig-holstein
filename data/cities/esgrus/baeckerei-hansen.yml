@@ -4,8 +4,9 @@ latitude: 54.72284
 longitude: 9.78126
 postcode: "24402"
 city: Esgrus
-street: "An der Kirche"
-housenumber: 4
-phone: "+49 4637 315"
-opening_hours: "Mo,Tu,Th,Fr 06:00-12:00,14:00-18:00; We 06:00-12:00; Sa 06:00-12:30; Su 07:30-09:30"
+street: An der Kirche
+housenumber: "4"
+phone: +49 4637 315
+opening_hours: Mo,Tu,Th,Fr 06:00-12:00,14:00-18:00; We 06:00-12:00; Sa 06:00-12:30;
+    Su 07:30-09:30
 website: ""

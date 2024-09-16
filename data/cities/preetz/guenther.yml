@@ -4,8 +4,8 @@ latitude: 54.23591
 longitude: 10.2834
 postcode: "24211"
 city: Preetz
-street: "Garnkorb"
-housenumber: 8
-phone: "+49 4342 798363"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 06:30-20:00"
-website: "http://www.baeckerei-guenther.de"
+street: Garnkorb
+housenumber: "8"
+phone: +49 4342 798363
+opening_hours: Mo-Fr 06:30-20:00; Sa 06:30-20:00
+website: http://www.baeckerei-guenther.de

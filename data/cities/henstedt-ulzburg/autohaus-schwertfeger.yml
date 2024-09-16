@@ -1,11 +1,11 @@
 id: 80863590
-type: way
+type: node
 latitude: 53.76456
 longitude: 9.98567
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Edisonstraße"
-housenumber: 3
+street: Edisonstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "https://www.citroen-haendler.de/schwerdtfeger-henstedt-ulzburg/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: https://www.citroen-haendler.de/schwerdtfeger-henstedt-ulzburg/

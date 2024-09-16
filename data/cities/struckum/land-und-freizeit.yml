@@ -1,11 +1,11 @@
 id: 126374210
-type: way
+type: node
 latitude: 54.58721
 longitude: 8.99715
 postcode: "25821"
 city: Struckum
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://landundfreizeit.de/"
+website: https://landundfreizeit.de/

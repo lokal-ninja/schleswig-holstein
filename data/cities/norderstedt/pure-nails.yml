@@ -1,11 +1,11 @@
 id: 319228755
-type: way
+type: node
 latitude: 53.68292
 longitude: 9.97766
 postcode: "22848"
 city: Norderstedt
-street: "Friedrich-Ebert-Straße"
-housenumber: 11
+street: Friedrich-Ebert-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 54.46856
 longitude: 9.83989
 postcode: "24340"
 city: Eckernförde
-street: "Jungfernstieg"
-housenumber: 10
-phone: "+49 4351 712500"
-opening_hours: "Mo-Fr 15:00-18:00"
-website: "https://nordcult.de/"
+street: Jungfernstieg
+housenumber: "10"
+phone: +49 4351 712500
+opening_hours: Mo-Fr 15:00-18:00
+website: https://nordcult.de/

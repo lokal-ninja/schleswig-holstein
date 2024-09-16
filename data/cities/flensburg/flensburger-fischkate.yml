@@ -4,8 +4,8 @@ latitude: 54.81663
 longitude: 9.4719
 postcode: "24944"
 city: Flensburg
-street: "Fördestraße"
-housenumber: 65
-phone: "+49 461 99936736"
-opening_hours: "Mo,Sa 08:00-13:00; Tu-Fr 08:00-18:00; Su off"
-website: "http://flensburger-fischkate.de/"
+street: Fördestraße
+housenumber: "65"
+phone: +49 461 99936736
+opening_hours: Mo,Sa 08:00-13:00; Tu-Fr 08:00-18:00; Su off
+website: http://flensburger-fischkate.de/

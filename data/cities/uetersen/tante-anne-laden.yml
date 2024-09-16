@@ -4,8 +4,8 @@ latitude: 53.68728
 longitude: 9.65358
 postcode: "25436"
 city: Uetersen
-street: "Mühlenstraße"
-housenumber: 56
-phone: "+49 4122 02592"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://zur-erholung-uetersen.de/"
+street: Mühlenstraße
+housenumber: "56"
+phone: +49 4122 02592
+opening_hours: Tu-Sa 10:00-18:00
+website: https://zur-erholung-uetersen.de/

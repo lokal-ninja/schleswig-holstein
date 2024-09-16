@@ -1,11 +1,11 @@
 id: 193636260
-type: way
+type: node
 latitude: 54.29483
 longitude: 10.59743
 postcode: "24321"
 city: Lütjenburg
-street: "Königsberger Straße"
-housenumber: 1
+street: Königsberger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 11:00-17:00
 website: ""

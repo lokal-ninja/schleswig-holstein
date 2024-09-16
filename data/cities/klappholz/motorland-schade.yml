@@ -1,11 +1,12 @@
 id: 245843524
-type: way
+type: node
 latitude: 54.62182
 longitude: 9.53671
 postcode: "24860"
 city: Klappholz
-street: "Dorfstraße"
-housenumber: 10
-phone: "+49 4603 282"
-opening_hours: "Mo-Th 07:30-12:00,12:30-17:30; Fr 07:30-12:00,12:30-16:30; Sa 07:30-12:00; PH,Su off"
-website: "https://www.schade-klappholz.de/"
+street: Dorfstraße
+housenumber: "10"
+phone: +49 4603 282
+opening_hours: Mo-Th 07:30-12:00,12:30-17:30; Fr 07:30-12:00,12:30-16:30; Sa 07:30-12:00;
+    PH,Su off
+website: https://www.schade-klappholz.de/

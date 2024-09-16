@@ -1,11 +1,11 @@
 id: 605570505
-type: way
+type: node
 latitude: 53.60529
 longitude: 10.21418
 postcode: "22145"
 city: Stapelfeld
-street: "Hauptstraße"
-housenumber: 8
-phone: "+49 40 6771694"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-16:00; Su off"
-website: "https://www.esso.de/de-de/find-station/esso-stapelfeld-essostationstapelfeld-100151772"
+street: Hauptstraße
+housenumber: "8"
+phone: +49 40 6771694
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-16:00; Su off
+website: https://www.esso.de/de-de/find-station/esso-stapelfeld-essostationstapelfeld-100151772

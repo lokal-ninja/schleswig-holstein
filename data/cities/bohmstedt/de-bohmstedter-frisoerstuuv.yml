@@ -4,8 +4,8 @@ latitude: 54.58697
 longitude: 9.04558
 postcode: "25853"
 city: Bohmstedt
-street: "Hohe Luft"
-housenumber: 8
-phone: "+49 4671 6008539"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH off"
-website: "https://www.frisoerstuuv.de/"
+street: Hohe Luft
+housenumber: "8"
+phone: +49 4671 6008539
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su,PH off
+website: https://www.frisoerstuuv.de/

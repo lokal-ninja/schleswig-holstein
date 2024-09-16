@@ -4,8 +4,8 @@ latitude: 53.70224
 longitude: 9.8319
 postcode: "25494"
 city: Borstel-Hohenraden
-street: "Harbrookweg"
-housenumber: 3
+street: Harbrookweg
+housenumber: "3"
 phone: "+4941018080668"
-opening_hours: "Mo-We,Su off; Th 15:00-19:00; Fr 11:00-18:00; Sa 09:00-16:00"
-website: "https://silvis-hofladen.business.site"
+opening_hours: Mo-We,Su off; Th 15:00-19:00; Fr 11:00-18:00; Sa 09:00-16:00
+website: https://silvis-hofladen.business.site

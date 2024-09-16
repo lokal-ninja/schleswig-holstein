@@ -4,8 +4,8 @@ latitude: 53.79794
 longitude: 10.34178
 postcode: "23843"
 city: Bad Oldesloe
-street: "Sandkamp"
-housenumber: 8
+street: Sandkamp
+housenumber: "8"
 phone: "+494531181261"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-14:00"
-website: "https://www.autoservice-kuhlke.de/"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-14:00
+website: https://www.autoservice-kuhlke.de/

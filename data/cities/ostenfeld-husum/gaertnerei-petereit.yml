@@ -1,11 +1,11 @@
 id: 251195461
-type: way
+type: node
 latitude: 54.46259
 longitude: 9.23041
 postcode: "25872"
 city: Ostenfeld (Husum)
-street: "Hauptstraße"
-housenumber: 20
-phone: "+49 4845 7919145"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-12:00; Su off"
+street: Hauptstraße
+housenumber: "20"
+phone: +49 4845 7919145
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-12:00; Su off
 website: ""

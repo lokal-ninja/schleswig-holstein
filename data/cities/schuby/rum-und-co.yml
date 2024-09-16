@@ -4,8 +4,8 @@ latitude: 54.5224
 longitude: 9.47136
 postcode: "24850"
 city: Schuby
-street: "Nordring"
-housenumber: 5
-phone: "+49 4621 5499910"
-opening_hours: "Fr 07:00-16:00; Sa 10:00-15:00; Su-Th,PH off"
-website: "https://www.rumundco.de/"
+street: Nordring
+housenumber: "5"
+phone: +49 4621 5499910
+opening_hours: Fr 07:00-16:00; Sa 10:00-15:00; Su-Th,PH off
+website: https://www.rumundco.de/

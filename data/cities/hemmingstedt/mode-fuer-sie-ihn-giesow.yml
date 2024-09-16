@@ -1,11 +1,11 @@
 id: 170198870
-type: way
+type: node
 latitude: 54.14615
 longitude: 9.07133
 postcode: "25770"
 city: Hemmingstedt
-street: "Meldorfer Straße"
-housenumber: 8
+street: Meldorfer Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.giesow-moden.de/"
+website: https://www.giesow-moden.de/

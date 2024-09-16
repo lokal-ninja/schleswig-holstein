@@ -4,8 +4,8 @@ latitude: 53.80931
 longitude: 10.37177
 postcode: "23843"
 city: Bad Oldesloe
-street: "Hindenburgstraße"
-housenumber: 29
-phone: "+49 4531 87371"
-opening_hours: "Mo 09:00-16:30; Tu-Fr 09:00-18:00; Sa 08:00-14:30; PH off"
-website: "http://www.blumen-brueggmann.de/kontakt/kontakt.php"
+street: Hindenburgstraße
+housenumber: "29"
+phone: +49 4531 87371
+opening_hours: Mo 09:00-16:30; Tu-Fr 09:00-18:00; Sa 08:00-14:30; PH off
+website: http://www.blumen-brueggmann.de/kontakt/kontakt.php

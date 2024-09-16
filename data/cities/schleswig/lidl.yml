@@ -1,11 +1,11 @@
 id: 1209573877
-type: way
+type: node
 latitude: 54.53077
 longitude: 9.53045
 postcode: "24837"
 city: Schleswig
-street: "Lattenkamp"
-housenumber: 2
+street: Lattenkamp
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

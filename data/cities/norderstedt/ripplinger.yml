@@ -1,11 +1,11 @@
 id: 409282169
-type: way
+type: node
 latitude: 53.66866
 longitude: 9.98741
 postcode: "22848"
 city: Norderstedt
-street: "Rugenbarg"
-housenumber: 70
-phone: "+49 40 325 93 660"
+street: Rugenbarg
+housenumber: "70"
+phone: +49 40 325 93 660
 opening_hours: ""
-website: "https://www.kfz-ripplinger.de/"
+website: https://www.kfz-ripplinger.de/

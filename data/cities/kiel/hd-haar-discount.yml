@@ -4,8 +4,8 @@ latitude: 54.31086
 longitude: 10.14566
 postcode: "24143"
 city: Kiel
-street: "Elisabethstraße"
-housenumber: 76
-phone: "+49 431 2595755"
-opening_hours: "Mo-Sa 08:00-18:00; Th 08:00-15:00"
+street: Elisabethstraße
+housenumber: "76"
+phone: +49 431 2595755
+opening_hours: Mo-Sa 08:00-18:00; Th 08:00-15:00
 website: ""

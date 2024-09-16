@@ -1,11 +1,11 @@
 id: 144429355
-type: way
+type: node
 latitude: 53.5721
 longitude: 9.70203
 postcode: "22880"
 city: Wedel
-street: "Hafenstraße"
-housenumber: 23
+street: Hafenstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

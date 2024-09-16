@@ -4,8 +4,8 @@ latitude: 53.99072
 longitude: 9.11593
 postcode: "25693"
 city: Sankt Michaelisdonn
-street: "Bahnhofstraße"
-housenumber: 19
+street: Bahnhofstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Nach Vereinbarung"
+opening_hours: '"Nach Vereinbarung"'
 website: ""

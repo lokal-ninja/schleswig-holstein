@@ -1,11 +1,11 @@
 id: 589490685
-type: way
+type: node
 latitude: 53.94939
 longitude: 9.73533
 postcode: "25548"
 city: Kellinghusen
-street: "Quarnstedter Straße"
-housenumber: 14
+street: Quarnstedter Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://laacky.de"
+website: https://laacky.de

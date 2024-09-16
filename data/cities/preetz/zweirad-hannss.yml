@@ -1,11 +1,11 @@
 id: 186758665
-type: way
+type: node
 latitude: 54.23479
 longitude: 10.28528
 postcode: "24211"
 city: Preetz
-street: "Schellhorner Straße"
-housenumber: 6
+street: Schellhorner Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.zweirad-hannss.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.zweirad-hannss.de/

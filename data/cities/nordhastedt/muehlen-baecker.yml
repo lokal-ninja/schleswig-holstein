@@ -1,11 +1,11 @@
 id: 294067326
-type: way
+type: node
 latitude: 54.17749
 longitude: 9.18118
 postcode: "25785"
 city: Nordhastedt
-street: "Heider Straße"
-housenumber: 11
+street: Heider Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

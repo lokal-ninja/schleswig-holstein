@@ -1,11 +1,11 @@
 id: 27198235
-type: way
+type: node
 latitude: 54.28716
 longitude: 10.21616
 postcode: "24223"
 city: Schwentinental
-street: "Gutenbergstraße"
+street: Gutenbergstraße
 housenumber: 48-50
-phone: "+49 4307 8362-0"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
+phone: +49 4307 8362-0
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
 website: ""

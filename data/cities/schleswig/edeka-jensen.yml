@@ -4,8 +4,8 @@ latitude: 54.51538
 longitude: 9.56163
 postcode: "24837"
 city: Schleswig
-street: "Schwarzer Weg"
-housenumber: 17
-phone: "+49 4621 35211"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka-jensen.de/schleswig"
+street: Schwarzer Weg
+housenumber: "17"
+phone: +49 4621 35211
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka-jensen.de/schleswig

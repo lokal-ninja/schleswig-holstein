@@ -1,11 +1,11 @@
 id: 170332396
-type: way
+type: node
 latitude: 54.76977
 longitude: 9.4252
 postcode: "24941"
 city: Flensburg
-street: "Liebigstraße"
-housenumber: 2
+street: Liebigstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.mercedes-benz-klaus.de/"
+website: https://www.mercedes-benz-klaus.de/

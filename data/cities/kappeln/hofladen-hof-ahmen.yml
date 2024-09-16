@@ -4,8 +4,8 @@ latitude: 54.63656
 longitude: 9.95505
 postcode: "24376"
 city: Kappeln
-street: "Wacholderweg"
-housenumber: 1
+street: Wacholderweg
+housenumber: "1"
 phone: ""
-opening_hours: "Apr-Oct: Mo-Sa 08:00-18:00"
+opening_hours: 'Apr-Oct: Mo-Sa 08:00-18:00'
 website: ""

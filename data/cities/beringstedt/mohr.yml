@@ -1,11 +1,11 @@
 id: 131013338
-type: way
+type: node
 latitude: 54.11553
 longitude: 9.53628
 postcode: "25575"
 city: Beringstedt
-street: "Saar"
-housenumber: 48
-phone: "+49 4874 1234"
-opening_hours: "Tu-Fr 8:30-19:00; Sa 8:30-15:00"
-website: "http://www.wilhelm-mohr.de/beringstedt.htm"
+street: Saar
+housenumber: "48"
+phone: +49 4874 1234
+opening_hours: Tu-Fr 8:30-19:00; Sa 8:30-15:00
+website: http://www.wilhelm-mohr.de/beringstedt.htm

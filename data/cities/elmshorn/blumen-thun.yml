@@ -1,11 +1,11 @@
 id: 396379008
-type: way
+type: node
 latitude: 53.77041
 longitude: 9.68492
 postcode: "25335"
 city: Elmshorn
-street: "Kaltenweide"
-housenumber: 221
+street: Kaltenweide
+housenumber: "221"
 phone: ""
-opening_hours: "Mo-Tu 12:30-18:00; Th-Fr 12:30-18:00; Sa 9:00-12:30; Su 10:00-12:00"
+opening_hours: Mo-Tu 12:30-18:00; Th-Fr 12:30-18:00; Sa 9:00-12:30; Su 10:00-12:00
 website: ""

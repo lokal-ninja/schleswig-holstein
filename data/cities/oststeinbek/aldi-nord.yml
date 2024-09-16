@@ -1,11 +1,11 @@
 id: 34992723
-type: way
+type: node
 latitude: 53.54959
 longitude: 10.15489
 postcode: "22113"
 city: Oststeinbek
-street: "Im Hegen"
-housenumber: 2
+street: Im Hegen
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

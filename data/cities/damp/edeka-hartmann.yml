@@ -1,11 +1,11 @@
 id: 294638975
-type: way
+type: node
 latitude: 54.5706
 longitude: 9.95881
 postcode: "24351"
 city: Damp
-street: "Gartenstraße"
-housenumber: 6
-phone: "+49 4352 1510"
-opening_hours: "Mo-Fr 07:00-12:30,14:30-18:30; Sa 07:00-13:00"
+street: Gartenstraße
+housenumber: "6"
+phone: +49 4352 1510
+opening_hours: Mo-Fr 07:00-12:30,14:30-18:30; Sa 07:00-13:00
 website: ""

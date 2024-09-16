@@ -1,11 +1,11 @@
 id: 1061084285
-type: way
+type: node
 latitude: 53.61041
 longitude: 10.40346
 postcode: "22946"
 city: Trittau
-street: "Zum Riden"
-housenumber: 3
+street: Zum Riden
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

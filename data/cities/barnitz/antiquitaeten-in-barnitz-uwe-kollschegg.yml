@@ -1,11 +1,11 @@
 id: 536307361
-type: way
+type: node
 latitude: 53.80622
 longitude: 10.50555
 postcode: "23858"
 city: Barnitz
-street: "Trenthorster Straße"
-housenumber: 7
+street: Trenthorster Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 239223732
-type: way
+type: node
 latitude: 54.0908
 longitude: 10.85995
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Wiesenstraße"
-housenumber: 2
+street: Wiesenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

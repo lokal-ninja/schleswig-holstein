@@ -1,11 +1,11 @@
 id: 116947729
-type: way
+type: node
 latitude: 54.18137
 longitude: 7.88912
 postcode: "27498"
 city: Helgoland
-street: "Friesenstraße"
-housenumber: 64
+street: Friesenstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

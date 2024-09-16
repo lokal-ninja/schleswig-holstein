@@ -1,11 +1,11 @@
 id: 168973757
-type: way
+type: node
 latitude: 53.68982
 longitude: 10.16491
 postcode: "22949"
 city: Ammersbek
-street: "Hamburger Straße"
-housenumber: 11
-phone: "+49 40 733 20 20"
+street: Hamburger Straße
+housenumber: "11"
+phone: +49 40 733 20 20
 opening_hours: ""
-website: "http://www.autohausruetz.de/"
+website: http://www.autohausruetz.de/

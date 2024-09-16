@@ -1,11 +1,11 @@
 id: 1212206645
-type: way
+type: node
 latitude: 53.81405
 longitude: 10.39085
 postcode: "23843"
 city: Bad Oldesloe
-street: "Lübecker Straße"
-housenumber: 107
+street: Lübecker Straße
+housenumber: "107"
 phone: "+4945312270"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 10:00-13:00"
-website: "https://www.autohaus-blohm.de"
+opening_hours: Mo-Fr 07:00-18:00; Sa 10:00-13:00
+website: https://www.autohaus-blohm.de

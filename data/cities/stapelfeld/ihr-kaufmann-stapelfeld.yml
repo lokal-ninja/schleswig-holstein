@@ -1,11 +1,11 @@
 id: 633959511
-type: way
+type: node
 latitude: 53.60557
 longitude: 10.22049
 postcode: "22145"
 city: Stapelfeld
-street: "Hinter der Schule"
-housenumber: 1
+street: Hinter der Schule
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

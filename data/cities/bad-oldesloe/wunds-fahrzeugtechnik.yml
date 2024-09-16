@@ -1,11 +1,11 @@
 id: 105135028
-type: way
+type: node
 latitude: 53.79652
 longitude: 10.40695
 postcode: "23843"
 city: Bad Oldesloe
-street: "Lily-Braun-Straße"
-housenumber: 50
-phone: "+49 45 31 - 128222"
-opening_hours: "Mo-Th 07:30-16:45; Fr 07:30-12:00"
-website: "https://www.wsfahrzeugservice.de/"
+street: Lily-Braun-Straße
+housenumber: "50"
+phone: +49 45 31 - 128222
+opening_hours: Mo-Th 07:30-16:45; Fr 07:30-12:00
+website: https://www.wsfahrzeugservice.de/

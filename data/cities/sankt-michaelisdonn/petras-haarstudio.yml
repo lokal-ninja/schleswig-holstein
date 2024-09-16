@@ -4,8 +4,9 @@ latitude: 53.99197
 longitude: 9.11227
 postcode: "25693"
 city: Sankt Michaelisdonn
-street: "Johannßenstraße"
-housenumber: 63
-phone: "+49 4853 761"
-opening_hours: "Tu 08:30-12:30,14:00-18:30; We 08:30-13:00; Th 08:30-12:30,14:00-18:30; Fr 08:00-12:30,14:00-18:30; Sa 08:00-13:00; PH off"
-website: "https://www.petrashaarstudio.de/"
+street: Johannßenstraße
+housenumber: "63"
+phone: +49 4853 761
+opening_hours: Tu 08:30-12:30,14:00-18:30; We 08:30-13:00; Th 08:30-12:30,14:00-18:30;
+    Fr 08:00-12:30,14:00-18:30; Sa 08:00-13:00; PH off
+website: https://www.petrashaarstudio.de/

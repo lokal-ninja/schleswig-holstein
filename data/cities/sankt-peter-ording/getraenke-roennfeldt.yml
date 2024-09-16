@@ -1,11 +1,11 @@
 id: 175730637
-type: way
+type: node
 latitude: 54.30614
 longitude: 8.64653
 postcode: "25826"
 city: Sankt Peter-Ording
-street: "Nordergeest"
-housenumber: 7
+street: Nordergeest
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://getraenke-roennfeldt.de/"
+website: https://getraenke-roennfeldt.de/

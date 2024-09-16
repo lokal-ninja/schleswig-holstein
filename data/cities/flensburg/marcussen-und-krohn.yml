@@ -4,8 +4,8 @@ latitude: 54.81636
 longitude: 9.47166
 postcode: "24944"
 city: Flensburg
-street: "Fördestraße"
-housenumber: 63
-phone: "+49 461 27355"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-14:00; Su,Mo,PH off"
-website: "http://marcussen-krohn.de/"
+street: Fördestraße
+housenumber: "63"
+phone: +49 461 27355
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-19:00; Sa 09:00-14:00; Su,Mo,PH off
+website: http://marcussen-krohn.de/

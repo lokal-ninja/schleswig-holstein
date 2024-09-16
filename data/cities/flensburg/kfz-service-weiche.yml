@@ -4,8 +4,8 @@ latitude: 54.76809
 longitude: 9.39119
 postcode: "24941"
 city: Flensburg
-street: "Alter Ochsenweg"
-housenumber: 36
-phone: "+49 461 91396"
-opening_hours: "Mo-Th 08:30-17:30; Fr 08:30-15:30"
-website: "https://www.kfzserviceweiche.de"
+street: Alter Ochsenweg
+housenumber: "36"
+phone: +49 461 91396
+opening_hours: Mo-Th 08:30-17:30; Fr 08:30-15:30
+website: https://www.kfzserviceweiche.de

@@ -4,8 +4,8 @@ latitude: 53.79742
 longitude: 10.41213
 postcode: "23843"
 city: Bad Oldesloe
-street: "Emma-Ihrer-Straße"
-housenumber: 14
+street: Emma-Ihrer-Straße
+housenumber: "14"
 phone: "+49453188131"
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-12:15 || Nach Vereinbarung"
-website: "https://www.kfz-felder.de"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-12:15 || "Nach Vereinbarung"
+website: https://www.kfz-felder.de

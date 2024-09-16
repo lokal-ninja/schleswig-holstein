@@ -1,11 +1,11 @@
 id: 1023550066
-type: way
+type: node
 latitude: 54.10107
 longitude: 10.82338
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Berliner Platz"
-housenumber: 4
+street: Berliner Platz
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

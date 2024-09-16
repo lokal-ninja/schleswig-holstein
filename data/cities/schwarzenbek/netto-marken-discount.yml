@@ -1,11 +1,11 @@
 id: 368755794
-type: way
+type: node
 latitude: 53.5127
 longitude: 10.49086
 postcode: "21493"
 city: Schwarzenbek
-street: "Heuweg"
-housenumber: 2
+street: Heuweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

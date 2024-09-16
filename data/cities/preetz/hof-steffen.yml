@@ -4,8 +4,8 @@ latitude: 54.23536
 longitude: 10.28183
 postcode: "24211"
 city: Preetz
-street: "Markt"
-housenumber: 23
+street: Markt
+housenumber: "23"
 phone: ""
-opening_hours: "Mo,We,Sa 08:00-14:00; Tu,Th-Fr 08:00-18:00"
+opening_hours: Mo,We,Sa 08:00-14:00; Tu,Th-Fr 08:00-18:00
 website: ""

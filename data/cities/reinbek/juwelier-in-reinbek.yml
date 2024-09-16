@@ -4,8 +4,8 @@ latitude: 53.50916
 longitude: 10.25164
 postcode: "21465"
 city: Reinbek
-street: "Bahnhofstraße"
-housenumber: 6
-phone: "+49 40 722 65 26"
-opening_hours: "Tu-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:30"
-website: "https://juwelier-reinbek.de/"
+street: Bahnhofstraße
+housenumber: "6"
+phone: +49 40 722 65 26
+opening_hours: Tu-Fr 09:30-12:30,14:00-18:00; Sa 09:30-12:30
+website: https://juwelier-reinbek.de/

@@ -1,11 +1,11 @@
 id: 258243593
-type: way
+type: node
 latitude: 54.47766
 longitude: 9.04756
 postcode: "25813"
 city: Husum
-street: "Neustadt"
-housenumber: 28
-phone: "+49 4841 64137"
+street: Neustadt
+housenumber: "28"
+phone: +49 4841 64137
 opening_hours: ""
-website: "https://www.blumen-kluth.de/"
+website: https://www.blumen-kluth.de/

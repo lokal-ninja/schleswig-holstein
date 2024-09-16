@@ -1,11 +1,11 @@
 id: 29273259
-type: way
+type: node
 latitude: 54.13062
 longitude: 10.57935
 postcode: "23701"
 city: Eutin
-street: "Plöner Landstraße"
+street: Plöner Landstraße
 housenumber: 8-10
-phone: "+49 4521 6333"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.famila-nordost.de/wqwarenhaus/eutin/"
+phone: +49 4521 6333
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.famila-nordost.de/wqwarenhaus/eutin/

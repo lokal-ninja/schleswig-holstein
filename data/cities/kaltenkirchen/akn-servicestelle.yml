@@ -4,8 +4,9 @@ latitude: 53.83476
 longitude: 9.9668
 postcode: "24568"
 city: Kaltenkirchen
-street: "Am Bahnhof"
+street: Am Bahnhof
 housenumber: 12b
-phone: "+49 4191 933112"
-opening_hours: "Mo 06:30-12:00,13:00-16:00; Tu-We 08:00-12:00,13:00-16:00; Th 08:00-12:00,13:00-18:00; Fr 08:00-12:00,13:00-16:00"
-website: "https://hvv.de"
+phone: +49 4191 933112
+opening_hours: Mo 06:30-12:00,13:00-16:00; Tu-We 08:00-12:00,13:00-16:00; Th 08:00-12:00,13:00-18:00;
+    Fr 08:00-12:00,13:00-16:00
+website: https://hvv.de

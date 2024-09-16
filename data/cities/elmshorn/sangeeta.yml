@@ -1,11 +1,11 @@
 id: 119985362
-type: way
+type: node
 latitude: 53.75315
 longitude: 9.65208
 postcode: "25335"
 city: Elmshorn
-street: "Alter Markt"
-housenumber: 9
+street: Alter Markt
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

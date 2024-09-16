@@ -1,11 +1,11 @@
 id: 46421223
-type: way
+type: node
 latitude: 54.39018
 longitude: 10.3746
 postcode: "24217"
 city: Schönberg (Holstein)
-street: "Kleine Mühlenstraße"
-housenumber: 6
+street: Kleine Mühlenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

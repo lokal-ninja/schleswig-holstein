@@ -1,11 +1,11 @@
 id: 377075505
-type: way
+type: node
 latitude: 54.05837
 longitude: 9.97847
 postcode: "24539"
 city: Neumünster
-street: "Grüner Weg"
-housenumber: 45
+street: Grüner Weg
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

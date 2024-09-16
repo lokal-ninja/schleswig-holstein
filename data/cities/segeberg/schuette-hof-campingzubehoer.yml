@@ -1,11 +1,11 @@
 id: 628027003
-type: way
+type: node
 latitude: 53.93067
 longitude: 10.33238
 postcode: "23795"
 city: Segeberg
-street: "Lübecker Landstraße"
-housenumber: 40
+street: Lübecker Landstraße
+housenumber: "40"
 phone: ""
-opening_hours: "We-Fr 09:30-17:00, Sa 09:30-13:00"
-website: "https://www.schuette-hof.de/"
+opening_hours: We-Fr 09:30-17:00, Sa 09:30-13:00
+website: https://www.schuette-hof.de/

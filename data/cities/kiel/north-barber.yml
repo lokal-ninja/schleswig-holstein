@@ -4,8 +4,9 @@ latitude: 54.34678
 longitude: 10.13276
 postcode: "24106"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 203
+street: Holtenauer Straße
+housenumber: "203"
 phone: ""
-opening_hours: "Tu-Th 09:00-19:00; Fr 09:00-13:00,15:00-19:00; Sa 09:00-14:00; Su,Mo off"
-website: "https://northbarber.de/"
+opening_hours: Tu-Th 09:00-19:00; Fr 09:00-13:00,15:00-19:00; Sa 09:00-14:00; Su,Mo
+    off
+website: https://northbarber.de/

@@ -1,11 +1,11 @@
 id: 52131203
-type: way
+type: node
 latitude: 54.28853
 longitude: 10.23038
 postcode: "24223"
 city: Schwentinental
-street: "Klausdorfer Straße"
+street: Klausdorfer Straße
 housenumber: 28-36
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauhaus.info/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauhaus.info/

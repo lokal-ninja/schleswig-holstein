@@ -1,11 +1,11 @@
 id: 70221193
-type: way
+type: node
 latitude: 54.22087
 longitude: 10.1392
 postcode: "24245"
 city: Klein Barkau
-street: "Dorfstraße"
-housenumber: 11
+street: Dorfstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

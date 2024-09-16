@@ -4,8 +4,8 @@ latitude: 54.11837
 longitude: 9.18402
 postcode: "25785"
 city: Sarzbüttel
-street: "Hauptstraße"
-housenumber: 43
-phone: "+49 4806 328"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00;PH off"
-website: "https://www.kaeserei-sarzbuettel.de/"
+street: Hauptstraße
+housenumber: "43"
+phone: +49 4806 328
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 08:00-12:00;PH off
+website: https://www.kaeserei-sarzbuettel.de/

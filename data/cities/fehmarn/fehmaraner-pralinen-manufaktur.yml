@@ -4,8 +4,8 @@ latitude: 54.43571
 longitude: 11.1971
 postcode: "23769"
 city: Fehmarn
-street: "Süderstraße"
-housenumber: 2
+street: Süderstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00;Sa 10:00-14:00;PH off"
+opening_hours: Mo-Fr 10:00-18:00;Sa 10:00-14:00;PH off
 website: ""

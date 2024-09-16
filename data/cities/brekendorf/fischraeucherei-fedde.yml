@@ -4,8 +4,8 @@ latitude: 54.42052
 longitude: 9.62522
 postcode: "24811"
 city: Brekendorf
-street: "Dorfstraße"
-housenumber: 60
-phone: "+49 4336 3495"
-opening_hours: "Auf Anfrage"
-website: "https://www.fisch-fedde.de/"
+street: Dorfstraße
+housenumber: "60"
+phone: +49 4336 3495
+opening_hours: '"Auf Anfrage"'
+website: https://www.fisch-fedde.de/

@@ -1,11 +1,11 @@
 id: 613135861
-type: way
+type: node
 latitude: 54.10789
 longitude: 10.81341
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Am Markt"
-housenumber: 12
+street: Am Markt
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
 website: ""

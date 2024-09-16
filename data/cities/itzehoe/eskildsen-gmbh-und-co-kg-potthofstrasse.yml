@@ -1,11 +1,11 @@
 id: 379094632
-type: way
+type: node
 latitude: 53.92543
 longitude: 9.50291
 postcode: "25524"
 city: Itzehoe
-street: "Potthofstraße"
-housenumber: 7
-phone: "+49 4821 804080"
-opening_hours: "Mo-Fr 07:00-18:30; Sa 08:30-12:30"
-website: "http://www.eskildsen-center.de/"
+street: Potthofstraße
+housenumber: "7"
+phone: +49 4821 804080
+opening_hours: Mo-Fr 07:00-18:30; Sa 08:30-12:30
+website: http://www.eskildsen-center.de/

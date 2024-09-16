@@ -4,8 +4,8 @@ latitude: 54.1326
 longitude: 8.85044
 postcode: "25761"
 city: Büsum
-street: "Halligstraße"
-housenumber: 1
+street: Halligstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.nordseebaecker.de/index.php/component/content/featured"
+website: http://www.nordseebaecker.de/index.php/component/content/featured

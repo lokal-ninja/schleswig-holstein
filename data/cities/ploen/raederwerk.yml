@@ -1,11 +1,11 @@
 id: 117933898
-type: way
+type: node
 latitude: 54.16008
 longitude: 10.43061
 postcode: "24306"
 city: Plön
-street: "Eutiner Straße"
-housenumber: 44
-phone: "+49 4522508670"
+street: Eutiner Straße
+housenumber: "44"
+phone: +49 4522508670
 opening_hours: ""
-website: "https://www.raederwerk-ploen.de"
+website: https://www.raederwerk-ploen.de

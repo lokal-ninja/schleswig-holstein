@@ -1,11 +1,11 @@
 id: 28394517
-type: way
+type: node
 latitude: 54.32393
 longitude: 10.18234
 postcode: "24148"
 city: Kiel
-street: "Wischhofstraße"
-housenumber: 80
+street: Wischhofstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

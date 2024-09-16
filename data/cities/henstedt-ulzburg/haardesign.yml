@@ -4,8 +4,9 @@ latitude: 53.79342
 longitude: 9.98108
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Rathausplatz"
-housenumber: 5
+street: Rathausplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Tu 09:00-20:00; We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.haardesign-hu.de/"
+opening_hours: Tu 09:00-20:00; We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00; Sa
+    08:00-14:00
+website: https://www.haardesign-hu.de/

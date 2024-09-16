@@ -1,11 +1,11 @@
 id: 43129622
-type: way
+type: node
 latitude: 54.45175
 longitude: 9.83441
 postcode: "24340"
 city: Eckernförde
-street: "Hörst"
-housenumber: 8
+street: Hörst
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

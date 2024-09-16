@@ -4,8 +4,9 @@ latitude: 54.78175
 longitude: 9.4374
 postcode: "24937"
 city: Flensburg
-street: "Doktor-Todsen-Straße"
-housenumber: 7
-phone: "+49 461 21002"
-opening_hours: "Apr-Oct: Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off; Nov-Mar: Mo-Fr 09:00-18:00; Sa 10:00-15:00; Su,PH off"
-website: "https://www.schmuck-schmidtke.de/uhren-und-trend-shop/"
+street: Doktor-Todsen-Straße
+housenumber: "7"
+phone: +49 461 21002
+opening_hours: 'Apr-Oct: Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off; Nov-Mar: Mo-Fr
+    09:00-18:00; Sa 10:00-15:00; Su,PH off'
+website: https://www.schmuck-schmidtke.de/uhren-und-trend-shop/

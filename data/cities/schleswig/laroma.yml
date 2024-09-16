@@ -4,8 +4,8 @@ latitude: 54.53699
 longitude: 9.58314
 postcode: "24837"
 city: Schleswig
-street: "Werner-von-Siemens-Straße"
-housenumber: 14
-phone: "+49 4621 989215"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off"
-website: "https://www.laroma.de/"
+street: Werner-von-Siemens-Straße
+housenumber: "14"
+phone: +49 4621 989215
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00; Su,PH off
+website: https://www.laroma.de/

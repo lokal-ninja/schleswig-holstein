@@ -1,11 +1,11 @@
 id: 111787979
-type: way
+type: node
 latitude: 54.78346
 longitude: 9.72649
 postcode: "24972"
 city: Steinbergkirche
-street: "Kalleby"
-housenumber: 43
+street: Kalleby
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.ziegelhof-kalleby.de"
+website: https://www.ziegelhof-kalleby.de

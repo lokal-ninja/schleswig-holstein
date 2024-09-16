@@ -4,8 +4,8 @@ latitude: 53.90733
 longitude: 9.8849
 postcode: "24576"
 city: Bad Bramstedt
-street: "Ochsenweg"
-housenumber: 36
+street: Ochsenweg
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.cmks.de"
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.cmks.de

@@ -4,8 +4,8 @@ latitude: 54.12911
 longitude: 8.85859
 postcode: "25761"
 city: Büsum
-street: "Alleestraße"
-housenumber: 31
-phone: "+49 4834 9848877"
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://von-allwoerden.de/"
+street: Alleestraße
+housenumber: "31"
+phone: +49 4834 9848877
+opening_hours: Mo-Su 08:00-18:00
+website: https://von-allwoerden.de/

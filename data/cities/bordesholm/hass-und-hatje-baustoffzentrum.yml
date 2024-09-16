@@ -1,11 +1,11 @@
 id: 676100199
-type: way
+type: node
 latitude: 54.1802
 longitude: 10.04874
 postcode: "24582"
 city: Bordesholm
-street: "Dieselstraße"
-housenumber: 2
+street: Dieselstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

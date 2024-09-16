@@ -1,11 +1,11 @@
 id: 408564010
-type: way
+type: node
 latitude: 53.64762
 longitude: 10.36235
 postcode: "22952"
 city: Lütjensee
-street: "Hamburger Straße"
-housenumber: 15
-phone: "+49 4154 7359"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 07:30-13:00; PH off"
-website: "https://www.charakterkopf-friseure.de/"
+street: Hamburger Straße
+housenumber: "15"
+phone: +49 4154 7359
+opening_hours: Tu-Fr 08:30-18:00; Sa 07:30-13:00; PH off
+website: https://www.charakterkopf-friseure.de/

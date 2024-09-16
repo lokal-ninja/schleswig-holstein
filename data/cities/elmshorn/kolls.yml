@@ -4,8 +4,8 @@ latitude: 53.74308
 longitude: 9.70817
 postcode: "25337"
 city: Elmshorn
-street: "Ramskamp"
-housenumber: 104
-phone: "+49 41217019562"
-opening_hours: "Mo-Sa 08:00-19:00; Su off;"
-website: "https://www.baeckerei-kolls.de/filiale/elmshorn-ramskamp/"
+street: Ramskamp
+housenumber: "104"
+phone: +49 41217019562
+opening_hours: Mo-Sa 08:00-19:00; Su off;
+website: https://www.baeckerei-kolls.de/filiale/elmshorn-ramskamp/

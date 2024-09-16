@@ -1,11 +1,11 @@
 id: 114150884
-type: way
+type: node
 latitude: 54.49546
 longitude: 9.0859
 postcode: "25813"
 city: Husum
-street: "Robert-Koch-Straße"
-housenumber: 32
+street: Robert-Koch-Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 766524478
-type: way
+type: node
 latitude: 54.33199
 longitude: 10.93484
 postcode: "23758"
 city: Gremersdorf
-street: "Alter Sundweg"
+street: Alter Sundweg
 housenumber: 5-7
-phone: "+49 4361 7030"
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-15:00, Sa 09:00-12:00"
-website: "https://www.citroen-haendler.de/pfuetzenreuter-gremersdorf"
+phone: +49 4361 7030
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-15:00, Sa 09:00-12:00
+website: https://www.citroen-haendler.de/pfuetzenreuter-gremersdorf

@@ -1,11 +1,11 @@
 id: 640897826
-type: way
+type: node
 latitude: 54.28774
 longitude: 10.22145
 postcode: "24223"
 city: Schwentinental
-street: "Mergenthalerstraße"
-housenumber: 13
-phone: "+49 4307 7399"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Mergenthalerstraße
+housenumber: "13"
+phone: +49 4307 7399
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

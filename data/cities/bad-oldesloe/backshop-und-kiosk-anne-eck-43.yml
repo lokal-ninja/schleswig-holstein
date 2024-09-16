@@ -1,11 +1,11 @@
 id: 214140768
-type: way
+type: node
 latitude: 53.8057
 longitude: 10.36769
 postcode: "23843"
 city: Bad Oldesloe
-street: "Hamburger Straße"
-housenumber: 43
+street: Hamburger Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

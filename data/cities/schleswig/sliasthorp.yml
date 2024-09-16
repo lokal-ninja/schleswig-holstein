@@ -4,8 +4,8 @@ latitude: 54.51723
 longitude: 9.5664
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 8
+street: Stadtweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH,Su off"
-website: "https://www.foto-sliasthorp.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH,Su off
+website: https://www.foto-sliasthorp.de/

@@ -4,8 +4,8 @@ latitude: 54.29877
 longitude: 10.16781
 postcode: "24147"
 city: Kiel
-street: "Preetzer Straße"
-housenumber: 298
+street: Preetzer Straße
+housenumber: "298"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:30, Su 08:00-13:00; PH off"
-website: "https://www.baecker-steiskal.de/"
+opening_hours: Mo-Sa 07:00-19:30, Su 08:00-13:00; PH off
+website: https://www.baecker-steiskal.de/

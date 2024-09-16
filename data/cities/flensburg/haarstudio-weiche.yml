@@ -4,8 +4,8 @@ latitude: 54.7599
 longitude: 9.39226
 postcode: "24941"
 city: Flensburg
-street: "Alter Husumer Weg"
-housenumber: 247
-phone: "+49 461 92411"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00; Su,Mo,PH off"
-website: "https://www.haarstudio-weiche.de/"
+street: Alter Husumer Weg
+housenumber: "247"
+phone: +49 461 92411
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-13:00; Su,Mo,PH off
+website: https://www.haarstudio-weiche.de/

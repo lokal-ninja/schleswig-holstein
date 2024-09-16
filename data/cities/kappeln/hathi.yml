@@ -4,8 +4,8 @@ latitude: 54.66231
 longitude: 9.93019
 postcode: "24376"
 city: Kappeln
-street: "Schmiedestraße"
-housenumber: 20
-phone: "+49 4642 2405"
-opening_hours: "Mo-Sa 09:30-18:00; Su 11:00-17:00"
-website: "https://www.hathi.de/"
+street: Schmiedestraße
+housenumber: "20"
+phone: +49 4642 2405
+opening_hours: Mo-Sa 09:30-18:00; Su 11:00-17:00
+website: https://www.hathi.de/

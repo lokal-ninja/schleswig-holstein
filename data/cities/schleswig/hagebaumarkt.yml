@@ -1,11 +1,11 @@
 id: 87439004
-type: way
+type: node
 latitude: 54.53448
 longitude: 9.55736
 postcode: "24837"
 city: Schleswig
-street: "Ratsteich"
-housenumber: 30
+street: Ratsteich
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:00
 website: ""

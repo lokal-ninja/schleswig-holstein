@@ -4,8 +4,8 @@ latitude: 54.0781
 longitude: 9.30381
 postcode: "25725"
 city: Schafstedt
-street: "Judenstraße"
-housenumber: 41
+street: Judenstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
-website: "https://www.marx-fachmarkt.com/html/baumarktabteilung.html"
+website: https://www.marx-fachmarkt.com/html/baumarktabteilung.html

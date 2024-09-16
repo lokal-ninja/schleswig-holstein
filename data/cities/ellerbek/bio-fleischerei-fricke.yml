@@ -4,8 +4,8 @@ latitude: 53.64144
 longitude: 9.89068
 postcode: "25474"
 city: Ellerbek
-street: "Waldhof"
-housenumber: 8
-phone: "+49 4101 780547"
-opening_hours: "Mo-Fr 09:00-13:00; Sa-Su off"
-website: "https://www.biofricke.de"
+street: Waldhof
+housenumber: "8"
+phone: +49 4101 780547
+opening_hours: Mo-Fr 09:00-13:00; Sa-Su off
+website: https://www.biofricke.de

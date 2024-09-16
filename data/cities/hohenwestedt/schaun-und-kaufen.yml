@@ -1,11 +1,11 @@
 id: 203514155
-type: way
+type: node
 latitude: 54.09088
 longitude: 9.65261
 postcode: "24594"
 city: Hohenwestedt
-street: "Lindenstraße"
-housenumber: 24
+street: Lindenstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

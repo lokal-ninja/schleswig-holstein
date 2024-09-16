@@ -1,11 +1,11 @@
 id: 142581602
-type: way
+type: node
 latitude: 54.78265
 longitude: 9.46878
 postcode: "24943"
 city: Flensburg
-street: "Taruper Hauptstraße"
-housenumber: 5
+street: Taruper Hauptstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

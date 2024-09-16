@@ -1,11 +1,11 @@
 id: 145130675
-type: way
+type: node
 latitude: 54.19721
 longitude: 9.12524
 postcode: "25746"
 city: Heide
-street: "Schanzenstraße"
-housenumber: 1
+street: Schanzenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

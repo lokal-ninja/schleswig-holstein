@@ -1,11 +1,11 @@
 id: 222704027
-type: way
+type: node
 latitude: 54.48679
 longitude: 9.06736
 postcode: "25813"
 city: Husum
-street: "Herzogin-Augusta-Straße"
-housenumber: 1
+street: Herzogin-Augusta-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-12:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-12:00
 website: ""

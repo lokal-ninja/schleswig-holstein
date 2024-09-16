@@ -1,11 +1,11 @@
 id: 95523669
-type: way
+type: node
 latitude: 53.80873
 longitude: 10.38732
 postcode: "23843"
 city: Bad Oldesloe
-street: "Ratzeburger Straße"
-housenumber: 11
+street: Ratzeburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto.de/geschaefte/bad-oldesloe/ratzeburger-strasse-11-13/d01c6cd59eb246d18808dad147297288"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto.de/geschaefte/bad-oldesloe/ratzeburger-strasse-11-13/d01c6cd59eb246d18808dad147297288

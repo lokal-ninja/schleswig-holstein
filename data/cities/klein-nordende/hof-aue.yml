@@ -4,8 +4,8 @@ latitude: 53.72153
 longitude: 9.64655
 postcode: "25336"
 city: Klein Nordende
-street: "Sandweg"
-housenumber: 74
+street: Sandweg
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
-website: "https://hof-aue.de/"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
+website: https://hof-aue.de/

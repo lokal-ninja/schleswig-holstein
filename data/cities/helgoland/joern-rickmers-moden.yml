@@ -4,8 +4,8 @@ latitude: 54.17758
 longitude: 7.88958
 postcode: "27498"
 city: Helgoland
-street: "Hafenstraße"
-housenumber: 1105
-phone: "+49 4725 640674"
-opening_hours: "Mo-Sa 08:00-18:00; Su 08:00-16:30"
-website: "https://www.rickmers-online.de/"
+street: Hafenstraße
+housenumber: "1105"
+phone: +49 4725 640674
+opening_hours: Mo-Sa 08:00-18:00; Su 08:00-16:30
+website: https://www.rickmers-online.de/

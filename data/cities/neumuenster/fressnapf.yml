@@ -1,11 +1,11 @@
 id: 115781863
-type: way
+type: node
 latitude: 54.08428
 longitude: 9.99419
 postcode: "24536"
 city: Neumünster
-street: "Gutenbergstraße"
-housenumber: 54
+street: Gutenbergstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

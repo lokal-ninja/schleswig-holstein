@@ -4,8 +4,8 @@ latitude: 54.31117
 longitude: 10.14591
 postcode: "24143"
 city: Kiel
-street: "Elisabethstraße"
-housenumber: 72
-phone: "+49 431 7054757"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
-website: "https://www.o2online.de/shops/kiel/989"
+street: Elisabethstraße
+housenumber: "72"
+phone: +49 431 7054757
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00
+website: https://www.o2online.de/shops/kiel/989

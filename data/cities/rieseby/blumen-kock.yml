@@ -1,11 +1,11 @@
 id: 222760353
-type: way
+type: node
 latitude: 54.54259
 longitude: 9.82313
 postcode: "24354"
 city: Rieseby
-street: "Dingstock"
-housenumber: 7
+street: Dingstock
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

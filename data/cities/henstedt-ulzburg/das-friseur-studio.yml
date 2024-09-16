@@ -4,8 +4,9 @@ latitude: 53.79081
 longitude: 9.97978
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Lindenstraße"
+street: Lindenstraße
 housenumber: 2c
 phone: ""
-opening_hours: "Mo 09:00-14:00; Tu 08:30-18:00; We 08:30-14:00; Th 09:00-19:00; Fr 08:30-18:00"
+opening_hours: Mo 09:00-14:00; Tu 08:30-18:00; We 08:30-14:00; Th 09:00-19:00; Fr
+    08:30-18:00
 website: ""

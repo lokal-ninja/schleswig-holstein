@@ -1,11 +1,11 @@
 id: 234302853
-type: way
+type: node
 latitude: 53.87141
 longitude: 10.74505
 postcode: "23566"
 city: Lübeck
-street: "Grootkoppel"
+street: Grootkoppel
 housenumber: 5-7
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

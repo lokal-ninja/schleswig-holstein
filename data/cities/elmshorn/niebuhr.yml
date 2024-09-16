@@ -1,11 +1,11 @@
 id: 35805752
-type: way
+type: node
 latitude: 53.74946
 longitude: 9.6805
 postcode: "25337"
 city: Elmshorn
-street: "Hamburger Straße"
-housenumber: 112
+street: Hamburger Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

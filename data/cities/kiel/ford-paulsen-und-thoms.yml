@@ -1,11 +1,11 @@
 id: 98707150
-type: way
+type: node
 latitude: 54.3046
 longitude: 10.12641
 postcode: "24113"
 city: Kiel
-street: "Stormarnstraße"
-housenumber: 35
+street: Stormarnstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

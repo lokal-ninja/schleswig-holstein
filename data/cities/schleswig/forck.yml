@@ -4,8 +4,8 @@ latitude: 54.51654
 longitude: 9.56265
 postcode: "24837"
 city: Schleswig
-street: "Stadtweg"
-housenumber: 42
-phone: "+49 4621 96360"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH,Su off"
-website: "https://www.forck-schuhe.de/"
+street: Stadtweg
+housenumber: "42"
+phone: +49 4621 96360
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00; PH,Su off
+website: https://www.forck-schuhe.de/

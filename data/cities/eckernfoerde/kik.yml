@@ -1,11 +1,11 @@
 id: 144411980
-type: way
+type: node
 latitude: 54.45165
 longitude: 9.83272
 postcode: "24340"
 city: Eckernförde
-street: "Hörst"
-housenumber: 3
-phone: "+49 2383 9540"
+street: Hörst
+housenumber: "3"
+phone: +49 2383 9540
 opening_hours: ""
-website: "https://www.kik.de/filialfinder/2627/Eckernf%C3%B6rde/?etcc_cmp=Google+My+Business&etcc_med=STC_CC_ATTR_VALUE_SEO&etcc_grp=2627&etcc_par=Google+Plus"
+website: https://www.kik.de/filialfinder/2627/Eckernf%C3%B6rde/?etcc_cmp=Google+My+Business&etcc_med=STC_CC_ATTR_VALUE_SEO&etcc_grp=2627&etcc_par=Google+Plus

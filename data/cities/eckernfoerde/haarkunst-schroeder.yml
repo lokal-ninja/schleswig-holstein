@@ -4,8 +4,8 @@ latitude: 54.48298
 longitude: 9.83108
 postcode: "24340"
 city: Eckernförde
-street: "Ostlandstraße"
-housenumber: 27
-phone: "+49 4531 83128"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-13:00; Su-Mo off"
-website: "https://www.haarkunst-schroeder.de/"
+street: Ostlandstraße
+housenumber: "27"
+phone: +49 4531 83128
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:30-13:00; Su-Mo off
+website: https://www.haarkunst-schroeder.de/

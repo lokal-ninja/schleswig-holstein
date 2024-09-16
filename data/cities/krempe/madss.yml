@@ -1,11 +1,11 @@
 id: 95667145
-type: way
+type: node
 latitude: 53.83645
 longitude: 9.4868
 postcode: "25361"
 city: Krempe
-street: "Breite Straße"
-housenumber: 63
+street: Breite Straße
+housenumber: "63"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00"
-website: "https://www.madss.de"
+opening_hours: Mo-Fr 08:30-12:00,14:00-18:00; Sa 08:30-12:00
+website: https://www.madss.de

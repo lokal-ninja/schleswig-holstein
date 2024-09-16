@@ -4,8 +4,9 @@ latitude: 54.90781
 longitude: 8.30674
 postcode: "25980"
 city: Sylt
-street: "Maybachstraße"
-housenumber: 1
+street: Maybachstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30, Sa 08:30-18:00; Nov 1-Mar 14 PH,Su closed; Mar 15-Oct 31: Su,PH 11:00-17:00"
+opening_hours: 'Mo-Fr 08:30-18:30, Sa 08:30-18:00; Nov 1-Mar 14 PH,Su closed; Mar
+    15-Oct 31: Su,PH 11:00-17:00'
 website: ""

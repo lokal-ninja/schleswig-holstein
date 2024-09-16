@@ -4,8 +4,9 @@ latitude: 54.3449
 longitude: 10.09704
 postcode: "24119"
 city: Kronshagen
-street: "Eckernförder Straße"
-housenumber: 313
-phone: "+49 431 88868120"
-opening_hours: "Mo,Sa-Su,PH off; Tu,Th 09:00-16:30; We,Fr 09:00-14:00, Fr 17:30-18:30 nur Abholung von Vorbestellungen"
-website: "https://www.brotjanker.de/"
+street: Eckernförder Straße
+housenumber: "313"
+phone: +49 431 88868120
+opening_hours: Mo,Sa-Su,PH off; Tu,Th 09:00-16:30; We,Fr 09:00-14:00, Fr 17:30-18:30
+    "nur Abholung von Vorbestellungen"
+website: https://www.brotjanker.de/

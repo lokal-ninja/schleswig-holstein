@@ -4,8 +4,8 @@ latitude: 53.80937
 longitude: 10.37141
 postcode: "23843"
 city: Bad Oldesloe
-street: "Hindenburgstraße"
-housenumber: 31
-phone: "+49 4531 897489"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-14:00; PH off"
-website: "https://www.handke-friseur.de/salons/"
+street: Hindenburgstraße
+housenumber: "31"
+phone: +49 4531 897489
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-14:00; PH off
+website: https://www.handke-friseur.de/salons/

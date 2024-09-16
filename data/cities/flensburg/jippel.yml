@@ -1,11 +1,11 @@
 id: 167258384
-type: way
+type: node
 latitude: 54.79254
 longitude: 9.47316
 postcode: "24943"
 city: Flensburg
-street: "Brahmsstraße"
-housenumber: 3
+street: Brahmsstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 283598864
-type: way
+type: node
 latitude: 53.77804
 longitude: 10.64672
 postcode: "23628"
 city: Krummesse
-street: "Klempauer Straße"
-housenumber: 37
-phone: "+49 4508 438"
+street: Klempauer Straße
+housenumber: "37"
+phone: +49 4508 438
 opening_hours: ""
-website: "https://www.blumenhaus-macke.de/"
+website: https://www.blumenhaus-macke.de/

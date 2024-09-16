@@ -1,11 +1,11 @@
 id: 1278083386
-type: way
+type: node
 latitude: 53.83566
 longitude: 10.6509
 postcode: "23560"
 city: Lübeck
-street: "Estlandring"
-housenumber: 7
-phone: "+49 451 2907150"
+street: Estlandring
+housenumber: "7"
+phone: +49 451 2907150
 opening_hours: ""
-website: "https://www.ostsee-medizintechnik.de/"
+website: https://www.ostsee-medizintechnik.de/

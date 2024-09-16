@@ -1,11 +1,11 @@
 id: 32985515
-type: way
+type: node
 latitude: 53.63203
 longitude: 9.86095
 postcode: "25469"
 city: Halstenbek
-street: "Gärtnerstraße"
+street: Gärtnerstraße
 housenumber: 133-137
-phone: "+49 4101 4990"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-20:00"
-website: "https://www.xxxlutz.de/c/xxxlutz-schulenburg-halstenbek"
+phone: +49 4101 4990
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-20:00
+website: https://www.xxxlutz.de/c/xxxlutz-schulenburg-halstenbek

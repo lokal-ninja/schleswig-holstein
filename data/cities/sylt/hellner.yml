@@ -4,8 +4,8 @@ latitude: 54.90758
 longitude: 8.30529
 postcode: "25980"
 city: Sylt
-street: "Friedrichstraße"
-housenumber: 9
+street: Friedrichstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00"
-website: "https://www.hellner-sylt.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00
+website: https://www.hellner-sylt.de

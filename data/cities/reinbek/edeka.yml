@@ -1,11 +1,11 @@
 id: 323311308
-type: way
+type: node
 latitude: 53.51189
 longitude: 10.23527
 postcode: ""
 city: Reinbek
-street: "Am Ladenzentrum"
-housenumber: 1
+street: Am Ladenzentrum
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

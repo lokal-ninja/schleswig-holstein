@@ -1,11 +1,11 @@
 id: 120351333
-type: way
+type: node
 latitude: 54.31722
 longitude: 10.12403
 postcode: "24114"
 city: Kiel
-street: "Kirchhofallee"
-housenumber: 35
+street: Kirchhofallee
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:00-12:00"
-website: "https://www.baecker-steiskal.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 07:00-12:00
+website: https://www.baecker-steiskal.de/

@@ -4,8 +4,8 @@ latitude: 53.37302
 longitude: 10.55701
 postcode: "21481"
 city: Lauenburg/Elbe
-street: "Alte Wache"
-housenumber: 6
+street: Alte Wache
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.optiker-hofmann.de/lauenburg"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.optiker-hofmann.de/lauenburg

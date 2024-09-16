@@ -4,8 +4,8 @@ latitude: 54.90898
 longitude: 8.30227
 postcode: "25980"
 city: Sylt
-street: "Strandstraße"
-housenumber: 19
-phone: "+49 4651 7228"
-opening_hours: "Mo-Sa 07:00-12:30; Su,PH off"
-website: "https://www.raffelhueschen-sylt.de"
+street: Strandstraße
+housenumber: "19"
+phone: +49 4651 7228
+opening_hours: Mo-Sa 07:00-12:30; Su,PH off
+website: https://www.raffelhueschen-sylt.de

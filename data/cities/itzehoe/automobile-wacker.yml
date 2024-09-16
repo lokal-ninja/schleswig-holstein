@@ -1,11 +1,11 @@
 id: 139140053
-type: way
+type: node
 latitude: 53.93013
 longitude: 9.50009
 postcode: "25524"
 city: Itzehoe
-street: "Dorfstraße"
-housenumber: 8
-phone: "+49 4821 9571617"
+street: Dorfstraße
+housenumber: "8"
+phone: +49 4821 9571617
 opening_hours: ""
 website: ""

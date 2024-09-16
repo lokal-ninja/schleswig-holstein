@@ -4,8 +4,8 @@ latitude: 54.31748
 longitude: 10.12372
 postcode: "24114"
 city: Kiel
-street: "Ringstraße"
-housenumber: 63
-phone: "+49 431 6794193"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
-website: "https://star-ihr-friseur.de/"
+street: Ringstraße
+housenumber: "63"
+phone: +49 431 6794193
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00
+website: https://star-ihr-friseur.de/

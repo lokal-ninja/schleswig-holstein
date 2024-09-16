@@ -4,8 +4,8 @@ latitude: 53.68072
 longitude: 10
 postcode: "22419"
 city: Hamburg
-street: "Schmuggelstieg"
-housenumber: 33
-phone: "+49 40 53908474"
-opening_hours: "Mo-Tu,Th-Fr 08:00-12:00,13:00-17:00; We 09:00-13:00; Sa OFF"
+street: Schmuggelstieg
+housenumber: "33"
+phone: +49 40 53908474
+opening_hours: Mo-Tu,Th-Fr 08:00-12:00,13:00-17:00; We 09:00-13:00; Sa OFF
 website: ""

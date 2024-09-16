@@ -1,11 +1,11 @@
 id: 96261919
-type: way
+type: node
 latitude: 53.88449
 longitude: 9.57497
 postcode: "25566"
 city: Lägerdorf
-street: "Rosenstraße"
-housenumber: 10
+street: Rosenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

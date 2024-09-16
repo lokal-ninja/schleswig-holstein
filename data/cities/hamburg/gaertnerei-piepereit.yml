@@ -1,11 +1,13 @@
 id: 151189823
-type: way
+type: node
 latitude: 53.64275
 longitude: 10.18519
 postcode: "22359"
 city: Hamburg
-street: "Meienredder"
-housenumber: 35
-phone: "+49 40 380 813 0"
-opening_hours: "Mar,Jul-Dec Mo-Fr 09:00-18:00; Mar,Jul-Dec Sa 09:00-16:00; Mar,Jul-Dec Su 10:00-14:00; Jan-Feb Mo-Fr 09:00-18:00; Jan-Feb Sa 09:00-16:00; Apr-Jun Mo-Fr 09:00-19:00; Apr-Jun Sa 09:00-18:00; Apr-Jun Su 10:00-14:00"
-website: "https://www.gaertnerei-piepereit.de/"
+street: Meienredder
+housenumber: "35"
+phone: +49 40 380 813 0
+opening_hours: Mar,Jul-Dec Mo-Fr 09:00-18:00; Mar,Jul-Dec Sa 09:00-16:00; Mar,Jul-Dec
+    Su 10:00-14:00; Jan-Feb Mo-Fr 09:00-18:00; Jan-Feb Sa 09:00-16:00; Apr-Jun Mo-Fr
+    09:00-19:00; Apr-Jun Sa 09:00-18:00; Apr-Jun Su 10:00-14:00
+website: https://www.gaertnerei-piepereit.de/

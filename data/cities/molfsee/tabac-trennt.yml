@@ -1,11 +1,11 @@
 id: 707883157
-type: way
+type: node
 latitude: 54.27612
 longitude: 10.0696
 postcode: "24113"
 city: Molfsee
-street: "Osterberg"
-housenumber: 4
+street: Osterberg
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-13:00"
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-13:00
 website: ""

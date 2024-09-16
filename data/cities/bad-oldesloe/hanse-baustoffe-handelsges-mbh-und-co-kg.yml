@@ -4,8 +4,8 @@ latitude: 53.79669
 longitude: 10.40622
 postcode: "23843"
 city: Bad Oldesloe
-street: "Lily-Braun-Straße"
-housenumber: 46
+street: Lily-Braun-Straße
+housenumber: "46"
 phone: "+4945318882244"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.hanse-baustoffe.de"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: https://www.hanse-baustoffe.de

@@ -4,8 +4,8 @@ latitude: 53.72944
 longitude: 10.26801
 postcode: "22941"
 city: Bargteheide
-street: "Rathausstraße"
-housenumber: 30
-phone: "+49 151 425 261 81"
-opening_hours: "Mo-Tu 08:00-13:00; Th-Fr 08:00-13:00; We, Sa, Su off"
-website: "http://www.podologie-bargteheide.de"
+street: Rathausstraße
+housenumber: "30"
+phone: +49 151 425 261 81
+opening_hours: Mo-Tu 08:00-13:00; Th-Fr 08:00-13:00; We, Sa, Su off
+website: http://www.podologie-bargteheide.de

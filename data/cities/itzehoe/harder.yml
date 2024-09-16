@@ -1,11 +1,11 @@
 id: 138246310
-type: way
+type: node
 latitude: 53.92621
 longitude: 9.50171
 postcode: "25524"
 city: Itzehoe
-street: "Potthofstraße"
-housenumber: 24
+street: Potthofstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

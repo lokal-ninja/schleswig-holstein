@@ -1,11 +1,11 @@
 id: 432887794
-type: way
+type: node
 latitude: 54.43453
 longitude: 11.19782
 postcode: "23769"
 city: Fehmarn
-street: "Süderstraße"
-housenumber: 22
+street: Süderstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://www.fehmarn-fahrrad.de/"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00
+website: https://www.fehmarn-fahrrad.de/

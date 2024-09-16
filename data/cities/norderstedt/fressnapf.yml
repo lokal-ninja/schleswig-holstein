@@ -1,11 +1,11 @@
 id: 415156014
-type: way
+type: node
 latitude: 53.68138
 longitude: 9.99331
 postcode: "22848"
 city: Norderstedt
-street: "Ochsenzoller Straße"
+street: Ochsenzoller Straße
 housenumber: 192-194
-phone: "+49 40 52303833"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fressnapf.de/stores/fressnapf-norderstedt/"
+phone: +49 40 52303833
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fressnapf.de/stores/fressnapf-norderstedt/

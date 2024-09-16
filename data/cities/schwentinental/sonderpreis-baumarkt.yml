@@ -4,8 +4,8 @@ latitude: 54.28591
 longitude: 10.22381
 postcode: "24223"
 city: Schwentinental
-street: "Dieselstraße"
-housenumber: 7
-phone: "+49 4307 8229880"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00, Su off; PH off"
-website: "https://www.sonderpreis-baumarkt.com"
+street: Dieselstraße
+housenumber: "7"
+phone: +49 4307 8229880
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00, Su off; PH off
+website: https://www.sonderpreis-baumarkt.com

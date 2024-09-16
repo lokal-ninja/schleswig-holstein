@@ -4,8 +4,8 @@ latitude: 53.66746
 longitude: 10.2292
 postcode: "22926"
 city: Ahrensburg
-street: "Hamburger Straße"
-housenumber: 81
-phone: "+49 4102 6952652"
-opening_hours: "Mo,We,Fr 09:00-18:00; Tu 09:00-20:00; Th 09:00-21:00; Sa 09:00-14:00"
-website: "https://weber-haarstudio.de/"
+street: Hamburger Straße
+housenumber: "81"
+phone: +49 4102 6952652
+opening_hours: Mo,We,Fr 09:00-18:00; Tu 09:00-20:00; Th 09:00-21:00; Sa 09:00-14:00
+website: https://weber-haarstudio.de/

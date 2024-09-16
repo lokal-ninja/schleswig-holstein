@@ -1,11 +1,11 @@
 id: 353797733
-type: way
+type: node
 latitude: 54.77353
 longitude: 9.33013
 postcode: "24983"
 city: Handewitt
-street: "Alter Kirchenweg"
-housenumber: 52
-phone: "+49 4608 9736136"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://www.derweinhaendler.de/"
+street: Alter Kirchenweg
+housenumber: "52"
+phone: +49 4608 9736136
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://www.derweinhaendler.de/

@@ -1,11 +1,11 @@
 id: 229605639
-type: way
+type: node
 latitude: 53.60877
 longitude: 10.41057
 postcode: "22946"
 city: Trittau
-street: "Poststraße"
-housenumber: 21
+street: Poststraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

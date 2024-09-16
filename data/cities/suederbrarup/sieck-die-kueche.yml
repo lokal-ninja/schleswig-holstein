@@ -4,8 +4,8 @@ latitude: 54.63839
 longitude: 9.76043
 postcode: "24392"
 city: Süderbrarup
-street: "Schleswiger Straße"
-housenumber: 81
-phone: "+49 4641 970670"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:00,14:30-18:00; We,Sa 09:30-12:00; Su,PH off"
-website: "https://www.sieck-diekueche.de/"
+street: Schleswiger Straße
+housenumber: "81"
+phone: +49 4641 970670
+opening_hours: Mo,Tu,Th,Fr 09:30-12:00,14:30-18:00; We,Sa 09:30-12:00; Su,PH off
+website: https://www.sieck-diekueche.de/

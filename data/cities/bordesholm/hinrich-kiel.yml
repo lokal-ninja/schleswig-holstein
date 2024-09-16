@@ -4,8 +4,8 @@ latitude: 54.17448
 longitude: 10.0424
 postcode: "24582"
 city: Bordesholm
-street: "Mühlenstraße"
-housenumber: 3
-phone: "+49 4322 5528326"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-16:00"
-website: "https://www.hinrich-kiel.de/"
+street: Mühlenstraße
+housenumber: "3"
+phone: +49 4322 5528326
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-16:00
+website: https://www.hinrich-kiel.de/

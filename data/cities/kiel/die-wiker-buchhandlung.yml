@@ -4,8 +4,8 @@ latitude: 54.35779
 longitude: 10.13329
 postcode: "24106"
 city: Kiel
-street: "Knorrstraße"
-housenumber: 22
+street: Knorrstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; We,Sa 10:00-13:00; PH off"
-website: "http://www.meike-lalowski.de/"
+opening_hours: Mo-Fr 10:00-18:00; We,Sa 10:00-13:00; PH off
+website: http://www.meike-lalowski.de/

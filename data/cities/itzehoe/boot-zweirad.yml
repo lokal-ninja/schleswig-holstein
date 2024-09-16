@@ -1,11 +1,11 @@
 id: 145739166
-type: way
+type: node
 latitude: 53.92915
 longitude: 9.49528
 postcode: "25524"
 city: Itzehoe
-street: "Störfischerstraße"
-housenumber: 1
-phone: "+49 4821 72277"
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.wassersport-profi.de"
+street: Störfischerstraße
+housenumber: "1"
+phone: +49 4821 72277
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.wassersport-profi.de

@@ -1,11 +1,11 @@
 id: 1024631867
-type: way
+type: node
 latitude: 53.79288
 longitude: 10.41263
 postcode: "23843"
 city: Bad Oldesloe
-street: "Bergkoppel"
-housenumber: 7
+street: Bergkoppel
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

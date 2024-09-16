@@ -4,8 +4,8 @@ latitude: 53.62982
 longitude: 10.69081
 postcode: "23879"
 city: Mölln
-street: "Marktstraße"
-housenumber: 11
-phone: "+49 4542 9061735"
-opening_hours: "We-Fr 10:00-18:00; Sa 10:00-14:00; Su-Tu off"
-website: "https://www.gewuerzkontor-moelln.de/"
+street: Marktstraße
+housenumber: "11"
+phone: +49 4542 9061735
+opening_hours: We-Fr 10:00-18:00; Sa 10:00-14:00; Su-Tu off
+website: https://www.gewuerzkontor-moelln.de/

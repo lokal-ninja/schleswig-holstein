@@ -4,8 +4,8 @@ latitude: 54.66232
 longitude: 9.92904
 postcode: "24376"
 city: Kappeln
-street: "Schmiedestraße"
-housenumber: 30
+street: Schmiedestraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.schmidt-kappeln.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.schmidt-kappeln.de/

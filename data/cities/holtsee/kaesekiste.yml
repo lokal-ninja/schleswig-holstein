@@ -4,8 +4,8 @@ latitude: 54.39844
 longitude: 9.85467
 postcode: "24363"
 city: Holtsee
-street: "Dorfstraße"
-housenumber: 2
-phone: "+49 4357 997124"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://holtseer.de/kaesekiste/"
+street: Dorfstraße
+housenumber: "2"
+phone: +49 4357 997124
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://holtseer.de/kaesekiste/

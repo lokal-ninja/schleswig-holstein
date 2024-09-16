@@ -4,8 +4,8 @@ latitude: 53.54487
 longitude: 10.24366
 postcode: "21465"
 city: Reinbek
-street: "Oher Weg"
-housenumber: 40
+street: Oher Weg
+housenumber: "40"
 phone: ""
-opening_hours: "Mo,Tu,Fr 09:00-18:00; We,Th 09:00-19:00; Sa 08:00-13:00; PH,Su off"
+opening_hours: Mo,Tu,Fr 09:00-18:00; We,Th 09:00-19:00; Sa 08:00-13:00; PH,Su off
 website: ""

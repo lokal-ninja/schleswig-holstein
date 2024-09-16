@@ -1,11 +1,11 @@
 id: 51272969
-type: way
+type: node
 latitude: 53.75391
 longitude: 9.65996
 postcode: "25335"
 city: Elmshorn
-street: "Julius-Leber-Straße"
-housenumber: 4
+street: Julius-Leber-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.holz-junge.de/"
+website: https://www.holz-junge.de/

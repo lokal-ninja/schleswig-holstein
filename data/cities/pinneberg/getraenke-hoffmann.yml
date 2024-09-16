@@ -1,11 +1,11 @@
 id: 505100473
-type: way
+type: node
 latitude: 53.6773
 longitude: 9.79242
 postcode: "25421"
 city: Pinneberg
-street: "Elmshorner Straße"
+street: Elmshorner Straße
 housenumber: 181-189
-phone: "+49 4101 5168340"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.getraenke-hoffmann.de/filiale/pinneberg/elmshorner-str-181-189-0"
+phone: +49 4101 5168340
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.getraenke-hoffmann.de/filiale/pinneberg/elmshorner-str-181-189-0

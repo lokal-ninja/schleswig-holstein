@@ -1,11 +1,11 @@
 id: 905744274
-type: way
+type: node
 latitude: 54.12232
 longitude: 9.54062
 postcode: "24819"
 city: Todenbüttel
-street: "Hauptstraße"
-housenumber: 114
+street: Hauptstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-20:00"
-website: "https://www.heuck-sh.de/"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 08:00-20:00
+website: https://www.heuck-sh.de/

@@ -1,11 +1,11 @@
 id: 130733445
-type: way
+type: node
 latitude: 54.49521
 longitude: 9.06647
 postcode: "25813"
 city: Husum
-street: "Siemensstraße"
-housenumber: 1
-phone: "+49 4841 1241"
-opening_hours: "Mo-Sa 07:30-18:00, Sa 07:30-13:00;PH off"
-website: "http://www.fisch-schleger.de/"
+street: Siemensstraße
+housenumber: "1"
+phone: +49 4841 1241
+opening_hours: Mo-Sa 07:30-18:00, Sa 07:30-13:00;PH off
+website: http://www.fisch-schleger.de/

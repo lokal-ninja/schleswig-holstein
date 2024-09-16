@@ -1,11 +1,11 @@
 id: 110161533
-type: way
+type: node
 latitude: 54.3701
 longitude: 10.20247
 postcode: "24226"
 city: Heikendorf
-street: "Möltenorter Weg"
-housenumber: 53
+street: Möltenorter Weg
+housenumber: "53"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 15:00-18:00; May-Aug Mo-Sa 08:00-13:00; Sep-Apr Mo-Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 15:00-18:00; May-Aug Mo-Sa 08:00-13:00; Sep-Apr Mo-Sa 09:00-13:00
 website: ""

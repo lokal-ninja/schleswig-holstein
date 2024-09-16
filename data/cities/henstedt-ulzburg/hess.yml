@@ -1,11 +1,11 @@
 id: 51749420
-type: way
+type: node
 latitude: 53.8034
 longitude: 9.97841
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Kirchweg"
-housenumber: 94
+street: Kirchweg
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

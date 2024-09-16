@@ -1,11 +1,11 @@
 id: 132915177
-type: way
+type: node
 latitude: 53.86862
 longitude: 10.69546
 postcode: "23552"
 city: Lübeck
-street: "Kanalstraße"
-housenumber: 76
-phone: "+49 800 7234870"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Kanalstraße
+housenumber: "76"
+phone: +49 800 7234870
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

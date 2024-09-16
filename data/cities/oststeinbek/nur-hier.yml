@@ -4,8 +4,8 @@ latitude: 53.54712
 longitude: 10.15323
 postcode: "22113"
 city: Oststeinbek
-street: "Willinghusener Weg"
-housenumber: 1
-phone: "+49 40 23804255"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://nur-hier.de/"
+street: Willinghusener Weg
+housenumber: "1"
+phone: +49 40 23804255
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://nur-hier.de/

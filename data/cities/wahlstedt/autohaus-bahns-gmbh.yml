@@ -1,11 +1,11 @@
 id: 237992192
-type: way
+type: node
 latitude: 53.95442
 longitude: 10.2038
 postcode: "23812"
 city: Wahlstedt
-street: "Neumünsterstraße"
-housenumber: 33
-phone: "+49 4554 3075"
-opening_hours: "Mo-Fr 07:30-12:00,12:30-18:00; Sa 09:00-12:00"
-website: "http://www.autohausbahns.de/"
+street: Neumünsterstraße
+housenumber: "33"
+phone: +49 4554 3075
+opening_hours: Mo-Fr 07:30-12:00,12:30-18:00; Sa 09:00-12:00
+website: http://www.autohausbahns.de/

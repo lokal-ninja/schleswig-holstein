@@ -4,8 +4,8 @@ latitude: 54.75262
 longitude: 9.53011
 postcode: "24975"
 city: Hürup
-street: "Hauptstraße"
-housenumber: 7
-phone: "+49 4634 9399177"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-14:00; Su,Mo,PH off"
-website: "https://www.haarmaedels.de/"
+street: Hauptstraße
+housenumber: "7"
+phone: +49 4634 9399177
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-14:00; Su,Mo,PH off
+website: https://www.haarmaedels.de/

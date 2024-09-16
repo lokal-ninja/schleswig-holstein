@@ -1,11 +1,11 @@
 id: 27105336
-type: way
+type: node
 latitude: 54.28534
 longitude: 10.22442
 postcode: "24223"
 city: Schwentinental
-street: "Dieselstraße"
-housenumber: 5
+street: Dieselstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

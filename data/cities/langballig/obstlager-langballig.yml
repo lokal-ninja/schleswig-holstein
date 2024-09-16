@@ -1,11 +1,11 @@
 id: 315424168
-type: way
+type: node
 latitude: 54.8031
 longitude: 9.63443
 postcode: "24977"
 city: Langballig
-street: "An de Beek"
-housenumber: 2
-phone: "+49 4636 1351"
-opening_hours: "Mo,Th 09:30-12:30; Tu,Fr 14:30-18:00"
+street: An de Beek
+housenumber: "2"
+phone: +49 4636 1351
+opening_hours: Mo,Th 09:30-12:30; Tu,Fr 14:30-18:00
 website: ""

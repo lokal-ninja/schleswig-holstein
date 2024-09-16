@@ -1,11 +1,11 @@
 id: 725213751
-type: way
+type: node
 latitude: 54.33819
 longitude: 10.21864
 postcode: "24232"
 city: Schönkirchen
-street: "Pahlblöken"
-housenumber: 2
+street: Pahlblöken
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;PH closed"
+opening_hours: Mo-Sa 07:00-22:00;PH closed
 website: ""

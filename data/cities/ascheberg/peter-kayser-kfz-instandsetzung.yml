@@ -1,11 +1,11 @@
 id: 311336573
-type: way
+type: node
 latitude: 54.15399
 longitude: 10.32798
 postcode: "24326"
 city: Ascheberg
-street: "Trentrade"
-housenumber: 36
+street: Trentrade
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

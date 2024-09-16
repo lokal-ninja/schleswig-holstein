@@ -1,11 +1,11 @@
 id: 118901042
-type: way
+type: node
 latitude: 54.36398
 longitude: 10.96738
 postcode: "23774"
 city: Heiligenhafen
-street: "Höhenweg"
-housenumber: 2
+street: Höhenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.73167
 longitude: 9.99651
 postcode: "22844"
 city: Norderstedt
-street: "Ulzburger Straße"
-housenumber: 585
-phone: "+49 40 5222520"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/nord/e-aktiv-markt-gulben-ulzburger-str.-585/index.jsp"
+street: Ulzburger Straße
+housenumber: "585"
+phone: +49 40 5222520
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/nord/e-aktiv-markt-gulben-ulzburger-str.-585/index.jsp

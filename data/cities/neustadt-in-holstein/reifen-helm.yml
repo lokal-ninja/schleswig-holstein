@@ -1,11 +1,11 @@
 id: 591800987
-type: way
+type: node
 latitude: 54.09847
 longitude: 10.79246
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Eutiner Straße"
-housenumber: 73
-phone: "+49 4561 4488"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Eutiner Straße
+housenumber: "73"
+phone: +49 4561 4488
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

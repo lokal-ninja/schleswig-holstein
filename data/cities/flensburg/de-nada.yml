@@ -4,8 +4,8 @@ latitude: 54.78182
 longitude: 9.43529
 postcode: "24937"
 city: Flensburg
-street: "Rote Straße"
-housenumber: 16
-phone: "+49 461 24539"
-opening_hours: "Mo-Fr 08:00-19:00; Sa,Su,PH off"
-website: "https://salon-denada.de/"
+street: Rote Straße
+housenumber: "16"
+phone: +49 461 24539
+opening_hours: Mo-Fr 08:00-19:00; Sa,Su,PH off
+website: https://salon-denada.de/

@@ -1,11 +1,11 @@
 id: 127184494
-type: way
+type: node
 latitude: 54.77891
 longitude: 9.4167
 postcode: "24937"
 city: Flensburg
-street: "Friesische Straße"
-housenumber: 150
+street: Friesische Straße
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:45; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:45; Su,PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.51098
 longitude: 10.25167
 postcode: "21465"
 city: Reinbek
-street: "Bergstraße"
-housenumber: 6
-phone: "+49 40 722 61 30"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00"
-website: "https://hinterthan.de/"
+street: Bergstraße
+housenumber: "6"
+phone: +49 40 722 61 30
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00
+website: https://hinterthan.de/

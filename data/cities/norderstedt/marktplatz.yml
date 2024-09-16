@@ -1,11 +1,11 @@
 id: 29341909
-type: way
+type: node
 latitude: 53.7044
 longitude: 10.00885
 postcode: "22844"
 city: Norderstedt
-street: "Marktplatz"
-housenumber: 
+street: Marktplatz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

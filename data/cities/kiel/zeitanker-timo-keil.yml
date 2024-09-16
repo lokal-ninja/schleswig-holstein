@@ -4,8 +4,8 @@ latitude: 54.33413
 longitude: 10.13346
 postcode: "24105"
 city: Kiel
-street: "Holtenauer Straße"
-housenumber: 88
+street: Holtenauer Straße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,16:00-19:00; Sa-Su,PH off"
-website: "https://zeitanker.eu/"
+opening_hours: Mo-Fr 10:00-14:00,16:00-19:00; Sa-Su,PH off
+website: https://zeitanker.eu/

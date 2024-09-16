@@ -1,11 +1,11 @@
 id: 123913804
-type: way
+type: node
 latitude: 54.10661
 longitude: 10.80786
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Lienaustraße"
-housenumber: 10
+street: Lienaustraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://haase-neustadt.de/"
+website: https://haase-neustadt.de/

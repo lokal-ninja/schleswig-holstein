@@ -4,8 +4,8 @@ latitude: 54.63975
 longitude: 9.7679
 postcode: "24392"
 city: Süderbrarup
-street: "Raiffeisenstraße"
-housenumber: 31
-phone: "+49 4641 77136"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; PH,Sa,Su off"
-website: "https://www.landundfreizeit.de/"
+street: Raiffeisenstraße
+housenumber: "31"
+phone: +49 4641 77136
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; PH,Sa,Su off
+website: https://www.landundfreizeit.de/

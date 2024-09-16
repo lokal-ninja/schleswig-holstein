@@ -1,11 +1,11 @@
 id: 240319849
-type: way
+type: node
 latitude: 54.69143
 longitude: 9.60396
 postcode: "24986"
 city: Mittelangeln
-street: "Schleswiger Straße"
-housenumber: 8
-phone: "+49 4633 8878"
-opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00"
-website: "https://www.tankstelle-satrup.de"
+street: Schleswiger Straße
+housenumber: "8"
+phone: +49 4633 8878
+opening_hours: Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00
+website: https://www.tankstelle-satrup.de

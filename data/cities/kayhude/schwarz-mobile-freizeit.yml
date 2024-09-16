@@ -1,11 +1,11 @@
 id: 317214097
-type: way
+type: node
 latitude: 53.74952
 longitude: 10.12593
 postcode: "23863"
 city: Kayhude
-street: "Segeberger Straße"
-housenumber: 5
+street: Segeberger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

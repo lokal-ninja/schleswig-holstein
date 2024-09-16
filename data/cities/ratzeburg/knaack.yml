@@ -4,8 +4,8 @@ latitude: 53.69908
 longitude: 10.74131
 postcode: "23909"
 city: Ratzeburg
-street: "Bahnhofsallee"
-housenumber: 42
+street: Bahnhofsallee
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 07:00-17:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-17:00
 website: ""

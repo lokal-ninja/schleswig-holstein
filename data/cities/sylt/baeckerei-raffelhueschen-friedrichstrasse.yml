@@ -4,8 +4,8 @@ latitude: 54.90777
 longitude: 8.3036
 postcode: "25980"
 city: Sylt
-street: "Friedrichstraße"
-housenumber: 24
-phone: "+49 4651 25 645"
-opening_hours: "Mo-Sa 07:00-18:00; Su 07:00-17:00"
-website: "https://www.raffelhueschen-sylt.de"
+street: Friedrichstraße
+housenumber: "24"
+phone: +49 4651 25 645
+opening_hours: Mo-Sa 07:00-18:00; Su 07:00-17:00
+website: https://www.raffelhueschen-sylt.de

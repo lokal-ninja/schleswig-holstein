@@ -1,11 +1,11 @@
 id: 355512251
-type: way
+type: node
 latitude: 53.94566
 longitude: 9.72817
 postcode: "25548"
 city: Kellinghusen
-street: "Friedrichstraße"
-housenumber: 16
+street: Friedrichstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

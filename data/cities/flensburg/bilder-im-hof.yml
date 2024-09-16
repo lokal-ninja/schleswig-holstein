@@ -4,8 +4,8 @@ latitude: 54.78174
 longitude: 9.43514
 postcode: "24937"
 city: Flensburg
-street: "Rote Straße"
-housenumber: 16
-phone: "+49 461 13142"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off"
-website: "https://bilder-im-hof.de/"
+street: Rote Straße
+housenumber: "16"
+phone: +49 461 13142
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off
+website: https://bilder-im-hof.de/

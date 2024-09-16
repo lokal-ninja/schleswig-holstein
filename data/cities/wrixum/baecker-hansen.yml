@@ -4,8 +4,9 @@ latitude: 54.70006
 longitude: 8.54937
 postcode: "25938"
 city: Wrixum
-street: "Ohl-Dörp"
-housenumber: 47
+street: Ohl-Dörp
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 06:30-12:00,14:00-17:30; We 07:30-12:00; Sa 06:30-12:00; Su 07:30-10:30"
-website: "https://www.baeckerhansen.de/"
+opening_hours: Mo-Tu,Th-Fr 06:30-12:00,14:00-17:30; We 07:30-12:00; Sa 06:30-12:00;
+    Su 07:30-10:30
+website: https://www.baeckerhansen.de/

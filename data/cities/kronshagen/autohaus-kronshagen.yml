@@ -1,11 +1,11 @@
 id: 251412360
-type: way
+type: node
 latitude: 54.34269
 longitude: 10.101
 postcode: "24119"
 city: Kronshagen
-street: "Eckernförder Straße"
-housenumber: 230
-phone: "+49 431 667255-11"
-opening_hours: "Mo-Th 07:00-18:30; Fr 07:00-18:00; Sa 09:00-14:00"
-website: "https://www.autohaus-seefluth.de/"
+street: Eckernförder Straße
+housenumber: "230"
+phone: +49 431 667255-11
+opening_hours: Mo-Th 07:00-18:30; Fr 07:00-18:00; Sa 09:00-14:00
+website: https://www.autohaus-seefluth.de/

@@ -4,8 +4,8 @@ latitude: 54.7737
 longitude: 9.39614
 postcode: "24941"
 city: Flensburg
-street: "Langberger Weg"
-housenumber: 1
-phone: "+49 461 99577260"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.das-schuherlebnis.de/"
+street: Langberger Weg
+housenumber: "1"
+phone: +49 461 99577260
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.das-schuherlebnis.de/

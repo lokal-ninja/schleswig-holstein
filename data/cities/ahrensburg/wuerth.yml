@@ -1,11 +1,11 @@
 id: 134211002
-type: way
+type: node
 latitude: 53.67864
 longitude: 10.25722
 postcode: "22926"
 city: Ahrensburg
-street: "Roggenweg"
-housenumber: 2
+street: Roggenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1188146968
-type: way
+type: node
 latitude: 54.41045
 longitude: 9.98647
 postcode: "24214"
 city: Gettorf
-street: "Eichkoppel"
-housenumber: 29
+street: Eichkoppel
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

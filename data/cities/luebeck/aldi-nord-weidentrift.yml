@@ -1,11 +1,11 @@
 id: 158411722
-type: way
+type: node
 latitude: 53.84088
 longitude: 10.7076
 postcode: "23562"
 city: Lübeck
-street: "Weidentrift"
-housenumber: 2
+street: Weidentrift
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

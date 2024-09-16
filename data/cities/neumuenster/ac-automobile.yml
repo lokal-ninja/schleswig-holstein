@@ -1,11 +1,11 @@
 id: 591879879
-type: way
+type: node
 latitude: 54.12805
 longitude: 9.99253
 postcode: "24536"
 city: Neumünster
-street: "Dorfstraße"
-housenumber: 16
+street: Dorfstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

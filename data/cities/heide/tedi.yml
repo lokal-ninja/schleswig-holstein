@@ -4,8 +4,8 @@ latitude: 54.19561
 longitude: 9.09476
 postcode: "25746"
 city: Heide
-street: "Markt"
-housenumber: 3
+street: Markt
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00;PH closed"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00;PH closed
 website: ""

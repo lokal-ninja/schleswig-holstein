@@ -1,11 +1,11 @@
 id: 550087496
-type: way
+type: node
 latitude: 54.76273
 longitude: 9.16906
 postcode: "24980"
 city: Schafflund
-street: "Hauptstraße"
-housenumber: 96
+street: Hauptstraße
+housenumber: "96"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su closed"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su closed
 website: ""

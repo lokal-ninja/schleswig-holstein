@@ -1,11 +1,11 @@
 id: 232813605
-type: way
+type: node
 latitude: 53.78911
 longitude: 9.57671
 postcode: "25358"
 city: Sommerland
-street: "Siethwende"
-housenumber: 38
-phone: "+49 4126 38151"
-opening_hours: "Tu 08:00-12:00; Th,Fr 08:00-12:00,14:00-18:00"
+street: Siethwende
+housenumber: "38"
+phone: +49 4126 38151
+opening_hours: Tu 08:00-12:00; Th,Fr 08:00-12:00,14:00-18:00
 website: ""

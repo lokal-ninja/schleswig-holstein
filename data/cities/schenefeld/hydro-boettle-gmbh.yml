@@ -1,11 +1,11 @@
 id: 34184709
-type: way
+type: node
 latitude: 53.58752
 longitude: 9.82379
 postcode: "22869"
 city: Schenefeld
-street: "Blankeneser Chaussee"
-housenumber: 149
-phone: "+49 40 869925"
-opening_hours: "Di-Fr 10:00-18:00, Sa 10:00-16:00"
+street: Blankeneser Chaussee
+housenumber: "149"
+phone: +49 40 869925
+opening_hours: Di-Fr 10:00-18:00, Sa 10:00-16:00
 website: ""

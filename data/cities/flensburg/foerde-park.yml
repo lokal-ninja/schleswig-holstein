@@ -1,11 +1,11 @@
 id: 23369782
-type: way
+type: node
 latitude: 54.76252
 longitude: 9.43008
 postcode: "24941"
 city: Flensburg
-street: "Schleswiger Straße"
-housenumber: 130
-phone: "+49 461 902020"
+street: Schleswiger Straße
+housenumber: "130"
+phone: +49 461 902020
 opening_hours: ""
-website: "https://www.foerdepark.de/"
+website: https://www.foerdepark.de/

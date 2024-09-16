@@ -4,8 +4,8 @@ latitude: 54.77371
 longitude: 9.39805
 postcode: "24941"
 city: Flensburg
-street: "Langberger Weg"
-housenumber: 1
-phone: "+49 461 5003250"
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
-website: "https://www.klinck.de/"
+street: Langberger Weg
+housenumber: "1"
+phone: +49 461 5003250
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
+website: https://www.klinck.de/

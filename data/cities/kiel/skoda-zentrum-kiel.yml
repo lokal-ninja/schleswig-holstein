@@ -1,11 +1,11 @@
 id: 129407565
-type: way
+type: node
 latitude: 54.35727
 longitude: 10.11816
 postcode: "24106"
 city: Kiel
-street: "Projensdorfer Straße"
-housenumber: 174
+street: Projensdorfer Straße
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 230678316
-type: way
+type: node
 latitude: 53.81538
 longitude: 9.60932
 postcode: "25358"
 city: Horst
-street: "Schulstraße"
-housenumber: 37
-phone: "+49 4126 39230"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
-website: "https://www.baasch-maschinen-service.de/"
+street: Schulstraße
+housenumber: "37"
+phone: +49 4126 39230
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
+website: https://www.baasch-maschinen-service.de/

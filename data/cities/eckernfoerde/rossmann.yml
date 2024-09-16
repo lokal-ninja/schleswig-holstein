@@ -4,8 +4,8 @@ latitude: 54.47103
 longitude: 9.83725
 postcode: "24340"
 city: Eckernförde
-street: "Kieler Straße"
-housenumber: 27
-phone: "+49 4351 726812"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-17:00"
-website: "https://www.rossmann.de/"
+street: Kieler Straße
+housenumber: "27"
+phone: +49 4351 726812
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su 11:00-17:00
+website: https://www.rossmann.de/

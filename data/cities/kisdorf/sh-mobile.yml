@@ -1,11 +1,11 @@
 id: 217836436
-type: way
+type: node
 latitude: 53.81067
 longitude: 10.01428
 postcode: "24629"
 city: Kisdorf
-street: "Schmiedeberg"
-housenumber: 3
+street: Schmiedeberg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.sh-mobile.de/"
+website: https://www.sh-mobile.de/

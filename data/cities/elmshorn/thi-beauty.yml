@@ -1,11 +1,11 @@
 id: 117856211
-type: way
+type: node
 latitude: 53.75318
 longitude: 9.6515
 postcode: "25335"
 city: Elmshorn
-street: "Marktstraße"
-housenumber: 5
+street: Marktstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 8:30-19:00, Sa 9:30-16:00"
+opening_hours: Mo-Fr 8:30-19:00, Sa 9:30-16:00
 website: ""

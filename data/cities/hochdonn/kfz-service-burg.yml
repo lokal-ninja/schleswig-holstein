@@ -1,11 +1,11 @@
 id: 492597284
-type: way
+type: node
 latitude: 54.0252
 longitude: 9.27831
 postcode: "25712"
 city: Hochdonn
-street: "Hauptstraße"
-housenumber: 30
+street: Hauptstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 53.72217
 longitude: 9.90127
 postcode: "25451"
 city: Quickborn
-street: "Kieler Straße"
-housenumber: 9
-phone: "+49 4106 6283060"
-opening_hours: "Tu 10:00-13:00,15:00-18:00; Th 10:00-13:00,15:00-18:00; Fr 08:30-12:30; Sa 09:00-13:00;"
-website: "https://www.wexautomobile.de/"
+street: Kieler Straße
+housenumber: "9"
+phone: +49 4106 6283060
+opening_hours: Tu 10:00-13:00,15:00-18:00; Th 10:00-13:00,15:00-18:00; Fr 08:30-12:30;
+    Sa 09:00-13:00;
+website: https://www.wexautomobile.de/

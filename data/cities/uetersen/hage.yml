@@ -1,11 +1,11 @@
 id: 383441736
-type: way
+type: node
 latitude: 53.67847
 longitude: 9.69745
 postcode: "25436"
 city: Uetersen
-street: "Große Twiete"
-housenumber: 101
+street: Große Twiete
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

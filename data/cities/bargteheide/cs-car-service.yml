@@ -1,11 +1,11 @@
 id: 778393767
-type: way
+type: node
 latitude: 53.71794
 longitude: 10.2888
 postcode: "22941"
 city: Bargteheide
-street: "Otto-Hahn-Straße"
-housenumber: 5
+street: Otto-Hahn-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.cs-car-service.de/"
+website: https://www.cs-car-service.de/

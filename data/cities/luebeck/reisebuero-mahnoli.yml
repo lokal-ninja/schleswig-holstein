@@ -4,8 +4,8 @@ latitude: 53.86525
 longitude: 10.68804
 postcode: "23552"
 city: Lübeck
-street: "Wahmstraße"
-housenumber: 39
-phone: "+49 451 77246"
-opening_hours: "Mo-Fr 10:00-17:00"
+street: Wahmstraße
+housenumber: "39"
+phone: +49 451 77246
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

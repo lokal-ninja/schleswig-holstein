@@ -1,11 +1,11 @@
 id: 284238224
-type: way
+type: node
 latitude: 53.85331
 longitude: 9.70027
 postcode: "25364"
 city: Brande-Hörnerkirchen
-street: "Bahnhofstraße"
-housenumber: 99
+street: Bahnhofstraße
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

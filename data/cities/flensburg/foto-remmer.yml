@@ -4,8 +4,8 @@ latitude: 54.78222
 longitude: 9.43559
 postcode: "24937"
 city: Flensburg
-street: "Rote Straße"
-housenumber: 8
-phone: "+49 461 25806"
-opening_hours: "Mo-We 11:00-14:00; Th-Fr 14:00-17:00; PH,Sa,Su off"
-website: "https://www.fotografen-flensburg.de/"
+street: Rote Straße
+housenumber: "8"
+phone: +49 461 25806
+opening_hours: Mo-We 11:00-14:00; Th-Fr 14:00-17:00; PH,Sa,Su off
+website: https://www.fotografen-flensburg.de/

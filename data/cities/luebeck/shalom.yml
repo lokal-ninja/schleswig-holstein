@@ -4,8 +4,8 @@ latitude: 53.86619
 longitude: 10.68783
 postcode: "23552"
 city: Lübeck
-street: "Hüxstraße"
-housenumber: 27
-phone: "+49 451 39730977"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00; Su,PH off"
-website: "http://www.shalom-schmuckdesign.de/"
+street: Hüxstraße
+housenumber: "27"
+phone: +49 451 39730977
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00; Su,PH off
+website: http://www.shalom-schmuckdesign.de/

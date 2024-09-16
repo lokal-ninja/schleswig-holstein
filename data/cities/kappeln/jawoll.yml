@@ -1,11 +1,11 @@
 id: 151830322
-type: way
+type: node
 latitude: 54.65258
 longitude: 9.95194
 postcode: "24376"
 city: Kappeln
-street: "Bernard-Liening-Straße"
-housenumber: 18
+street: Bernard-Liening-Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off"
-website: "https://www.jawoll.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off
+website: https://www.jawoll.de/

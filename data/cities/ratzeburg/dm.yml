@@ -1,11 +1,11 @@
 id: 143065716
-type: way
+type: node
 latitude: 53.69941
 longitude: 10.74284
 postcode: "23909"
 city: Ratzeburg
-street: "Bahnhofsallee"
-housenumber: 36
+street: Bahnhofsallee
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://dm.de"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://dm.de

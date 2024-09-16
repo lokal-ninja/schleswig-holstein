@@ -1,11 +1,11 @@
 id: 76729864
-type: way
+type: node
 latitude: 53.76506
 longitude: 9.98018
 postcode: "24558"
 city: Henstedt-Ulzburg
-street: "Philipp-Reis-Straße"
-housenumber: 7
+street: Philipp-Reis-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.ms-autotechnik.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.ms-autotechnik.de/

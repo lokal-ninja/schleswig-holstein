@@ -1,11 +1,11 @@
 id: 376897189
-type: way
+type: node
 latitude: 54.77029
 longitude: 9.42732
 postcode: "24941"
 city: Flensburg
-street: "Liebigstraße"
-housenumber: 1
+street: Liebigstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.nehrkorn-flensburg.de"
+website: http://www.nehrkorn-flensburg.de

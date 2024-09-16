@@ -1,11 +1,11 @@
 id: 143048957
-type: way
+type: node
 latitude: 53.70056
 longitude: 10.74254
 postcode: "23909"
 city: Ratzeburg
-street: "Heinrich-Hertz-Straße"
-housenumber: 1
+street: Heinrich-Hertz-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.daenischesbettenlager.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.daenischesbettenlager.de

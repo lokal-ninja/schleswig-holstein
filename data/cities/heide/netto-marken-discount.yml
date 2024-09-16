@@ -1,11 +1,11 @@
 id: 168241471
-type: way
+type: node
 latitude: 54.20353
 longitude: 9.08996
 postcode: "25746"
 city: Heide
-street: "Husumer Straße"
-housenumber: 84
+street: Husumer Straße
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00;Su,PH off"
-website: "https://www.netto-online.de/filialen/Heide/Husumerstr-84/7097/"
+opening_hours: Mo-Sa 07:00-22:00;Su,PH off
+website: https://www.netto-online.de/filialen/Heide/Husumerstr-84/7097/

@@ -1,11 +1,11 @@
 id: 26831581
-type: way
+type: node
 latitude: 54.40076
 longitude: 9.95921
 postcode: "24214"
 city: Gettorf
-street: "Hasselrott"
-housenumber: 67
+street: Hasselrott
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

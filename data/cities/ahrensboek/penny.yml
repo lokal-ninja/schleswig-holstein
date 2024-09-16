@@ -1,11 +1,11 @@
 id: 337167239
-type: way
+type: node
 latitude: 54.01517
 longitude: 10.57053
 postcode: "23623"
 city: Ahrensbök
-street: "Am Spannbrook"
-housenumber: 6
+street: Am Spannbrook
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

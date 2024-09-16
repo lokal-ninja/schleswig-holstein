@@ -4,8 +4,8 @@ latitude: 53.60752
 longitude: 10.63151
 postcode: "23881"
 city: Breitenfelde
-street: "Bundesstraße"
-housenumber: 21
-phone: "+49 4542 2447"
-opening_hours: "Mo-Fr 6:00-19:00; Sa 6:00-18:00; Su 8:00-18:00; PH 8:00-13:00"
-website: "https://www.gefluegelhof-martens.de/"
+street: Bundesstraße
+housenumber: "21"
+phone: +49 4542 2447
+opening_hours: Mo-Fr 6:00-19:00; Sa 6:00-18:00; Su 8:00-18:00; PH 8:00-13:00
+website: https://www.gefluegelhof-martens.de/

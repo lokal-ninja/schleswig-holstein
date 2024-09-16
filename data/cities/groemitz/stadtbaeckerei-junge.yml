@@ -1,11 +1,11 @@
 id: 207226835
-type: way
+type: node
 latitude: 54.14808
 longitude: 10.96178
 postcode: "23743"
 city: Grömitz
-street: "Wicheldorfstraße"
-housenumber: 17
+street: Wicheldorfstraße
+housenumber: "17"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-17:00"
+opening_hours: PH,Mo-Su 07:00-17:00
 website: ""

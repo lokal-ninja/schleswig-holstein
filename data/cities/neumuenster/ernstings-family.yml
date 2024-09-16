@@ -1,11 +1,11 @@
 id: 209908254
-type: way
+type: node
 latitude: 54.07096
 longitude: 9.9862
 postcode: "24534"
 city: Neumünster
-street: "Großflecken"
-housenumber: 40
+street: Großflecken
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00; PH off
 website: ""

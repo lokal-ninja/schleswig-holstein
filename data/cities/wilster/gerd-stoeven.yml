@@ -1,11 +1,11 @@
 id: 179247929
-type: way
+type: node
 latitude: 53.924
 longitude: 9.366
 postcode: "25554"
 city: Wilster
-street: "Rumflether Straße"
-housenumber: 6
+street: Rumflether Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

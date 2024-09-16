@@ -1,11 +1,11 @@
 id: 115547631
-type: way
+type: node
 latitude: 53.75597
 longitude: 9.65698
 postcode: "25335"
 city: Elmshorn
-street: "Schulstraße"
+street: Schulstraße
 housenumber: 16-18
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://kochshop.eu/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://kochshop.eu/

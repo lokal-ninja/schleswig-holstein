@@ -4,8 +4,9 @@ latitude: 54.59352
 longitude: 9.82664
 postcode: "24392"
 city: Boren
-street: "Schleistraße"
-housenumber: 22
-phone: "+49 4641 3430"
-opening_hours: "Mo-We 08:00-12:30; Th,Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00; Su,PH off"
+street: Schleistraße
+housenumber: "22"
+phone: +49 4641 3430
+opening_hours: Mo-We 08:00-12:30; Th,Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00; Su,PH
+    off
 website: ""

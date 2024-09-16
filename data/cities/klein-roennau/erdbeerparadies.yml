@@ -1,11 +1,11 @@
 id: 936921583
-type: way
+type: node
 latitude: 53.95434
 longitude: 10.31133
 postcode: "23795"
 city: Klein Rönnau
-street: "Thun'scher Weg"
-housenumber: 
+street: Thun'scher Weg
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://hornbrookerhof.de/erdbeerkarte/"
+website: https://hornbrookerhof.de/erdbeerkarte/

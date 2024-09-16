@@ -1,11 +1,11 @@
 id: 294167529
-type: way
+type: node
 latitude: 54.108
 longitude: 10.81533
 postcode: "23730"
 city: Neustadt in Holstein
-street: "Kremper Straße"
+street: Kremper Straße
 housenumber: 2-4
-phone: "+49 4561 61070"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
-website: "https://www.eska-kaufhaus.de/index.php"
+phone: +49 4561 61070
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
+website: https://www.eska-kaufhaus.de/index.php

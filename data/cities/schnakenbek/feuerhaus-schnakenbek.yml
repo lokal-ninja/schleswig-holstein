@@ -1,11 +1,11 @@
 id: 498301062
-type: way
+type: node
 latitude: 53.38401
 longitude: 10.50739
 postcode: "21481"
 city: Schnakenbek
-street: "Papenkamp"
-housenumber: 5
+street: Papenkamp
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

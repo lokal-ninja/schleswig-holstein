@@ -1,11 +1,11 @@
 id: 257815509
-type: way
+type: node
 latitude: 54.47494
 longitude: 9.04678
 postcode: "25813"
 city: Husum
-street: "Hafenstraße"
-housenumber: 7
-phone: "+49 4841 668228"
+street: Hafenstraße
+housenumber: "7"
+phone: +49 4841 668228
 opening_hours: ""
-website: "http://www.neptun-husum.de/"
+website: http://www.neptun-husum.de/

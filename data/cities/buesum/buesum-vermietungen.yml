@@ -4,8 +4,8 @@ latitude: 54.13234
 longitude: 8.84897
 postcode: "25761"
 city: Büsum
-street: "Nordseestraße"
-housenumber: 27
+street: Nordseestraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Su 09:00-16:00"
-website: "https://www.buesum-ferienwohnungen.de/buesum_fahrradverleih.htm"
+opening_hours: Mo-Su 09:00-16:00
+website: https://www.buesum-ferienwohnungen.de/buesum_fahrradverleih.htm

@@ -1,11 +1,11 @@
 id: 25530217
-type: way
+type: node
 latitude: 53.63148
 longitude: 9.87311
 postcode: "25462"
 city: Rellingen
-street: "Kellerstraße"
-housenumber: 36
+street: Kellerstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
 website: ""
