@@ -8,5 +8,5 @@ street: Möllner Landstraße
 housenumber: "78"
 phone: ""
 opening_hours: Tu,We 09:00-18:00; Th 09:00-18:30; Fr 08:00-19:00; Sa 08:00-13:00;
-    PH,Su,Mo off
+    Su,Mo,PH off
 website: ""
