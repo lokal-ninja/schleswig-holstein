@@ -7,6 +7,6 @@ city: Kappeln
 street: Fabrikstraße
 housenumber: "17"
 phone: +49 4642 988012
-opening_hours: 'Mar-Oct: Mo-Fr 11:00-18:00; Sa,Su 11:00-16:00; Nov-Feb: Mo-Fr 11:00-18:00;
-    Sa 11:00-14:00; Su off'
+opening_hours: 'Mar-Oct: Mo-Fr 11:00-18:00; Mar-Oct: Sa,Su 11:00-16:00; Nov-Feb: Mo-Fr
+    11:00-18:00; Nov-Feb: Sa 11:00-14:00; Nov-Feb: Su off'
 website: https://schokoladenkueche.de/
