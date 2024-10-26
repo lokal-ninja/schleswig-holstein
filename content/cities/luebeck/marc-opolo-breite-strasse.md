@@ -1,5 +1,5 @@
 ---
 title: "Marc O'Polo"
-url: /luebeck/marc-opolo-herrenholz/
+url: /luebeck/marc-opolo-breite-strasse/
 shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bark
 url: /bark/
-latitude: 53.918
-longitude: 10.128
+latitude: 53.91
+longitude: 10.186
 ---
