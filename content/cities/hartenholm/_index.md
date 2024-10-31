@@ -1,6 +1,6 @@
 ---
 title: Hartenholm
 url: /hartenholm/
-latitude: 53.9
-longitude: 10.062
+latitude: 53.901
+longitude: 10.06
 ---

@@ -1,6 +1,6 @@
 ---
 title: Oevenum
 url: /oevenum/
-latitude: 54.709
-longitude: 8.532
+latitude: 54.711
+longitude: 8.529
 ---
