@@ -1,5 +1,5 @@
 ---
-title: "HWH-Baustoffhandel"
+title: "HWH Baustoffhandel"
 url: /schleswig/hwh-baustoffhandel-heinrich-hertz-strasse/
-shop: Baustoffe
+shop: Baumarkt
 ---
