@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /luebeck/aldi-nord-herrenholz/
+url: /itzehoe/aldi-nord-rotenbrook/
 shop: Supermarkt
 ---
