@@ -1,6 +1,6 @@
 ---
 title: Itzehoe
 url: /itzehoe/
-latitude: 53.908
-longitude: 9.483
+latitude: 53.952
+longitude: 9.493
 ---
