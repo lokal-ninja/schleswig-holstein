@@ -1,5 +1,5 @@
 ---
 title: "Canvero"
 url: /eckernfoerde/canvero/
-shop: Modehaus
+shop: Kleidung
 ---
