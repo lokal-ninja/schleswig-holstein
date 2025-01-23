@@ -2,5 +2,5 @@
 title: Wanderup
 url: /wanderup/
 latitude: 54.688
-longitude: 9.33
+longitude: 9.328
 ---
