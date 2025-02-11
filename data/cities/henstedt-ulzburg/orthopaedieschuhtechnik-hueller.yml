@@ -7,6 +7,6 @@ city: Henstedt-Ulzburg
 street: Rathausplatz
 housenumber: "3"
 phone: +49 4193 8803583
-opening_hours: Mo,Mi,Fr 09:00-13:00,14:00-18:00; Di,Do 09:00-13:00,14:00-19:00; PH
+opening_hours: Mo,We,Fr 09:00-13:00,14:00-18:00; Tu,Th 09:00-13:00,14:00-19:00; PH
     off
 website: https://ortholeev.de/
