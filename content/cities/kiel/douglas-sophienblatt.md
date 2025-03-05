@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /kiel/douglas-muehlendamm/
+url: /kiel/douglas-sophienblatt/
 shop: Parfümerie
 ---

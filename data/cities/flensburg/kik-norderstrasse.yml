@@ -7,5 +7,5 @@ city: Flensburg
 street: Norderstraße
 housenumber: 54-56
 phone: ""
-opening_hours: PH,Su off; Mo-Fr 09:30-19:00; Sa 09:30-17:00
+opening_hours: Su,PH off; Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""
