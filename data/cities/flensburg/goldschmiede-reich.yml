@@ -7,5 +7,5 @@ city: Flensburg
 street: Mühlenholz
 housenumber: "26"
 phone: +49 461 33339
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 08:00-13:00,14:00-18:00; We 08:00-13:00
 website: http://www.goldschmiede-reich.de/
