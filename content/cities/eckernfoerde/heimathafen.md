@@ -1,5 +1,5 @@
 ---
 title: "Heimathafen"
 url: /eckernfoerde/heimathafen/
-shop: Raumausstattung
+shop: Kleidung
 ---
