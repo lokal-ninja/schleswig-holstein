@@ -1,5 +1,5 @@
 ---
-title: "CAFÉ freddo"
+title: "Café Freddo"
 url: /norderstedt/cafe-freddo/
 shop: Bäckerei
 ---
