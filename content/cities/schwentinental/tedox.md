@@ -1,5 +1,5 @@
 ---
-title: "Tedox"
+title: "tedox"
 url: /schwentinental/tedox/
 shop: Baumarkt
 ---

@@ -7,5 +7,5 @@ city: Kiel
 street: Friedrichsorter Straße
 housenumber: "4"
 phone: +49 431 392266
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 10:00-18:00; We 09:30-13:00; Sa 10:00-13:00
 website: ""
