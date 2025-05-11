@@ -7,6 +7,6 @@ city: Kiel
 street: Adalbertstraße
 housenumber: "11"
 phone: +49 431 888 69 5 59
-opening_hours: Mo-Di 09:00-13:00, 14:00-18:00; Mi 09:00-13:00, 14:00-17:00; Do 09:00-13:00,
-    14:00-18:00; Fr 09:00-13:00; PH off
+opening_hours: Mo-Tu 09:00-13:00,14:00-18:00; We 09:00-13:00,14:00-17:00; Th 09:00-13:00,14:00-18:00;
+    Fr 09:00-13:00; PH off
 website: https://www.hörgenuss-bohn.de/
