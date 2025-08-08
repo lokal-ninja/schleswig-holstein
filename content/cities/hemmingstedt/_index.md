@@ -1,6 +1,6 @@
 ---
 title: Hemmingstedt
 url: /hemmingstedt/
-latitude: 54.165
-longitude: 9.089
+latitude: 54.162
+longitude: 9.087
 ---

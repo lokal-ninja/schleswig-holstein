@@ -7,5 +7,6 @@ city: Schinkel
 street: Hauptstraße
 housenumber: "49"
 phone: ""
-opening_hours: Tu,Fr 09:30-12:30,15:00-18:00; Sa 09:30-12:30
+opening_hours: 'Tu,Fr 09:30-12:30,15:00-18:00; Sa 09:30-12:30; Jun 20-Sep 15: SH Sa
+    09:30-12:30; PH off'
 website: ""

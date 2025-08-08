@@ -1,5 +1,5 @@
 ---
 title: "Lily Nails"
 url: /kiel/lily-nails/
-shop: Allgemein
+shop: Kosmetik
 ---

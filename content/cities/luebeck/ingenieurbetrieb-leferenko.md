@@ -1,5 +1,5 @@
 ---
 title: "Ingenieurbetrieb Leferenko"
 url: /luebeck/ingenieurbetrieb-leferenko/
-shop: Autohaus
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wolsdorff"
 url: /schenefeld/wolsdorff/
-shop: Zeitungen
+shop: Tabak
 ---
