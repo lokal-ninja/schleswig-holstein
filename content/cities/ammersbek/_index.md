@@ -1,6 +1,6 @@
 ---
 title: Ammersbek
 url: /ammersbek/
-latitude: 53.678
-longitude: 10.147
+latitude: 53.679
+longitude: 10.149
 ---
