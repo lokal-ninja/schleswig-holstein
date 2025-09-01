@@ -1,5 +1,5 @@
 ---
-title: "Famila"
+title: "famila"
 url: /eutin/famila/
 shop: Supermarkt
 ---

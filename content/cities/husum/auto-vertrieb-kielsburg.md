@@ -1,5 +1,5 @@
 ---
-title: "Auto-Vertrieb-Kielsburg"
+title: "Auto-Vertrieb Kielsburg"
 url: /husum/auto-vertrieb-kielsburg/
 shop: Autohaus
 ---
