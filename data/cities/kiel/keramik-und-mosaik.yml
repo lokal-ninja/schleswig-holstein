@@ -7,5 +7,6 @@ city: Kiel
 street: Kämpenstraße
 housenumber: "2"
 phone: ""
-opening_hours: Th,Fr 15:00-19:00, Sa 15:00-18:00, We 16:00-19:00, Sa 10:30-13:30
+opening_hours: Th,Fr 15:00-18:00, Sa 15:00-18:00, We 16:00-19:00, Sa 10:30-13:30,
+    Th 18:30-21:30
 website: http://www.keramikundmosaik.de/
