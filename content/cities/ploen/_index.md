@@ -1,6 +1,6 @@
 ---
 title: Plön
 url: /ploen/
-latitude: 54.159
-longitude: 10.418
+latitude: 54.16
+longitude: 10.428
 ---
