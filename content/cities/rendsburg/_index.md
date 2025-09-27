@@ -1,6 +1,6 @@
 ---
 title: Rendsburg
 url: /rendsburg/
-latitude: 54.32
-longitude: 9.625
+latitude: 54.317
+longitude: 9.627
 ---
