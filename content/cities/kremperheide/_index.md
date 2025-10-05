@@ -1,6 +1,6 @@
 ---
 title: Kremperheide
 url: /kremperheide/
-latitude: 53.881
-longitude: 9.479
+latitude: 53.894
+longitude: 9.481
 ---

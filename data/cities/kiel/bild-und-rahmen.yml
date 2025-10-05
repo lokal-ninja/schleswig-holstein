@@ -7,5 +7,5 @@ city: Kiel
 street: Gneisenaustraße
 housenumber: "18"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 09:00-13:00, Mo 15:00-18:00; PH,We,Sa,Su off
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, Mo 15:00-18:00; We,Sa,Su,PH off
 website: ""
