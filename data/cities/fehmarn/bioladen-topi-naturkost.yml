@@ -7,6 +7,6 @@ city: Fehmarn
 street: Niendorfer Straße
 housenumber: "4"
 phone: ""
-opening_hours: 'Jun-Aug: Mo-Sa 08:00-18:30; Sep-May: Mo-Sa 08:00-13:00; Sep-May: Mo-Fr
-    15:00-18:00'
+opening_hours: 'Jun-Aug: Mo-Fr 08:00-18:30; Jun-Aug: Sa 08:00-15:00; Sep-May: Mo-Fr
+    08:00-13:00,15:00-18:00; Sep-May: Sa 08:00-13:00'
 website: https://naturkost-fehmarn.de/
