@@ -1,6 +1,6 @@
 ---
 title: Kiel
 url: /kiel/
-latitude: 54.333
-longitude: 10.133
+latitude: 54.294
+longitude: 10.184
 ---
