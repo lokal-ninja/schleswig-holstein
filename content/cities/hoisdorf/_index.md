@@ -1,6 +1,6 @@
 ---
 title: Hoisdorf
 url: /hoisdorf/
-latitude: 53.663
-longitude: 10.311
+latitude: 53.672
+longitude: 10.354
 ---
