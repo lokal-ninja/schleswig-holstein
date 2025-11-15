@@ -1,5 +1,5 @@
 ---
 title: "Reformhaus Reinfeld"
 url: /reinfeld/reformhaus-reinfeld/
-shop: Supermarkt
+shop: Bioladen
 ---
