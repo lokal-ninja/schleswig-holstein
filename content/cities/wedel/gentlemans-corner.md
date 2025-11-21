@@ -1,5 +1,5 @@
 ---
-title: "Gentleman's corner"
+title: "Gentleman's Corner"
 url: /wedel/gentlemans-corner/
 shop: Friseur
 ---
