@@ -1,6 +1,6 @@
 ---
 title: Wilster
 url: /wilster/
-latitude: 53.924
-longitude: 9.377
+latitude: 53.925
+longitude: 9.383
 ---
