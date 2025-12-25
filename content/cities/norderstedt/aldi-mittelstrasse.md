@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /fockbek/aldi/
+url: /norderstedt/aldi-mittelstrasse/
 shop: Supermarkt
 ---
