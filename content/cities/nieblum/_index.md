@@ -2,5 +2,5 @@
 title: Nieblum
 url: /nieblum/
 latitude: 54.692
-longitude: 8.494
+longitude: 8.492
 ---

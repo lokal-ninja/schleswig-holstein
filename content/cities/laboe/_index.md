@@ -1,6 +1,6 @@
 ---
 title: Laboe
 url: /laboe/
-latitude: 54.404
-longitude: 10.222
+latitude: 54.413
+longitude: 10.23
 ---

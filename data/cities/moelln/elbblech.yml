@@ -7,5 +7,6 @@ city: Mölln
 street: Hauptstraße
 housenumber: "94"
 phone: +49 4542 9062152
-opening_hours: Mo-Th 09:00-18:00; Fr 09:00-15:00; Sa,Su,PH off
+opening_hours: Mo-Th 09:00-18:00; week 01-53/2 Fr 09:00-18:00; week 02-52/2 Fr 09:00-15:00;
+    week 01-53/2 Sa 09:00-13:00; week 02-52/2 Sa closed; Su,PH off
 website: https://elbblech.de/
