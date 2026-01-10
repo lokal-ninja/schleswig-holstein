@@ -1,6 +1,6 @@
 ---
 title: Boren
 url: /boren/
-latitude: 54.594
-longitude: 9.827
+latitude: 54.607
+longitude: 9.792
 ---
