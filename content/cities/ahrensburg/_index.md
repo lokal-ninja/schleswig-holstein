@@ -1,6 +1,6 @@
 ---
 title: Ahrensburg
 url: /ahrensburg/
-latitude: 53.674
-longitude: 10.239
+latitude: 53.679
+longitude: 10.261
 ---
