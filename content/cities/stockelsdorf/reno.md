@@ -1,5 +1,5 @@
 ---
 title: "Reno"
 url: /stockelsdorf/reno/
-shop: Allgemein
+shop: Schuhe
 ---

@@ -7,5 +7,5 @@ city: Kiel
 street: Rendsburger Landstraße
 housenumber: "51"
 phone: +49 431681945
-opening_hours: Tu-Fr 15:00-18:00,Mo-Sa 07:00-13:00
+opening_hours: Mo,Sa 07:00-13:00; Tu-Fr 07:00-13:00,15:00-18:00
 website: ""
