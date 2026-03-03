@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /norderstedt/aldi-mittelstrasse/
+url: /kiel/aldi-preusserstrasse/
 shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stapelfeld
 url: /stapelfeld/
-latitude: 53.606
-longitude: 10.22
+latitude: 53.605
+longitude: 10.214
 ---
