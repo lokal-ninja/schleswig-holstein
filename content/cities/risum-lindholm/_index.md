@@ -1,6 +1,6 @@
 ---
 title: Risum-Lindholm
 url: /risum-lindholm/
-latitude: 54.765
-longitude: 8.88
+latitude: 54.757
+longitude: 8.867
 ---

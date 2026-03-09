@@ -1,6 +1,6 @@
 ---
 title: Büdelsdorf
 url: /buedelsdorf/
-latitude: 54.316
-longitude: 9.679
+latitude: 54.315
+longitude: 9.671
 ---
