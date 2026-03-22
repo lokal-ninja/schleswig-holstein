@@ -1,6 +1,6 @@
 ---
 title: Kronshagen
 url: /kronshagen/
-latitude: 54.326
-longitude: 10.074
+latitude: 54.342
+longitude: 10.092
 ---
