@@ -1,6 +1,6 @@
 ---
 title: Achtrup
 url: /achtrup/
-latitude: 54.788
-longitude: 9.034
+latitude: 54.79
+longitude: 9.027
 ---
