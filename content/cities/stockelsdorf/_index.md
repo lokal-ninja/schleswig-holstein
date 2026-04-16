@@ -1,6 +1,6 @@
 ---
 title: Stockelsdorf
 url: /stockelsdorf/
-latitude: 53.904
-longitude: 10.669
+latitude: 53.889
+longitude: 10.642
 ---
