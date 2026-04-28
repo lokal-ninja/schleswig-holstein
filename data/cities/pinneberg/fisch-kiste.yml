@@ -7,5 +7,6 @@ city: Pinneberg
 street: Rübekamp
 housenumber: "26"
 phone: +49 4101 22582
-opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00; PH off
+opening_hours: Th 08:00-18:00; Sa 08:00-12:00; Mo-We 08:00-14:00; Fr 08:00-14:00,15:00-18:00;
+    PH off
 website: https://www.fisch-kiste.de/
