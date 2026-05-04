@@ -7,5 +7,7 @@ city: Kiel
 street: Sophienblatt
 housenumber: "11"
 phone: +49 431 9808564
-opening_hours: Mo-Sa 11:00-18:00
+opening_hours: |-
+    "Montag bis Freitag: 11:00-18:00
+    Samstags, 3. Woche: 11:00-16:00"
 website: https://derkiloladen.de/
