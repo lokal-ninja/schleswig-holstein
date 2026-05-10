@@ -1,6 +1,6 @@
 ---
 title: Pinneberg
 url: /pinneberg/
-latitude: 53.671
-longitude: 9.794
+latitude: 53.65
+longitude: 9.776
 ---
