@@ -1,6 +1,6 @@
 ---
 title: Pansdorf
 url: /pansdorf/
-latitude: 53.985
-longitude: 10.712
+latitude: 53.992
+longitude: 10.713
 ---
