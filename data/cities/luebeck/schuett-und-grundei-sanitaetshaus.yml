@@ -7,5 +7,5 @@ city: Lübeck
 street: Kronsforder Allee
 housenumber: "71"
 phone: ""
-opening_hours: Mo,Tu,Th,Fr 09:00-18:00;We,Sa 09:00-13:00
+opening_hours: Mo,Tu,Th 09:00-13:00, Mo,Tu,Th 14:30-18:00, We,Fr 09:00-13:00
 website: ""
