@@ -7,6 +7,5 @@ city: Laboe
 street: Strandstraße
 housenumber: "33"
 phone: "+494343496396"
-opening_hours: 'Apr: Mo-Fr 11:00-18:00; Apr: Sa 10:00-18:00; Apr: Su 10:00-18:00;
-    Nov: Mo-Fr 11:00-18:00; Nov: Sa 10:00-18:00; Nov: Su 10:00-18:00; May-Oct: 09:30-18:30'
+opening_hours: 'Apr,Oct: Mo-Su,PH 10:00-18:00; Nov-Mar,May-Sep: Mo-Su,PH 09:30-19:00'
 website: https://kiel.surfers-p.de

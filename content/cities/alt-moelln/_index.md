@@ -1,6 +1,6 @@
 ---
-title: Alt Mölln
+title: Alt-Mölln
 url: /alt-moelln/
-latitude: 53.622
-longitude: 10.662
+latitude: 53.621
+longitude: 10.671
 ---
