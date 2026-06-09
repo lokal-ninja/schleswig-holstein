@@ -1,6 +1,6 @@
 ---
 title: Flensburg
 url: /flensburg/
-latitude: 54.782
-longitude: 9.451
+latitude: 54.774
+longitude: 9.397
 ---
