@@ -1,6 +1,6 @@
 ---
 title: Lübeck
 url: /luebeck/
-latitude: 53.849
-longitude: 10.676
+latitude: 53.841
+longitude: 10.711
 ---

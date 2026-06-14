@@ -1,6 +1,6 @@
 ---
 title: Sülfeld
 url: /suelfeld/
-latitude: 53.802
-longitude: 10.227
+latitude: 53.804
+longitude: 10.226
 ---
