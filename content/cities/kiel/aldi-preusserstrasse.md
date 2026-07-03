@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /fehmarn/aldi-ehlers-kamp/
+url: /kiel/aldi-preusserstrasse/
 shop: Supermarkt
 ---

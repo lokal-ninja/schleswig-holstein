@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /moelln/aldi-grambeker-weg/
+url: /altenholz/aldi-erdbeerfeld/
 shop: Supermarkt
 ---
