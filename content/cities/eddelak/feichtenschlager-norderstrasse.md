@@ -1,5 +1,5 @@
 ---
 title: "Feichtenschlager"
 url: /eddelak/feichtenschlager-norderstrasse/
-shop: Haushaltsgeräte
+shop: Elektronik
 ---

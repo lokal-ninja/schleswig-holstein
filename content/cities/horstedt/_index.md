@@ -1,6 +1,6 @@
 ---
 title: Horstedt
 url: /horstedt/
-latitude: 54.527
-longitude: 9.066
+latitude: 54.526
+longitude: 9.069
 ---
