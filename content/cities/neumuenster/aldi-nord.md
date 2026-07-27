@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /neumuenster/aldi-nord/
 shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wasbek
 url: /wasbek/
-latitude: 54.072
-longitude: 9.901
+latitude: 54.073
+longitude: 9.897
 ---

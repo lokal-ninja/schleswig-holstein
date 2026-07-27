@@ -7,6 +7,6 @@ city: Lauenburg/Elbe
 street: Büchener Weg
 housenumber: "22"
 phone: ""
-opening_hours: Mo 9-13,15-18; Tu 15-18; We 9-13, 15-18; Th 15-18; Fr 9-13, 15-18;
-    Sa 9-12
+opening_hours: Mo 09:00-13:00,15:00-18:00; Tu 15:00-18:00; We 09:00-13:00,15:00-18:00;
+    Th 15:00-18:00; Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00
 website: https://buchshop-lauenburg.buchhandlung.de/

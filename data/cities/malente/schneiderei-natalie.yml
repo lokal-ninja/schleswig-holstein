@@ -7,6 +7,6 @@ city: Malente
 street: Bahnhofstraße
 housenumber: "48"
 phone: ""
-opening_hours: Mo-Di 10:00-13:00, 15:00-18:00, Do-Fr 10:00-13:00, 15:00-18:00, Mi
-    off, Sa off
+opening_hours: Mo-Tu 10:00-13:00,15:00-18:00, Th-Fr 10:00-13:00,15:00-18:00, We off,
+    Sa off
 website: ""

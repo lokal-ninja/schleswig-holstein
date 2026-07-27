@@ -7,5 +7,7 @@ city: Fehmarn
 street: Mummendorfer Weg
 housenumber: "7"
 phone: ""
-opening_hours: Mo-Th 05:00-21:00; Fr,Sa 03:00-22:00; Su 11:00-17:00
-website: ""
+opening_hours: Mo-Sa 07:00-20:00; Su 11:00-17:00; Nov 01-Dec 13 Su off; Oct 03,Oct
+    10 11:00-20:00; Dec 24,Dec 31 08:00-13:00; Dec 25 off; Dec 26 11:00-17:00; Jan
+    01 off
+website: https://www.fleggaard.dk/da-dk/fleggaard-burg

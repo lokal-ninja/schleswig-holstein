@@ -1,11 +1,12 @@
 id: 1328658815
 type: node
-latitude: 54.02228
-longitude: 10.7508
+latitude: 54.02223
+longitude: 10.75093
 postcode: "23683"
 city: Scharbeutz
 street: Seestraße
 housenumber: "63"
 phone: +49 4524 70 29-0
-opening_hours: Mo-Sa 07:00-21:00
-website: ""
+opening_hours: Mo-Sa 07:00-21:00; Su 11:00-17:00; Oct 03 11:00-17:00; Oct 31 11:00-17:00;
+    Dec 20 11:00-17:00; Dec 25-26 off; Dec 27 11:00-17:00; Jan 01 off
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten/scharbeutz/seestrasse-63/3181770.html

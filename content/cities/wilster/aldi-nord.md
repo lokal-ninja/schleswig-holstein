@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /wilster/aldi-nord/
 shop: Supermarkt
 ---
