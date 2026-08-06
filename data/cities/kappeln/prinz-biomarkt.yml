@@ -7,5 +7,5 @@ city: Kappeln
 street: Querstraße
 housenumber: 2a
 phone: +49 4642 3836
-opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
+opening_hours: Mo,We,Fr 10:00-18:00; Sa 10:00-14:00; Th 08:00-18:00
 website: www.biomarkt-kappeln.de

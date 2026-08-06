@@ -7,5 +7,6 @@ city: Kappeln
 street: Querstraße
 housenumber: 2b
 phone: +49 4642 910910
-opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-13:00; Su,PH off
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00, Sa 09:00-13:00, Mo,Tu,Th,Fr 14:00-16:00; Su,PH
+    off
 website: https://www.sanitaetshaus-hildebrandt.de/
