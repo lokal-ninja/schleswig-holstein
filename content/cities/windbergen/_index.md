@@ -1,6 +1,6 @@
 ---
 title: Windbergen
 url: /windbergen/
-latitude: 54.046
-longitude: 9.119
+latitude: 54.047
+longitude: 9.118
 ---

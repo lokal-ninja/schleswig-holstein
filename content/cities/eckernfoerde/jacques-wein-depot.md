@@ -1,5 +1,5 @@
 ---
-title: "Jacques’ Wein-Depot"
+title: "Jacques' Wein-Depot"
 url: /eckernfoerde/jacques-wein-depot/
 shop: Wein
 ---

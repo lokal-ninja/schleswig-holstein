@@ -7,5 +7,5 @@ city: Nordstrand
 street: Osterdeich
 housenumber: "28"
 phone: ""
-opening_hours: closed
+opening_hours: Mo,Sa,Su 10:00-12:00
 website: ""

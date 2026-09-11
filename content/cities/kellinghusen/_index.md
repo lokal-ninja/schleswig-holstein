@@ -1,6 +1,6 @@
 ---
 title: Kellinghusen
 url: /kellinghusen/
-latitude: 53.948
-longitude: 9.715
+latitude: 53.951
+longitude: 9.719
 ---

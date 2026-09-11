@@ -7,5 +7,5 @@ city: Plön
 street: Eutiner Straße
 housenumber: "25"
 phone: ""
-opening_hours: nach telefonischer Terminvereinbarung
+opening_hours: '"nach telefonischer Terminvereinbarung"'
 website: ""
