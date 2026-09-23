@@ -1,5 +1,5 @@
 ---
-title: "Mundo Natura"
+title: "mundo natura"
 url: /eckernfoerde/mundo-natura/
 shop: Friseur
 ---

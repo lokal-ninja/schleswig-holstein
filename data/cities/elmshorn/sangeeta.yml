@@ -7,5 +7,5 @@ city: Elmshorn
 street: Alter Markt
 housenumber: "9"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-We,Fr,Sa 09:00-16:00; Th 09:00-18:00
 website: ""
