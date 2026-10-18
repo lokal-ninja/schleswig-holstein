@@ -1,5 +1,5 @@
 ---
-title: "dusucre Macarons"
+title: "duSucre Macarons"
 url: /wedel/dusucre-macarons/
-shop: Bäckerei
+shop: Konditorei
 ---

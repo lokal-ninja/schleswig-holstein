@@ -1,5 +1,5 @@
 ---
-title: "Restez!"
+title: "Restez"
 url: /kiel/restez/
 shop: Bäckerei
 ---
