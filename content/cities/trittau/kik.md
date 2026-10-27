@@ -1,5 +1,5 @@
 ---
-title: "kik"
+title: "KiK"
 url: /trittau/kik/
 shop: Kleidung
 ---
