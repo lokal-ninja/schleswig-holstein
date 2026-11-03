@@ -1,6 +1,6 @@
 ---
 title: Trittau
 url: /trittau/
-latitude: 53.607
-longitude: 10.414
+latitude: 53.613
+longitude: 10.404
 ---
