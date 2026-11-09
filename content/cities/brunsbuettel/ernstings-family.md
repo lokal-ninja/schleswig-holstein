@@ -1,5 +1,5 @@
 ---
-title: "Ernsting's Family"
+title: "Ernsting's family"
 url: /brunsbuettel/ernstings-family/
 shop: Kleidung
 ---

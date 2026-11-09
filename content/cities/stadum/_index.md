@@ -1,6 +1,6 @@
 ---
 title: Stadum
 url: /stadum/
-latitude: 54.755
-longitude: 9.012
+latitude: 54.734
+longitude: 9.049
 ---
